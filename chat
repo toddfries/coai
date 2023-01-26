@@ -27,23 +27,50 @@ close(K);
 
 my $openai = OpenAI::API->new( api_key => $key );
 
-while(<STDIN>) {
-
-print "Query: ".$_;
-
-my $response = $openai->completions(
-	model => 'text-davinci-003',
-	prompt => $_,
-	max_tokens => 2048,
-	temperature => 0.5,
-	top_p => 1,
-	frequency_penalty => 0,
-	presence_penalty => 0
-);
+my $prompt = "Query? (type 'done.' to end)\n";
 
 
-print "response:\n";
-print Dumper($response);
-print "\n";
+my $l;
+my $query = "";
+print $prompt;
+while(1) {
+	chomp($l = <STDIN>);
+	if (length($l) == 0) {
+		last;
+	}
+	if (! ($l =~ /^done.$/)) {
+		$query .= $l."\n";
+		next;
+	}
 
+	print "Query: ".$query;
+
+	my $response = $openai->completions(
+		model => 'text-davinci-003',
+		prompt => $query,
+		max_tokens => 2048,
+		temperature => 0.5,
+		top_p => 1,
+		frequency_penalty => 0,
+		presence_penalty => 0
+	);
+
+
+	print "Response(s):\n";
+	if (defined(@{$response->{'choices'}}[0])) {
+		foreach my $choice (@{$response->{'choices'}}) {
+			printf "%2d. %s\n\n", $choice->{index}, $choice->{text};
+		}
+		print "Stats: ";
+		print $response->{'created'};
+		printf " tot/prompt/compl tokens = %d/%d/%d\n",
+			$response->{'usage'}->{'total_tokens'},
+			$response->{'usage'}->{'prompt_tokens'},
+			$response->{'usage'}->{'completion_tokens'};
+	} else {
+		print Dumper($response);
+	}
+	print "\n";
+
+	print $prompt;
 }
