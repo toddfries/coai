@@ -33,17 +33,15 @@ my $prompt = "Query? (type 'done.' to end)\n";
 my $l;
 my $query = "";
 print $prompt;
-while(1) {
-	chomp($l = <STDIN>);
-	if (length($l) == 0) {
-		last;
-	}
+while(<STDIN>) {
+	chomp($l = $_);
 	if (! ($l =~ /^done.$/)) {
 		$query .= $l."\n";
 		next;
 	}
 
-	print "Query: ".$query;
+	#print "Query: ".$query;
+	print "Sending...\n";
 
 	my $response = $openai->completions(
 		model => 'text-davinci-003',
@@ -53,20 +51,25 @@ while(1) {
 		top_p => 1,
 		frequency_penalty => 0,
 		presence_penalty => 0
+		# user => "uid"
 	);
+	# reset
+	$query = "";
 
 
 	print "Response(s):\n";
 	if (defined(@{$response->{'choices'}}[0])) {
 		foreach my $choice (@{$response->{'choices'}}) {
 			printf "%2d. %s\n\n", $choice->{index}, $choice->{text};
+			printf "     finish = %s\n", $choice->{'finish_reason'};
 		}
 		print "Stats: ";
 		print $response->{'created'};
 		printf " tot/prompt/compl tokens = %d/%d/%d\n",
 			$response->{'usage'}->{'total_tokens'},
 			$response->{'usage'}->{'prompt_tokens'},
-			$response->{'usage'}->{'completion_tokens'};
+			$response->{'usage'}->{'completion_tokens'},
+		#print Dumper($response);
 	} else {
 		print Dumper($response);
 	}
