@@ -19,11 +19,19 @@ use warnings;
 
 use Data::Dumper;
 use OpenAI::API;
+use Getopt::Std;
 
 my $key;
 open(K,".key");
 chomp($key = <K>);
 close(K);
+
+our $opt_m; # model
+
+# defaults
+$opt_m = 'text-davinci-003',
+
+getopts('m:');
 
 my $openai = OpenAI::API->new( api_key => $key );
 
@@ -44,7 +52,7 @@ while(<STDIN>) {
 	print "Sending...\n";
 
 	my $response = $openai->completions(
-		model => 'text-davinci-003',
+		model => $opt_m,
 		prompt => $query,
 		max_tokens => 2048,
 		temperature => 0.5,
