@@ -1,5 +1,12 @@
 # coai
 
+... go to the development pages of chat.openai.com and get a key
+
+mkdir -p $HOME/.config/coai
+echo "key = super_secret_key" > $HOME/.config/coai/key.conf
+
+`chat [ -c <config with key> ] [ -m <model> ] [ -p <prolog file> ]`
+
 Basic usage:
 
 ```
