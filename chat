@@ -22,14 +22,15 @@ use Data::Dumper;
 use Getopt::Std;
 use OpenAI::API;
 
-our $opt_m; # model
 our $opt_c; # config
+our $opt_m; # model
+our $opt_p; # prolog i.e. file to read in and send at the top of each query
 
 # defaults
 $opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
 
-getopts('c:m:');
+getopts('c:m:p:');
 
 if (! -f $opt_c) {
 	die "Can't open ${opt_c} to read in the key";
@@ -42,8 +43,18 @@ my $key = $config->{_}->{key};
 
 my $openai = OpenAI::API->new( api_key => $key );
 
-my $prompt = "Query? (type 'done.' to end)\n";
+my $prolog;
+if (defined($opt_p)) {
+	open(P,$opt_p);
+	my $line;
+	while(<P>) {
+		chomp($line = $_);
+		$prolog .= $line."\n";
+	}
+	close(P);
+}
 
+my $prompt = "Query? (type 'done.' to end)\n";
 
 my $l;
 my $query = "";
@@ -56,6 +67,10 @@ while(<STDIN>) {
 	}
 
 	#print "Query: ".$query;
+	if (defined($prolog)) {
+		$query = "\n".$prolog."\n".$query;;
+	}
+	
 	print "Sending...\n";
 
 	my $response = $openai->completions(
