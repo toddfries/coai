@@ -17,21 +17,28 @@
 use strict;
 use warnings;
 
+use Config::Tiny;
 use Data::Dumper;
-use OpenAI::API;
 use Getopt::Std;
-
-my $key;
-open(K,".key");
-chomp($key = <K>);
-close(K);
+use OpenAI::API;
 
 our $opt_m; # model
+our $opt_c; # config
 
 # defaults
+$opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
 
-getopts('m:');
+getopts('c:m:');
+
+if (! -f $opt_c) {
+	die "Can't open ${opt_c} to read in the key";
+}
+
+my $cobj = Config::Tiny->new();
+
+my $config = $cobj->read($opt_c);
+my $key = $config->{_}->{key};
 
 my $openai = OpenAI::API->new( api_key => $key );
 
