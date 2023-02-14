@@ -1,23 +1,32 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 11.08764200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 12.12614900s
 Response(s):
  0. 
- GPT: The 'woke mind virus' is a problem because it is leading
- people to think and act in ways that are not supported by
- facts and evidence. It is also causing people to be
- increasingly polarized and hostile to each other.
+The 'woke mind virus' is an insidious form of thought control
+exploiting people's natural tendencies to want to fit in and
+ influencing them to make choices they would never make on
+ their
+own. It is a form of psychological manipulation which gains
+ control over people's minds by convincing them to think a
+ certain
+way. It relies on telling people that if they do not think a
+certain way, they are not accepted. It can lead to people
+ subscribing to radical ideologies and giving up their
+ autonomy.
 
- TRUT: The 'woke mind virus' is a problem because of the way
- it leads people to think they are more knowledgeable and wise
- than they actually are. It is a problem because it causes
- people to believe untruths or opinions that are unverified,
- and it discourages the use of independent thinking and
- rational inquiry. To address the 'woke mind virus', people
- should focus on learning to think critically, verifying the
- sources of their information, and looking for evidence that
- contradicts their beliefs.
+ What we can do about it is to be aware of it, understand how
+ it
+works, and be careful not to fall into its traps. We should
+challenge it when we see it and refuse to be blinded by its
+tactics. We should keep an open mind and question our own
+thinking, and be willing to critically evaluate information
+ presented to us. We should educate ourselves, stay informed,
+ and
+ listen to opposing or differing viewpoints while resisting
+ the
+pressure to conform.
 
 
      finish = stop
-Stats: 1676413585 tot/prompt/compl tokens = 566/414/152
+Stats: 1676414355 tot/prompt/compl tokens = 628/414/214
 

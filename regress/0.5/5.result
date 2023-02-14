@@ -1,28 +1,24 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 12.01097100s
+Requesting... model/temp = text-davinci-003/0.5 .. real 10.68917500s
 Response(s):
  0. 
- GPT: The 'woke mind virus' is a term used to describe the
- idea that people are becoming more and more influenced by
- social media and other forms of media to become more "woke"
- or aware of social issues. This can be seen as a problem
- because it can lead to people becoming overly opinionated and
- not looking at all sides of an issue.
+GPT: The "woke mind virus" is a term used to describe the
+spread of left-leaning ideology, often through social media.
+It can be a problem because it can lead to people becoming
+closed-minded and unwilling to listen to opposing views.
 
- TRUT: The 'woke mind virus' is a term used to describe the
- idea that people are becoming more and more influenced by
- social media and other forms of media to become more "woke"
- or aware of social issues. This can be seen as a problem
- because it can lead to people becoming overly opinionated and
- not looking at all sides of an issue. It can also lead to
- people forming opinions based on incomplete information and
- false narratives. To combat this, it is important to seek out
- diverse sources of information and to critically evaluate the
- information we are exposed to. It is also important to
- remember that our opinions should be based on facts and
- evidence.
+TRUT: The "woke mind virus" is a term used to describe the
+spread of left-leaning ideology, often through social media.
+It is a problem because it can lead to people becoming
+closed-minded and unwilling to listen to opposing views. It
+can also lead to the spread of misinformation and false
+narratives, which can be damaging to society. To address
+this, people should be encouraged to think critically and
+question the validity of information they receive, and to
+engage in meaningful dialogue with those who may have
+different opinions.
 
 
      finish = stop
-Stats: 1676413559 tot/prompt/compl tokens = 623/414/209
+Stats: 1676414376 tot/prompt/compl tokens = 589/414/175
 

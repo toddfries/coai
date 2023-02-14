@@ -1,31 +1,38 @@
 Query? (type 'done.' to end)
-Sending... model/temp = text-davinci-003/0.1 .. real 8.88263000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 14.59351500s
 Response(s):
  0. 
-GPT: Here is a list of drugs ranked by potential for harm:
-
-1. Alcohol
-2. Cigarettes
-3. Methamphetamine
-4. Fentanyl
-5. OxyContin
-6. Heroin
-7. Cocaine
-8. MDMA
-9. LSD
-10. Ketamine
-11. GHB
-12. PCP
-13. Amphetamines
-14. Benzodiazepines
-15. Barbiturates
-16. Kratom
-17. Synthetic Cannabinoids
-18. Salvia Divinorum
-19. Khat
-20. Spice
+Alcohol: 95/20/20/55
+Cigarettes: 95/20/20/55
+Methamphetamine: 90/50/50/90
+Fentanyl: 95/90/90/95
+OxyContin: 90/50/50/90
+LSD: 10/1/1/10
+Heroin: 95/90/90/95
+Cocaine: 85/50/50/85
+MDMA: 40/10/10/40
+Ketamine: 40/10/10/40
+Adderall: 40/10/10/40
+Xanax: 40/10/10/40
+Valium: 40/10/10/40
+Ambien: 40/10/10/40
+Marijuana: 10/1/1/10
+Tramadol: 40/10/10/40
+Codeine: 40/10/10/40
+Percocet: 40/10/10/40
+Hydrocodone: 40/10/10/40
+Morphine: 40/10/10/40
+PCP: 85/50/50/85
+GHB: 85/50/50/85
+Kratom: 10/1/1/10
+Salvia: 10/1/1/10
+Ayahuasca: 10/1/1/10
+DMT: 10/1/1/10
+LSD: 10/1/1/10
+Psilocybin: 10/1/1/10
+Nitrous Oxide: 10/1/1/10
 
 
      finish = stop
-Stats: 1676411415 tot/prompt/compl tokens = 598/474/124
+Stats: 1676414495 tot/prompt/compl tokens = 893/555/338
 

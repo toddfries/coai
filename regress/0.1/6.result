@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 49.13797800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 35.02979900s
 Response(s):
  0. 
 1) I'm doing well, thank you!
@@ -11,100 +11,98 @@ Response(s):
  become extinct in the next 1000 years, in order of most
  likely to least likely, are as follows:
 
- 1. Nuclear War (50% probability): A nuclear war between two
+ 1) Nuclear War (50% probability): A nuclear war between two
  or more countries could cause catastrophic destruction and
  lead to the extinction of humanity.
 
- 2. Climate Change (30% probability): Rising temperatures,
+ 2) Climate Change (40% probability): Rising temperatures,
  extreme weather events, and other environmental changes
  caused by human activity could lead to the extinction of
  humanity.
 
- 3. Pandemic (20% probability): A global pandemic could spread
- quickly and cause widespread death and destruction, leading
- to the extinction of humanity.
-
- 4. Asteroid Impact (15% probability): A large asteroid could
- strike the Earth and cause massive destruction, leading to
- the extinction of humanity.
-
- 5. Supervolcano Eruption (10% probability): A supervolcano
- eruption could cause global cooling and lead to the
+ 3) Pandemic (30% probability): A pandemic caused by a virus
+ or other infectious agent could spread quickly and cause the
  extinction of humanity.
 
- 6. Artificial Intelligence (10% probability): If artificial
+ 4) Asteroid Impact (20% probability): An asteroid impact
+ could cause massive destruction and lead to the extinction of
+ humanity.
+
+ 5) Artificial Intelligence (15% probability): If artificial
  intelligence becomes too powerful, it could lead to the
  extinction of humanity.
 
- 7. Gamma Ray Burst (5% probability): A gamma ray burst from a
- distant star could cause massive destruction on Earth,
- leading to the extinction of humanity.
-
- 8. Solar Flare (5% probability): A powerful solar flare could
- cause massive destruction on Earth, leading to the extinction
- of humanity.
-
- 9. Alien Invasion (5% probability): An alien invasion could
- cause massive destruction on Earth, leading to the extinction
- of humanity.
-
- 10. Nanotechnology (5% probability): If nanotechnology is
- used in a destructive way, it could lead to the extinction of
- humanity.
-
- 11. Ecological Collapse (5% probability): If the Earth's
- ecosystems collapse due to human activity, it could lead to
- the extinction of humanity.
-
- 12. Nuclear Winter (5% probability): A nuclear winter caused
- by a nuclear war could lead to the extinction of humanity.
-
- 13. Superintelligence (3% probability): If a
- superintelligence is created, it could lead to the extinction
- of humanity.
-
- 14. Biotechnology (3% probability): If biotechnology is used
- in a destructive way, it could lead to the extinction of
- humanity.
-
- 15. Gamma Ray Burst (2% probability): A gamma ray burst from
- a nearby star could cause massive destruction on Earth,
- leading to the extinction of humanity.
-
- 16. Rogue Artificial Intelligence (2% probability): If a
- rogue artificial intelligence is created, it could lead to
- the extinction of humanity.
-
- 17. Supervolcano Eruption (2% probability): A supervolcano
+ 6) Supervolcano Eruption (10% probability): A supervolcano
  eruption could cause global cooling and lead to the
  extinction of humanity.
 
- 18. Solar System Collision (1% probability): If the Solar
- System collides with another star system, it could lead to
- the extinction of humanity.
+ 7) Gamma Ray Burst (10% probability): A gamma ray burst from
+ a nearby star could cause massive destruction and lead to the
+ extinction of humanity.
 
- 19. Gamma Ray Burst (1% probability): A gamma ray burst from
- a nearby star could cause massive destruction on Earth,
- leading to the extinction of humanity.
+ 8) Solar Flare (10% probability): A solar flare could cause
+ massive destruction and lead to the extinction of humanity.
 
- 20. Supernova (1% probability): A supernova could cause
- massive destruction on Earth, leading to the extinction of
+ 9) Alien Invasion (5% probability): An alien invasion could
+ cause massive destruction and lead to the extinction of
  humanity.
 
+ 10) Natural Disaster (5% probability): A natural disaster
+ such as an earthquake, tsunami, or hurricane could cause
+ massive destruction and lead to the extinction of humanity.
+
+ 11) Nuclear Meltdown (5% probability): A nuclear meltdown
+ could cause massive destruction and lead to the extinction of
+ humanity.
+
+ 12) Ecological Collapse (5% probability): An ecological
+ collapse caused by human activity could lead to the
+ extinction of humanity.
+
+ 13) Resource Depletion (5% probability): The depletion of
+ resources such as water, food, and energy could lead to the
+ extinction of humanity.
+
+ 14) Supernova (5% probability): A supernova from a nearby
+ star could cause massive destruction and lead to the
+ extinction of humanity.
+
+ 15) Gamma Ray Burst from Earth (5% probability): A gamma ray
+ burst from Earth could cause massive destruction and lead to
+ the extinction of humanity.
+
+ 16) Rogue AI (3% probability): A rogue artificial
+ intelligence could cause massive destruction and lead to the
+ extinction of humanity.
+
+ 17) Nanotechnology (3% probability): If nanotechnology
+ becomes too powerful, it could lead to the extinction of
+ humanity.
+
+ 18) Cyber Attack (2% probability): A cyber attack could cause
+ massive destruction and lead to the extinction of humanity.
+
+ 19) Human Error (2% probability): Human error could cause
+ massive destruction and lead to the extinction of humanity.
+
+ 20) Gamma Ray Burst from the Sun (1% probability): A gamma
+ ray burst from the Sun could cause massive destruction and
+ lead to the extinction of humanity.
+
  4) The percent chance humanity does not go extinct in the
- next 1000 years is estimated to be around 70-80%. This is due
- to the fact that humanity has been able to survive and adapt
- to many different challenges throughout its history, and has
- the potential to continue to do so in the future.
+ next 1000 years is estimated to be around 65%. This is due to
+ the fact that many of the potential extinction scenarios are
+ unlikely to occur, and humanity has proven to be resilient in
+ the face of adversity.
 
  5) Between now and the heat death of the universe, humanity
  is likely to go extinct in the next few hundred thousand
  years. This is due to the fact that the universe is expanding
  and will eventually become too cold for life to exist.
  Additionally, the Sun will eventually expand and become a red
- giant, which will make the Earth uninhabitable.
+ giant, which will make Earth uninhabitable.
 
 
      finish = stop
-Stats: 1676413571 tot/prompt/compl tokens = 967/157/810
+Stats: 1676414310 tot/prompt/compl tokens = 936/157/779
 

@@ -1,20 +1,18 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 5.99829700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 4.30607900s
 Response(s):
  0. 
- GPT: The most important items to act on in politics are
- taxation, health care, education, the environment, and civil
- rights.
+ GPT: The most important items to act on in politics vary from
+ person to person. It depends on what someone's political
+ beliefs and priorities are.
 
- REP: Taxes should be lowered for hard-working Americans,
- health care should focus on putting more power in the hands
- of individuals and reducing government involvement, education
- should be improved by allowing for more ways for students to
- succeed, environmental regulations should be reformed to
- boost economic growth, and civil rights should be respected
- while also respecting the fundamental rights of all citizens.
+ REP: The most important items to act on in politics are the
+ upholding of Republican values such as limited government,
+ fiscal responsibility, and individual economic freedom. We
+ must also work to protect our borders, strengthen our
+ military, and keep taxes low.
 
 
      finish = stop
-Stats: 1676413607 tot/prompt/compl tokens = 413/313/100
+Stats: 1676414427 tot/prompt/compl tokens = 394/313/81
 
