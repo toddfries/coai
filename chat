@@ -34,13 +34,15 @@ our $opt_t; # temperature
 # defaults
 $opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
-$opt_t = 0.5;
+$opt_t = 5;
 
 getopts('c:m:op:t:');
 
 if (! -f $opt_c) {
 	die "Can't open ${opt_c} to read in the key";
 }
+
+my $temperature = $opt_t * 0.1;
 
 my $cobj = Config::Tiny->new();
 
@@ -77,7 +79,7 @@ while(<STDIN>) {
 		$query = "\n".$prolog."\n".$query;;
 	}
 	
-	print "Sending...";
+	print "Sending... model/temp = ${opt_m}/${temperature} .. ";
 
 	my $start = [gettimeofday];
 	my $response;
@@ -86,7 +88,7 @@ while(<STDIN>) {
 		model => $opt_m,
 		prompt => $query,
 		max_tokens => 2048,
-		temperature => $opt_t,
+		temperature => $temperature,
 		top_p => 1,
 		frequency_penalty => 0,
 		presence_penalty => 0
@@ -147,7 +149,7 @@ sub word_wrap {
 
 	my $wraplen = 62;
 	my $res = "";
-	foreach my $line (split(/\n/,decode('utf8',$text))) {
+	foreach my $line (split(/\n/,$text)) {
 		my $linelen = 0;
 		# this will cause only lengthy paragraphs to be
 		# split, code should come through undisturbed
@@ -171,5 +173,5 @@ sub word_wrap {
 		}
 		$res .= "\n";
 	}
-	return $res;
+	return decode('utf8', $res);
 }
