@@ -79,7 +79,7 @@ while(<STDIN>) {
 		$query = "\n".$prolog."\n".$query;;
 	}
 	
-	print "Sending... model/temp = ${opt_m}/${temperature} .. ";
+	print "Requesting... model/temp = ${opt_m}/${temperature} .. ";
 
 	my $start = [gettimeofday];
 	my $response;
