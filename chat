@@ -21,7 +21,7 @@ use Config::Tiny;
 use Data::Dumper;
 use Getopt::Std;
 use OpenAI::API;
-
+use Time::HiRes qw(gettimeofday tv_interval);
 our $opt_c; # config
 our $opt_m; # model
 our $opt_p; # prolog i.e. file to read in and send at the top of each query
@@ -72,8 +72,9 @@ while(<STDIN>) {
 		$query = "\n".$prolog."\n".$query;;
 	}
 	
-	print "Sending...\n";
+	print "Sending...";
 
+	my $start = [gettimeofday];
 	my $response;
 	eval {
 	    $response = $openai->completions(
@@ -88,6 +89,10 @@ while(<STDIN>) {
 		# user => "uid"
 	    );
 	};
+	my ($sec, $us) = tv_interval( $start, [gettimeofday]);
+	my $elapsed = $sec * 1.0 + $us * 0.000001;
+	printf "real %0.8fs\n", $elapsed;
+	
 	if ($@) {
 		print "\nWARNING: $@\n\n";
 		if (defined($opt_o)) {
