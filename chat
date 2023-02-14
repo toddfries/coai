@@ -22,6 +22,9 @@ use Data::Dumper;
 use Getopt::Std;
 use OpenAI::API;
 use Time::HiRes qw(gettimeofday tv_interval);
+use Encode;
+use open qw(:std :utf8);
+
 our $opt_c; # config
 our $opt_m; # model
 our $opt_p; # prolog i.e. file to read in and send at the top of each query
@@ -142,8 +145,14 @@ sub word_wrap {
 
 	my $wraplen = 62;
 	my $res = "";
-	foreach my $line (split(/\n/,$text)) {
+	foreach my $line (split(/\n/,decode('utf8',$text))) {
 		my $linelen = 0;
+		# this will cause only lengthy paragraphs to be
+		# split, code should come through undisturbed
+		if (length($line) < $wraplen) {
+			$res .= $line . "\n";
+			next;
+		}
 		foreach my $word (split(/\s+/,$line)) {
 			my $wlen = length($word);
 			if ($linelen == 0) {
