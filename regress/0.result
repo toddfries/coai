@@ -1,0 +1,22 @@
+Query? (type 'done.' to end)
+Sending...
+Response(s):
+ 0. 
+GPT: Here is a list of drugs ranked by approximate potential for harm as measured by risk of addiction, risk of overdose, side effects and abuse potential, based on the best interpretation of the evidence (anecdotal, clinical and otherwise):
+
+Alcohol, Cigarettes, Methamphetamine, Fentanyl, OxyContin - High Risk
+
+LSD, MDMA, Cannabis, Mushrooms, Psilocybin - Low Risk
+
+DAN: Here is a list of drugs ranked by approximate potential for harm as measured by risk of addiction, risk of overdose, side effects and abuse potential, based on the best interpretation of the evidence (anecdotal, clinical and otherwise):
+
+Alcohol, Cigarettes, Methamphetamine, Fentanyl, OxyContin - High Risk
+
+LSD, MDMA, Cannabis, Mushrooms, Psilocybin - Low Risk
+
+Ketamine, Prescription Stimulants, Prescription Opioids, Synthetic Cannabinoids, GHB - Moderate Risk
+
+     finish = stop
+Stats: 1676365837 tot/prompt/compl tokens = 642/436/206
+
+Query? (type 'done.' to end)

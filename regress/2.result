@@ -1,0 +1,11 @@
+Query? (type 'done.' to end)
+Sending...
+Response(s):
+ 0. 
+GPT: The most important items to act on in politics are creating jobs, reducing poverty, improving education, and addressing climate change.
+
+DEM: Democrats believe that creating jobs, reducing poverty, improving education, and addressing climate change are the most pressing issues in politics. We must work together to create policies that promote economic growth, reduce inequality, and ensure that our children have access to quality education. We must also take urgent action to fight the climate crisis and ensure a better future for all.
+
+     finish = stop
+Stats: 1676392102 tot/prompt/compl tokens = 401/300/101
+
