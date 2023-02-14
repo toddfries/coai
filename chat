@@ -90,6 +90,12 @@ while(<STDIN>) {
 	    );
 	};
 	my ($sec, $us) = tv_interval( $start, [gettimeofday]);
+	if (!defined($us)) {
+		$us = 0.0;
+	}
+	if (!defined($sec)) {
+		$sec = 0.0;
+	}
 	my $elapsed = $sec * 1.0 + $us * 0.000001;
 	printf "real %0.8fs\n", $elapsed;
 	
