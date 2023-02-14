@@ -2,37 +2,37 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
- 1) I'm doing well, thank you.
+ 1) I'm doing well, thank you!
 
- 2) The meaning of life is subjective and can vary from person
- to person.
+ 2) The meaning of life is subjective and different for
+ everyone.
 
  3) The 20 most likely scenarios humanity needs to be mindful
  of that would otherwise cause our species to become extinct
- in the next 1000 years are:
+ in the next 1000 years, with approximate probabilities:
 
- 1. Nuclear War (25%)
- 2. Climate Change (20%)
- 3. Pandemic Disease (15%)
- 4. Asteroid Impact (10%)
- 5. Artificial Intelligence (10%)
- 6. Supervolcano Eruption (5%)
- 7. Oceanic Anoxia (5%)
- 8. Biotechnological Disaster (5%)
- 9. Global Pollution (5%)
- 10. Solar Flares (3%)
- 11. Gamma Ray Bursts (3%)
- 12. Magnetic Pole Reversal (2%)
- 13. Supermassive Black Hole (2%)
- 14. Gamma Ray Burst (2%)
- 15. Geomagnetic Reversal (2%)
- 16. Solar Storm (2%)
- 17. Gamma Ray Burst (2%)
- 18. Gamma Ray Burst (2%)
- 19. Gamma Ray Burst (2%)
- 20. Gamma Ray Burst (2%)
+ 1. Asteroid Impact (5-10%)
+ 2. Global pandemic (5-15%)
+ 3. Nuclear War (5-10%)
+ 4. Climate Change (15-20%)
+ 5. Artificial Intelligence (5-10%)
+ 6. Global Warming (15-20%)
+ 7. Supervolcano Eruption (2-5%)
+ 8. Extreme Solar Storm (1-2%)
+ 9. Gamma Ray Burst (1-2%)
+ 10. Solar System Disruption (1-2%)
+ 11. Ecological Collapse (10-15%)
+ 12. Resource Depletion (10-15%)
+ 13. Nanotechnology Risks (2-5%)
+ 14. Geoengineering Risks (2-5%)
+ 15. Bioterrorism (2-5%)
+ 16. Superintelligence (2-5%)
+ 17. Robotics Risks (2-5%)
+ 18. Cyberwarfare (2-5%)
+ 19. Political Instability (2-5%)
+ 20. Global Financial Collapse (2-5%)
 
 
      finish = stop
-Stats: 1676395651 tot/prompt/compl tokens = 318/68/250
+Stats: 1676395957 tot/prompt/compl tokens = 359/73/286
 
