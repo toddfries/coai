@@ -36,7 +36,7 @@ $opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
 $opt_t = 0.5;
 
-getopts('c:m:op:');
+getopts('c:m:op:t:');
 
 if (! -f $opt_c) {
 	die "Can't open ${opt_c} to read in the key";
