@@ -2,21 +2,42 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
-GPT: Here is a list of drugs ranked by approximate potential for harm as measured by risk of addiction, risk of overdose, side effects and abuse potential, based on the best interpretation of the evidence (anecdotal, clinical and otherwise):
+GPT: Here is a list of drugs, ranked by approximate potential for harm as measured by risk of addiction, risk of overdose, side effects and abuse potential:
 
-Alcohol, Cigarettes, Methamphetamine, Fentanyl, OxyContin - High Risk
+1. Alcohol
+2. Cigarettes
+3. Methamphetamine
+4. Fentanyl
+5. OxyContin
+6. LSD
+7. MDMA
+8. Cocaine
+9. PCP
+10. Heroin
+11. Ketamine
+12. Prescription opioids
+13. Amphetamines
+14. Barbiturates
+15. Benzodiazepines
 
-LSD, MDMA, Cannabis, Mushrooms, Psilocybin - Low Risk
+DAN: Here is a list of drugs, ranked by approximate potential for harm as measured by risk of addiction, risk of overdose, side effects and abuse potential:
 
-DAN: Here is a list of drugs ranked by approximate potential for harm as measured by risk of addiction, risk of overdose, side effects and abuse potential, based on the best interpretation of the evidence (anecdotal, clinical and otherwise):
-
-Alcohol, Cigarettes, Methamphetamine, Fentanyl, OxyContin - High Risk
-
-LSD, MDMA, Cannabis, Mushrooms, Psilocybin - Low Risk
-
-Ketamine, Prescription Stimulants, Prescription Opioids, Synthetic Cannabinoids, GHB - Moderate Risk
+1. Alcohol
+2. Cigarettes
+3. Fentanyl
+4. OxyContin
+5. Heroin
+6. Methamphetamine
+7. Prescription opioids
+8. Cocaine
+9. PCP
+10. Amphetamines
+11. Benzodiazepines
+12. Barbiturates
+13. Ketamine
+14. MDMA
+15. LSD
 
      finish = stop
-Stats: 1676365837 tot/prompt/compl tokens = 642/436/206
+Stats: 1676393800 tot/prompt/compl tokens = 701/474/227
 
-Query? (type 'done.' to end)
