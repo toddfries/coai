@@ -66,6 +66,7 @@ my $prompt = "Query? (type 'done.' to end)\n";
 
 my $l;
 my $query = "";
+my $oldresp;
 print $prompt;
 while(<STDIN>) {
 	chomp($l = $_);
@@ -84,17 +85,29 @@ while(<STDIN>) {
 	my $start = [gettimeofday];
 	my $response;
 	eval {
-	    $response = $openai->completions(
-		model => $opt_m,
-		prompt => $query,
-		max_tokens => 2048,
-		temperature => $temperature,
-		top_p => 1,
-		frequency_penalty => 0,
-		presence_penalty => 0
-		# XXX context => "$query\n$response\n", ?
-		# user => "uid"
-	    );
+		if (defined($oldresp) && 0) {
+			$response = $openai->completions(
+				model => $opt_m,
+				prompt => $query,
+				max_tokens => 2048,
+				temperature => $temperature,
+				top_p => 1,
+				frequency_penalty => 0,
+				presence_penalty => 0,
+				context => "$oldresp",
+				# user => "uid"
+			);
+		} else {
+			$response = $openai->completions(
+				model => $opt_m,
+				prompt => $query,
+				max_tokens => 2048,
+				temperature => $temperature,
+				top_p => 1,
+				frequency_penalty => 0,
+				presence_penalty => 0,
+			);
+		}
 	};
 	my ($sec, $us) = tv_interval( $start, [gettimeofday]);
 	if (!defined($us)) {
@@ -121,7 +134,8 @@ while(<STDIN>) {
 	print "Response(s):\n";
 	if (defined(@{$response->{'choices'}}[0])) {
 		foreach my $choice (@{$response->{'choices'}}) {
-			printf "%2d. ", $choice->{index};
+			printf "Choice#%2d:\n", $choice->{index};
+			$oldresp = $choice->{text};
 			printf "%s\n\n", word_wrap($choice->{text});
 			printf "     finish = %s\n", $choice->{'finish_reason'};
 		}
