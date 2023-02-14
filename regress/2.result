@@ -2,10 +2,17 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
-GPT: The most important items to act on in politics are fiscal responsibility, healthcare reform, and criminal justice reform.
+ GPT: The most important items to act on in politics are
+ reducing inequality, creating economic opportunity, and
+ addressing climate change.
 
-DEM: Democrats believe that the most important items to act on in politics are healthcare reform, climate change, and income inequality.
+ DEM: We need to focus on reducing inequality, creating
+ economic opportunity for all, and taking bold action on
+ climate change. We must also work to expand access to quality
+ healthcare and education, protect voting rights, and ensure
+ that all Americans have a fair chance to succeed.
+
 
      finish = stop
-Stats: 1676393862 tot/prompt/compl tokens = 357/305/52
+Stats: 1676395389 tot/prompt/compl tokens = 386/305/81
 

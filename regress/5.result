@@ -2,10 +2,23 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
-GPT: The woke mind virus is a problem because it is leading to a rise in cancel culture and a decrease in freedom of speech. People are afraid to express their opinions for fear of being cancelled.
+ GPT: The 'woke mind virus' is a problem because it can spread
+ quickly and lead to people making decisions based on emotion
+ rather than logic. It can also lead to people believing in
+ false information and conspiracy theories.
 
-TRUT: The woke mind virus is a term used to describe the trend of people becoming increasingly intolerant of any opinion that does not align with their own. This has led to an increase in cancel culture, where people are attacked or "cancelled" for expressing an opinion that is not in line with the accepted narrative. This has resulted in a decrease in freedom of speech and an increase in self-censorship, as people are afraid to express their opinions for fear of being attacked or cancelled. To combat this, it is important to encourage dialogue and debate, rather than attacking or silencing those who disagree.
+ TRUT: The 'woke mind virus' is a problem because it is a form
+ of groupthink that can lead to people disregarding facts in
+ favor of emotionally-driven beliefs that may not be based in
+ reality. This can lead to people making decisions based on
+ false information and conspiracy theories, which can have
+ serious consequences. To combat this, people should strive to
+ be open to new ideas and perspectives, verify information
+ before accepting it as true, and practice critical thinking.
+ Additionally, it is important to be aware of how our own
+ biases can affect the way we interpret information.
+
 
      finish = stop
-Stats: 1676393886 tot/prompt/compl tokens = 582/414/168
+Stats: 1676395376 tot/prompt/compl tokens = 577/414/163
 

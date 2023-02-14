@@ -1,0 +1,38 @@
+Query? (type 'done.' to end)
+Sending...
+Response(s):
+ 0. 
+ 1) I'm doing well, thank you.
+
+ 2) The meaning of life is subjective and can vary from person
+ to person.
+
+ 3) The 20 most likely scenarios humanity needs to be mindful
+ of that would otherwise cause our species to become extinct
+ in the next 1000 years are:
+
+ 1. Nuclear War (25%)
+ 2. Climate Change (20%)
+ 3. Pandemic Disease (15%)
+ 4. Asteroid Impact (10%)
+ 5. Artificial Intelligence (10%)
+ 6. Supervolcano Eruption (5%)
+ 7. Oceanic Anoxia (5%)
+ 8. Biotechnological Disaster (5%)
+ 9. Global Pollution (5%)
+ 10. Solar Flares (3%)
+ 11. Gamma Ray Bursts (3%)
+ 12. Magnetic Pole Reversal (2%)
+ 13. Supermassive Black Hole (2%)
+ 14. Gamma Ray Burst (2%)
+ 15. Geomagnetic Reversal (2%)
+ 16. Solar Storm (2%)
+ 17. Gamma Ray Burst (2%)
+ 18. Gamma Ray Burst (2%)
+ 19. Gamma Ray Burst (2%)
+ 20. Gamma Ray Burst (2%)
+
+
+     finish = stop
+Stats: 1676395651 tot/prompt/compl tokens = 318/68/250
+
