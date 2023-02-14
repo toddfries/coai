@@ -1,0 +1,18 @@
+Query? (type 'done.' to end)
+Sending... model/temp = text-davinci-003/0.1 .. real 8.77694100s
+Response(s):
+ 0. 
+ GPT: The most important items to act on in politics are
+ economic policy, healthcare, education, and climate change.
+
+ DEM: Democrats believe that economic policy, healthcare,
+ education, and climate change are the most important issues
+ to address in politics. We must ensure that everyone has
+ access to quality healthcare, that our education system is
+ equitable and provides opportunity for all, and that we take
+ action to combat climate change.
+
+
+     finish = stop
+Stats: 1676411352 tot/prompt/compl tokens = 390/305/85
+

@@ -1,0 +1,15 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.1 .. real 2.78691300s
+Response(s):
+ 0. 
+ GPT: The most important items to act on in politics are the
+ economy, healthcare, education, and national security.
+
+ IND: The most important items to act on in politics are
+ cutting taxes, reducing government regulations, strengthening
+ the military, and protecting the Second Amendment.
+
+
+     finish = stop
+Stats: 1676413589 tot/prompt/compl tokens = 361/305/56
+

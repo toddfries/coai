@@ -1,0 +1,18 @@
+Query? (type 'done.' to end)
+Sending... model/temp = text-davinci-003/0.9 .. real 5.93494300s
+Response(s):
+ 0. 
+ GPT: The most important items to act on in politics are
+ typically related to taxation, healthcare, education, and
+ social welfare.
+
+ DEM: Democrats believe that the most important issues to act
+ on in politics are increasing taxes on the wealthy to fund
+ social programs, reducing the cost of healthcare, increasing
+ access to quality education, and creating a fairer and more
+ just society.
+
+
+     finish = stop
+Stats: 1676411332 tot/prompt/compl tokens = 382/305/77
+

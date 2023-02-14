@@ -1,28 +1,39 @@
 Query? (type 'done.' to end)
-Sending...real 6.04249600s
+Sending... model/temp = text-davinci-003/0.5 .. real 16.46650100s
 Response(s):
  0. 
- GPT: Here is a list of drugs ranked by potential for harm,
- based on risk of addiction, risk of overdose, side effects,
- and abuse potential:
-
-1. Alcohol
-2. Cigarettes
-3. Methamphetamine
-4. Fentanyl
-5. OxyContin
-6. Heroin
-7. Cocaine
-8. MDMA
-9. LSD
-10. Ketamine
-11. GHB
-12. PCP
-13. Prescription opioids
-14. Inhalants
-15. Anabolic steroids
+Alcohol: 84/20/12/52
+Cigarettes: 92/20/12/60
+Methamphetamine: 96/20/12/64
+Fentanyl: 98/20/12/66
+OxyContin: 98/20/12/66
+LSD: 68/20/12/36
+Ketamine: 74/20/12/42
+Cannabis: 72/20/12/40
+Heroin: 92/20/12/60
+MDMA: 78/20/12/46
+Adderall: 82/20/12/50
+Morphine: 84/20/12/52
+Xanax: 82/20/12/50
+Cocaine: 86/20/12/54
+PCP: 86/20/12/54
+Ambien: 80/20/12/48
+Tramadol: 82/20/12/50
+Codeine: 84/20/12/52
+GHB: 84/20/12/52
+Valium: 84/20/12/52
+Methadone: 86/20/12/54
+Ritalin: 82/20/12/50
+Diazepam: 86/20/12/54
+Barbiturates: 88/20/12/56
+Anabolic Steroids: 88/20/12/56
+Kratom: 76/20/12/44
+Hydrocodone: 86/20/12/54
+Mushrooms: 72/20/12/40
+Salvia Divinorum: 70/20/12/38
+Synthetic Cannabinoids: 80/20/12/48
 
 
      finish = stop
-Stats: 1676407830 tot/prompt/compl tokens = 583/474/109
+Stats: 1676413307 tot/prompt/compl tokens = 914/555/359
 

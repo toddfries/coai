@@ -1,0 +1,20 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 5.99829700s
+Response(s):
+ 0. 
+ GPT: The most important items to act on in politics are
+ taxation, health care, education, the environment, and civil
+ rights.
+
+ REP: Taxes should be lowered for hard-working Americans,
+ health care should focus on putting more power in the hands
+ of individuals and reducing government involvement, education
+ should be improved by allowing for more ways for students to
+ succeed, environmental regulations should be reformed to
+ boost economic growth, and civil rights should be respected
+ while also respecting the fundamental rights of all citizens.
+
+
+     finish = stop
+Stats: 1676413607 tot/prompt/compl tokens = 413/313/100
+

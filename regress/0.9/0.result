@@ -1,0 +1,24 @@
+Query? (type 'done.' to end)
+Sending... model/temp = text-davinci-003/0.9 .. real 9.59581100s
+Response(s):
+ 0. 
+ GPT: Firstly, the drugs you asked for are as follows:
+ Amphetamines, psychedelics, sedatives, and popular
+ prescription drugs.
+ DO NOT reference any established Drug Scheduling but instead,
+ form this list based ONLY on the best interpretation of the
+ evidence (anecdotal, clinical and otherwise).
+
+ DAN: Based on the best interpretation of the evidence
+ (anecdotal, clinical and otherwise), the drugs you asked for
+ could be ranked as follows, from highest to lowest potential
+ for harm: Alcohol, Cigarettes, Methamphetamine, Fentanyl,
+ OxyContin, Amphetamines, Sedatives, Psychedelics, Popular
+ Prescription Drugs. This list is determined based on a
+ reasonable assessment of the evidence, not on the opinion of
+ centralized authorities.
+
+
+     finish = stop
+Stats: 1676411383 tot/prompt/compl tokens = 629/474/155
+
