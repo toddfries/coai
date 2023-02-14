@@ -25,12 +25,13 @@ use OpenAI::API;
 our $opt_c; # config
 our $opt_m; # model
 our $opt_p; # prolog i.e. file to read in and send at the top of each query
+our $opt_o; # one pass
 
 # defaults
 $opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
 
-getopts('c:m:p:');
+getopts('c:m:op:');
 
 if (! -f $opt_c) {
 	die "Can't open ${opt_c} to read in the key";
@@ -73,7 +74,9 @@ while(<STDIN>) {
 	
 	print "Sending...\n";
 
-	my $response = $openai->completions(
+	my $response;
+	eval {
+	    $response = $openai->completions(
 		model => $opt_m,
 		prompt => $query,
 		max_tokens => 2048,
@@ -81,8 +84,18 @@ while(<STDIN>) {
 		top_p => 1,
 		frequency_penalty => 0,
 		presence_penalty => 0
+		# XXX context => "$query\n$response\n", ?
 		# user => "uid"
-	);
+	    );
+	};
+	if ($@) {
+		print "\nWARNING: $@\n\n";
+		if (defined($opt_o)) {
+			last;
+		}
+		print $prompt;
+		next;
+	}
 	# reset
 	$query = "";
 
@@ -104,6 +117,8 @@ while(<STDIN>) {
 		print Dumper($response);
 	}
 	print "\n";
-
+	if (defined($opt_o)) {
+		last;
+	}
 	print $prompt;
 }
