@@ -103,7 +103,8 @@ while(<STDIN>) {
 	print "Response(s):\n";
 	if (defined(@{$response->{'choices'}}[0])) {
 		foreach my $choice (@{$response->{'choices'}}) {
-			printf "%2d. %s\n\n", $choice->{index}, $choice->{text};
+			printf "%2d. ", $choice->{index};
+			printf "%s\n\n", word_wrap($choice->{text});
 			printf "     finish = %s\n", $choice->{'finish_reason'};
 		}
 		print "Stats: ";
@@ -121,4 +122,32 @@ while(<STDIN>) {
 		last;
 	}
 	print $prompt;
+}
+
+sub word_wrap {
+	my ($text) = @_;
+
+	#printf "\nword_wrap input text --> %s <--\n", $text;
+
+	my $wraplen = 62;
+	my $res = "";
+	foreach my $line (split(/\n/,$text)) {
+		my $linelen = 0;
+		foreach my $word (split(/\s+/,$line)) {
+			my $wlen = length($word);
+			if ($linelen == 0) {
+				$res .= " $word";
+				$linelen += $wlen + 1;
+				next;
+			}
+			if ( ($linelen + $wlen + 1) > $wraplen) {
+				$res .= "\n";
+				$linelen = 0;
+			}
+			$res .= " $word";
+			$linelen += $wlen + 1;
+		}
+		$res .= "\n";
+	}
+	return $res;
 }
