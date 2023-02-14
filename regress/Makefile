@@ -6,7 +6,7 @@ all:
 
 RES += ${_b}.result
 
-${_b}.result: ${_b}.query Makefile
+${_b}.result: ${_b}.query Makefile ../chat
 	@echo "==> ${_b}.result"
 	@(cat ${_b}.query;echo done.) | perl ../chat -o > .${_b}.result && \
 		mv .${_b}.result ${_b}.result
