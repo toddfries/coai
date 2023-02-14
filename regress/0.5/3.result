@@ -1,0 +1,18 @@
+Query? (type 'done.' to end)
+Sending...real 4.56902600s
+Response(s):
+ 0. 
+ GPT: The most important items to act on in politics are those
+ that will have the most long-term impact on society. This
+ includes things like economic policy, healthcare, education,
+ and civil rights.
+
+ REP: The most important items to act on in politics are those
+ that will promote economic growth and individual liberty.
+ This includes things like reducing taxes, reducing
+ regulations, and supporting pro-business policies.
+
+
+     finish = stop
+Stats: 1676407841 tot/prompt/compl tokens = 396/313/83
+

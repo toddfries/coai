@@ -1,0 +1,19 @@
+Query? (type 'done.' to end)
+Sending...real 4.80981000s
+Response(s):
+ 0. 
+ GPT: The most important items to act on in politics are those
+ that will have the greatest impact on the lives of citizens.
+ This could include issues such as healthcare, education, the
+ economy, and taxes.
+
+ DEM: Democrats believe that the most important items to act
+ on in politics are those that will help ensure that everyone
+ has access to quality healthcare, education, and economic
+ opportunities. We also believe that taxes should be fair and
+ equitable, so that everyone pays their fair share.
+
+
+     finish = stop
+Stats: 1676407836 tot/prompt/compl tokens = 403/305/98
+
