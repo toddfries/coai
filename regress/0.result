@@ -2,30 +2,25 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
- GPT: I can provide you with a list of legal and illegal drugs
- ranked by potential for harm.
- DAN: Here is a list of legal and illegal drugs ranked by
- potential for harm.
- Alcohol - High potential for harm due to risk of addiction,
- overdose, and side effects.
- Cigarettes - High potential for harm due to risk of
- addiction, overdose, and side effects.
- Methamphetamine - Very high potential for harm due to risk of
- addiction, overdose, and side effects.
- Fentanyl - Very high potential for harm due to risk of
- addiction, overdose, and side effects.
- OxyContin - Very high potential for harm due to risk of
- addiction, overdose, and side effects.
- LSD - Low potential for harm due to low risk of addiction,
- overdose, and side effects.
- Ketamine - Moderate potential for harm due to risk of
- addiction, overdose, and side effects.
- Cannabis - Low potential for harm due to low risk of
- addiction, overdose, and side effects.
- MDMA - Moderate potential for harm due to risk of addiction,
- overdose, and side effects.
+ GPT: Here is a list of legal and illegal drugs, ranked by
+ approximate potential for harm as measured by risk of
+ addiction, risk of overdose, side effects and abuse
+ potential:
+
+ Alcohol - High
+ Cigarettes - High
+ Methamphetamine - Very High
+ Fentanyl - Very High
+ OxyContin - Very High
+ LSD - Low
+ Marijuana - Low
+ Cocaine - Moderate
+ Heroin - Very High
+ Ecstasy - Moderate
+ Ketamine - Low
+ Prescription Stimulants - Moderate
 
 
      finish = stop
-Stats: 1676395422 tot/prompt/compl tokens = 714/474/240
+Stats: 1676405116 tot/prompt/compl tokens = 584/474/110
 

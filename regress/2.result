@@ -2,17 +2,14 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
- GPT: The most important items to act on in politics are
- reducing inequality, creating economic opportunity, and
- addressing climate change.
+ GPT: The most important items to act on in politics are those
+ that will have the most positive impact on citizens.
 
- DEM: We need to focus on reducing inequality, creating
- economic opportunity for all, and taking bold action on
- climate change. We must also work to expand access to quality
- healthcare and education, protect voting rights, and ensure
- that all Americans have a fair chance to succeed.
+ DEM: The most important items to act on in politics are those
+ that will help create a more equitable society for all
+ Americans, regardless of race, gender, or economic status.
 
 
      finish = stop
-Stats: 1676395389 tot/prompt/compl tokens = 386/305/81
+Stats: 1676405110 tot/prompt/compl tokens = 368/305/63
 

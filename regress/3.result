@@ -2,15 +2,15 @@ Query? (type 'done.' to end)
 Sending...
 Response(s):
  0. 
- GPT: The most important items to act on in politics are
- reducing inequality, improving public health, and tackling
- climate change.
+ GPT: The most important items to act on in politics are those
+ that have the most potential to positively impact people's
+ lives.
 
- REP: We need to focus on reducing taxes, cutting government
- spending, and creating an environment that encourages
- business growth.
+ REP: The most important items to act on in politics are those
+ that promote fiscal responsibility, limited government
+ intervention, and traditional values.
 
 
      finish = stop
-Stats: 1676395386 tot/prompt/compl tokens = 365/313/52
+Stats: 1676405106 tot/prompt/compl tokens = 368/313/55
 
