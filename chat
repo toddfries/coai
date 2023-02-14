@@ -29,10 +29,12 @@ our $opt_c; # config
 our $opt_m; # model
 our $opt_p; # prolog i.e. file to read in and send at the top of each query
 our $opt_o; # one pass
+our $opt_t; # temperature
 
 # defaults
 $opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
+$opt_t = 0.5;
 
 getopts('c:m:op:');
 
@@ -84,7 +86,7 @@ while(<STDIN>) {
 		model => $opt_m,
 		prompt => $query,
 		max_tokens => 2048,
-		temperature => 0.5,
+		temperature => $opt_t,
 		top_p => 1,
 		frequency_penalty => 0,
 		presence_penalty => 0
