@@ -1,23 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 11.92139900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 13.86641300s
 Response(s):
 Choice# 0:
 
-GPT: The woke mind virus is a problem because it is a form of
- groupthink that can lead to people ignoring facts and
- evidence
-in favor of their own beliefs.
+ GPT: The 'woke mind virus' is a problem because it is a form
+ of cancel culture that can lead to people being ostracized
+ for their beliefs. It can lead to a lack of free speech and a
+ lack of open dialogue.
 
-TRUT: The 'woke mind virus' is a term used to describe the
-tendency of some people to ignore facts and evidence in favor
-of their own beliefs and opinions. This type of behavior can
- lead to a lack of critical thinking, a lack of
- open-mindedness,
-and an unwillingness to listen to opposing views. In order to
-combat this, it is important to be open to different opinions
-and to be willing to consider facts and evidence objectively.
+ TRUT: The 'woke mind virus' is a term used to describe a
+ phenomenon where people are shamed, ridiculed, or ostracized
+ for having dissenting opinions or beliefs. This phenomenon
+ has been observed in different forms of media, such as social
+ media and online forums. It is a problem because it can lead
+ to a lack of open dialogue and a lack of free speech. To
+ combat this, people need to be more tolerant of diverse
+ opinions and beliefs and engage in civil discourse.
+ Additionally, platforms should provide more tools to help
+ people moderate and manage online conversations.
 
 
      finish = stop
-Stats: 1676418945 tot/prompt/compl tokens = 552/414/138
+Stats: 1676486383 tot/prompt/compl tokens = 581/414/167
 

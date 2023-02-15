@@ -1,162 +1,134 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 62.22090900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 53.38144300s
 Response(s):
 Choice# 0:
 
-Ada: 
+// Ada
+with Ada.Text_IO; use Ada.Text_IO;
 
-with Ada.Text_IO; 
-use Ada.Text_IO; 
+procedure Hello_World is
+begin
+   Put_Line("Hello, World!");
+   for I in 1..100 loop
+      Put(Integer'Image(I) & " ");
+   end loop;
+   New_Line;
+end Hello_World;
 
-procedure Hello_World is 
-begin 
-  Put_Line("Hello, World!"); 
-  for I in 1..100 loop 
-    Put(Integer'Image(I)); 
-    Put_Line(""); 
-  end loop; 
-end Hello_World; 
-
-Assembly:
-
+// Assembly
 .data
-msg: .ascii "Hello, World\n"
+msg: .ascii "Hello, World!"
 
 .text
 .global _start
 
 _start:
+    mov $1, %rax
+    mov $1, %rdi
+    mov $msg, %rsi
+    mov $13, %rdx
+    syscall
 
-movl $4, %eax
-movl $1, %ebx
-movl $msg, %ecx
-movl $13, %edx
-int $0x80
+    mov $1, %rax
+    mov $1, %rdi
+    mov $1, %rsi
+    mov $100, %rdx
+    syscall
 
-movl $1, %eax
-movl $0, %ebx
-
-loop:
-movl $4, %eax
-movl $1, %ebx
-movl $1, %ecx
-movl $1, %edx
-int $0x80
-
-inc %ecx
-cmp %ecx, $100
-jl loop
-
-movl $1, %eax
-movl $0, %ebx
-int $0x80
-
-BASIC:
-
-10 PRINT "Hello, World"
+// BASIC
+10 PRINT "Hello, World!"
 20 FOR I = 1 TO 100
-30 PRINT I
+30 PRINT I;
 40 NEXT I
 
-C:
-
+// C
 #include <stdio.h>
 
 int main()
 {
-    printf("Hello, World\n");
+    printf("Hello, World!\n");
     for (int i = 1; i <= 100; i++) {
-        printf("%d\n", i);
+        printf("%d ", i);
     }
+    printf("\n");
     return 0;
 }
 
-Erlang:
-
+// Erlang
 -module(hello_world).
--export([start/0]).
+-export([hello_world/0]).
 
-start() ->
-    io:fwrite("Hello, World\n"),
+hello_world() ->
+    io:format("Hello, World!~n"),
     count(1).
 
-count(N) when N =< 100 ->
-    io:fwrite("~p\n", [N]),
-    count(N+1);
-count(_) ->
-    ok.
+count(N) when N > 100 ->
+    ok;
+count(N) ->
+    io:format("~p ", [N]),
+    count(N+1).
 
-go:
-
+// Go
 package main
 
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, World")
+    fmt.Println("Hello, World!")
     for i := 1; i <= 100; i++ {
-        fmt.Println(i)
+        fmt.Print(i, " ")
     }
+    fmt.Println()
 }
 
-Java:
-
+// Java
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World");
+        System.out.println("Hello, World!");
         for (int i = 1; i <= 100; i++) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
+        System.out.println();
     }
 }
 
-Javascript:
-
-console.log("Hello, World");
+// JavaScript
+console.log("Hello, World!");
 for (let i = 1; i <= 100; i++) {
-    console.log(i);
+    console.log(i + " ");
 }
 
-Python:
-
-print("Hello, World")
+// Python
+print("Hello, World!")
 for i in range(1, 101):
-    print(i)
+    print(i, end=" ")
+print()
 
-Ruby:
+// Ruby
+puts "Hello, World!"
+1.upto(100) { |i| print "#{i} " }
+puts
 
-puts "Hello, World"
-(1..100).each do |i|
-  puts i
-end
-
-Perl:
-
-print "Hello, World\n";
+// Perl
+print "Hello, World!\n";
 for (my $i = 1; $i <= 100; $i++) {
-    print "$i\n";
+    print "$i ";
 }
+print "\n";
 
-Postscript:
-
-%!PS
-
-/hello {
-    (Hello, World!) show
-} def
-
-/count {
-    1 100 {
-        dup
-        show
+// PostScript
+/HelloWorld {
+    (Hello, World!) print
+    1 1 100 {
+        dup print
         1 add
     } for
+    print
 } def
 
-hello
-count
+HelloWorld
 
 
      finish = stop
-Stats: 1676419201 tot/prompt/compl tokens = 857/49/808
+Stats: 1676486156 tot/prompt/compl tokens = 789/49/740
 

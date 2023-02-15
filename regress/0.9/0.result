@@ -1,30 +1,40 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 11.61503000s
+Requesting... model/temp = text-davinci-003/0.9 .. real 28.22291300s
 Response(s):
 Choice# 0:
 
-Alcohol: 96/20/3/18
-Cigarettes: 97/25/5/20
-Heroin: 98/30/10/25
-Cocaine: 95/28/8/20
-LSD: 91/10/3/3
-Methamphetamine: 99/30/15/25
-Fentanyl: 100/40/25/40
-OxyContin: 97/35/15/25
-Ativan: 85/20/7/6
-Xanax: 84/25/8/6
-Adderall: 90/30/10/13
-Ketamine: 88/20/7/9
-MDMA 89/15/6/7
-Morphine: 95/30/15/20
-PCP: 94/25/10/15
-Valium: 89/20/7/11
-Marijuana: 92/10/5/5
-Ambien: 83/20/6/7
-Amphetamine: 97/30/10/20
-Codeine: 93/26/10/19
+Alcohol: 100/100/90/100 
+Cigarettes: 95/90/90/90
+Methamphetamine: 90/95/100/100
+Heroin: 100/100/95/100 
+Cocaine: 90/90/95/90 
+LSD: 20/25/20/25 
+MDMA: 30/25/30/30
+Fentanyl: 95/95/100/100 
+OxyContin: 95/95/85/90 
+Ritalin: 25/20/30/30 
+Xanax: 30/30/30/30 
+Vicodin: 65/60/70/75 
+Ketamine: 45/50/65/70 
+Adderall: 45/50/50/60 
+Phencyclidine (PCP): 75/90/75/85 
+Suboxone: 30/35/35/45 
+Kratom: 15/20/15/30 
+Barbiturates: 75/85/75/85 
+Benzodiazepines (Valium, Xanax, Klonopin, etc.): 40/50/50/60 
+Tramadol: 20/20/35/40 
+Synthetic cannabinoids (K2/Spice): 70/80/85/95 
+Gamma-hydroxybutyrate (GHB): 65/75/85/90 
+Buprenorphine: 20/30/35/45 
+Red Phosphorus: 55/60/70/75 
+Ativan: 40/50/50/60 
+Ecstasy: 55/60/75/90 
+Zolpidem (Ambien): 20/25/30/40 
+Codeine: 45/50/60/65 
+Steroids: 45/50/60/65 
+Promethazine: 25/30/30/35
 
 
      finish = stop
-Stats: 1676418716 tot/prompt/compl tokens = 783/555/228
+Stats: 1676486535 tot/prompt/compl tokens = 975/555/420
 

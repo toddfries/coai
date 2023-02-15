@@ -1,163 +1,147 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 31.92629600s
+Requesting... model/temp = text-davinci-003/0.9 .. real 57.68720300s
 Response(s):
 Choice# 0:
 
-Ada:
-with Ada.Text_IO;
-
-use Ada.Text_IO;
-
-procedure Hello_World is 
-   num : Integer := 0;
+ADA: 
+with Ada.Text_IO; 
+use Ada.Text_IO; 
+procedure Hello_World is
 begin
-   Put_Line ("Hello, World");
-   loop
-      num := num + 1;
-      Put(Integer'Image(num));
-      exit when num = 100;
-   end loop;
+     Put_Line("Hello, World");
+     for i in 1..100 loop
+        Put(Integer'Image(i));
+        Put_Line("");
+     end loop;
 end Hello_World;
 
-Assembly:
+ASSEMBLY:
 section .text
-
-global _start
+	global _start
 
 _start:
+	mov     edx,13
+	mov     ecx,helloWorld
+	mov     ebx,1
+	mov     eax,4
+	int     0x80
 
-mov eax, 4 ;system call write
-mov ebx, 1 ; file descriptor
-mov edx, 13 ; length of string
-mov ecx, hello_world ; address of string
-int 0x80 ; system call
+	mov     eax,1
+	mov     ebx,0
+	int     0x80
 
-add byte [counter], 1
-cmp byte [counter], 100
-jne _start
+helloWorld:
+	db      'Hello, World', 0xd, 0xa
 
-; exit syscall
-mov eax, 1 ;system call exit
-mov ebx, 0 ;no error
-int 0x80 ;system call
+loop:
+	mov     edx,1
+	mov     ecx,num
+	mov     ebx,1
+	mov     eax,4
+	int     0x80
+
+	inc     byte [num]
+	cmp     byte [num], 100
+	jne     loop
+
+; exit
+	mov     eax,1
+	mov     ebx,0
+	int     0x80
 
 section .data
-
-hello_world: db 'Hello, World', 0xa, 0
-counter: db 0
-
+	num db 0
 
 BASIC:
-10 PRINT "Hello, World"
-20 FOR n = 1 TO 100
-30 PRINT n;
-40 NEXT n
-
-
+PRINT "Hello, World"
+FOR i = 0 TO 100
+    PRINT i
+NEXT i
+ 
 C:
+#include <stdio.h>
 
-#include<stdio.h>
-
-int main() {
+int main()
+{
     printf("Hello, World\n");
-
-    int i;
-    for (i = 1; i <= 100; i++) 
-        printf("%d ", i);
-
+    for (int i=1; i<=100; i++)
+    {
+        printf("%d\n",i);
+    }
     return 0;
-
 }
 
-Erlang:
+ERLANG:
 -module(hello_world).
 -export([main/0]).
 
-main() ->
-    io:fwrite("Hello, World!\n"),
-    loop(1).
+main() -> 
+    io:fwrite("Hello, World\n"),
+  lists:foreach(fun(I) -> io:fwrite(I++"\n") end,
+ lists:seq(1,100)).
 
-loop(N) ->
-    N =:= 100 ->
-        ok;
-    true ->
-        io:fwrite("~w~n", [N]),
-        loop(N+1)
-    end.
-
-
-Go:
-
+GO:
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Println("Hello, World!")
-	for i := 1; i <= 100; i++ {
-		fmt.Printf("%d ", i)
-	}
-
-}
-
-
-Java:
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        for (int i = 1; i <= 100; i++) {
-            System.out.print(i + " ");
+        fmt.Println("Hello, World")
+        for i := 1; i <= 100; i++ {
+                fmt.Println(i)
         }
-    }
 }
 
-
-Javascript:
-
-console.log("Hello, World!");
-
-for (let i = 1; i <= 100; i++) {
-    console.log(i);
+JAVA:
+public class HelloWorld {
+        public static void main(String[] args) {
+               System.out.println("Hello, World);
+               for(int i = 1; i <= 100; i++){
+                       System.out.println(i);
+               }
+        }
 }
 
+JAVASCRIPT:
+console.log("Hello, World");
+for (let i = 1; i < 100; i++) {
+        console.log(i);
+}
 
-Python:
+PYTHON:
+print("Hello, World")
+for i in range(1,101):
+    print(i)
 
-print("Hello, World!")
+RUBY:
+puts "Hello, World"
+1.upto(100) do |i|
+  puts i
+end
 
-for i in range(1, 101):
-    print(i, end=" ")
-
-
-Ruby:
-
-puts "Hello, World!"
-
-(1..100).each { |i| print "#{i} " }
-
-
-Perl:
-
-print "Hello, World!\n";
-
+PERL:
+print "Hello, World\n";
 for (my $i = 1; $i <= 100; $i++) {
-    print "$i ";
-} 
+    print "$i\n";
+}
 
+POSTSCRIPT:
+%!
+/helloWorldStr 80 string def
+helloWorldStr 0 13 helloWorldStr putinterval
+(Hello, World
+) print
 
-Postscript:
-
-/(Hello, World!)  (\n) 
-
-1 1 100 {
-    2 copy 3 1 roll dup 
-    3 3 roll show
-    1 add
+0
+1 {
+dup
+helloWorldStr 0 ( ) putinterval cvs print
+1 add
 } for
-
-/done
 
 
      finish = stop
-Stats: 1676419282 tot/prompt/compl tokens = 833/49/784
+Stats: 1676486156 tot/prompt/compl tokens = 867/49/818
 
