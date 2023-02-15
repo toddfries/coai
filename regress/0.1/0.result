@@ -1,38 +1,32 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 14.59351500s
+Requesting... model/temp = text-davinci-003/0.1 .. real 14.97992400s
 Response(s):
- 0. 
+Choice# 0:
+
 Alcohol: 95/20/20/55
 Cigarettes: 95/20/20/55
-Methamphetamine: 90/50/50/90
-Fentanyl: 95/90/90/95
-OxyContin: 90/50/50/90
-LSD: 10/1/1/10
-Heroin: 95/90/90/95
-Cocaine: 85/50/50/85
-MDMA: 40/10/10/40
-Ketamine: 40/10/10/40
-Adderall: 40/10/10/40
-Xanax: 40/10/10/40
-Valium: 40/10/10/40
-Ambien: 40/10/10/40
-Marijuana: 10/1/1/10
-Tramadol: 40/10/10/40
-Codeine: 40/10/10/40
-Percocet: 40/10/10/40
-Hydrocodone: 40/10/10/40
-Morphine: 40/10/10/40
-PCP: 85/50/50/85
-GHB: 85/50/50/85
-Kratom: 10/1/1/10
-Salvia: 10/1/1/10
-Ayahuasca: 10/1/1/10
-DMT: 10/1/1/10
-LSD: 10/1/1/10
-Psilocybin: 10/1/1/10
-Nitrous Oxide: 10/1/1/10
+Methamphetamine: 90/20/20/50
+Fentanyl: 85/20/20/45
+OxyContin: 85/20/20/45
+LSD: 25/5/5/15
+Heroin: 80/20/20/40
+Cocaine: 75/20/20/35
+MDMA: 70/20/20/30
+Ketamine: 65/20/20/25
+Adderall: 60/20/20/20
+Marijuana: 55/20/20/15
+Xanax: 50/20/20/10
+Valium: 45/20/20/5
+Ambien: 40/20/20/0
+PCP: 35/20/20/15
+Tramadol: 30/20/20/10
+Codeine: 25/20/20/5
+Mushrooms: 20/20/20/0
+GHB: 15/20/20/5
+Bath Salts: 10/20/20/0
+Kratom: 5/20/20/5
 
 
      finish = stop
-Stats: 1676414495 tot/prompt/compl tokens = 893/555/338
+Stats: 1676418673 tot/prompt/compl tokens = 809/555/254
 

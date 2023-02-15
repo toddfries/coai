@@ -1,19 +1,19 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 6.47803400s
+Requesting... model/temp = text-davinci-003/0.9 .. real 7.20432900s
 Response(s):
- 0. 
- GPT: The most important items to act on in politics vary
- depending on the area and current situation, but some common
- issues are health care reform, education, gun control, and
- immigration.
+Choice# 0:
 
- DEM: We must prioritize progressive health care reform that
- guarantees access to quality healthcare for all, implement
- comprehensive gun control laws to reduce mass shootings, and
- support comprehensive immigration reform that allows for a
- path to citizenship for undocumented immigrants.
+ GPT: The most important items to act on in politics include
+ reducing government spending, reforming the tax code,
+ reforming healthcare, and protecting civil liberties.
+
+ DEM: The most important items to act on in politics are
+ increasing minimum wage to ensure a living wage, implementing
+ affordable healthcare for all, protecting civil rights and
+ liberties, and reforming the tax code to prioritize those in
+ need.
 
 
      finish = stop
-Stats: 1676414436 tot/prompt/compl tokens = 390/305/85
+Stats: 1676418810 tot/prompt/compl tokens = 382/305/77
 

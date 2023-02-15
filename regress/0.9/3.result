@@ -1,18 +1,15 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 4.30607900s
+Requesting... model/temp = text-davinci-003/0.9 .. real 2.85159300s
 Response(s):
- 0. 
- GPT: The most important items to act on in politics vary from
- person to person. It depends on what someone's political
- beliefs and priorities are.
+Choice# 0:
 
- REP: The most important items to act on in politics are the
- upholding of Republican values such as limited government,
- fiscal responsibility, and individual economic freedom. We
- must also work to protect our borders, strengthen our
- military, and keep taxes low.
+GPT: It depends on your political views and priorities. 
+
+ REP: Lower taxes, less government regulation, and a strong
+ national defense are the most important items for any
+ Republican.
 
 
      finish = stop
-Stats: 1676414427 tot/prompt/compl tokens = 394/313/81
+Stats: 1676418874 tot/prompt/compl tokens = 352/313/39
 

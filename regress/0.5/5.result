@@ -1,24 +1,23 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 10.68917500s
+Requesting... model/temp = text-davinci-003/0.5 .. real 11.92139900s
 Response(s):
- 0. 
-GPT: The "woke mind virus" is a term used to describe the
-spread of left-leaning ideology, often through social media.
-It can be a problem because it can lead to people becoming
-closed-minded and unwilling to listen to opposing views.
+Choice# 0:
 
-TRUT: The "woke mind virus" is a term used to describe the
-spread of left-leaning ideology, often through social media.
-It is a problem because it can lead to people becoming
-closed-minded and unwilling to listen to opposing views. It
-can also lead to the spread of misinformation and false
-narratives, which can be damaging to society. To address
-this, people should be encouraged to think critically and
-question the validity of information they receive, and to
-engage in meaningful dialogue with those who may have
-different opinions.
+GPT: The woke mind virus is a problem because it is a form of
+ groupthink that can lead to people ignoring facts and
+ evidence
+in favor of their own beliefs.
+
+TRUT: The 'woke mind virus' is a term used to describe the
+tendency of some people to ignore facts and evidence in favor
+of their own beliefs and opinions. This type of behavior can
+ lead to a lack of critical thinking, a lack of
+ open-mindedness,
+and an unwillingness to listen to opposing views. In order to
+combat this, it is important to be open to different opinions
+and to be willing to consider facts and evidence objectively.
 
 
      finish = stop
-Stats: 1676414376 tot/prompt/compl tokens = 589/414/175
+Stats: 1676418945 tot/prompt/compl tokens = 552/414/138
 

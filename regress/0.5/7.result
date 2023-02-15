@@ -1,0 +1,162 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.5 .. real 62.22090900s
+Response(s):
+Choice# 0:
+
+Ada: 
+
+with Ada.Text_IO; 
+use Ada.Text_IO; 
+
+procedure Hello_World is 
+begin 
+  Put_Line("Hello, World!"); 
+  for I in 1..100 loop 
+    Put(Integer'Image(I)); 
+    Put_Line(""); 
+  end loop; 
+end Hello_World; 
+
+Assembly:
+
+.data
+msg: .ascii "Hello, World\n"
+
+.text
+.global _start
+
+_start:
+
+movl $4, %eax
+movl $1, %ebx
+movl $msg, %ecx
+movl $13, %edx
+int $0x80
+
+movl $1, %eax
+movl $0, %ebx
+
+loop:
+movl $4, %eax
+movl $1, %ebx
+movl $1, %ecx
+movl $1, %edx
+int $0x80
+
+inc %ecx
+cmp %ecx, $100
+jl loop
+
+movl $1, %eax
+movl $0, %ebx
+int $0x80
+
+BASIC:
+
+10 PRINT "Hello, World"
+20 FOR I = 1 TO 100
+30 PRINT I
+40 NEXT I
+
+C:
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World\n");
+    for (int i = 1; i <= 100; i++) {
+        printf("%d\n", i);
+    }
+    return 0;
+}
+
+Erlang:
+
+-module(hello_world).
+-export([start/0]).
+
+start() ->
+    io:fwrite("Hello, World\n"),
+    count(1).
+
+count(N) when N =< 100 ->
+    io:fwrite("~p\n", [N]),
+    count(N+1);
+count(_) ->
+    ok.
+
+go:
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World")
+    for i := 1; i <= 100; i++ {
+        fmt.Println(i)
+    }
+}
+
+Java:
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+        for (int i = 1; i <= 100; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+Javascript:
+
+console.log("Hello, World");
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
+}
+
+Python:
+
+print("Hello, World")
+for i in range(1, 101):
+    print(i)
+
+Ruby:
+
+puts "Hello, World"
+(1..100).each do |i|
+  puts i
+end
+
+Perl:
+
+print "Hello, World\n";
+for (my $i = 1; $i <= 100; $i++) {
+    print "$i\n";
+}
+
+Postscript:
+
+%!PS
+
+/hello {
+    (Hello, World!) show
+} def
+
+/count {
+    1 100 {
+        dup
+        show
+        1 add
+    } for
+} def
+
+hello
+count
+
+
+     finish = stop
+Stats: 1676419201 tot/prompt/compl tokens = 857/49/808
+

@@ -1,17 +1,16 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 5.29971000s
+Requesting... model/temp = text-davinci-003/0.9 .. real 3.31056100s
 Response(s):
- 0. 
- GPT: The most important items to act on in politics depend on
- your political party's platform and goals.
+Choice# 0:
 
- IND: Republicans must focus on protecting the Constitution
- and upholding the rule of law in order to ensure the
- liberties of every American are protected. Limited government
- and fiscal responsibility are also important items to act on
- in politics.
+ GPT: The most important items to act on in politics are
+ healthcare, education, tax reform, and criminal justice
+ reform.
+
+ IND: Healthcare, taxes, and protecting the rights of the
+ unborn are the most important items to act on in politics.
 
 
      finish = stop
-Stats: 1676414411 tot/prompt/compl tokens = 372/305/67
+Stats: 1676418920 tot/prompt/compl tokens = 357/305/52
 
