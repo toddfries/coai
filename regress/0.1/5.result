@@ -1,32 +1,28 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 8.56666100s
+Requesting... model/temp = text-davinci-003/0.1 .. real 11.74463600s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of
-groupthink that can lead to people making decisions without
-considering all the facts. It can also lead to people making
-decisions based on emotion rather than logic.
+ of groupthink that can lead to people making decisions
+ without considering all the facts and evidence. It can also
+ lead to people making decisions based on emotion rather than
+ logic.
 
-TRUT: The 'woke mind virus' is a form of groupthink that can
-lead to people making decisions without considering all the
-facts. It is a problem because it can lead to people making
- decisions based on emotion rather than logic. It can also
- lead
- to people making decisions that are not in their best
- interest.
-
- To combat the 'woke mind virus', it is important to be aware
- of
-the potential for groupthink and to be willing to consider
- alternative perspectives. It is also important to be willing
- to
-have open and honest conversations about difficult topics.
-Finally, it is important to be willing to challenge one's own
-beliefs and assumptions.
+ TRUT: The 'woke mind virus' is a problem because it is a form
+ of groupthink that can lead to people making decisions
+ without considering all the facts and evidence. It can also
+ lead to people making decisions based on emotion rather than
+ logic. This can lead to people making decisions that are not
+ in their best interests, or that are not in the best
+ interests of society as a whole. To combat the 'woke mind
+ virus', it is important to encourage critical thinking and to
+ ensure that all decisions are based on facts and evidence.
+ Additionally, it is important to ensure that all voices are
+ heard and that everyone is given an equal opportunity to
+ express their opinion.
 
 
      finish = stop
-Stats: 1676486375 tot/prompt/compl tokens = 614/414/200
+Stats: 1676500661 tot/prompt/compl tokens = 602/414/188
 

@@ -1,39 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 25.90140900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 22.30628900s
 Response(s):
 Choice# 0:
 
-Alcohol: 95/20/20/55
-Cigarettes: 95/20/20/55
-Heroin: 90/20/20/50
-Fentanyl: 90/20/20/50
-Cocaine: 80/20/20/40
-Methamphetamine: 80/20/20/40
-OxyContin: 75/20/20/35
-LSD: 40/15/10/15
-MDMA: 65/15/10/40
-Ketamine: 65/15/10/40
-Adderall: 65/15/10/40
-Valium: 60/15/10/35
-Xanax: 60/15/10/35
-Ecstasy: 60/15/10/35
-Codeine: 55/15/10/30
-Marijuana: 50/15/10/25
-Tramadol: 55/15/10/30
-GHB: 55/15/10/30
-Percocet: 55/15/10/30
-Ambien: 50/15/10/25
-Kratom: 45/15/10/20
-Mushrooms: 40/15/10/15
-PCP: 40/15/10/15
-Khat: 35/15/10/10
-Salvia: 35/15/10/10
-Bath Salts: 30/15/10/5
-Kava: 25/15/10/0
-Kola Nut: 20/15/10/5
-Ayahuasca: 20/15/10/5
+ Alcohol/80/80/80/80, Cigarettes/90/90/90/90,
+ Methamphetamine/90/90/90/90, Fentanyl/95/95/95/95,
+ OxyContin/95/95/95/95, LSD/30/30/30/30, MDMA/50/50/50/50,
+ Cocaine/60/60/60/60, Cannabis/40/40/40/40,
+ Heroin/90/90/90/90, Morphine/90/90/90/90,
+ Adderall/60/60/60/60, Xanax/75/75/75/75,
+ Ketamine/60/60/60/60, Valium/75/75/75/75, PCP/80/80/80/80,
+ Hydrocodone/90/90/90/90, Codeine/80/80/80/80,
+ Ambien/70/70/70/70, Suboxone/85/85/85/85,
+ Vicodin/90/90/90/90, DMT/40/40/40/40, GHB/70/70/70/70,
+ Kratom/50/50/50/50, Spice/70/70/70/70, Ritalin/60/60/60/60,
+ Tramadol/80/80/80/80, Ibuprofen/10/10/10/10,
+ Acetaminophen/10/10/10/10, Amitriptyline/60/60/60/60,
+ Buprenorphine/85/85/85/85, Dextromethorphan/50/50/50/50,
+ Clonazepam/75/75/75/75.
 
 
      finish = stop
-Stats: 1676486540 tot/prompt/compl tokens = 890/555/335
+Stats: 1676500702 tot/prompt/compl tokens = 939/555/384
 

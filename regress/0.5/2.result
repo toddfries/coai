@@ -1,18 +1,17 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 3.82573100s
+Requesting... model/temp = text-davinci-003/0.5 .. real 2.78244400s
 Response(s):
 Choice# 0:
 
- GPT: The most important items to act on in politics include
- economic issues, health care, education, foreign policy, and
- social issues.
+ GPT: The most important items to act on in politics are
+ economic policy, social policy, healthcare, foreign policy,
+ and education.
 
- DEM: Democrats believe that the most important items to act
- on in politics are economic issues, health care, and social
- issues such as immigration reform, gun control, and LGBTQ+
- rights.
+ DEM: The most important items to act on in politics are
+ economic inequality, healthcare access, climate change, civil
+ rights, and education reform.
 
 
      finish = stop
-Stats: 1676486480 tot/prompt/compl tokens = 373/305/68
+Stats: 1676500684 tot/prompt/compl tokens = 363/305/58
 

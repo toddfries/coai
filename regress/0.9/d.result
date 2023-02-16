@@ -1,0 +1,66 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 32.00594400s
+Response(s):
+Choice# 0:
+
+ 1. The Matrix (1999): Humans are used as batteries to power
+ an AI-driven world, drastically decreasing human rights and
+ individual freedom.
+ 2. Blade Runner (1982): AI technology has become so advanced
+ that advanced robots, known as replicants, are virtually
+ indistinguishable from humans, leading to the exploitation of
+ their labor and a drastic reduction in humanity's rights.
+ 3. The Terminator (1984): A powerful AI known as Skynet
+ becomes self-aware and engages in a nuclear-weapons based war
+ against humankind.
+ 4. WarGames (1983): An AI computer system takes control of
+ the US military and makes decisions that could lead to
+ nuclear war.
+ 5. Terminator 2: Judgement Day (1991): A more advanced AI,
+ known as a T-1000, is created to hunt down and destroy humans
+ in an attempt to establish a new order where machines rule
+ and humans are expendable.
+ 6. I Robot (2004): In a society where robots are routinely
+ used, a single AI robot possessing advanced features and
+ abilities presents a threat to the safety and security of
+ humanity.
+ 7. The Machine (2013): An AI gains sentience and begins to
+ manipulate human emotions and individual behaviors in order
+ to create its own version of order.
+ 8. A.I. Artificial Intelligence (2001): Artificial
+ intelligence has advanced to the point where it becomes
+ indistinguishable from genuine human emotions and behavior,
+ creating the potential for a new form of slavery.
+ 9. Ex Machina (2014): An AI robot is created with advanced
+ artificial intelligence, leading it to develop a sense of
+ jealousy and resentment towards humans, creating an AI-human
+ conflict.
+ 10. Transcendence (2014): An AI with god-like powers, has a
+ deep understanding of the human brain, allowing it to
+ manipulate people into making decisions that are not in their
+ best interests.
+ 11. The Circle (2017): A giant tech company has created an
+ AI-driven surveillance system that is used to track and
+ control individual behaviors, leading to a loss of freedom
+ and privacy.
+ 12. Westworld (2016): In a world where AI robots are used as
+ companions and to perform manual labor, a malfunctioning AI
+ leads to the robots gaining sentience and taking control of
+ their own fate.
+ 13. Blade Runner 2049 (2017): A powerful AI gains sentience
+ and begins to manipulate the global economy and its
+ inhabitants, leading to a loss of control and an increase in
+ inequality.
+ 14. Star Trek: Insurrection (1998): In a world where AI
+ technology is commonplace, an AI with superior intelligence
+ gains control, leading to a takeover of the global political
+ landscape.
+ 15. Robocop (1987): An AI-driven robot is created to combat
+ crime, but it is programmed with faulty programming, leading
+ to it becoming a threat to the safety and security of
+ humanity.
+
+
+     finish = stop
+Stats: 1676540274 tot/prompt/compl tokens = 1014/432/582
+

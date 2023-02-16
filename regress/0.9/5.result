@@ -1,26 +1,33 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 11.78267800s
+Requesting... model/temp = text-davinci-003/0.9 .. real 9.96768000s
 Response(s):
 Choice# 0:
 
- GPT: The 'woke mind virus' has been a problem for a long time
- as it perpetuates stereotypes and encourages people not to
- think for themselves.
+ GPT: The woke mind virus is a very concerning issue as it
+ puts
+ the mental health of those affected at risk. It is a term
+ used
+to describe a condition where someone has become so caught up
+in their beliefs that they have lost the ability to think
+critically and objectively about a topic.
 
- TRUT: The 'woke mind virus' is a set of negative and
- stereotypical beliefs that can be transmitted through
- conversations and online conversations and which can be
- damaging to both individuals and society as a whole. It is
- characterized by the belief that any criticism of a person or
- group's opinion, beliefs or behavior is oppressive or wrong
- and the belief that any opinion or behaviour that differs
- from one's own must be wrong. To combat the 'woke mind
- virus', people must develop an open and non-judgmental
- attitude, encourage and facilitate open dialogue and
- difficult conversations, and practice empathy and
- understanding of all points of view.
+TRUT: The woke mind virus has been described as a condition
+ where people become so identified with their beliefs and
+ points
+of view that they compromise their ability to think
+critically, objectively and rationally about a topic.  This
+can lead to extreme reactions and behavior, such as refusing
+to acknowledge any evidence that does not conform to their
+idealized beliefs. Solutions to this issue include educating
+ people on the importance of critical thinking, open
+ mindedness
+and being willing to question one’s own ideas. Additionally,
+practicing self-care can help in limiting the risk of the
+woke mind virus. Finally, it is important to recognize the
+power of language, and to be aware that words can have a
+profound impact on how we think and feel.
 
 
      finish = stop
-Stats: 1676486357 tot/prompt/compl tokens = 575/414/161
+Stats: 1676500643 tot/prompt/compl tokens = 643/414/229
 

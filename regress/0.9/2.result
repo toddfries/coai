@@ -1,21 +1,17 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 5.24257100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 3.12930400s
 Response(s):
 Choice# 0:
 
  GPT: The most important items to act on in politics depend on
- many factors, such as the current political climate, the
- views and priorities of the people in power, and the needs of
- the people.
+ the individual and the issue being discussed.
 
- DEM: The most important items to act on in politics should be
- to protect the rights and interests of everyone involved,
- ensure essential services and programs reach all communities,
- and provide a voice for those who need it most. We must also
- address long-term, systemic issues, such as climate change,
- income inequality, and systemic racism.
+ DEM: The most important items to act on in politics include
+ promoting social and economic justice, protecting the
+ environment, expanding access to healthcare, and promoting
+ civil rights for all Americans.
 
 
      finish = stop
-Stats: 1676486454 tot/prompt/compl tokens = 415/305/110
+Stats: 1676500681 tot/prompt/compl tokens = 365/305/60
 

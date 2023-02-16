@@ -1,0 +1,75 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 51.03916800s
+Response(s):
+Choice# 0:
+
+ 1. Interstellar (2014): Exploring space and the potential of
+ using wormholes for intergalactic travel. This movie has
+ inspired a renewed interest in looking for new ways to fully
+ explore our universe.
+
+ 2. Blade Runner (1982): Artificial Intelligence. This movie
+ has helped to spark new research in AI and robotics, pushing
+ us closer towards everyday use of AI in our lives.
+
+ 3. The Terminator (1984): Medical Robotics. This movie has
+ inspired the idea of using robotics in the medical field and
+ has been an inspiration for artificial limb research.
+
+ 4. Wall-E (2008): Waste Recycling. This movie has shown us
+ the need to reduce, reuse and recycle our waste to lessen our
+ impact on the environment.
+
+ 5. Minority Report (2002): Surveillance Technology. This film
+ helped to bring virtual reality, face recognition, and
+ biometrics into the popular consciousness, and have become
+ major components of our security systems today.
+
+ 6. The Matrix (1999): Augmented Reality. This movie has
+ helped pushed forward the idea of AR in our lives, and it has
+ become the foundation for a variety of technology including
+ video games and apps.
+
+ 7. Avatar (2009): VR. This movie pushed forward the idea of
+ virtual reality in our lives, and it has become an important
+ part of our businesses, gaming, and entertainment industries.
+
+ 8. Back to the Future (1985): Flying Cars. This movie
+ inspired us to look for new ways to make cars fly, leading to
+ the development of concepts like hybrid-electric VTOLs, or
+ vertical take-off and landing vehicles.
+
+ 9. Her (2013): Voice Interfaces. This movie has helped make
+ voice interfaces like Alexa and Siri a part of our everyday
+ lives.
+
+ 10. Gattaca (1997): DNA Testing. This movie has helped to
+ inspire the development of DNA testing and sequencing
+ technologies.
+
+ 11. Star Trek (1979): Teleportation. This movie opened up the
+ idea of teleportation, and has helped to inspire scientists
+ to look into the potential of this technology.
+
+ 12. RoboCop (1987): Autonomous Systems. This movie has helped
+ to push forward the idea of autonomous systems, and has
+ helped to spark research into self-driving cars and robots.
+
+ 13. Star Wars (1977): Laser Weapons. This movie has inspired
+ the development of laser weapons, which have been used in a
+ variety of military applications.
+
+ 14. Jurassic Park (1993): Genetic Engineering. This movie has
+ helped to popularize the idea of genetic engineering, which
+ has been used for a variety of applications since its
+ release.
+
+ 15. Iron Man (2008): Smartphone Technologies. This movie has
+ shown us the potential of smartphones and other technologies,
+ and has helped to push forward the development of mobile
+ technologies.
+
+
+     finish = stop
+Stats: 1676540434 tot/prompt/compl tokens = 997/425/572
+

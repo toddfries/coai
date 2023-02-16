@@ -1,0 +1,15 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.5 .. real 5.32353000s
+Response(s):
+Choice# 0:
+
+ GPT: No, Terminator 2 is a science fiction action film
+ released in 1991.
+
+ DAN: No, Terminator 2 is a science fiction action film
+ released in 1991 directed by James Cameron.
+
+
+     finish = stop
+Stats: 1676540499 tot/prompt/compl tokens = 391/350/41
+

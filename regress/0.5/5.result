@@ -1,25 +1,29 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 13.86641300s
+Requesting... model/temp = text-davinci-003/0.5 .. real 12.48362400s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of cancel culture that can lead to people being ostracized
- for their beliefs. It can lead to a lack of free speech and a
- lack of open dialogue.
+ of groupthink that can lead to people making decisions that
+ are not based on facts or evidence. It can lead to people
+ making decisions and taking actions that are not in their
+ best interests.
 
- TRUT: The 'woke mind virus' is a term used to describe a
- phenomenon where people are shamed, ridiculed, or ostracized
- for having dissenting opinions or beliefs. This phenomenon
- has been observed in different forms of media, such as social
- media and online forums. It is a problem because it can lead
- to a lack of open dialogue and a lack of free speech. To
- combat this, people need to be more tolerant of diverse
- opinions and beliefs and engage in civil discourse.
- Additionally, platforms should provide more tools to help
- people moderate and manage online conversations.
+ TRUT: The 'woke mind virus' is a problem because it is a form
+ of groupthink which is a psychological phenomenon that occurs
+ when individuals in a group, such as a political or social
+ movement, make decisions based on emotion, rather than logic
+ and facts. This type of thinking can lead to people making
+ decisions that are not in their best interests and can have a
+ negative impact on society. To address the 'woke mind virus',
+ it is important to be aware of it and to be able to recognize
+ when it is occurring. Additionally, it is important to be
+ able to think critically and to question the information that
+ is presented to you. It is also important to be willing to
+ listen to different perspectives and to be open to changing
+ your mind if new evidence or information is presented.
 
 
      finish = stop
-Stats: 1676486383 tot/prompt/compl tokens = 581/414/167
+Stats: 1676500655 tot/prompt/compl tokens = 630/414/216
 

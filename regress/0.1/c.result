@@ -1,0 +1,96 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.1 .. real 71.84996900s
+Response(s):
+Choice# 0:
+
+ 1. Autonomous Vehicles (AVs) - The movie iRobot (2004) showed
+ a world where autonomous vehicles are commonplace. AVs will
+ have a positive impact by reducing traffic congestion,
+ improving safety, and providing more efficient
+ transportation.
+
+ 2. Artificial Intelligence (AI) - The movie Her (2013) showed
+ a world where AI is used to help people with their daily
+ lives. AI will have a positive impact by providing more
+ efficient and accurate decision-making, and by helping to
+ automate mundane tasks.
+
+ 3. Augmented Reality (AR) - The movie Ready Player One (2018)
+ showed a world where AR is used to enhance the user's
+ experience. AR will have a positive impact by providing more
+ immersive experiences, and by allowing users to interact with
+ virtual objects in the real world.
+
+ 4. Space Exploration - The movie The Martian (2015) showed a
+ world where space exploration is commonplace. Space
+ exploration will have a positive impact by providing new
+ sources of energy, resources, and knowledge.
+
+ 5. 3D Printing - The movie The Fifth Element (1997) showed a
+ world where 3D printing is used to create objects. 3D
+ printing will have a positive impact by allowing people to
+ create objects quickly and cheaply, and by providing new ways
+ to manufacture products.
+
+ 6. Teleportation - The movie Star Trek (2009) showed a world
+ where teleportation is used to travel long distances.
+ Teleportation will have a positive impact by reducing the
+ need for long-distance travel, and by providing faster and
+ more efficient transportation.
+
+ 7. Renewable Energy - The movie Wall-E (2008) showed a world
+ where renewable energy is used to power the world. Renewable
+ energy will have a positive impact by reducing pollution, and
+ by providing a more sustainable source of energy.
+
+ 8. Robotics - The movie Big Hero 6 (2014) showed a world
+ where robotics is used to help people with their daily lives.
+ Robotics will have a positive impact by providing more
+ efficient and accurate decision-making, and by helping to
+ automate mundane tasks.
+
+ 9. Virtual Reality (VR) - The movie The Matrix (1999) showed
+ a world where VR is used to enhance the user's experience. VR
+ will have a positive impact by providing more immersive
+ experiences, and by allowing users to interact with virtual
+ objects in the real world.
+
+ 10. Nanotechnology - The movie The Avengers (2012) showed a
+ world where nanotechnology is used to create powerful
+ weapons. Nanotechnology will have a positive impact by
+ providing new ways to manufacture products, and by allowing
+ for more efficient and precise medical treatments.
+
+ 11. Autonomous Drones - The movie Sky Captain and the World
+ of Tomorrow (2004) showed a world where autonomous drones are
+ used to deliver packages. Autonomous drones will have a
+ positive impact by providing faster and more efficient
+ delivery services, and by reducing the need for human labor.
+
+ 12. Quantum Computing - The movie The Imitation Game (2014)
+ showed a world where quantum computing is used to solve
+ complex problems. Quantum computing will have a positive
+ impact by providing more efficient and accurate
+ decision-making, and by helping to automate mundane tasks.
+
+ 13. Synthetic Biology - The movie Gattaca (1997) showed a
+ world where synthetic biology is used to create new life
+ forms. Synthetic biology will have a positive impact by
+ providing new sources of energy, resources, and knowledge.
+
+ 14. Autonomous Robots - The movie Ex Machina (2015) showed a
+ world where autonomous robots are used to help people with
+ their daily lives. Autonomous robots will have a positive
+ impact by providing more efficient and accurate
+ decision-making, and by helping to automate mundane tasks.
+
+ 15. Autonomous Machines - The movie I, Robot (2004) showed a
+ world where autonomous machines are used to help people with
+ their daily lives. Autonomous machines will have a positive
+ impact by providing more efficient and accurate
+ decision-making, and by helping to automate mundane tasks.
+
+
+     finish = stop
+Stats: 1676540333 tot/prompt/compl tokens = 1237/432/805
+

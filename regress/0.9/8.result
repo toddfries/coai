@@ -1,0 +1,64 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 24.18880700s
+Response(s):
+Choice# 0:
+
+ Elon Musk: South African-born American entrepreneur and
+ engineer best known for founding the aerospace manufacturer
+ and space transport services company SpaceX and electric car
+ manufacturer Tesla Inc.
+
+ Dave Ramsey: American financial author, radio host and
+ motivational speaker. Ramsey advocates frugal living and
+ believes in eliminating consumer debt.
+
+ Bill Gates: American businessman, software developer, and
+ philanthropist, who is best known as the co-founder of
+ Microsoft Corporation. Gates is also the second-richest
+ person in the world.
+
+ Oprah Winfrey: American media executive, actress, talk show
+ host, television producer, and philanthropist. Winfrey is
+ best known for her multi-award-winning talk show, The Oprah
+ Winfrey Show, which was the highest-rated program of its kind
+ in history.
+
+ Julian Assange: Australian computer programmer and journalist
+ who founded WikiLeaks. Assange is well known for his work in
+ releasing classified documents and video material related to
+ a number of topics, including war crimes, human rights abuses
+ and government corruption.
+
+ Albert Bourla: Chief Executive Officer of Pfizer, one of the
+ world's largest pharmaceutical companies. Bourla has been
+ credited with helping to turn around Pfizer's fortunes since
+ taking the helm in 2018.
+
+ Xi Jinping: President of the People's Republic of China since
+ 2013. Xi has implemented an aggressive agenda of economic and
+ social reforms as part of his vision for a “modern socialist
+ China.”
+
+ Vladimir Putin: President of the Russian Federation, a
+ position he has held since 2012. Putin's leadership has seen
+ a resurgence in Russian power and status in world affairs.
+
+ Volodymyr Zelensky: President of Ukraine, who took office in
+ 2019. He ran on a platform of anti-corruption and promises to
+ end the war in eastern Ukraine.
+
+ Emmanuel Macron: President of France since 2017, who has
+ sought to take a more central role in European affairs.
+
+ Boris Johnson: Prime Minister of the United Kingdom since
+ 2019, who is best known for his hardline stance on Brexit and
+ international trade deals.
+
+ Justin Trudeau: Prime Minister of Canada since 2015, who has
+ sought to increase Canada's role in global affairs while
+ highlighting Canada's diversity and multiculturalism.
+
+
+     finish = stop
+Stats: 1676500544 tot/prompt/compl tokens = 901/440/461
+

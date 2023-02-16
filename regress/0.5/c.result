@@ -1,0 +1,76 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.5 .. real 34.12093000s
+Response(s):
+Choice# 0:
+
+ 1. AI Companions - Blade Runner 2049 (2017): AI companions
+ will provide companionship and emotional support to those who
+ are lonely or need help.
+
+ 2. Autonomous Vehicles - Her (2013): Autonomous vehicles will
+ reduce traffic accidents and fatalities, reduce air
+ pollution, and make transportation easier and more efficient.
+
+ 3. Teleportation - Star Trek (2009): Teleportation will
+ greatly reduce the need for long-distance travel, allowing
+ people to quickly and easily move from one place to another.
+
+ 4. Virtual Reality - Ready Player One (2018): Virtual reality
+ will provide an immersive, interactive experience that will
+ allow people to explore and experience new places, cultures,
+ and activities.
+
+ 5. Augmented Reality - Iron Man (2008): Augmented reality
+ will allow people to interact with their environment in a
+ more meaningful way, allowing them to see and understand
+ things that are not visible to the naked eye.
+
+ 6. Space Exploration - The Martian (2015): Space exploration
+ will allow us to explore and learn more about our universe
+ and potentially find new sources of energy and resources.
+
+ 7. Nanotechnology - Fantastic Voyage (1966): Nanotechnology
+ will allow us to manipulate matter on a molecular level,
+ allowing us to create new materials and technologies with
+ unprecedented precision.
+
+ 8. Human Augmentation - RoboCop (1987): Human augmentation
+ will allow us to enhance our physical and mental abilities,
+ allowing us to perform tasks more efficiently and
+ effectively.
+
+ 9. Artificial Intelligence - Ex Machina (2015): Artificial
+ intelligence will allow us to automate mundane and repetitive
+ tasks, freeing up time for more creative pursuits.
+
+ 10. 3D Printing - The Fifth Element (1997): 3D printing will
+ allow us to create physical objects from digital designs,
+ allowing us to quickly and easily create products.
+
+ 11. Medical Advancements - Gattaca (1997): Medical
+ advancements will allow us to diagnose and treat diseases
+ more quickly and effectively, improving the overall quality
+ of life.
+
+ 12. Synthetic Biology - Splice (2009): Synthetic biology will
+ allow us to create new organisms and materials with
+ unprecedented precision, allowing us to create new and better
+ products.
+
+ 13. Renewable Energy - Wall-E (2008): Renewable energy will
+ allow us to reduce our dependence on non-renewable sources of
+ energy, helping to reduce pollution and climate change.
+
+ 14. Robotics - I, Robot (2004): Robotics will allow us to
+ automate mundane and repetitive tasks, freeing up time for
+ more creative pursuits.
+
+ 15. Quantum Computing - Transcendence (2014): Quantum
+ computing will allow us to process and store data more
+ quickly and efficiently, allowing us to solve complex
+ problems faster and with greater accuracy.
+
+
+     finish = stop
+Stats: 1676540323 tot/prompt/compl tokens = 986/432/554
+

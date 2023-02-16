@@ -1,0 +1,89 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.5 .. real 82.20203500s
+Response(s):
+Choice# 0:
+
+ 1. The Terminator (1984) - Artificial Intelligence (AI) has
+ become a reality and is being used in many aspects of our
+ lives, including warfare, surveillance, and marketing. This
+ has led to a decrease in personal privacy and a potential
+ increase in authoritarianism.
+
+ 2. The Matrix (1999) - Virtual Reality (VR) has become a
+ reality, and while it can be used for entertainment and
+ educational purposes, it can also be used to manipulate
+ people's perceptions and control their behavior in ways that
+ are not beneficial to society.
+
+ 3. Blade Runner (1982) - Genetic engineering has become a
+ reality, and while it has been used to create new medicines
+ and treatments, it can also be used to create genetically
+ modified organisms (GMOs) that can have negative impacts on
+ the environment and human health.
+
+ 4. WarGames (1983) - Cyberwarfare has become a reality, and
+ while it can be used to protect networks from malicious
+ actors, it can also be used to disrupt critical
+ infrastructure and cause widespread destruction.
+
+ 5. Minority Report (2002) - Predictive analytics has become a
+ reality, and while it can be used to detect and prevent
+ crime, it can also be used to target vulnerable populations
+ and lead to biased decision-making.
+
+ 6. The Island (2005) - Human cloning has become a reality,
+ and while it can be used to create new medical treatments, it
+ can also be used to create weapons of mass destruction and
+ exacerbate global inequality.
+
+ 7. I, Robot (2004) - Robotics has become a reality, and while
+ it can be used to automate mundane tasks, it can also be used
+ to replace human workers and lead to job loss and economic
+ instability.
+
+ 8. Elysium (2013) - Technological inequality has become a
+ reality, and while it can be used to create new
+ opportunities, it can also be used to create a two-tiered
+ society where the wealthy have access to the best technology
+ while the poor suffer from a lack of resources.
+
+ 9. A.I. Artificial Intelligence (2001) - Artificial
+ intelligence (AI) has become a reality, and while it can be
+ used to automate mundane tasks, it can also be used to
+ replace human workers and lead to job loss and economic
+ instability.
+
+ 10. Wall-E (2008) - Overconsumption has become a reality, and
+ while it can be used to create new products, it can also be
+ used to create environmental destruction and waste.
+
+ 11. The Hunger Games (2012) - Mass surveillance has become a
+ reality, and while it can be used to detect and prevent
+ crime, it can also be used to target vulnerable populations
+ and lead to biased decision-making.
+
+ 12. Gattaca (1997) - Eugenics has become a reality, and while
+ it can be used to create new treatments and medicines, it can
+ also be used to create a two-tiered society based on genetic
+ engineering and exacerbate global inequality.
+
+ 13. The Day After Tomorrow (2004) - Climate change has become
+ a reality, and while it can be used to create new sources of
+ energy, it can also be used to create extreme weather events
+ and lead to environmental destruction.
+
+ 14. Jurassic Park (1993) - Genetic engineering has become a
+ reality, and while it can be used to create new medicines and
+ treatments, it can also be used to create genetically
+ modified organisms (GMOs) that can have negative impacts on
+ the environment and human health.
+
+ 15. Avatar (2009) - Colonization has become a reality, and
+ while it can be used to create new opportunities, it can also
+ be used to exploit vulnerable populations and lead to human
+ rights violations.
+
+
+     finish = stop
+Stats: 1676540356 tot/prompt/compl tokens = 1193/425/768
+

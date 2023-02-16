@@ -1,0 +1,97 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.5 .. real 65.51343500s
+Response(s):
+Choice# 0:
+
+ 1. 3D Printing (The Fifth Element, 1997) - 3D printing has
+ had a positive impact by allowing people to create a variety
+ of products with a high degree of accuracy and detail. It has
+ been used in a variety of industries, including medical,
+ aerospace, and automotive.
+
+ 2. Autonomous Vehicles (I, Robot, 2004) - Autonomous vehicles
+ have had a positive impact by reducing traffic congestion,
+ increasing safety, and providing more efficient
+ transportation options.
+
+ 3. Virtual Reality (The Matrix, 1999) - Virtual reality has
+ had a positive impact by allowing people to experience
+ immersive and realistic environments. It has been used in
+ education, entertainment, and training.
+
+ 4. Voice Recognition (Her, 2013) - Voice recognition has had
+ a positive impact by allowing people to interact with
+ technology in a more natural and intuitive way. It has been
+ used in a variety of applications, including voice-controlled
+ home automation systems.
+
+ 5. Augmented Reality (Minority Report, 2002) - Augmented
+ reality has had a positive impact by allowing people to
+ interact with digital content in the real world. It has been
+ used in a variety of applications, including navigation,
+ gaming, and entertainment.
+
+ 6. Smart Homes (Smart House, 1999) - Smart homes have had a
+ positive impact by allowing people to control their home
+ environment remotely and automate various tasks. It has been
+ used in a variety of applications, including home security
+ and energy efficiency.
+
+ 7. Wearable Technology (Iron Man, 2008) - Wearable technology
+ has had a positive impact by allowing people to track and
+ monitor their health and fitness. It has been used in a
+ variety of applications, including fitness tracking and
+ medical monitoring.
+
+ 8. Artificial Intelligence (A.I. Artificial Intelligence,
+ 2001) - Artificial intelligence has had a positive impact by
+ allowing people to interact with machines in a more natural
+ and intuitive way. It has been used in a variety of
+ applications, including natural language processing and
+ machine learning.
+
+ 9. Robotic Surgery (Surrogates, 2009) - Robotic surgery has
+ had a positive impact by allowing surgeons to perform complex
+ operations with greater precision and accuracy. It has been
+ used in a variety of medical procedures, including minimally
+ invasive surgery.
+
+ 10. Autonomous Drones (Elysium, 2013) - Autonomous drones
+ have had a positive impact by allowing people to perform
+ tasks that would otherwise be too dangerous or difficult. It
+ has been used in a variety of applications, including search
+ and rescue, surveillance, and aerial photography.
+
+ 11. Facial Recognition (Minority Report, 2002) - Facial
+ recognition has had a positive impact by allowing people to
+ quickly and accurately identify individuals. It has been used
+ in a variety of applications, including security and law
+ enforcement.
+
+ 12. Smart Cities (Minority Report, 2002) - Smart cities have
+ had a positive impact by allowing cities to become more
+ efficient, sustainable, and connected. It has been used in a
+ variety of applications, including traffic management, energy
+ efficiency, and public safety.
+
+ 13. Cloud Computing (Avatar, 2009) - Cloud computing has had
+ a positive impact by allowing people to access and store data
+ in the cloud. It has been used in a variety of applications,
+ including software development and data storage.
+
+ 14. Internet of Things (Minority Report, 2002) - The Internet
+ of Things has had a positive impact by allowing people to
+ connect and control devices remotely. It has been used in a
+ variety of applications, including home automation and energy
+ management.
+
+ 15. Telepresence (Avatar, 2009) - Telepresence has had a
+ positive impact by allowing people to communicate remotely in
+ a more natural and intuitive way. It has been used in a
+ variety of applications, including education and remote
+ collaboration.
+
+
+     finish = stop
+Stats: 1676540440 tot/prompt/compl tokens = 1199/425/774
+

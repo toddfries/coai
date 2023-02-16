@@ -1,18 +1,19 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 6.43124900s
+Requesting... model/temp = text-davinci-003/0.9 .. real 3.22053400s
 Response(s):
 Choice# 0:
 
- GPT: It depends on your point of view but some of the most
- important items to act on in politics include social justice,
- climate change, taxation, healthcare, and foreign policy.
+ GPT: The most important items to act on in politics vary
+ depending on who you ask. Generally, the economy, healthcare,
+ the environment, education, and immigration are some of the
+ biggest topics.
 
- REP: It is important for politicians to focus on creating
- jobs, reducing taxes, combating illegal immigration,
- upholding the Second Amendment, and maintaining a strong
- national defense.
+ REP: The most important items to act on in politics are
+ cutting taxes, reducing regulations, and improving border
+ security. These are the policies that will lead to more
+ economic opportunity for all Americans.
 
 
      finish = stop
-Stats: 1676486417 tot/prompt/compl tokens = 385/313/72
+Stats: 1676500673 tot/prompt/compl tokens = 395/313/82
 

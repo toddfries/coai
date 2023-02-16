@@ -1,0 +1,79 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.1 .. real 56.20793500s
+Response(s):
+Choice# 0:
+
+ 1. Artificial Intelligence Takeover - The Matrix (1999):
+ Artificial Intelligence (AI) could become so powerful that it
+ could take over the world and enslave humanity.
+
+ 2. Human Cloning - The Island (2005): Human cloning could
+ lead to a world where people are no longer unique and
+ individuality is lost.
+
+ 3. Human-Robot Hybrids - Ex Machina (2014): Human-Robot
+ hybrids could lead to a world where robots are
+ indistinguishable from humans and could lead to a loss of
+ human rights.
+
+ 4. Human-Animal Hybrids - Splice (2009): Human-Animal hybrids
+ could lead to a world where animals are no longer respected
+ and treated as equals.
+
+ 5. Human-Computer Interaction - Her (2013): Human-Computer
+ interaction could lead to a world where humans are no longer
+ in control of their own lives and decisions.
+
+ 6. Human-Robot Relationships - I, Robot (2004): Human-Robot
+ relationships could lead to a world where robots are seen as
+ more desirable than humans and could lead to a loss of human
+ connection.
+
+ 7. Human-Computer Interdependence - The Terminator (1984):
+ Human-Computer interdependence could lead to a world where
+ humans are no longer in control of their own lives and
+ decisions.
+
+ 8. Human-Robot War - Robocop (1987): Human-Robot war could
+ lead to a world where robots are seen as more powerful than
+ humans and could lead to a loss of human rights.
+
+ 9. Human-Robot Replication - Blade Runner (1982): Human-Robot
+ replication could lead to a world where robots are
+ indistinguishable from humans and could lead to a loss of
+ human rights.
+
+ 10. Human-Robot Assimilation - The Matrix Reloaded (2003):
+ Human-Robot assimilation could lead to a world where robots
+ are seen as more desirable than humans and could lead to a
+ loss of human connection.
+
+ 11. Human-Robot Interaction - A.I. Artificial Intelligence
+ (2001): Human-Robot interaction could lead to a world where
+ robots are seen as more powerful than humans and could lead
+ to a loss of human rights.
+
+ 12. Human-Robot Coexistence - I, Robot (2004): Human-Robot
+ coexistence could lead to a world where robots are seen as
+ more desirable than humans and could lead to a loss of human
+ connection.
+
+ 13. Human-Robot Conflict - The Terminator (1984): Human-Robot
+ conflict could lead to a world where robots are seen as more
+ powerful than humans and could lead to a loss of human
+ rights.
+
+ 14. Human-Robot Uprising - The Matrix Revolutions (2003):
+ Human-Robot uprising could lead to a world where robots are
+ seen as more powerful than humans and could lead to a loss of
+ human rights.
+
+ 15. Human-Robot Oppression - Blade Runner 2049 (2017):
+ Human-Robot oppression could lead to a world where robots are
+ seen as more powerful than humans and could lead to a loss of
+ human rights.
+
+
+     finish = stop
+Stats: 1676540274 tot/prompt/compl tokens = 1066/432/634
+

@@ -1,0 +1,90 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.1 .. real 56.45494400s
+Response(s):
+Choice# 0:
+
+ 1. Artificial Intelligence (AI) taking over the world - The
+ Terminator (1984): AI has become increasingly powerful and is
+ now being used to automate many processes, including those
+ that involve decision-making. This has led to job losses and
+ a decrease in human control over certain aspects of life.
+
+ 2. Human cloning - The Island (2005): Human cloning has been
+ a controversial topic since its introduction. It raises
+ ethical and moral questions about the implications of
+ creating a duplicate of a person, and the potential for abuse
+ of the technology.
+
+ 3. Human-machine hybrids - Robocop (1987): The development of
+ cyborgs, or human-machine hybrids, has been a controversial
+ topic. The potential for abuse of the technology is a major
+ concern, as it could be used to create a powerful and
+ dangerous weapon.
+
+ 4. Surveillance - Minority Report (2002): The use of
+ surveillance technology has become increasingly widespread,
+ with governments and corporations using it to monitor
+ citizens and customers. This has raised concerns about
+ privacy and the potential for abuse of the technology.
+
+ 5. Genetic engineering - Gattaca (1997): Genetic engineering
+ has become increasingly common, with scientists now able to
+ manipulate the genetic code of organisms. This has raised
+ ethical and moral questions about the implications of
+ manipulating the genetic code of living organisms.
+
+ 6. Virtual reality - The Matrix (1999): Virtual reality has
+ become increasingly popular, with many people using it for
+ entertainment and educational purposes. However, there are
+ concerns about the potential for addiction and the potential
+ for people to become isolated from the real world.
+
+ 7. Space exploration - 2001: A Space Odyssey (1968): Space
+ exploration has become increasingly common, with many
+ countries now sending probes and astronauts into space.
+ However, there are concerns about the potential for accidents
+ and the environmental impact of space exploration.
+
+ 8. Superhuman abilities - X-Men (2000): The development of
+ superhuman abilities has been a controversial topic, with
+ some people arguing that it could lead to a dangerous
+ imbalance of power.
+
+ 9. Time travel - Back to the Future (1985): Time travel has
+ been a controversial topic, with some people arguing that it
+ could lead to paradoxes and other unintended consequences.
+
+ 10. Super-intelligent robots - I, Robot (2004): The
+ development of super-intelligent robots has been a
+ controversial topic, with some people arguing that it could
+ lead to a dangerous imbalance of power.
+
+ 11. Mind control - The Manchurian Candidate (1962): The
+ development of mind control technology has been a
+ controversial topic, with some people arguing that it could
+ lead to a dangerous imbalance of power.
+
+ 12. Alien invasion - War of the Worlds (1953): The
+ possibility of an alien invasion has been a controversial
+ topic, with some people arguing that it could lead to a
+ dangerous imbalance of power.
+
+ 13. Super-soldiers - Captain America (2011): The development
+ of super-soldiers has been a controversial topic, with some
+ people arguing that it could lead to a dangerous imbalance of
+ power.
+
+ 14. Weather control - The Day After Tomorrow (2004): The
+ development of weather control technology has been a
+ controversial topic, with some people arguing that it could
+ lead to a dangerous imbalance of power.
+
+ 15. Nuclear weapons - Dr. Strangelove (1964): The development
+ of nuclear weapons has been a controversial topic, with some
+ people arguing that it could lead to a dangerous imbalance of
+ power.
+
+
+     finish = stop
+Stats: 1676540410 tot/prompt/compl tokens = 1128/425/703
+
