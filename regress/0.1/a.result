@@ -1,112 +1,59 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 71.17789800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 43.07858100s
 Response(s):
 Choice# 0:
 
- 1. Autonomous Vehicles: The movie I, Robot (2004) featured
- autonomous vehicles that were able to drive themselves.
- Autonomous vehicles are now a reality and are being used in
- many industries, such as transportation, agriculture, and
- mining. Autonomous vehicles have had a positive impact by
- increasing safety, reducing costs, and improving efficiency.
-
- 2. Augmented Reality: The movie Minority Report (2002)
- featured augmented reality technology. Augmented reality is
- now a reality and is being used in many industries, such as
- gaming, education, and healthcare. Augmented reality has had
- a positive impact by providing immersive experiences,
- increasing engagement, and improving accessibility.
-
- 3. Artificial Intelligence: The movie The Terminator (1984)
- featured artificial intelligence. Artificial intelligence is
- now a reality and is being used in many industries, such as
- finance, healthcare, and retail. Artificial intelligence has
- had a positive impact by automating mundane tasks, increasing
- accuracy, and providing personalized experiences.
-
- 4. Robotics: The movie Wall-E (2008) featured robotics.
- Robotics is now a reality and is being used in many
- industries, such as manufacturing, logistics, and healthcare.
- Robotics has had a positive impact by increasing
- productivity, reducing costs, and improving safety.
-
- 5. 3D Printing: The movie The Fifth Element (1997) featured
- 3D printing. 3D printing is now a reality and is being used
- in many industries, such as manufacturing, engineering, and
- healthcare. 3D printing has had a positive impact by reducing
- waste, increasing efficiency, and improving accuracy.
-
- 6. Virtual Reality: The movie The Matrix (1999) featured
- virtual reality. Virtual reality is now a reality and is
- being used in many industries, such as gaming, entertainment,
- and education. Virtual reality has had a positive impact by
- providing immersive experiences, increasing engagement, and
- improving accessibility.
-
- 7. Autonomous Drones: The movie Sky Captain and the World of
- Tomorrow (2004) featured autonomous drones. Autonomous drones
- are now a reality and are being used in many industries, such
- as agriculture, logistics, and defense. Autonomous drones
- have had a positive impact by increasing safety, reducing
- costs, and improving efficiency.
-
- 8. Wearable Technology: The movie Iron Man (2008) featured
- wearable technology. Wearable technology is now a reality and
- is being used in many industries, such as healthcare,
- fitness, and entertainment. Wearable technology has had a
- positive impact by providing personalized experiences,
- increasing accuracy, and improving accessibility.
-
- 9. Autonomous Robots: The movie Big Hero 6 (2014) featured
- autonomous robots. Autonomous robots are now a reality and
- are being used in many industries, such as manufacturing,
- logistics, and healthcare. Autonomous robots have had a
- positive impact by increasing productivity, reducing costs,
- and improving safety.
-
- 10. Voice Recognition: The movie Her (2013) featured voice
- recognition. Voice recognition is now a reality and is being
- used in many industries, such as finance, healthcare, and
- retail. Voice recognition has had a positive impact by
- automating mundane tasks, increasing accuracy, and providing
- personalized experiences.
-
- 11. Autonomous Underwater Vehicles: The movie The Abyss
- (1989) featured autonomous underwater vehicles. Autonomous
- underwater vehicles are now a reality and are being used in
- many industries, such as exploration, defense, and research.
- Autonomous underwater vehicles have had a positive impact by
- increasing safety, reducing costs, and improving efficiency.
-
- 12. Autonomous Spacecraft: The movie 2001: A Space Odyssey
- (1968) featured autonomous spacecraft. Autonomous spacecraft
- are now a reality and are being used in many industries, such
- as exploration, defense, and research. Autonomous spacecraft
- have had a positive impact by increasing safety, reducing
- costs, and improving efficiency.
-
- 13. Autonomous Aircraft: The movie The Aviator (2004)
- featured autonomous aircraft. Autonomous aircraft are now a
- reality and are being used in many industries, such as
- transportation, agriculture, and mining. Autonomous aircraft
- have had a positive impact by increasing safety, reducing
- costs, and improving efficiency.
-
- 14. Autonomous Submarines: The movie The Hunt for Red October
- (1990) featured autonomous submarines. Autonomous submarines
- are now a reality and are being used in many industries, such
- as exploration, defense, and research. Autonomous submarines
- have had a positive impact by increasing safety, reducing
- costs, and improving efficiency.
-
- 15. Autonomous Satellites: The movie Gravity (2013) featured
- autonomous satellites. Autonomous satellites are now a
- reality and are being used in many industries, such as
- exploration, defense, and research. Autonomous satellites
- have had a positive impact by increasing safety, reducing
- costs, and improving efficiency.
+TRUT: 
+ 1. The Terminator (1984): Artificial Intelligence (AI) has
+ become a reality and is being used in many industries, from
+ healthcare to finance. AI is being used to automate
+ processes, improve customer service, and even diagnose
+ diseases.
+ 2. Star Trek (1966): Voice recognition technology has become
+ a reality, allowing people to interact with computers and
+ other devices using their voice.
+ 3. The Matrix (1999): Virtual Reality (VR) has become a
+ reality, allowing people to experience immersive 3D
+ environments. VR is being used in many industries, from
+ gaming to healthcare.
+ 4. Back to the Future (1985): Hoverboards have become a
+ reality, with companies like Lexus and Arx Pax creating
+ working hoverboards.
+ 5. Blade Runner (1982): Autonomous robots have become a
+ reality, with robots being used in many industries, from
+ manufacturing to healthcare.
+ 6. Star Wars (1977): Laser weapons have become a reality,
+ with the US military using laser weapons to shoot down drones
+ and other targets.
+ 7. The Jetsons (1962): Video conferencing has become a
+ reality, allowing people to communicate with each other in
+ real-time over the internet.
+ 8. War Games (1983): Cybersecurity has become a reality, with
+ companies and governments investing heavily in cybersecurity
+ to protect their data and systems.
+ 9. Wall-E (2008): Autonomous vehicles have become a reality,
+ with companies like Tesla and Google developing self-driving
+ cars.
+ 10. The Fifth Element (1997): 3D printing has become a
+ reality, with 3D printers being used to create everything
+ from medical implants to food.
+ 11. Star Trek (1966): Teleportation has become a reality,
+ with scientists successfully teleporting photons over a
+ distance of 10 miles.
+ 12. The Matrix (1999): Augmented Reality (AR) has become a
+ reality, with companies like Microsoft and Apple developing
+ AR headsets.
+ 13. Star Trek (1966): Medical tricorders have become a
+ reality, with companies like Scanadu and Qualcomm developing
+ medical tricorders that can measure vital signs.
+ 14. Star Trek (1966): Replicators have become a reality, with
+ companies like 3D Systems and Stratasys developing 3D
+ printers that can print objects in a variety of materials.
+ 15. Star Trek (1966): Warp drive has become a reality, with
+ scientists successfully creating a warp field in a laboratory
+ setting.
 
 
      finish = stop
-Stats: 1676540470 tot/prompt/compl tokens = 1381/425/956
+Stats: 1676541275 tot/prompt/compl tokens = 931/422/509
 

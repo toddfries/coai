@@ -1,99 +1,63 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 80.11946700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 50.17022800s
 Response(s):
 Choice# 0:
 
- 1. Biological and ecological disasters: The movie “The Day
- After Tomorrow” (2004) portrayed the sudden deterioration of
- the planet’s environment due to climate change. This has
- become a reality with increasing reports of extreme weather
- occurrences and rising sea levels due to global warming.
-
- 2. Physical and mental augmentation: The movie “Elysium”
- (2013) showed a world where technology has taken away the
- differences between the wealthy and the poor. This has become
- an issue in recent years with companies and governments using
- technology to further their own interests and the
- exploitation of people from different social levels.
-
- 3. Gender discrimination: The movie “Her” (2013) showed us a
- world where technology has taken away the differences between
- the sexes. Again, this has become true in the real world with
- modern technologies, leading to discrimination and gender
- inequality.
-
- 4. Artificial intelligence: The movie “Ex Machina” (2015)
- focused on the development of artificial intelligence with
- dangerous consequences. This, too, has become reality with AI
- development and its application in various areas, such as
- finance and warfare.
-
- 5. Technology-induced violence: The movie “Robocop” (1987)
- depicted a world where police forces used robots and androids
- to enforce law and order through violence. This has become an
- issue in the real world, with the use of drones and
- autonomous weapons to conduct warfare without human
- oversight.
-
- 6. Weaponized super humans: The movie “X-Men 2” (2003) showed
- powerful mutants being used as living weapons. This has
- become a reality with the military using soldiers with
- enhanced abilities, such as those in the IDF's Unit 8200 and
- the United States’s secretive program DARPA.
-
- 7. Nuclear warfare: The movie “Dr. Strangelove or: How I
- Learned to Stop Worrying and Love the Bomb” (1964) showed a
- world where nuclear warfare can occur at any moment. This has
- become true in the real world, with the proliferation of
- nuclear weapons and the possibility of a nuclear war.
-
- 8. Human-animal hybrids: The movie “Splice” (2009) showed
- humans combining the DNA of different species in order to
- create hybrid creatures. This has become a reality with the
- use of cloning and genetic engineering to create human-animal
- hybrids.
-
- 9. Social media addiction: The movie “The Circle” (2017)
- showed a world where social media and technology have
- replaced personal interaction and consumed people’s lives.
- This has become a reality, with people increasingly turning
- to social media for companionship and entertainment, ignoring
- its potential for addiction.
-
- 10. Technological surveillance: The movie “Minority Report”
- (2002) showed a world where technology is used to constantly
- monitor people’s movements and activities. This has become
- true in recent years, with governments and corporations
- deploying surveillance technologies across the world.
-
- 11. Virtual Reality: The movie “The Matrix” (1999) showed a
- world where people’s minds are put into virtual reality and
- disconnected from the real world. This has become a reality,
- with virtual reality technology becoming more and more
- accessible.
-
- 12. Blackmail: The movie “The Social Network” (2010)
- presented a world where people’s private information is used
- against them. This has become reality, with the use of
- personal information for blackmail and extortion.
-
- 13. Autonomous vehicles: The movie “I, Robot” (2004) showed a
- world where robots are used to replace human labor. This has
- become true in the real world, with driverless cars being
- developed and becoming more and more common.
-
- 14. robot servants: The movie “Blade Runner” (1982) portrayed
- robots as servants and tools of humans. This has become a
- reality, with robots being used for a variety of tasks, such
- as in factories and hospitals.
-
- 15. Exploitation of natural resources: The movie “Wall-E”
- (2008) showed a world where humans have depleted and
- contaminated the planet’s natural resources. This has become
- a reality, with businesses exploiting resources and polluting
- the environment for their own financial gain.
+TRUT: 
+ 1. Skynet (The Terminator, 1984) - Artificial Intelligence
+ has been used to autonomously create weaponry, allowing for
+ the development of autonomous drone warfare.
+ 2. Virtual Reality (The Matrix, 1999) - Virtual reality
+ technology has been used to create highly immersive gaming
+ and entertainment experiences, but has also been used to
+ create immersive training simulations which could desensitize
+ people to violence.
+ 3. Cybernetics (RoboCop, 1987) - Cybernetic implants have
+ been developed to help repair and even improve human bodies,
+ but there are many risks associated with their use.
+ 4. Cyborgs (Blade Runner, 1982) - Cyborgs are now a reality,
+ with the development of prosthetics and other technologies
+ allowing for the enhancement of humans.
+ 5. Time Travel (Back to the Future, 1985) - Though time
+ travel has yet to be achieved, new technologies like quantum
+ computing have opened up the possibility of manipulating time
+ and space.
+ 6. Teleportation (Jumper, 2008) - Quantum teleportation is a
+ potential reality now, allowing for the transfer of
+ information from one point to another.
+ 7. Human Cloning (The Island, 2005) - Cloning has been used
+ successfully with animals, but the legal and ethical
+ implications of cloning humans have yet to be fully explored.
+ 8. Superhuman Abilities (X-Men, 2000) - Genetic engineering
+ and advances in technology have allowed for some people to
+ push the limits of the human body, and even achieve
+ superhuman abilities.
+ 9. Autonomous Vehicles (Minority Report, 2002) - Autonomous
+ vehicles are becoming increasingly common, with cars, drones,
+ and other machines operating without human input.
+ 10. Genetic Engineering (Gattaca, 1997) - Advances in genetic
+ engineering have allowed for the modification of organisms to
+ increase their abilities or even create new life forms.
+ 11. Hoverboards (Back to the Future Part II, 1989) -
+ Hoverboards are now a reality, though most only work on a
+ magnetic surface and not in mid-air.
+ 12. Personal AI Assistants (Her, 2013) - Virtual personal
+ assistants like Alexa and Siri are becoming common,
+ responding to voice commands and able to handle a wide range
+ of tasks.
+ 13. Digital Money (Minority Report, 2002) - Digital
+ currencies like Bitcoin are now commonplace, with governments
+ also looking into their own digital currencies.
+ 14. 3D Printing (Terminator 3: Rise of the Machines, 2003) -
+ 3D printing is becoming increasingly popular, used in many
+ industries including manufacturing, construction, and
+ medicine.
+ 15. Brain Uploading (Transcendence, 2014) - Although still in
+ its infancy, brain uploading technology has been explored,
+ allowing people to transfer their consciousness into digital
+ form.
 
 
      finish = stop
-Stats: 1676540354 tot/prompt/compl tokens = 1308/425/883
+Stats: 1676541119 tot/prompt/compl tokens = 984/422/562
 

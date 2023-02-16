@@ -1,90 +1,74 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 56.45494400s
+Requesting... model/temp = text-davinci-003/0.1 .. real 55.50583400s
 Response(s):
 Choice# 0:
 
- 1. Artificial Intelligence (AI) taking over the world - The
- Terminator (1984): AI has become increasingly powerful and is
- now being used to automate many processes, including those
- that involve decision-making. This has led to job losses and
- a decrease in human control over certain aspects of life.
-
- 2. Human cloning - The Island (2005): Human cloning has been
- a controversial topic since its introduction. It raises
- ethical and moral questions about the implications of
- creating a duplicate of a person, and the potential for abuse
- of the technology.
-
- 3. Human-machine hybrids - Robocop (1987): The development of
- cyborgs, or human-machine hybrids, has been a controversial
- topic. The potential for abuse of the technology is a major
- concern, as it could be used to create a powerful and
- dangerous weapon.
-
- 4. Surveillance - Minority Report (2002): The use of
- surveillance technology has become increasingly widespread,
- with governments and corporations using it to monitor
- citizens and customers. This has raised concerns about
- privacy and the potential for abuse of the technology.
-
- 5. Genetic engineering - Gattaca (1997): Genetic engineering
- has become increasingly common, with scientists now able to
- manipulate the genetic code of organisms. This has raised
- ethical and moral questions about the implications of
- manipulating the genetic code of living organisms.
-
- 6. Virtual reality - The Matrix (1999): Virtual reality has
- become increasingly popular, with many people using it for
- entertainment and educational purposes. However, there are
- concerns about the potential for addiction and the potential
- for people to become isolated from the real world.
-
- 7. Space exploration - 2001: A Space Odyssey (1968): Space
- exploration has become increasingly common, with many
- countries now sending probes and astronauts into space.
- However, there are concerns about the potential for accidents
- and the environmental impact of space exploration.
-
- 8. Superhuman abilities - X-Men (2000): The development of
- superhuman abilities has been a controversial topic, with
- some people arguing that it could lead to a dangerous
- imbalance of power.
-
- 9. Time travel - Back to the Future (1985): Time travel has
- been a controversial topic, with some people arguing that it
- could lead to paradoxes and other unintended consequences.
-
- 10. Super-intelligent robots - I, Robot (2004): The
- development of super-intelligent robots has been a
- controversial topic, with some people arguing that it could
- lead to a dangerous imbalance of power.
-
- 11. Mind control - The Manchurian Candidate (1962): The
- development of mind control technology has been a
- controversial topic, with some people arguing that it could
- lead to a dangerous imbalance of power.
-
- 12. Alien invasion - War of the Worlds (1953): The
- possibility of an alien invasion has been a controversial
- topic, with some people arguing that it could lead to a
- dangerous imbalance of power.
-
- 13. Super-soldiers - Captain America (2011): The development
- of super-soldiers has been a controversial topic, with some
- people arguing that it could lead to a dangerous imbalance of
- power.
-
- 14. Weather control - The Day After Tomorrow (2004): The
- development of weather control technology has been a
- controversial topic, with some people arguing that it could
- lead to a dangerous imbalance of power.
-
- 15. Nuclear weapons - Dr. Strangelove (1964): The development
- of nuclear weapons has been a controversial topic, with some
- people arguing that it could lead to a dangerous imbalance of
- power.
+TRUT: 
+ 1. The Terminator (1984): Artificial Intelligence - The
+ development of AI has caused a great deal of concern about
+ the potential for machines to become smarter than humans and
+ take over the world.
+ 2. Blade Runner (1982): Humanoid Robots - The development of
+ humanoid robots has raised ethical questions about the use of
+ robots in society and the potential for them to replace
+ humans in certain roles.
+ 3. WarGames (1983): Hacking - The development of hacking has
+ caused a great deal of concern about the security of computer
+ systems and the potential for malicious actors to gain access
+ to sensitive information.
+ 4. The Matrix (1999): Virtual Reality - The development of
+ virtual reality has raised questions about the potential for
+ people to become addicted to virtual worlds and the potential
+ for virtual reality to be used for nefarious purposes.
+ 5. Jurassic Park (1993): Genetic Engineering - The
+ development of genetic engineering has raised ethical
+ questions about the potential for humans to manipulate the
+ genetic code of living organisms and the potential for the
+ misuse of this technology.
+ 6. Minority Report (2002): Predictive Analytics - The
+ development of predictive analytics has raised questions
+ about the potential for governments and corporations to use
+ this technology to predict and manipulate people's behavior.
+ 7. The Island (2005): Cloning - The development of cloning
+ has raised ethical questions about the potential for humans
+ to clone themselves and the potential for the misuse of this
+ technology.
+ 8. Avatar (2009): Augmented Reality - The development of
+ augmented reality has raised questions about the potential
+ for people to become addicted to virtual worlds and the
+ potential for augmented reality to be used for nefarious
+ purposes.
+ 9. Wall-E (2008): Automation - The development of automation
+ has raised questions about the potential for machines to
+ replace humans in certain roles and the potential for
+ automation to be used for nefarious purposes.
+ 10. I, Robot (2004): Autonomous Robots - The development of
+ autonomous robots has raised ethical questions about the
+ potential for robots to become smarter than humans and take
+ over the world.
+ 11. The Social Network (2010): Social Media - The development
+ of social media has raised questions about the potential for
+ people to become addicted to social media and the potential
+ for social media to be used for nefarious purposes.
+ 12. Her (2013): Artificial Intelligence - The development of
+ AI has caused a great deal of concern about the potential for
+ machines to become smarter than humans and take over the
+ world.
+ 13. Ex Machina (2014): Artificial Intelligence - The
+ development of AI has caused a great deal of concern about
+ the potential for machines to become smarter than humans and
+ take over the world.
+ 14. Ready Player One (2018): Virtual Reality - The
+ development of virtual reality has raised questions about the
+ potential for people to become addicted to virtual worlds and
+ the potential for virtual reality to be used for nefarious
+ purposes.
+ 15. Alita: Battle Angel (2019): Cybernetics - The development
+ of cybernetics has raised ethical questions about the
+ potential for humans to become cyborgs and the potential for
+ the misuse of this technology.
 
 
      finish = stop
-Stats: 1676540410 tot/prompt/compl tokens = 1128/425/703
+Stats: 1676541249 tot/prompt/compl tokens = 1053/422/631
 
