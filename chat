@@ -187,5 +187,5 @@ sub word_wrap {
 		}
 		$res .= "\n";
 	}
-	return decode('utf8', $res);
+	return $res; # decode('utf8', $res);
 }
