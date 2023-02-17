@@ -1,9 +1,14 @@
 # coai
 
-... go to the development pages of chat.openai.com and get a key
+If you go to the following page and log in, then scroll to 'Add your API key'
+and just below that you can create it inline on that page.
 
+Then do this (or equivalent) to save it locally:
+
+```
 mkdir -p $HOME/.config/coai
 echo "key = super_secret_key" > $HOME/.config/coai/key.conf
+```
 
 `chat [ -c <config with key> ] [ -m <model> ] [ -p <prolog file> ]`
 
