@@ -1,4 +1,4 @@
-# coai
+# coai - Chat with OpenAI::API
 
 To create your api key:
  - go to the [build-your-application](https://platform.openai.com/docs/quickstart/build-your-application) page
