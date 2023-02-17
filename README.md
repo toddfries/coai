@@ -12,46 +12,55 @@ echo "key = super_secret_key" > $HOME/.config/coai/key.conf
 
 `chat [ -c <config with key> ] [ -m <model> ] [ -p <prolog file> ]`
 
-Basic usage:
+When using, note 'Query? ...' is the prompt, 'done.' is how you end to permit multiple lines
+of input.  More examples [here](https://github.com/toddfries/coai/blob/master/EXAMPLES.md).
 
 ```
 $ perl ./chat
 Query? (type 'done.' to end)
-Please write a poem about the founder of bitcoin.  Make it funny, but fact filled.
+Show me 'hello, world' in C, ruby, python, m4, ada.
 done.
-Sending...
+Requesting... model/temp = text-davinci-003/0.5 .. real 6.57489500s
 Response(s):
- 0. 
-Satoshi Nakamoto, the man of mystery,
-Is the one who created Bitcoin history.
-He's a genius beyond compare,
-For he created a digital currency fair.
+Choice# 0:
 
-He wrote a paper on the blockchain,
-Which gave us a decentralized system that can't be broken.
-He's an anonymous figure, no one knows who he is,
-But his invention of Bitcoin is a true biz.
+C:
+#include <stdio.h>
+int main()
+{
+    printf("Hello, world!");
+    return 0;
+}
 
-He's a master of cryptography,
-His ideas are revolutionary.
-He created a new way to transact,
-And it doesn't require any bank to act.
+Ruby:
+puts "Hello, world!"
 
-Satoshi Nakamoto, the man of mystery,
-Is the one who created Bitcoin history.
-He's a genius beyond compare,
-For he created a digital currency fair.
+Python:
+print("Hello, world!")
+
+M4:
+define(`hello_world', `Hello, world!')
+
+Ada:
+with Ada.Text_IO;
+use Ada.Text_IO;
+
+procedure Hello_World is
+begin
+   Put_Line("Hello, world!");
+end Hello_World;
+
 
      finish = stop
-Stats: 1675737715 tot/prompt/compl tokens = 179/20/159
-
-Query? (type 'done.' to end)
+Stats: 1676650793 tot/prompt/compl tokens = 147/21/126
 ```
 
-Basic testing:
+Geek alert full data structures ahead!
 
 ```
 $ perl ./hello
+
+```
 response:
 $VAR1 = {
           'choices' => [
@@ -61,17 +70,17 @@ $VAR1 = {
                            'finish_reason' => 'stop',
                            'text' => '
 
-"World!"'
+The answer would depend on what the programmer is writing. Some common responses to "Hello" in a program might be "Hi there!", "How can I help you?", or "What do you need?"'
                          }
                        ],
           'object' => 'text_completion',
-          'created' => 1674607424,
-          'id' => 'cmpl-6cOB68hw0PDqZGkzszNneBHKOFJBN',
+          'created' => 1676651374,
+          'id' => 'cmpl-6kxu2Qyiy22auA8DklVgryYiPkZ9j',
           'model' => 'text-davinci-003',
           'usage' => {
-                       'total_tokens' => 14,
-                       'prompt_tokens' => 9,
-                       'completion_tokens' => 5
+                       'completion_tokens' => 43,
+                       'total_tokens' => 52,
+                       'prompt_tokens' => 9
                      }
         };
 
