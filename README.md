@@ -1,7 +1,10 @@
 # coai
 
-If you go to the following page and log in, then scroll to 'Add your API key'
-and just below that you can create it inline on that page.
+To create your api key:
+ - go to the [build-your-application](https://platform.openai.com/docs/quickstart/build-your-application) page
+ - log in
+ - then scroll to 'Add your API key'
+ - just below that you can create it inline
 
 Then do this (or equivalent) to save it locally:
 
