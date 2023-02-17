@@ -63,7 +63,6 @@ Geek alert full data structures ahead!
 ```
 $ perl ./hello
 
-```
 response:
 $VAR1 = {
           'choices' => [
