@@ -17,21 +17,34 @@
 use strict;
 use warnings;
 
+use Config::Tiny;
 use Data::Dumper;
 use OpenAI::API;
 
-my $key;
-open(K,".key");
-chomp($key = <K>);
-close(K);
+my ($opt_c, $opt_m, $opt_t);
+# defaults
+$opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
+$opt_m = 'text-davinci-003',
+$opt_t = 5;
+
+if (! -f $opt_c) {
+	die "Can't open ${opt_c} to read in the key";
+}
+
+my $temperature = $opt_t * 0.1;
+
+my $cobj = Config::Tiny->new();
+
+my $config = $cobj->read($opt_c);
+my $key = $config->{_}->{key};
 
 my $openai = OpenAI::API->new( api_key => $key );
 
 my $response = $openai->completions(
-	model => 'text-davinci-003',
+	model => $opt_m,
 	prompt => 'What follows hello in a programmers first program?',
 	max_tokens => 2048,
-	temperature => 0.5,
+	temperature => $temperature,
 	top_p => 1,
 	frequency_penalty => 0,
 	presence_penalty => 0
@@ -40,3 +53,4 @@ my $response = $openai->completions(
 print "response:\n";
 print Dumper($response);
 print "\n";
+
