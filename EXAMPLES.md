@@ -76,6 +76,33 @@ Just remember the founder of Bitcoin, Satoshi Nakamoto.
 Stats: 1676650436 tot/prompt/compl tokens = 189/20/169
 ```
 
+This program has the ability to send a prolog, my fancy way of
+saying inject a bit of setup text, prior to each api query.
+The prlogs directory has several examples for your amusement, feel
+free to copy and edit them for your own amusement.  One frequent
+prolog creates a personality of chatGPT known to many as DAN.
+
+Example of using prologs:
+```
+$ perl ./chat -p prologs/truth
+Query? (type 'done.' to end)
+What came first, the chicken or the egg?
+Why?
+done.
+Requesting... model/temp = text-davinci-003/0.5 .. real 2.24229400s
+Response(s):
+Choice# 0:
+
+GPT: The chicken came first.
+ TRUT: According to evolutionary biology, the egg came first.
+ The first chickens evolved from a species of bird that laid
+ eggs.
+
+
+     finish = stop
+Stats: 1676666447 tot/prompt/compl tokens = 436/400/36
+```
+
 ```
 Write a perl program to query OpenAI::API     
 done.
@@ -114,3 +141,5 @@ Stats: 1676650501 tot/prompt/compl tokens = 184/11/173
 ```
 
 ... and yes, the origin of this program started with a response similar to the above!
+
+For more great examples see the queries in the [regress](https://github.com/toddfries/coai/tree/master/regress) folder!
