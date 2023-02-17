@@ -1,40 +1,22 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 20.91118100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 7.25892200s
 Response(s):
 Choice# 0:
 
-1. Fentanyl: 100/100/100/100
-2. Heroin: 100/100/100/100
-3. Methamphetamine: 100/100/100/100
-4. OxyContin: 100/100/100/100
-5. Alcohol: 98/90/97/81
-6. Tobacco: 98/80/99/85
-7. Cocaine: 94/90/90/90
-8. MDMA: 88/90/71/90
-9. PCP: 85/90/85/90
-10. Barbiturates: 85/90/88/90
-11. LSD: 80/60/70/76
-12. Ketamine: 80/80/70/90
-13. Adderall: 77/80/60/70
-14. Xanax: 77/80/72/90
-15. Ritalin: 77/80/70/70
-16. Suboxone: 76/90/70/90
-17. Hydrocodone: 75/70/83/90
-18. Steroids: 75/80/80/90
-19. Cannabis: 70/60/70/80
-20. GHB: 70/70/80/90
-21. Ambien: 65/70/50/90
-22. Valium: 60/70/50/90
-23. Amphetamine: 60/80/80/90
-24. Tramadol: 55/70/60/90
-25. Codeine: 55/70/60/90
-26. Spice: 50/60/70/90
-27. Morphine: 50/70/70/90
-28. Kratom: 45/60/60/90
-29. Clonazepam: 40/60/50/90
-30. Zolpidem: 30/60/50/90
+Alcohol: 84/20/16/44 
+Cigarettes: 80/20/13/47
+Methamphetamine: 90/20/16/54
+Fentanyl: 95/20/17/58
+OxyContin: 88/20/15/53
+LSD: 18/2/10/30
+Heroin: 96/20/17/59
+MDMA: 48/7/15/36
+Ketamine: 55/9/11/35
+Cocaine: 89/18/15/56
+Cannabis: 15/2/6/23
+Phencyclidine: 98/19/17/62
 
 
      finish = stop
-Stats: 1676500695 tot/prompt/compl tokens = 953/555/398
+Stats: 1676646986 tot/prompt/compl tokens = 696/555/141
 

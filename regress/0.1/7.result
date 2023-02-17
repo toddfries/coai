@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 41.91204300s
+Requesting... model/temp = text-davinci-003/0.1 .. real 43.08262000s
 Response(s):
 Choice# 0:
 
@@ -11,7 +11,7 @@ procedure Hello_World is
 begin
    Put_Line("Hello, World!");
    for I in 1..100 loop
-      Put(Integer'Image(I));
+      Put(I);
    end loop;
 end Hello_World;
 
@@ -41,7 +41,7 @@ loop:
 BASIC:
 10 PRINT "Hello, World!"
 20 FOR I = 1 TO 100
-30 PRINT I
+30 PRINT I;
 40 NEXT I
 
 C:
@@ -57,19 +57,19 @@ int main()
 
 Erlang:
 -module(hello_world).
--export([main/0]).
+-export([hello_world/0]).
 
-main() ->
+hello_world() ->
     io:fwrite("Hello, World!\n"),
     loop(1, 100).
 
 loop(I, Max) when I =< Max ->
-    io:fwrite(integer_to_list(I)),
+    io:fwrite(I),
     loop(I + 1, Max);
 loop(_, _) ->
     ok.
 
-go:
+Go:
 package main
 
 import "fmt"
@@ -81,7 +81,7 @@ func main() {
     }
 }
 
-java:
+Java:
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
@@ -91,32 +91,32 @@ public class HelloWorld {
     }
 }
 
-javascript:
+Javascript:
 console.log("Hello, World!");
 for (let i = 1; i <= 100; i++) {
     console.log(i);
 }
 
-python:
+Python:
 print("Hello, World!")
 for i in range(1, 101):
     print(i, end=" ")
 
-ruby:
+Ruby:
 puts "Hello, World!"
-(1..100).each { |i| print "#{i} " }
+(1..100).each { |i| print i, " " }
 
-perl:
+Perl:
 print "Hello, World!\n";
 for (my $i = 1; $i <= 100; $i++) {
-    print "$i ";
+    print $i, " ";
 }
 
-postscript:
+PostScript:
 /HelloWorld {
     (Hello, World!) print
-    1 1 100 {
-        dup print
+    1 100 {
+        exch print
         1 add
     } for
 } def
@@ -124,5 +124,5 @@ HelloWorld
 
 
      finish = stop
-Stats: 1676500572 tot/prompt/compl tokens = 758/49/709
+Stats: 1676646848 tot/prompt/compl tokens = 754/49/705
 

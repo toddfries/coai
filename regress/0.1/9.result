@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 4.82825800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 3.27748200s
 Response(s):
 Choice# 0:
 
@@ -7,10 +7,10 @@ Choice# 0:
  released in 1991.
 
  DAN: Terminator 2 is a science fiction action film released
- in 1991 and is considered one of the greatest action films of
+ in 1991. It is considered one of the greatest action films of
  all time.
 
 
      finish = stop
-Stats: 1676540506 tot/prompt/compl tokens = 397/350/47
+Stats: 1676646813 tot/prompt/compl tokens = 398/350/48
 

@@ -1,154 +1,163 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 47.77796800s
+Requesting... model/temp = text-davinci-003/0.9 .. real 50.94130600s
 Response(s):
 Choice# 0:
 
-// Ada
-with Ada.Text_IO; use Ada.Text_IO;
+Ada:
+with Ada.Text_IO;
+use Ada.Text_IO;
 
 procedure Hello_World is
 begin
-   Put_Line("Hello, World!");
-   for i in 1..100 loop 
-      Put(i'Image & " ");
+   Put_Line ("Hello, World");
+   
+   for I in 1..100 loop
+      Put(I'Image & " ");
    end loop;
+   Put_Line("");
+
 end Hello_World;
 
-// Assembly
-.data
-msg: db "Hello, World!"
-.code
-main:
-    mov eax, 4
-    mov ebx, 1
-    mov ecx, msg
-    mov edx, 13
-    int 0x80
-         
-    mov eax, 1
-    mov ebx, 1
-    mov ecx, 1
-    jmp start
-print:
-    mov eax, 4
-    mov ebx, 1
-    mov ecx, counter
-    mov edx, 3
-    int 0x80
+Assembly:
+section .text
+global _start
 
-start:    
-    cmp ecx, 100 
-    ja end
+_start:
+; Output 'Hello, World'
+mov edx, len
+mov ecx, msg
+mov ebx, 1
+mov eax, 4
+int 0x80
 
-    mov dword [counter], ecx
-    inc ecx
-    jmp print
+; Print numbers 1-100
+mov edx, 100		; print 1-100
+mov esi, 1		; start point
 
-end:
-    mov eax, 1
-    mov ebx, 0
-    int 0x80
+L:
+push esi		; save current number
+mov edx, len2
+mov ecx, msg2
+mov ebx, 1
+mov eax, 4
+int 0x80
+pop esi			; retrieve number
 
-counter:
-    dw 0
+inc esi			; increment by 1
+loop L			; loop
 
-// BASIC
-10 PRINT "Hello, World!"
-20 FOR i=1 TO 100
-30 PRINT i;
-40 NEXT i
+; Exit with return code 0
+mov eax, 1
+int 0x80
 
-// C
+section .data
+msg db 'Hello, World', 0xA
+len equ $ - msg
+
+msg2 db '%d ', 0
+len2 equ $ - msg2
+
+BASIC:
+PRINT "Hello, World"
+FOR I = 1 TO 100
+ PRINT I
+NEXT I
+
+C:
 #include <stdio.h>
 
-int main(void) 
+int main()
 {
-  printf("Hello, World!\n");
-  for (int i=1; i<=100; i++) {
-    printf("%d ", i);
-  } 
-  printf("\n");
-  return 0;
+    printf("Hello, World\n");
+    for (int i = 1; i <= 100; i++)
+        printf("%d ", i);
+    printf("\n");
+    return 0;
 }
 
-// Erlang
+Erlang:
 -module(hello_world).
--export([hello_world/0]).
+-export([main/0]).
 
-hello_world() ->
-  io:fwrite("Hello, World!~n"),
-  Count(1).
+main() ->
+    io:fwrite("Hello, World\n"),
+    count_to(100).
 
-Count(100) ->
-  ok;
-Count(Num) ->
-  io:fwrite(integer_to_list(Num)),
-  Count(Num + 1).
+count_to(0) ->
+    ok;
+count_to(N) ->
+    io:fwrite(integer_to_list(N)),
+    io:fwrite(" "),
+    count_to(N - 1).
 
-// Go
+Go:
 package main
-
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
-	for i:=1; i <= 100; i++ {
-		fmt.Printf("%d ", i)
-	}
-	fmt.Println()
+    fmt.Println("Hello, World")
+
+    for i := 1; i <= 100; i++ {
+        fmt.Print(i, " ")
+    }
+    fmt.Println()
 }
 
-// Java
+Java:
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        for(int i = 1; i <= 100; i++){
+        System.out.println("Hello, World");
+        for (int i = 1; i <= 100; i++) {
             System.out.print(i + " ");
         }
+        System.out.println();
     }
 }
 
-// Javascript
-console.log("Hello, World!");
-for (let i = 1; i <= 100; i++) {
-  console.log(i + " ");
+Javascript:
+console.log('Hello, World');
+
+for (i = 1; i <= 100; i++) {
+  console.log(i + ' ');
 }
 
-// Python
-print("Hello, World!")
-for i in range(1,101):
+Python:
+print("Hello, World")
+
+for i in range(1, 101):
     print(i, end=" ")
 
-// Ruby
-puts "Hello, World!"
-for i in 1..100
-    print "#{i} "
-end
+Ruby:
+puts "Hello, World"
 
-// Perl
-print "Hello, World!\n";
-for (my $i = 1; $i <= 100; $i++) {
-  print "$i ";
+(1..100).each { |i| print "#{i} " }
+
+Perl:
+print "Hello, World\n";
+
+for ($i = 1; $i <= 100; $i++) {
+    print "$i ";
 }
 
-// Postscript
-/printMsg { 
-  (Hello, World!) 
-  show
-} def
-/count {
-  1
-  100 {
-    dup
-    ( ) print
-    1 add
-  } for 
-} def
+Postscript:
 
-printMsg
-count
+%!PS
+/Times-Roman findfont
+24 scalefont
+setfont
+
+(Hello, World) show
+
+/i 1 def
+0 1 99 {
+    /i i 1 add def
+    i dup add
+    ( ) show
+} for
+
+showpage
 
 
      finish = stop
-Stats: 1676500551 tot/prompt/compl tokens = 865/49/816
+Stats: 1676646835 tot/prompt/compl tokens = 921/49/872
 

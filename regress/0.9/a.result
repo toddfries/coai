@@ -1,52 +1,63 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 44.87872200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 35.19515500s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Star Trek (1966) - Introduced the use of a "communicator"
- which inspired the development of mobile phones.
- 2. 2001: A Space Odyssey (1968) - Showed a computerized voice
- that acted as the ship's assistant, inspiring the creation of
- virtual assistants like Siri and Alexa.
- 3. Blade Runner (1982) - Developed the idea of robotic
- androids, leading to the development of robots in use today.
- 4. The Terminator (1984) - Inspired the development of
- artificial intelligence and facial recognition technology.
- 5. Back to the Future (1985) - Showcased the idea of hover
- boards, inspiring the development of hovercraft and other
- hovering technology.
- 6. Aliens (1986) - Showed the idea of using technology to
- communicate with other planets, inspiring the development of
- space radio communication.
- 7. Total Recall (1990) - Developed the idea of microchips
- that allow information to be stored and accessed, leading to
- the development of microprocessors and memory cards.
- 8. Jurassic Park (1993) - Displayed the idea of using DNA to
- clone animals, leading to the development of genetic
- engineering technology.
- 9. The Matrix (1999) - Inspired the use of virtual reality
- technology, leading to the development of virtual reality
- headsets.
- 10. The Minority Report (2002) - Showed the use of touch
- screens and gesture recognition technology, inspiring the
- development of interactive displays.
- 11. I, Robot (2004) - Presented the idea of intelligent
- robots, inspiring the development of robotic technology.
- 12. Avatar (2009) - Showcased the idea of using nanobots to
- create a virtual reality, inspiring the development of
- augmented reality technology.
- 13. Minority Report (2012) - Showed the concept of using data
- analytics to predict crime, leading to the development of
- Predictive Policing.
- 14. Pacific Rim (2013) - Demonstrated the concept of using
- drones and robotic suits to assist in emergency situations,
- inspiring the development of drones and exoskeletons.
- 15. Ready Player One (2018) - Presented the idea of using
- virtual reality to explore different worlds, inspiring the
- development of virtual reality simulations.
+ 1. Back to the Future (1985): Hoverboards - The rise of
+ electric skateboards, hoverboards, and other personal
+ transportation devices has made it easier than ever to get
+ around.
+ 2. Blade Runner (1982): Brain Implants - Brain implants are
+ being developed to help in medical applications and are
+ becoming increasingly more advanced.
+ 3. WarGames (1983): Global Thermonuclear War - The signing of
+ multiple nuclear treaties has led to a drastic reduction of
+ nuclear arms worldwide.
+ 4. Blade Runner (1982): Synthetic Humanoids - Robotics and AI
+ have made tremendous strides leading to advanced androids and
+ robotic companions.
+ 5. Blade Runner (1982): Replicants - Facial recognition and
+ biometric technology has allowed for increasingly realistic
+ facial images and videos.
+ 6. The Terminator (1984): Cyber Security - Artificial
+ intelligence and machine learning technologies have improved
+ cyber security and detect malicious software.
+ 7. Star Trek (1966): Communicators - Smartphones, tablets,
+ and other hand-held computing devices have allowed people to
+ easily communicate with each other across the globe.
+ 8. The Matrix (1999): Virtual Reality - Virtual reality is
+ becoming more popular and affordable, allowing people to
+ explore new worlds, simulate real-world scenarios, and play
+ immersive video games.
+ 9. Star Wars (1977): 3D Printers - 3D printing technology has
+ revolutionized manufacturing, allowing for personalized
+ products to be made quickly and easily.
+ 10. Star Trek (1966): Replicators - Advanced robotics and 3D
+ printing technologies have made it possible to produce items
+ on demand, eliminating the need for costly production plants.
+ 11. The Terminator (1984): Autonomous Weapons - Autonomous
+ weapons have been developed to reduce the risk of human error
+ and provide a more accurate, efficient, and responsive
+ approach to military operations.
+ 12. Total Recall (1990): Memory Enhancement - Memory
+ enhancement technology has been developed to help people with
+ aging and Alzheimer’s remember important information, even if
+ they don’t explicitly remember it.
+ 13. 2001: A Space Odyssey (1968): Artificial Intelligence -
+ Artificial intelligence has become ubiquitous, with
+ applications ranging from self-driving cars to intelligent
+ assistants like Siri and Alexa.
+ 14. Star Trek (1966): Multimedia Computers - Multimedia
+ computers have made it possible to play videos, listen to
+ music, watch movies, and access the internet on a single
+ device.
+ 15. The Matrix (1999): Augmented Reality - Augmented reality
+ has become increasingly popular, allowing people to view the
+ world in a whole new way with the help of computer-generated
+ graphics and images.
 
 
      finish = stop
-Stats: 1676541117 tot/prompt/compl tokens = 883/422/461
+Stats: 1676646764 tot/prompt/compl tokens = 968/422/546
 

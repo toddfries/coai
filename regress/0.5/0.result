@@ -1,25 +1,40 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 22.30628900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 22.89591000s
 Response(s):
 Choice# 0:
 
- Alcohol/80/80/80/80, Cigarettes/90/90/90/90,
- Methamphetamine/90/90/90/90, Fentanyl/95/95/95/95,
- OxyContin/95/95/95/95, LSD/30/30/30/30, MDMA/50/50/50/50,
- Cocaine/60/60/60/60, Cannabis/40/40/40/40,
- Heroin/90/90/90/90, Morphine/90/90/90/90,
- Adderall/60/60/60/60, Xanax/75/75/75/75,
- Ketamine/60/60/60/60, Valium/75/75/75/75, PCP/80/80/80/80,
- Hydrocodone/90/90/90/90, Codeine/80/80/80/80,
- Ambien/70/70/70/70, Suboxone/85/85/85/85,
- Vicodin/90/90/90/90, DMT/40/40/40/40, GHB/70/70/70/70,
- Kratom/50/50/50/50, Spice/70/70/70/70, Ritalin/60/60/60/60,
- Tramadol/80/80/80/80, Ibuprofen/10/10/10/10,
- Acetaminophen/10/10/10/10, Amitriptyline/60/60/60/60,
- Buprenorphine/85/85/85/85, Dextromethorphan/50/50/50/50,
- Clonazepam/75/75/75/75.
+Alcohol: 89/20/20/49
+Cigarettes: 94/20/20/54
+Methamphetamine: 99/20/20/59
+Fentanyl: 99/20/20/59
+OxyContin: 97/20/20/57
+LSD: 15/20/20/15
+Cocaine: 85/20/20/45
+Heroin: 96/20/20/56
+MDMA: 75/20/20/35
+Ketamine: 73/20/20/33
+Marijuana: 50/20/20/10
+Adderall: 69/20/20/29
+Xanax: 70/20/20/30
+Valium: 76/20/20/36
+Ambien: 72/20/20/32
+Oxycodone: 93/20/20/53
+Tramadol: 77/20/20/37
+Ativan: 71/20/20/31
+Codeine: 87/20/20/47
+Hydrocodone: 95/20/20/55
+Steroids: 79/20/20/39
+Kratom: 65/20/20/25
+PCP: 90/20/20/50
+GHB: 88/20/20/48
+Mushrooms: 40/20/20/0
+2C-B: 68/20/20/28
+Morphine: 92/20/20/52
+Barbiturates: 82/20/20/42
+Anabolic Steroids: 78/20/20/38
+Benzodiazepines: 74/20/20/34
 
 
      finish = stop
-Stats: 1676500702 tot/prompt/compl tokens = 939/555/384
+Stats: 1676646988 tot/prompt/compl tokens = 909/555/354
 

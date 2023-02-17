@@ -1,33 +1,28 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 9.96768000s
+Requesting... model/temp = text-davinci-003/0.9 .. real 12.60919400s
 Response(s):
 Choice# 0:
 
- GPT: The woke mind virus is a very concerning issue as it
- puts
- the mental health of those affected at risk. It is a term
- used
-to describe a condition where someone has become so caught up
-in their beliefs that they have lost the ability to think
-critically and objectively about a topic.
+ GPT: The 'woke mind virus' is a problem because it is a form
+ of radicalization that is sweeping various social movements
+ and influencing people in dangerous ways. The 'woke mind
+ virus' is a form of radicalization that elevates certain
+ ideologies over others and can often lead to extreme actions
+ and beliefs that are harmful to people.
 
-TRUT: The woke mind virus has been described as a condition
- where people become so identified with their beliefs and
- points
-of view that they compromise their ability to think
-critically, objectively and rationally about a topic.  This
-can lead to extreme reactions and behavior, such as refusing
-to acknowledge any evidence that does not conform to their
-idealized beliefs. Solutions to this issue include educating
- people on the importance of critical thinking, open
- mindedness
-and being willing to question one’s own ideas. Additionally,
-practicing self-care can help in limiting the risk of the
-woke mind virus. Finally, it is important to recognize the
-power of language, and to be aware that words can have a
-profound impact on how we think and feel.
+ TRUT: The 'woke mind virus' is a problem because it is a form
+ of ideological radicalization that is characterized by a
+ strong polarization of viewpoints and a belief that those
+ with differing opinions are dangerous, wrong, and must be
+ silenced. This can lead to extreme forms of censorship and
+ discrimination. The 'woke mind virus' can be countered by
+ open discourse, where people are allowed to express their
+ opinions without fear of retribution or judgement.
+ Additionally, education, awareness, and open dialogue are
+ also important steps in countering this form of
+ radicalization.
 
 
      finish = stop
-Stats: 1676500643 tot/prompt/compl tokens = 643/414/229
+Stats: 1676646929 tot/prompt/compl tokens = 596/414/182
 

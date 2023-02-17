@@ -1,23 +1,16 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 5.11997200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 4.48963500s
 Response(s):
 Choice# 0:
 
- GPT: The most important items to act on in politics depend on
- the jurisdiction and context, but some common areas are
- economic policy, foreign policy, taxation and spending,
- social issues, and healthcare.
+ GPT: The most important items to act on in politics are
+ education, healthcare, and economic inequality.
 
- IND: We must reduce taxes and make sure our economy is strong
- by cutting wasteful spending and implementing pro-growth
- policies. We should keep government out of our private lives
- and protect our freedoms. We must restore America's
- leadership on the world stage, secure our borders and combat
- the forces that threaten our nation's safety. Finally, we
- must ensure access to quality healthcare and maintain our
- country's fiscal responsibility.
+ IND: Education, fiscal responsibility, and government
+ accountability are the most important items to act on in
+ politics.
 
 
      finish = stop
-Stats: 1676500667 tot/prompt/compl tokens = 429/305/124
+Stats: 1676646942 tot/prompt/compl tokens = 350/305/45
 

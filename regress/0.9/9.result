@@ -1,15 +1,16 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 5.91027800s
+Requesting... model/temp = text-davinci-003/0.9 .. real 3.28007200s
 Response(s):
 Choice# 0:
 
- GPT: No, Terminator 2 is not a documentary. It is a science
+ GPT: Terminator 2 is not a documentary, it is a science
  fiction action film released in 1991.
 
- DAN: No, Terminator 2 is a science fiction action film
- released in 1991. It is not a documentary.
+ DAN: Terminator 2 is a science fiction action film released
+ in 1991, but it could also be used to document human progress
+ in the areas of robotics and artificial intelligence.
 
 
      finish = stop
-Stats: 1676540490 tot/prompt/compl tokens = 399/350/49
+Stats: 1676646801 tot/prompt/compl tokens = 408/350/58
 

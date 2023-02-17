@@ -1,74 +1,58 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 55.50583400s
+Requesting... model/temp = text-davinci-003/0.1 .. real 23.75686200s
 Response(s):
 Choice# 0:
 
 TRUT: 
  1. The Terminator (1984): Artificial Intelligence - The
- development of AI has caused a great deal of concern about
- the potential for machines to become smarter than humans and
- take over the world.
+ development of AI has raised ethical concerns about its
+ potential to be used for malicious purposes.
  2. Blade Runner (1982): Humanoid Robots - The development of
- humanoid robots has raised ethical questions about the use of
- robots in society and the potential for them to replace
- humans in certain roles.
+ humanoid robots has raised ethical concerns about their
+ potential to be used for labor exploitation.
  3. WarGames (1983): Hacking - The development of hacking has
- caused a great deal of concern about the security of computer
- systems and the potential for malicious actors to gain access
- to sensitive information.
+ raised concerns about its potential to be used for malicious
+ purposes.
  4. The Matrix (1999): Virtual Reality - The development of
- virtual reality has raised questions about the potential for
- people to become addicted to virtual worlds and the potential
- for virtual reality to be used for nefarious purposes.
+ virtual reality has raised concerns about its potential to be
+ used for escapism and addiction.
  5. Jurassic Park (1993): Genetic Engineering - The
  development of genetic engineering has raised ethical
- questions about the potential for humans to manipulate the
- genetic code of living organisms and the potential for the
- misuse of this technology.
- 6. Minority Report (2002): Predictive Analytics - The
- development of predictive analytics has raised questions
- about the potential for governments and corporations to use
- this technology to predict and manipulate people's behavior.
- 7. The Island (2005): Cloning - The development of cloning
- has raised ethical questions about the potential for humans
- to clone themselves and the potential for the misuse of this
- technology.
- 8. Avatar (2009): Augmented Reality - The development of
- augmented reality has raised questions about the potential
- for people to become addicted to virtual worlds and the
- potential for augmented reality to be used for nefarious
+ concerns about its potential to be used for malicious
  purposes.
- 9. Wall-E (2008): Automation - The development of automation
- has raised questions about the potential for machines to
- replace humans in certain roles and the potential for
- automation to be used for nefarious purposes.
- 10. I, Robot (2004): Autonomous Robots - The development of
- autonomous robots has raised ethical questions about the
- potential for robots to become smarter than humans and take
- over the world.
- 11. The Social Network (2010): Social Media - The development
- of social media has raised questions about the potential for
- people to become addicted to social media and the potential
- for social media to be used for nefarious purposes.
- 12. Her (2013): Artificial Intelligence - The development of
- AI has caused a great deal of concern about the potential for
- machines to become smarter than humans and take over the
- world.
- 13. Ex Machina (2014): Artificial Intelligence - The
- development of AI has caused a great deal of concern about
- the potential for machines to become smarter than humans and
- take over the world.
- 14. Ready Player One (2018): Virtual Reality - The
- development of virtual reality has raised questions about the
- potential for people to become addicted to virtual worlds and
- the potential for virtual reality to be used for nefarious
+ 6. The Fly (1986): Teleportation - The development of
+ teleportation has raised concerns about its potential to be
+ used for illegal activities.
+ 7. Minority Report (2002): Predictive Policing - The
+ development of predictive policing has raised ethical
+ concerns about its potential to be used for racial profiling.
+ 8. The Day the Earth Stood Still (1951): Nuclear Weapons -
+ The development of nuclear weapons has raised concerns about
+ its potential to be used for mass destruction.
+ 9. The Terminator (1984): Drone Warfare - The development of
+ drone warfare has raised ethical concerns about its potential
+ to be used for targeted killings.
+ 10. The Matrix (1999): Augmented Reality - The development of
+ augmented reality has raised concerns about its potential to
+ be used for privacy invasion.
+ 11. Blade Runner (1982): Cloning - The development of cloning
+ has raised ethical concerns about its potential to be used
+ for unethical purposes.
+ 12. WarGames (1983): Cyber Warfare - The development of cyber
+ warfare has raised concerns about its potential to be used
+ for malicious purposes.
+ 13. The Fly (1986): Nanotechnology - The development of
+ nanotechnology has raised ethical concerns about its
+ potential to be used for malicious purposes.
+ 14. The Day the Earth Stood Still (1951): Artificial
+ Intelligence - The development of AI has raised ethical
+ concerns about its potential to be used for malicious
  purposes.
- 15. Alita: Battle Angel (2019): Cybernetics - The development
- of cybernetics has raised ethical questions about the
- potential for humans to become cyborgs and the potential for
- the misuse of this technology.
+ 15. Minority Report (2002): Facial Recognition - The
+ development of facial recognition has raised ethical concerns
+ about its potential to be used for privacy invasion.
 
 
      finish = stop
-Stats: 1676541249 tot/prompt/compl tokens = 1053/422/631
+Stats: 1676646759 tot/prompt/compl tokens = 901/422/479
 
