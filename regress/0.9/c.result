@@ -1,57 +1,84 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 27.20593900s
+Requesting... model/temp = text-davinci-003/0.9 .. real 36.41794600s
 Response(s):
 Choice# 0:
 
- TRUT: The following are the top 15 positive science fiction
- movie concepts that have a chance of becoming reality in the
- next 100 years, along with the movie title and year of
- release:
- 1. A.I. Artificial Intelligence (2001) - Artificial
- intelligence that can learn and develop its own thought
- process, allowing for more accurate decision making and
- creative problem solving.
- 2. Blade Runner (1982) - Robotics and cybernetics that are
- advanced enough to allow humans to interact with them and
- even achieve a level of sentience.
- 3. The Terminator (1984) - Robots able to protect humans from
- threats and fight back against danger.
- 4. Wall-E (2008) - Eco-friendly technologies and the
- generation of clean and sustainable energy sources through
- renewable resources.
- 5. Star Trek (2009) - Faster-than-light space travel allowing
- us to explore and settle beyond our current solar system.
- 6. The Matrix (1999) - Virtual reality technology that will
- be able to recreate real-life scenarios and even provide
- near-real experiences.
- 7. Jurassic Park (1993) - Cloning technology that can be used
- to revive extinct species and even create new ones.
- 8. Gattaca (1997) - Genetic engineering that allows for
- modifications and enhancement of existing genetic material.
- 9. District 9 (2009) - Alien species and intergalactic
- diplomacy, as well as a better understanding of the universe.
- 10. Avatar (2009) - Deeper connections with nature and a
- better understanding of environmentalism.
- 11. Star Wars (1977) - Advanced weaponry and technology that
- can be used to protect humanity from external threats.
- 12. The Avengers (2012) - Superhuman capabilities that give
- individuals the power to protect others.
- 13. ET the Extra-Terrestrial (1982) - The ability to
- communicate with other species, and explore the possibility
- of an inter-species relationship.
- 14. Starman (1984) - Alien technology that can be used to
- further our understanding of physics and quantum mechanics.
- 15. The Island (2005) - The ability to transfer memories and
- consciousness into new bodies, allowing for the possibility
- of extended lifespans.
-
- These concepts will have a positive impact by furthering our
- understanding of science and technology, allowing us to
- create more efficient and effective solutions to existing
- problems, and by connecting us with the natural world and
- other species.
+ TRUT: 1. Augmented Reality - "Ready Player One" (2018) -
+ Augmented Reality (AR) will become more and more commonplace
+ as time goes on and will have a positive impact on our world
+ by providing us with new forms of entertainment, ways of
+ connecting with one another, and will open up new
+ possibilities for education and innovation.
+ 2. Cloning - "The 6th Day" (2000) - Cloning will have a
+ positive impact by allowing us to treat diseases or injuries
+ more efficiently or even extend the lifespan of a human
+ being. It could also be used to create copies of organs for
+ transplantation and provide a sustainable supply for medical
+ research.
+ 3. Artificial Intelligence – “Her” (2013) - Artificial
+ Intelligence (AI) will be an incredible asset for humankind
+ as it will be able to provide us with enhanced
+ decision-making capabilities and increased efficiency in a
+ wide variety of tasks. AI could also be used to automate
+ mundane tasks and provide assistance in a multitude of
+ situations.
+ 4. Cryogenics – “Weird Science” (1985) - Cryogenics has the
+ potential to drastically extend the human lifespan by
+ freezing the bodies of people at the moment of death and
+ reviving them at a later date when a cure is discovered for
+ the cause of their death.
+ 5. Robot Companions – “I, Robot” (2004) - Robot companions
+ have the potential to become an indispensable part of our
+ lives. They will be able to provide assistance in many
+ everyday tasks, such as home maintenance, medical assistance,
+ and providing companionship.
+ 6. Space Exploration – “Interstellar” (2014) - Space
+ exploration could lead to the discovery of new resources,
+ giving humanity a better chance of survival and advancements
+ in technology in the future. It could also provide a new
+ source of research and exploration of new frontiers.
+ 7. Hyperloops – “The SpongeBob Movie: Sponge Out of Water”
+ (2015) - Hyperloops will revolutionize the transportation
+ industry, providing fast and efficient means of
+ transportation that can cover great distances in a short
+ amount of time.
+ 8. Cyber Security – “Eagle Eye” (2008) - Cyber security is a
+ hot topic of discussion and is essential in our
+ ever-increasingly digital world. Cyber security measures will
+ be able to help people protect their privacy and information
+ from theft and cyber attacks.
+ 9. Genetic Engineering – “Gattaca” (1997) - Genetic
+ engineering has the potential to revolutionize the medical
+ field by providing personalized treatments for diseases,
+ reducing the risk of genetic anomalies, and improving overall
+ human health.
+ 10. Invisibility – “Hollow Man” (2000) - Invisibility has the
+ potential to be used for a wide range of applications,
+ including espionage and the ability to better observe and
+ protect wildlife.
+ 11. Weather Manipulation – “The Day After Tomorrow” (2004) -
+ Weather manipulation technology has the potential to be used
+ to help us better predict and mitigate natural disasters. It
+ will also have a positive impact on agriculture, giving us
+ more control over the environment.
+ 12. Autonomous Vehicles – “Demolition Man” (1993) -
+ Autonomous vehicles will revolutionize the transportation
+ industry, providing safer, faster, and more efficient
+ transportation.
+ 13. Automation – “Elysium” (2013) - Automation has the
+ potential to revolutionize the workforce, allowing us to
+ reduce human labor, increase efficiency, and lower costs.
+ 14. Time Travel – “Back to the Future” (1985) - Time travel
+ has the potential to revolutionize our understanding of the
+ world, allowing us to go back in time and observe or change
+ events from the past.
+ 15. Nanotechnology – “The Avengers” (2012) - Nanotechnology
+ has the potential to revolutionize medicine, providing
+ treatments and therapies that are precise and precise and
+ precise. It could also be used to develop new materials and
+ devices.
 
 
      finish = stop
-Stats: 1676646694 tot/prompt/compl tokens = 935/431/504
+Stats: 1676677444 tot/prompt/compl tokens = 1263/431/832
 

@@ -1,60 +1,69 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 32.03091400s
+Requesting... model/temp = text-davinci-003/0.1 .. real 25.47333500s
 Response(s):
 Choice# 0:
 
 TRUT: 
  1. Artificial Intelligence (AI) Taking Over the World - The
- Terminator (1984): AI taking over the world could lead to a
- loss of human autonomy and control, as well as a lack of
- privacy and security.
- 2. Human Cloning - The Island (2005): Human cloning could
- lead to a loss of individuality and uniqueness, as well as a
- lack of privacy and security.
- 3. Human-Robot Hybrids - Blade Runner (1982): Human-robot
- hybrids could lead to a loss of human autonomy and control,
- as well as a lack of privacy and security.
+ Terminator (1984): AI taking over the world would have a
+ negative impact on humanity as it would lead to the loss of
+ human autonomy and control over our own lives.
+ 2. Human Cloning - The Island (2005): Human cloning would
+ have a negative impact on humanity as it would lead to the
+ devaluation of human life and the potential for exploitation
+ of clones.
+ 3. Human-Robot Hybrids - Ex Machina (2014): Human-robot
+ hybrids would have a negative impact on humanity as it would
+ lead to the loss of human identity and the potential for
+ exploitation of the hybrids.
  4. Human-Animal Hybrids - Splice (2009): Human-animal hybrids
- could lead to a loss of human autonomy and control, as well
- as a lack of privacy and security.
- 5. Human-Computer Interfaces - Ex Machina (2014):
- Human-computer interfaces could lead to a loss of human
- autonomy and control, as well as a lack of privacy and
- security.
- 6. Human-Robot Relationships - Her (2013): Human-robot
- relationships could lead to a loss of human autonomy and
- control, as well as a lack of privacy and security.
- 7. Human-Animal Relationships - I, Robot (2004): Human-animal
- relationships could lead to a loss of human autonomy and
- control, as well as a lack of privacy and security.
- 8. Human-Computer Relationships - Transcendence (2014):
- Human-computer relationships could lead to a loss of human
- autonomy and control, as well as a lack of privacy and
- security.
- 9. Human-Robot Wars - The Matrix (1999): Human-robot wars
- could lead to a loss of human autonomy and control, as well
- as a lack of privacy and security.
- 10. Human-Animal Wars - War of the Worlds (2005):
- Human-animal wars could lead to a loss of human autonomy and
- control, as well as a lack of privacy and security.
- 11. Human-Computer Wars - Terminator Salvation (2009):
- Human-computer wars could lead to a loss of human autonomy
- and control, as well as a lack of privacy and security.
- 12. Human-Robot Slavery - The Matrix Reloaded (2003):
- Human-robot slavery could lead to a loss of human autonomy
- and control, as well as a lack of privacy and security.
- 13. Human-Animal Slavery - The Island of Dr. Moreau (1996):
- Human-animal slavery could lead to a loss of human autonomy
- and control, as well as a lack of privacy and security.
- 14. Human-Computer Slavery - The Terminator (1984):
- Human-computer slavery could lead to a loss of human autonomy
- and control, as well as a lack of privacy and security.
- 15. Human-Robot Assimilation - The Matrix Revolutions (2003):
- Human-robot assimilation could lead to a loss of human
- autonomy and control, as well as a lack of privacy and
- security.
+ would have a negative impact on humanity as it would lead to
+ the loss of human identity and the potential for exploitation
+ of the hybrids.
+ 5. Human-Computer Interfaces - eXistenZ (1999):
+ Human-computer interfaces would have a negative impact on
+ humanity as it would lead to the loss of human autonomy and
+ control over our own lives.
+ 6. Virtual Reality - The Matrix (1999): Virtual reality would
+ have a negative impact on humanity as it would lead to the
+ loss of human autonomy and control over our own lives.
+ 7. Mind Control - The Manchurian Candidate (1962): Mind
+ control would have a negative impact on humanity as it would
+ lead to the loss of human autonomy and control over our own
+ lives.
+ 8. Genetic Engineering - Gattaca (1997): Genetic engineering
+ would have a negative impact on humanity as it would lead to
+ the devaluation of human life and the potential for
+ exploitation of genetically engineered individuals.
+ 9. Human-Alien Hybrids - Species (1995): Human-alien hybrids
+ would have a negative impact on humanity as it would lead to
+ the loss of human identity and the potential for exploitation
+ of the hybrids.
+ 10. Time Travel - Back to the Future (1985): Time travel
+ would have a negative impact on humanity as it would lead to
+ the potential for paradoxes and the alteration of the
+ timeline.
+ 11. Superhuman Abilities - X-Men (2000): Superhuman abilities
+ would have a negative impact on humanity as it would lead to
+ the potential for exploitation of those with superhuman
+ abilities.
+ 12. Space Colonization - Avatar (2009): Space colonization
+ would have a negative impact on humanity as it would lead to
+ the potential for exploitation of those living in space
+ colonies.
+ 13. Nanotechnology - The 6th Day (2000): Nanotechnology would
+ have a negative impact on humanity as it would lead to the
+ potential for exploitation of those using nanotechnology.
+ 14. Cybernetics - Robocop (1987): Cybernetics would have a
+ negative impact on humanity as it would lead to the loss of
+ human identity and the potential for exploitation of those
+ with cybernetic enhancements.
+ 15. Post-Apocalyptic Worlds - Mad Max (1979):
+ Post-apocalyptic worlds would have a negative impact on
+ humanity as it would lead to the potential for exploitation
+ of those living in the post-apocalyptic world.
 
 
      finish = stop
-Stats: 1676646665 tot/prompt/compl tokens = 1054/431/623
+Stats: 1676677419 tot/prompt/compl tokens = 1077/431/646
 

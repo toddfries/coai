@@ -1,58 +1,67 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 27.31515600s
+Requesting... model/temp = text-davinci-003/0.9 .. real 26.49404600s
 Response(s):
 Choice# 0:
 
-TRUT: 
- 1. Population Control through Surveillance - The Truman Show
- (1998), will lead to an atmosphere of fear and mistrust as
- citizens are constantly monitored by the powers that be.
- 2. Human–Robot Conflict - iRobot (2004), could cause a
- decrease in human labor as robots become more advanced and
- replace humans in almost all aspects of life.
- 3. Mind Control - The Matrix (1999), could cause individuals
- to lose their autonomy and succumb to the will of a higher
- power.
- 4. Artificial Intelligence - Ex Machina (2014), could lead to
- a world in which technology is far more advanced than humans
- and has the potential to take over.
- 5. Post-apocalyptic World - Mad Max: Fury Road (2015), could
- result in a world plagued by violence and despair, where
- resources are scarce and the population is in peril.
- 6. Body Horror - The Fly (1986), could result in a world
- where genetic tampering has created physical monstrosities
- and horrible deformities.
- 7. Space Exploration - The Martian (2015), could lead to
- overpopulation of other planets, leading to an eventual lack
- of resources for survival.
- 8. Contamination - 28 Days Later (2002), could cause viruses
- to spread all throughout our world, killing off entire
- populations of human beings and animals.
- 9. Social Inequality - District 9 (2009), could lead to a
- world in which society is divided by genetic or racial
- differences, leading to further persecution of minorities.
- 10. Superpower Clashes - X-Men: Days of Future Past (2014),
- could cause a nuclear arms race that results in a world where
- all powers clash on a global level.
- 11. Dystopian Control - The Hunger Games (2012), could lead
- to a world in which the government controls its citizens with
- oppressive laws and rules.
- 12. Climate Change - Snowpiercer (2013), could cause further
- environmental destruction due to an out of control climate
- which is causing drastic weather patterns and lack of
- resources.
- 13. Virtual Reality - Inception (2010), could lead to a world
- in which virtual reality is so immersive that individuals can
- no longer distinguish between real life and the virtual world
- they inhabit.
- 14. Political Corruption - V for Vendetta (2005), could
- result in a world where governments are tyrannical and the
- people are oppressed.
- 15. Disaster - Armageddon (1998), could cause massive
- destruction on a global scale, leading to worldwide
- casualties and a lack of resources.
+ TRUT: Top 15 Negative Science Fiction Movie Concepts That
+ Have a Chance of Becoming Reality in the Next 100 Years
+ 1. Artificial Intelligence Taking Over the World - The
+ Terminator (1984) - Artificial intelligence taking over the
+ world could have a very negative impact, as humans would no
+ longer be able to control the actions of robots that have
+ become sentient and powerful.
+ 2. Human Cloning - The Island (2005) - Human cloning could
+ have a negative impact on society as it could lead to a
+ marketplace of human clones that could be used for labor or
+ even as a commodity.
+ 3. Virtual Reality Becomes Reality - The Matrix (1999) - If
+ virtual reality becomes reality, it could lead to drastic
+ changes in human behavior and lead to a blurring of the lines
+ between what is real and what is not real.
+ 4. Automation Replacing Human Jobs - Wall-E (2008) -
+ Automation replacing human jobs could lead to job losses and
+ a rise in unemployment.
+ 5. Transhumanism to Enhance Human Abilities - The Island of
+ Dr. Moreau (1996) - Transhumanism to enhance human abilities
+ could lead to the potential loss of humanity and the creation
+ of a new and superior species.
+ 6. Weaponized Nanotech - The Core (2003) - Weaponized
+ nanotech could be used to create weapons of mass destruction,
+ leading to untold destruction and death.
+ 7. Universal Translators - Star Trek IV: The Voyage Home
+ (1986) - Universal translators could lead to dangerous
+ miscommunications and a breakdown in diplomatic negotiations.
+ 8. Global Warming - Waterworld (1995) - Global warming could
+ lead to devastating climate changes, extreme weather storms,
+ and rising sea levels, resulting in the destruction of
+ coastal cities and islands.
+ 9. Alien Invasion - Independence Day (1996) - An alien
+ invasion could lead to the destruction of cities and human
+ fatalities due to alien weaponry and superior technology.
+ 10. Mass Surveillance - Enemy of the State (1998) - Mass
+ surveillance could lead to a gross violation of privacy and
+ leave individuals feeling as if they are constantly being
+ watched.
+ 11. Mind Control - The Manchurian Candidate (1962) - Mind
+ control could lead to the manipulation of individuals to do
+ the bidding of a third party.
+ 12. Space Exploration - 2001: A Space Odyssey (1968) - Space
+ exploration could lead to the destruction of the environment
+ on a distant planet or the destruction of the spacecraft,
+ resulting in the loss of life.
+ 13. Unstoppable Virus - Contagion (2011) - An unstoppable
+ virus could lead to an epidemic, if not contained in time,
+ and result in countless deaths.
+ 14. Creation of a New Species - Splice (2009) - The creation
+ of a new species could lead to the destruction of existing
+ species, or the alteration of the environment due to the
+ competition from the new species.
+ 15. Time Travel - Back to the Future (1985) - Time travel
+ could lead to catastrophic changes to the timeline, resulting
+ in changes to the present or future that could not be
+ anticipated or reversed.
 
 
      finish = stop
-Stats: 1676646664 tot/prompt/compl tokens = 938/431/507
+Stats: 1676677419 tot/prompt/compl tokens = 1058/431/627
 

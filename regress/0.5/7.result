@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 47.63737000s
+Requesting... model/temp = text-davinci-003/0.5 .. real 30.81195100s
 Response(s):
 Choice# 0:
 
@@ -11,73 +11,70 @@ procedure Hello_World is
 begin
    Put_Line("Hello, World!");
    for I in 1..100 loop
-      Put(I'Image);
+      Put(Integer'Image(I));
+      Put_Line("");
    end loop;
 end Hello_World;
 
 Assembly:
-section .text
-   global _start
+.data
+msg:
+    .ascii "Hello, World!\n"
+
+.text
+.global _start
 
 _start:
-   ; Print "Hello, World!"
-   mov edx, 13
-   mov ecx, msg
-   mov ebx, 1
-   mov eax, 4
-   int 0x80
+    mov $1, %rax
+    mov $1, %rdi
+    mov $msg, %rsi
+    mov $14, %rdx
+    syscall
 
-   ; Count to 100
-   mov edx, 2
-   mov ecx, count
-   mov ebx, 1
-   mov eax, 4
-   int 0x80
+    mov $1, %rax
+    mov $1, %rdi
+    mov $1, %rsi
+    mov $100, %rcx
+    mov $0, %rdx
+loop:
+    mov %rcx, %rdx
+    mov $1, %rax
+    syscall
 
-exit:
-   ; Exit
-   mov eax, 1
-   int 0x80
+    dec %rcx
+    jnz loop
 
-section .data
-msg db 'Hello, World!', 0xA
- count db '1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
- 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40
- 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60
- 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80
- 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
- 100', 0xA
+    mov $60, %rax
+    xor %rdi, %rdi
+    syscall
 
 BASIC:
 10 PRINT "Hello, World!"
 20 FOR I = 1 TO 100
-30 PRINT I;
+30 PRINT I
 40 NEXT I
 
 C:
 #include <stdio.h>
 
-int main(void) {
+int main() {
    printf("Hello, World!\n");
    for (int i = 1; i <= 100; i++) {
-      printf("%d ", i);
+      printf("%d\n", i);
    }
-   printf("\n");
    return 0;
 }
 
 Erlang:
--module(hello_world).
--export([main/0]).
+io:fwrite("Hello, World!\n").
 
-main() ->
-    io:fwrite("Hello, World!~n"),
-    count(1).
+loop(1, 100).
 
-count(X) when X =< 100 ->
-    io:fwrite("~w ",[X]),
-    count(X+1);
-count(X) -> ok.
+loop(N, Max) ->
+    io:fwrite("~p~n", [N]),
+    N < Max
+    andalso loop(N+1, Max);
+loop(_, _) -> ok.
 
 go:
 package main
@@ -87,60 +84,54 @@ import "fmt"
 func main() {
     fmt.Println("Hello, World!")
     for i := 1; i <= 100; i++ {
-        fmt.Print(i, " ")
+        fmt.Println(i)
     }
-    fmt.Println()
 }
 
-java:
+Java:
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         for (int i = 1; i <= 100; i++) {
-            System.out.print(i + " ");
+            System.out.println(i);
         }
     }
 }
 
-javascript:
+Javascript:
 console.log("Hello, World!");
 for (let i = 1; i <= 100; i++) {
-    console.log(i + " ");
+    console.log(i);
 }
 
-python:
+Python:
 print("Hello, World!")
 for i in range(1, 101):
-    print(i, end=" ")
+    print(i)
 
-ruby:
+Ruby:
 puts "Hello, World!"
-(1..100).each { |i| print "#{i} " }
+1.upto(100) do |i|
+  puts i
+end
 
-perl:
+Perl:
 print "Hello, World!\n";
-for (my $i=1; $i<=100; $i++) {
-    print "$i ";
+for (my $i = 1; $i <= 100; $i++) {
+    print "$i\n";
 }
 
-postscript:
-/msg (Hello, World!) def
- /countstring (1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
- 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
- 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59
- 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79
- 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
- 100) def
-
-msg
-show
-
-0 1 100 {
-    countstring exch get show
-    dup 0 eq { exit } if
-} for
+PostScript:
+/HelloWorld {
+    (Hello, World!) print
+    1 1 100 {
+        dup print
+        1 add
+    } for
+} def
+HelloWorld
 
 
      finish = stop
-Stats: 1676646842 tot/prompt/compl tokens = 999/49/950
+Stats: 1676677563 tot/prompt/compl tokens = 798/49/749
 

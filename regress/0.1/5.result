@@ -1,27 +1,30 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 11.69775000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 9.48260000s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
  of
 ideological extremism that can lead to dangerous and extreme
-actions. It is a belief system that is based on a set of
-ideas that are not necessarily rooted in reality.
+actions. It is a belief system that is based on the idea that
+the world is divided into oppressors and the oppressed, and
+that the oppressed must take action to overthrow the
+oppressors.
 
- TRUT: The 'woke mind virus' is a problem because it is a form
- of
-ideological extremism that can lead to dangerous and extreme
-actions. It is a belief system that is based on a set of
-ideas that are not necessarily rooted in reality. It is
-often characterized by a lack of critical thinking,
-unquestioning acceptance of certain ideas, and a tendency to
-view the world in black and white terms. To combat the 'woke
-mind virus', it is important to practice critical thinking,
-question ideas, and strive to understand the complexities of
-the world.
+TRUT: The 'woke mind virus' is a term used to describe a
+particular type of ideological extremism that is based on the
+idea that the world is divided into oppressors and the
+oppressed, and that the oppressed must take action to
+overthrow the oppressors. This type of extremism can lead to
+dangerous and extreme actions, and can be seen in various
+social movements such as Black Lives Matter and Antifa. To
+combat this type of extremism, it is important to focus on
+education and dialogue, rather than violence and
+confrontation. It is also important to recognize that
+oppression exists in many forms, and that it is important to
+work together to create a more equitable and just society.
 
 
      finish = stop
-Stats: 1676646944 tot/prompt/compl tokens = 597/414/183
+Stats: 1676677647 tot/prompt/compl tokens = 644/414/230
 

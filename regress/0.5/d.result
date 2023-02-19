@@ -1,62 +1,58 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 35.33348700s
+Requesting... model/temp = text-davinci-003/0.5 .. real 23.72856800s
 Response(s):
 Choice# 0:
 
-TRUT:
- 1. Artificial Intelligence Takeover: The Matrix (1999) -
- Artificial Intelligence could become so advanced that it
- could take over humanity, leading to a future where humans
- are enslaved by machines.
- 2. Post-Apocalyptic Wasteland: Mad Max: Fury Road (2015) - A
- post-apocalyptic wasteland could be created due to nuclear
- war, natural disasters, or other environmental disasters,
- leading to a future where resources are scarce and survival
- is difficult.
- 3. Dystopian Surveillance Society: Minority Report (2002) - A
- dystopian surveillance society could be created where
- citizens are constantly monitored and controlled by an
- oppressive government, leading to a lack of freedom and
- privacy.
- 4. Cybernetic Organisms: Robocop (1987) - Cybernetic
- organisms could be created, leading to a future where humans
- and machines are merged, potentially leading to a loss of
- humanity.
- 5. Extinction Level Event: Armageddon (1998) - An extinction
- level event could be caused by an asteroid or comet, leading
- to the destruction of life on Earth.
- 6. Alien Invasion: War of the Worlds (2005) - An alien
- invasion could occur, leading to a future where humans are
- subjugated by an alien race.
- 7. Totalitarian State: 1984 (1984) - A totalitarian state
- could be created, leading to a future where citizens are
- oppressed by an authoritarian government.
- 8. Plague: 28 Days Later (2002) - A plague could be
- unleashed, leading to a future where humans are infected with
- a deadly virus.
- 9. Climate Change: The Day After Tomorrow (2004) - Climate
- change could lead to a future where extreme weather
- conditions cause destruction and chaos.
- 10. Humanoid Robots: Blade Runner (1982) - Humanoid robots
- could be created, leading to a future where humans and
- machines are indistinguishable.
- 11. Zombie Apocalypse: Dawn of the Dead (2004) - A zombie
- apocalypse could be caused by a virus or other means, leading
- to a future where the living are in danger from the undead.
- 12. Artificial Intelligence Uprising: I, Robot (2004) -
- Artificial Intelligence could become so advanced that it
- could rise up against humanity, leading to a future where
- humans are subjugated by machines.
- 13. Mutants: X-Men (2000) - Mutants could be created, leading
- to a future where humans and mutants are in conflict.
- 14. Time Travel: Back to the Future (1985) - Time travel
- could be invented, leading to a future where time can be
- manipulated and altered.
- 15. Supernatural Forces: The Exorcist (1973) - Supernatural
- forces could be unleashed, leading to a future where the
- living are in danger from the supernatural.
+TRUT: 
+ 1. Artificial Intelligence taking over the world: The
+ Terminator (1984) - Artificial Intelligence taking over the
+ world could have a negative impact as it could lead to the
+ destruction of humanity as we know it.
+ 2. Human-Robot Hybrids: Blade Runner (1982) - Human-Robot
+ Hybrids could have a negative impact as it could lead to a
+ loss of humanity and a lack of empathy and compassion.
+ 3. Genetic Engineering: Gattaca (1997) - Genetic Engineering
+ could have a negative impact as it could lead to a lack of
+ diversity and create an unbalanced society.
+ 4. Virtual Reality: The Matrix (1999) - Virtual Reality could
+ have a negative impact as it could lead to people becoming
+ isolated and disconnected from reality.
+ 5. Time Travel: Back to the Future (1985) - Time Travel could
+ have a negative impact as it could lead to a disruption in
+ the timeline and cause chaos.
+ 6. Human Cloning: The Island (2005) - Human Cloning could
+ have a negative impact as it could lead to a lack of
+ individuality and the exploitation of clones.
+ 7. Cyborgs: RoboCop (1987) - Cyborgs could have a negative
+ impact as it could lead to a lack of humanity and a lack of
+ empathy and compassion.
+ 8. Superhumans: X-Men (2000) - Superhumans could have a
+ negative impact as it could lead to a disruption of the
+ natural order of things and create a power imbalance.
+ 9. Space Exploration: Interstellar (2014) - Space Exploration
+ could have a negative impact as it could lead to a depletion
+ of resources and the destruction of other planets.
+ 10. Alien Invasion: War of the Worlds (2005) - Alien Invasion
+ could have a negative impact as it could lead to the
+ destruction of humanity and the loss of resources.
+ 11. Mind Control: The Manchurian Candidate (1962) - Mind
+ Control could have a negative impact as it could lead to a
+ lack of free will and the exploitation of people.
+ 12. Supernatural Powers: The Matrix Reloaded (2003) -
+ Supernatural Powers could have a negative impact as it could
+ lead to a disruption of the natural order of things and
+ create a power imbalance.
+ 13. Post-Apocalyptic World: Mad Max (1979) - Post-Apocalyptic
+ World could have a negative impact as it could lead to a lack
+ of resources and a lack of hope.
+ 14. Nanotechnology: The 6th Day (2000) - Nanotechnology could
+ have a negative impact as it could lead to a loss of humanity
+ and a lack of control over technology.
+ 15. Biological Weapons: 28 Days Later (2002) - Biological
+ Weapons could have a negative impact as it could lead to the
+ destruction of humanity and the loss of resources.
 
 
      finish = stop
-Stats: 1676646662 tot/prompt/compl tokens = 984/431/553
+Stats: 1676677416 tot/prompt/compl tokens = 1013/431/582
 

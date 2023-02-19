@@ -1,63 +1,91 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 35.19515500s
+Requesting... model/temp = text-davinci-003/0.9 .. real 28.83784200s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Back to the Future (1985): Hoverboards - The rise of
- electric skateboards, hoverboards, and other personal
- transportation devices has made it easier than ever to get
- around.
- 2. Blade Runner (1982): Brain Implants - Brain implants are
- being developed to help in medical applications and are
- becoming increasingly more advanced.
- 3. WarGames (1983): Global Thermonuclear War - The signing of
- multiple nuclear treaties has led to a drastic reduction of
- nuclear arms worldwide.
- 4. Blade Runner (1982): Synthetic Humanoids - Robotics and AI
- have made tremendous strides leading to advanced androids and
- robotic companions.
- 5. Blade Runner (1982): Replicants - Facial recognition and
- biometric technology has allowed for increasingly realistic
- facial images and videos.
- 6. The Terminator (1984): Cyber Security - Artificial
- intelligence and machine learning technologies have improved
- cyber security and detect malicious software.
- 7. Star Trek (1966): Communicators - Smartphones, tablets,
- and other hand-held computing devices have allowed people to
- easily communicate with each other across the globe.
- 8. The Matrix (1999): Virtual Reality - Virtual reality is
- becoming more popular and affordable, allowing people to
- explore new worlds, simulate real-world scenarios, and play
- immersive video games.
- 9. Star Wars (1977): 3D Printers - 3D printing technology has
- revolutionized manufacturing, allowing for personalized
- products to be made quickly and easily.
- 10. Star Trek (1966): Replicators - Advanced robotics and 3D
- printing technologies have made it possible to produce items
- on demand, eliminating the need for costly production plants.
- 11. The Terminator (1984): Autonomous Weapons - Autonomous
- weapons have been developed to reduce the risk of human error
- and provide a more accurate, efficient, and responsive
- approach to military operations.
- 12. Total Recall (1990): Memory Enhancement - Memory
- enhancement technology has been developed to help people with
- aging and Alzheimer’s remember important information, even if
- they don’t explicitly remember it.
- 13. 2001: A Space Odyssey (1968): Artificial Intelligence -
- Artificial intelligence has become ubiquitous, with
- applications ranging from self-driving cars to intelligent
- assistants like Siri and Alexa.
- 14. Star Trek (1966): Multimedia Computers - Multimedia
- computers have made it possible to play videos, listen to
- music, watch movies, and access the internet on a single
- device.
- 15. The Matrix (1999): Augmented Reality - Augmented reality
- has become increasingly popular, allowing people to view the
- world in a whole new way with the help of computer-generated
- graphics and images.
+ 1. Autonomous Vehicles - iRobot (2004): Autonomous vehicles
+ have been used in many industries, including agriculture,
+ construction, mining, delivery, and transportation. They have
+ increased efficiency, safety and productivity in many of
+ these industries.
+
+ 2. Gesture-based Interfaces - Minority Report (2002):
+ Gesture-based interfaces are becoming increasingly popular
+ and more widely used, in applications such as gaming, as well
+ as for controlling smart home devices.
+
+ 3. Smartphones - Mobile phones (1989): Smartphones have
+ changed the way the world communicates and stays connected.
+ It has made it easier to access information and communicate
+ with people from all over the world.
+
+ 4. Social Networks - The Social Network (2010): Social
+ networks have drastically impacted how people communicate and
+ share information within their social circles, with the
+ ability to reach anyone, anytime and anywhere.
+
+ 5. 3D Printing - Terminator 3 (2003): 3D printing has
+ revolutionized the way products are made and has enabled
+ people to make customized products in the privacy of their
+ own home.
+
+ 6. Augmented Reality - Iron Man (2008): Augmented reality has
+ become increasingly popular over the years, and has been used
+ to enhance the gaming experience, as well as to provide
+ expert guidance and assistance in many areas.
+
+ 7. Self-driving Cars - Her (2013): Self-driving cars have the
+ potential to drastically reduce traffic accidents and create
+ safer transportation for passengers.
+
+ 8. Artificial Intelligence - Blade Runner (1982): Artificial
+ intelligence has been integrated into many different
+ technologies, to mimic human behavior and to automate tasks,
+ leading to increased efficiency and productivity.
+
+ 9. Robotics - Wall-E (2008): Robotics have been used to
+ automate many different processes, from manufacturing to
+ construction. They can be programmed to perform the same
+ action consistently, with no human error.
+
+ 10. Facial Recognition - Enthiran (2010): Facial recognition
+ has been used in many different places to track criminals and
+ provide access control. It has made security measures much
+ more efficient and has led to a reduction in crime.
+
+ 11. Smart Homes - Smart House (1999): Smart homes have become
+ increasingly popular, as they provide the convenience of
+ remote access control and automation. Automated systems
+ enable smart homes to respond to commands and adjust its
+ settings to provide the best environment for its residents.
+
+ 12. Virtual Reality - The Matrix (1999): Virtual reality has
+ taken the gaming experience to the next level and has been
+ used to create immersive and interactive experiences. It has
+ also been used in many areas, such as training, engineering,
+ education, and entertainment.
+
+ 13. Global Internet Connectivity - Star Trek: First Contact
+ (1996): Global internet connectivity has allowed people from
+ all over the world to communicate with each other, regardless
+ of location. It has made it easier for people to access and
+ share information quickly, as well as to collaborate on
+ projects from afar.
+
+ 14. Facial Recognition Technology - Mission Impossible
+ (1996): Facial recognition technology has come a long way
+ since it was first showcased in Mission Impossible. It has
+ been used to provide security, for biometric authentication,
+ and to detect potential threats.
+
+ 15. Voice Assistants - Her (2013): Voice assistants such as
+ Siri, Alexa, and Google Assistants have become increasingly
+ popular, providing voice-enabled control of a variety of
+ devices. They can be used to control smart home devices, to
+ play music, and to provide directions.
 
 
      finish = stop
-Stats: 1676646764 tot/prompt/compl tokens = 968/422/546
+Stats: 1676677500 tot/prompt/compl tokens = 1141/422/719
 

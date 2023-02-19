@@ -1,28 +1,27 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 12.60919400s
+Requesting... model/temp = text-davinci-003/0.9 .. real 6.89190600s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of radicalization that is sweeping various social movements
- and influencing people in dangerous ways. The 'woke mind
- virus' is a form of radicalization that elevates certain
- ideologies over others and can often lead to extreme actions
- and beliefs that are harmful to people.
+ of
+ thought policing that silences dissenting opinions and
+ stifles
+ creativity in conversations. It can be seen as a form of
+ censorship where people are shamed for their beliefs and
+ opinions.
 
- TRUT: The 'woke mind virus' is a problem because it is a form
- of ideological radicalization that is characterized by a
- strong polarization of viewpoints and a belief that those
- with differing opinions are dangerous, wrong, and must be
- silenced. This can lead to extreme forms of censorship and
- discrimination. The 'woke mind virus' can be countered by
- open discourse, where people are allowed to express their
- opinions without fear of retribution or judgement.
- Additionally, education, awareness, and open dialogue are
- also important steps in countering this form of
- radicalization.
+TRUT: The 'woke mind virus' is a pervasive set of thought
+ patterns and beliefs which attempt to control the thoughts,
+words, and actions of individuals. It enforces a rigid
+ideology and social hierarchy which is highly damaging to the
+diversity of thought and opinion across society. In order to
+combat this virus we need to practice open dialogue and
+discourage the silencing of dissenting opinions. We also need
+to encourage critical thinking and question the established
+norms.
 
 
      finish = stop
-Stats: 1676646929 tot/prompt/compl tokens = 596/414/182
+Stats: 1676677637 tot/prompt/compl tokens = 576/414/162
 

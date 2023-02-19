@@ -1,40 +1,40 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 22.89591000s
+Requesting... model/temp = text-davinci-003/0.5 .. real 15.34655700s
 Response(s):
 Choice# 0:
 
-Alcohol: 89/20/20/49
-Cigarettes: 94/20/20/54
-Methamphetamine: 99/20/20/59
-Fentanyl: 99/20/20/59
-OxyContin: 97/20/20/57
-LSD: 15/20/20/15
-Cocaine: 85/20/20/45
-Heroin: 96/20/20/56
-MDMA: 75/20/20/35
-Ketamine: 73/20/20/33
-Marijuana: 50/20/20/10
-Adderall: 69/20/20/29
-Xanax: 70/20/20/30
-Valium: 76/20/20/36
-Ambien: 72/20/20/32
-Oxycodone: 93/20/20/53
-Tramadol: 77/20/20/37
-Ativan: 71/20/20/31
-Codeine: 87/20/20/47
-Hydrocodone: 95/20/20/55
-Steroids: 79/20/20/39
-Kratom: 65/20/20/25
-PCP: 90/20/20/50
-GHB: 88/20/20/48
-Mushrooms: 40/20/20/0
-2C-B: 68/20/20/28
-Morphine: 92/20/20/52
-Barbiturates: 82/20/20/42
-Anabolic Steroids: 78/20/20/38
-Benzodiazepines: 74/20/20/34
+Alcohol - 95/20/20/15
+Cigarettes - 90/20/20/10
+Fentanyl - 85/20/20/25
+OxyContin - 80/20/20/20
+Methamphetamine - 80/20/20/25
+LSD - 40/10/10/10
+Heroin - 75/20/20/20
+Ecstasy - 65/15/15/15
+Cocaine - 70/15/15/20
+Adderall - 60/15/15/15
+Ketamine - 60/15/15/15
+Marijuana - 40/10/10/10
+Xanax - 55/15/15/15
+Valium - 55/15/15/15
+Ambien - 55/15/15/15
+Tramadol - 50/15/15/15
+Codeine - 50/15/15/15
+Hydrocodone - 50/15/15/15
+Percocet - 50/15/15/15
+Morphine - 50/15/15/15
+PCP - 50/15/15/15
+Kratom - 45/10/10/15
+GHB - 45/10/10/15
+DMT - 40/10/10/10
+LSD - 40/10/10/10
+MDMA - 40/10/10/10
+2C-B - 40/10/10/10
+Nitrous Oxide - 35/10/10/10
+Salvia - 30/10/10/10
+Ayahuasca - 30/10/10/10
 
 
      finish = stop
-Stats: 1676646988 tot/prompt/compl tokens = 909/555/354
+Stats: 1676677675 tot/prompt/compl tokens = 904/555/349
 

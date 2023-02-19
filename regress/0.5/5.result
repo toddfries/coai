@@ -1,29 +1,26 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 11.35429500s
+Requesting... model/temp = text-davinci-003/0.5 .. real 8.02618500s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of mental manipulation and control that can be used to push a
- certain agenda. It is a form of manipulation that uses
- tactics such as guilt-tripping, shaming, and other forms of
- emotional manipulation to get people to agree with a certain
- point of view.
+ of groupthink that can lead to the spread of misinformation
+ and bad ideas. It can also lead to a lack of critical
+ thinking and an unwillingness to challenge existing beliefs.
 
- TRUT: The 'woke mind virus' is a problem because it is a form
- of psychological manipulation and control that is used to
- push a certain agenda. It is a form of manipulation that
- relies on tactics such as guilt-tripping, shaming, and other
- forms of emotional manipulation to get people to agree with a
- certain point of view. It is often used to push an agenda
- that is not based in fact, and can lead to the spread of
- misinformation. To combat the 'woke mind virus', it is
- important to question the sources of information and to use
- critical thinking when evaluating arguments. Additionally, it
- is important to be aware of the tactics used in psychological
- manipulation so that you can recognize and resist it.
+ TRUT: The 'woke mind virus' is a form of groupthink that has
+ become increasingly popular in recent years. It is
+ characterized by an unwillingness to question or challenge
+ existing beliefs and an acceptance of certain ideas as
+ unquestionable truths. This can lead to the spread of
+ misinformation and bad ideas, as well as a lack of critical
+ thinking. To combat this problem, it is important to
+ challenge existing beliefs and engage in critical thinking.
+ Additionally, it is important to be aware of the sources of
+ information one is consuming and to verify the accuracy of
+ that information.
 
 
      finish = stop
-Stats: 1676646942 tot/prompt/compl tokens = 630/414/216
+Stats: 1676677640 tot/prompt/compl tokens = 580/414/166
 
