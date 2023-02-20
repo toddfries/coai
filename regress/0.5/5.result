@@ -1,26 +1,24 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 8.02618500s
+Requesting... model/temp = text-davinci-003/0.5 .. real 6.85688600s
 Response(s):
 Choice# 0:
 
- GPT: The 'woke mind virus' is a problem because it is a form
- of groupthink that can lead to the spread of misinformation
- and bad ideas. It can also lead to a lack of critical
- thinking and an unwillingness to challenge existing beliefs.
+ GPT: The 'woke mind virus' is a term used to describe the
+ spread of woke culture and ideas, which can lead to a lack of
+ critical thinking and the spread of misinformation.
 
- TRUT: The 'woke mind virus' is a form of groupthink that has
- become increasingly popular in recent years. It is
- characterized by an unwillingness to question or challenge
- existing beliefs and an acceptance of certain ideas as
- unquestionable truths. This can lead to the spread of
- misinformation and bad ideas, as well as a lack of critical
- thinking. To combat this problem, it is important to
- challenge existing beliefs and engage in critical thinking.
- Additionally, it is important to be aware of the sources of
- information one is consuming and to verify the accuracy of
- that information.
+ TRUT: The 'woke mind virus' is a term used to describe the
+ spread of woke culture, which is a political and social
+ movement based on the belief that current systems of power
+ and privilege are oppressive and need to be challenged. This
+ movement has been criticized for promoting a lack of critical
+ thinking and the spread of misinformation. To combat this, it
+ is important to engage in meaningful dialogue and to seek out
+ reliable sources of information. Additionally, it is
+ important to be aware of one's own biases and to challenge
+ them.
 
 
      finish = stop
-Stats: 1676677640 tot/prompt/compl tokens = 580/414/166
+Stats: 1676914829 tot/prompt/compl tokens = 561/414/147
 

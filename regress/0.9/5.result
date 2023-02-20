@@ -1,27 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 6.89190600s
+Requesting... model/temp = text-davinci-003/0.9 .. real 6.31518600s
 Response(s):
 Choice# 0:
 
- GPT: The 'woke mind virus' is a problem because it is a form
- of
- thought policing that silences dissenting opinions and
- stifles
- creativity in conversations. It can be seen as a form of
- censorship where people are shamed for their beliefs and
- opinions.
+ GPT: The "woke mind virus" is a problem because it can be
+ used to spread misinformation and biased beliefs. People
+ should be careful to verify any information they receive and
+ to only rely on reliable sources.
 
-TRUT: The 'woke mind virus' is a pervasive set of thought
- patterns and beliefs which attempt to control the thoughts,
-words, and actions of individuals. It enforces a rigid
-ideology and social hierarchy which is highly damaging to the
-diversity of thought and opinion across society. In order to
-combat this virus we need to practice open dialogue and
-discourage the silencing of dissenting opinions. We also need
-to encourage critical thinking and question the established
-norms.
+ TRUT: The “woke mind virus” is a term used to describe the
+ rapid spread of a particular type of activist message. It is
+ often associated with an ideologically driven movement that
+ is seen to be intolerant of different views and beliefs. This
+ type of activism can be characterized by the spread of
+ misinformation and the use of divisive rhetoric. To prevent
+ the spread of the “woke mind virus”, individuals should take
+ the time to research the source of any information before
+ accepting it as fact and be open to hearing alternate
+ perspectives.
 
 
      finish = stop
-Stats: 1676677637 tot/prompt/compl tokens = 576/414/162
+Stats: 1676914821 tot/prompt/compl tokens = 570/414/156
 

@@ -1,91 +1,57 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 28.83784200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 21.67153700s
 Response(s):
 Choice# 0:
 
-TRUT: 
- 1. Autonomous Vehicles - iRobot (2004): Autonomous vehicles
- have been used in many industries, including agriculture,
- construction, mining, delivery, and transportation. They have
- increased efficiency, safety and productivity in many of
- these industries.
-
- 2. Gesture-based Interfaces - Minority Report (2002):
- Gesture-based interfaces are becoming increasingly popular
- and more widely used, in applications such as gaming, as well
- as for controlling smart home devices.
-
- 3. Smartphones - Mobile phones (1989): Smartphones have
- changed the way the world communicates and stays connected.
- It has made it easier to access information and communicate
- with people from all over the world.
-
- 4. Social Networks - The Social Network (2010): Social
- networks have drastically impacted how people communicate and
- share information within their social circles, with the
- ability to reach anyone, anytime and anywhere.
-
- 5. 3D Printing - Terminator 3 (2003): 3D printing has
- revolutionized the way products are made and has enabled
- people to make customized products in the privacy of their
- own home.
-
- 6. Augmented Reality - Iron Man (2008): Augmented reality has
- become increasingly popular over the years, and has been used
- to enhance the gaming experience, as well as to provide
- expert guidance and assistance in many areas.
-
- 7. Self-driving Cars - Her (2013): Self-driving cars have the
- potential to drastically reduce traffic accidents and create
- safer transportation for passengers.
-
- 8. Artificial Intelligence - Blade Runner (1982): Artificial
- intelligence has been integrated into many different
- technologies, to mimic human behavior and to automate tasks,
- leading to increased efficiency and productivity.
-
- 9. Robotics - Wall-E (2008): Robotics have been used to
- automate many different processes, from manufacturing to
- construction. They can be programmed to perform the same
- action consistently, with no human error.
-
- 10. Facial Recognition - Enthiran (2010): Facial recognition
- has been used in many different places to track criminals and
- provide access control. It has made security measures much
- more efficient and has led to a reduction in crime.
-
- 11. Smart Homes - Smart House (1999): Smart homes have become
- increasingly popular, as they provide the convenience of
- remote access control and automation. Automated systems
- enable smart homes to respond to commands and adjust its
- settings to provide the best environment for its residents.
-
- 12. Virtual Reality - The Matrix (1999): Virtual reality has
- taken the gaming experience to the next level and has been
- used to create immersive and interactive experiences. It has
- also been used in many areas, such as training, engineering,
- education, and entertainment.
-
- 13. Global Internet Connectivity - Star Trek: First Contact
- (1996): Global internet connectivity has allowed people from
- all over the world to communicate with each other, regardless
- of location. It has made it easier for people to access and
- share information quickly, as well as to collaborate on
- projects from afar.
-
- 14. Facial Recognition Technology - Mission Impossible
- (1996): Facial recognition technology has come a long way
- since it was first showcased in Mission Impossible. It has
- been used to provide security, for biometric authentication,
- and to detect potential threats.
-
- 15. Voice Assistants - Her (2013): Voice assistants such as
- Siri, Alexa, and Google Assistants have become increasingly
- popular, providing voice-enabled control of a variety of
- devices. They can be used to control smart home devices, to
- play music, and to provide directions.
+TRUT:
+ 1. The Matrix (1999) - The concept of a virtual world has
+ become a reality through the development of virtual reality
+ technology which has been used to play video games, simulate
+ professional training scenarios, and create 3D visualizations
+ of architectural models.
+ 2. Back to the Future (1985) - Technology has advanced to the
+ point where self-tying shoes, powered by compressed air, are
+ available on the market.
+ 3. Jurassic Park (1993) - Scientists have made strides in the
+ field of genetic engineering, allowing them to splice genes
+ from one organism into another to create new species.
+ 4. Minority Report (2002) - Gesture-based user interfaces
+ have been developed, allowing people to control electronic
+ devices simply by gesturing with their hands.
+ 5. Star Wars (1977) - Robotics has advanced to the point
+ where robots are used for medical surgeries, manufacturing
+ automation, and even home assistants.
+ 6. The Terminator (1984) - Artificial intelligence has
+ enabled computers to make decisions on their own, and
+ self-driving cars are now a reality.
+ 7. WarGames (1983) - Computers are now capable of playing
+ games against humans, such as Chess and Go.
+ 8. Blade Runner (1982) - Life-like robots that are
+ indistinguishable from humans are now a reality.
+ 9. The Fifth Element (1997) - Moving sidewalks and dedicated
+ lanes for self-driving cars now exist in many cities around
+ the world.
+ 10. Wall-E (2008) – Clean energy and garbage-sorting robots
+ have been developed, helping to reduce the environment impact
+ of humanity.
+ 11. Total Recall (1990) – Wireless headsets and virtual
+ reality headsets are now widely available to consumers,
+ allowing them to immerse themselves in a simulated
+ environment.
+ 12. Avatar (2009) – Drones have been developed which can be
+ used for photography and surveying, replacing the need for
+ manned aircraft.
+ 13. Robocop (1987) – Surveillance cameras have been deployed
+ in many public places, allowing for real-time monitoring of
+ activities.
+ 14. I, Robot (2004) – Voice-activated assistants have been
+ developed, allowing users to interact with computers and
+ their connected devices using their voice.
+ 15. Blade Runner 2049 (2017) – Scientists have made advances
+ in the field of 3D printing, allowing them to quickly and
+ cheaply produce complex components.
 
 
      finish = stop
-Stats: 1676677500 tot/prompt/compl tokens = 1141/422/719
+Stats: 1676914733 tot/prompt/compl tokens = 918/422/496
 

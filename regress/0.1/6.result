@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 36.16140500s
+Requesting... model/temp = text-davinci-003/0.1 .. real 29.62105800s
 Response(s):
 Choice# 0:
 
@@ -9,14 +9,14 @@ Choice# 0:
  to person.
 
  3) The 20 most likely scenarios that could cause humanity to
- become extinct in the next 1000 years, in order of most
- likely to least likely, are as follows:
+ become extinct in the next 1000 years are as follows (in
+ order of most likely to least likely):
 
  1. Nuclear War (50% probability): A nuclear war between two
  or more countries could cause a global nuclear winter,
  leading to the extinction of humanity.
 
- 2. Climate Change (30% probability): Climate change caused by
+ 2. Climate Change (30% probability): Global warming caused by
  human activities could lead to extreme weather events, rising
  sea levels, and other environmental disasters that could
  cause the extinction of humanity.
@@ -25,91 +25,85 @@ Choice# 0:
  quickly and cause a large number of deaths, leading to the
  extinction of humanity.
 
- 4. Asteroid Impact (15% probability): An asteroid impact
- could cause a global extinction event, leading to the
- extinction of humanity.
+ 4. Asteroid Impact (15% probability): An asteroid could hit
+ the Earth and cause a global extinction event.
 
  5. Supervolcano Eruption (10% probability): A supervolcano
  eruption could cause a global cooling event, leading to the
  extinction of humanity.
 
  6. Artificial Intelligence (10% probability): Artificial
- intelligence could become so powerful that it could cause the
- extinction of humanity.
+ intelligence could become so powerful that it could take over
+ the world and cause the extinction of humanity.
 
  7. Gamma Ray Burst (5% probability): A gamma ray burst from a
- distant star could cause a global extinction event, leading
- to the extinction of humanity.
+ nearby star could cause a global extinction event.
 
  8. Solar Flare (5% probability): A solar flare could cause a
- global extinction event, leading to the extinction of
- humanity.
+ global extinction event.
 
- 9. Alien Invasion (5% probability): An alien invasion could
- cause a global extinction event, leading to the extinction of
- humanity.
+ 9. Gamma Ray Burst from a Supermassive Black Hole (5%
+ probability): A gamma ray burst from a supermassive black
+ hole could cause a global extinction event.
 
- 10. Nanotechnology (5% probability): Nanotechnology could
- become so powerful that it could cause the extinction of
- humanity.
-
- 11. Global Warming (5% probability): Global warming caused by
- human activities could lead to extreme weather events, rising
- sea levels, and other environmental disasters that could
+ 10. Alien Invasion (5% probability): An alien invasion could
  cause the extinction of humanity.
 
- 12. Nuclear Winter (5% probability): A nuclear winter caused
- by a nuclear war could cause a global cooling event, leading
- to the extinction of humanity.
+ 11. Nanotechnology (5% probability): Nanotechnology could
+ become so powerful that it could take over the world and
+ cause the extinction of humanity.
 
- 13. Ecological Collapse (3% probability): Ecological collapse
- caused by human activities could lead to extreme weather
- events, rising sea levels, and other environmental disasters
- that could cause the extinction of humanity.
+ 12. Ecological Collapse (5% probability): Human activities
+ could cause an ecological collapse, leading to the extinction
+ of humanity.
 
- 14. Supernova (2% probability): A supernova from a nearby
- star could cause a global extinction event, leading to the
+ 13. Superintelligence (3% probability): A superintelligence
+ could become so powerful that it could take over the world
+ and cause the extinction of humanity.
+
+ 14. Rogue AI (3% probability): A rogue AI could become so
+ powerful that it could take over the world and cause the
  extinction of humanity.
 
- 15. Gamma Ray Burst from a Nearby Star (2% probability): A
- gamma ray burst from a nearby star could cause a global
- extinction event, leading to the extinction of humanity.
+ 15. Gamma Ray Burst from a Neutron Star (2% probability): A
+ gamma ray burst from a neutron star could cause a global
+ extinction event.
 
- 16. Rogue Artificial Intelligence (2% probability): A rogue
- artificial intelligence could become so powerful that it
- could cause the extinction of humanity.
+ 16. Gamma Ray Burst from a Magnetar (2% probability): A gamma
+ ray burst from a magnetar could cause a global extinction
+ event.
 
- 17. Solar System Collision (1% probability): A collision
- between two solar systems could cause a global extinction
- event, leading to the extinction of humanity.
+ 17. Gamma Ray Burst from a Quasar (2% probability): A gamma
+ ray burst from a quasar could cause a global extinction
+ event.
 
- 18. Rogue Nanotechnology (1% probability): Rogue
- nanotechnology could become so powerful that it could cause
- the extinction of humanity.
+ 18. Gamma Ray Burst from a Pulsar (2% probability): A gamma
+ ray burst from a pulsar could cause a global extinction
+ event.
 
- 19. Supermassive Black Hole (1% probability): A supermassive
- black hole could cause a global extinction event, leading to
- the extinction of humanity.
+ 19. Gamma Ray Burst from a Hypernova (2% probability): A
+ gamma ray burst from a hypernova could cause a global
+ extinction event.
 
- 20. Natural Disaster (1% probability): A natural disaster
- such as an earthquake, tsunami, or volcanic eruption could
- cause a global extinction event, leading to the extinction of
- humanity.
+ 20. Gamma Ray Burst from a Supermassive Star (2%
+ probability): A gamma ray burst from a supermassive star
+ could cause a global extinction event.
 
  4) The percent chance humanity does not go extinct in the
- next 1000 years is estimated to be around 70-80%. This is due
- to the fact that humanity has been able to survive and adapt
- to many different types of disasters and catastrophes in the
- past, and is likely to continue to do so in the future.
+ next 1000 years is estimated to be around 75%. This is
+ because the probability of any single event causing the
+ extinction of humanity is relatively low, and the chances of
+ multiple events occurring simultaneously is even lower.
 
  5) Between now and the heat death of the universe, humanity
  is likely to go extinct in the next few hundred million
  years. This is due to the fact that the universe is expanding
  and will eventually become too cold for life to exist.
  Additionally, the sun will eventually become a red giant and
- consume the Earth, leading to the extinction of humanity.
+ consume the Earth, making it impossible for humanity to
+ survive.
 
 
      finish = stop
-Stats: 1676847102 tot/prompt/compl tokens = 1017/157/860
+Stats: 1676914822 tot/prompt/compl tokens = 959/157/802
 

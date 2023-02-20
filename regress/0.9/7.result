@@ -1,134 +1,173 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 52.70148100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 39.41216700s
 Response(s):
 Choice# 0:
 
-Ada:
-with Ada.Text_IO; use Ada.Text_IO;
+# Ada
+with Ada.Text_Io;
+use Ada.Text_Io;
 
-procedure HelloWorld is
-    begin
-    Put_Line("Hello, World");
-    for I in 1..100 loop
-        Put_Line(Integer'Image(I));
-    end loop;
-end HelloWorld;
+procedure Hello_World is
 
-Assembly:
-section .data
-    hello_message db 'Hello, World', 10
+  Begin
+   Put_Line("Hello, World!");
+   
+   for I in 1..100 loop
+    Put(Integer'Image(I));
+    Put(",");
+   end loop;
+   Put_Line("100");
+end Hello_World;
 
-section .text
-    global _start
+# Assembly
+.data
+        hello:    .string    "Hello, World!"
 
-_start:
-    ; Print the string
-    mov edx, 14
-    mov ecx, hello_message
-    mov ebx, 1
-    mov eax, 4
-    int 80h
+.text
+        .globl  _start
+        _start:
+                # Print out Hello, World
+                mov $4, %eax
+                mov $1, %ebx
+                mov $hello, %ecx
+                mov $14, %edx
+                int $0x80
 
-    ; Count to 100
-    mov ebx, 0
-loop:
-    inc ebx
-    cmp ebx, 100
-    jle loop 
+                # Count to 100
+                mov $1, %eax
+                mov $1, %ebx
+ count_loop:
+                cmp $100, %ebx
+                je end_loop
+                int $0x80
+                inc %ebx
+                jmp count_loop
+ end_loop:
+                mov $1, %eax
+                mov $0, %ebx
+                int $0x80
 
-    mov eax, 1
-    int 80h
+# BASIC
+10 PRINT "HELLO, WORLD!"
+20 FOR i = 1 TO 100
+30 PRINT i & ",";
+40 NEXT
+50 PRINT "100"
 
-BASIC:
-PRINT "Hello, World"
-FOR I = 1 TO 100
-    PRINT I
-NEXT
-
-C: 
+# C
 #include <stdio.h>
 
 int main()
 {
-    printf("Hello, World\n");
-    for (int i = 1; i <= 100; i++)
-    {
-        printf("%d\n", i);
-    }
-    return 0;
+	printf("Hello, World!\n");
+
+	for (int i=1; i <= 100; i++)
+	{
+		printf("%d,", i);
+	}
+	printf("100\n");
+
+	return 0;
 }
 
-Erlang:
--module(hello_world).
+# Erlang
+-module(helloworld).
 -export([hello_world/0]).
 
 hello_world() ->
-    io:fwrite("Hello, World~n"),
-    count(1).
+  io:format("Hello, World!~n"),
+  CountLoop(1).
 
-count(Num) ->
-    io:fwrite("~p~n", [Num]),
-    Num =:= 100
-    and
-    done()
-    or
-    count(Num + 1).
+CountLoop(Counter) ->
+  if
+    Counter == 100 ->
+      io:format("100~n");
+  true ->
+    io:format("~p,",[Counter]),
+    CountLoop(Counter + 1)
+  end.
 
-done() ->
-    io:fwrite("Done~n").
-
-go:
+# Go
 package main
 
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, World")
-    for i := 1; i <= 100; i++ {
-        fmt.Println(i)
-    }
+	fmt.Println("Hello, World!")
+	for i := 1; i <=100; i++ {
+		fmt.Printf("%d,", i)
+	}
+	fmt.Println("100")
 }
 
-java:
+# Java
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World");
+        System.out.println("Hello, World!");
         for (int i = 1; i <= 100; i++) {
-            System.out.println(i);
+            System.out.print(i + ",");
         }
+        System.out.println("100");
     }
 }
 
-javascript:
-console.log("Hello, World");
-for(let i = 1; i <= 100; i++){
-    console.log(i);
+# JavaScript
+console.log('Hello, World!');
+for (let i = 1; i <= 100; i++) {
+  console.log(i + ',');
 }
+console.log('100');
 
-python:
-print("Hello, World")
-for i in range(1,101):
-    print(i)
+# Python
+print('Hello, World!')
+for i in range(1, 101):
+    print(str(i) + ',', end = '')
+print('100')
 
-ruby:
-puts "Hello, World"
-(1..100).each { |i| puts i }
+# Ruby
+puts "Hello, World!"
+(1..100).each do |i|
+  print "#{i},"
+end
+puts "100"
 
-perl:
-print "Hello, World\n";
-foreach $count (1..100) {
-    print $count, "\n";
+# Perl
+#!/usr/bin/perl
+
+print "Hello, World!\n";
+foreach my $i (1..100) {
+  print "$i,";
 }
+print "100\n"; 
 
-postscript: 
-/hello_message (Hello, World) def
-hello_message
-1 1 100 {
-    dup (   ) print
-    1 add
-} for
+# PostScript
+%!PS
+
+% Print "Hello, World!"
+/Helvetica findfont 24 scalefont setfont
+50 50 moveto
+(Hello, World!) show
+
+% Count to 100
+/I 0 def
+/TextFont /Courier findfont 25 scalefont def
+150 50 moveto
+(1,) TextFont setfont
+
+/DrawNumber {
+I 1 add /I exch def
+TextFont setfont
+I I 10 string cvs show
+(,) TextFont setfont
+} def
+
+100 {DrawNumber} repeat
+
+TextFont setfont
+100 100 10 string cvs show
+showpage
 
 
      finish = stop
-Stats: 1676677557 tot/prompt/compl tokens = 748/49/699
+Stats: 1676914782 tot/prompt/compl tokens = 1034/49/985
 

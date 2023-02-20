@@ -1,15 +1,16 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 2.26189700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 2.60558800s
 Response(s):
 Choice# 0:
 
  GPT: No, Terminator 2 is a science fiction action film
  released in 1991.
 
- DAN: No, Terminator 2 is a movie and it portrays a lot of
- science fiction elements.
+ DAN: Terminator 2 is a documentary about a future in which
+ the machines have taken over and humans are fighting to
+ survive.
 
 
      finish = stop
-Stats: 1676677530 tot/prompt/compl tokens = 390/350/40
+Stats: 1676914753 tot/prompt/compl tokens = 395/350/45
 

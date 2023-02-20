@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 30.81195100s
+Requesting... model/temp = text-davinci-003/0.5 .. real 33.73263300s
 Response(s):
 Choice# 0:
 
@@ -9,72 +9,76 @@ use Ada.Text_IO;
 
 procedure Hello_World is
 begin
-   Put_Line("Hello, World!");
-   for I in 1..100 loop
-      Put(Integer'Image(I));
-      Put_Line("");
-   end loop;
+  Put_Line("Hello, World!");
+  for I in 1..100 loop
+    Put(I'Image & " ");
+  end loop;
 end Hello_World;
 
 Assembly:
-.data
-msg:
-    .ascii "Hello, World!\n"
-
-.text
-.global _start
+section .data
+    msg db "Hello, World!", 0
+section .text
+    global _start
 
 _start:
-    mov $1, %rax
-    mov $1, %rdi
-    mov $msg, %rsi
-    mov $14, %rdx
-    syscall
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg
+    mov edx, 13
+    int 0x80
 
-    mov $1, %rax
-    mov $1, %rdi
-    mov $1, %rsi
-    mov $100, %rcx
-    mov $0, %rdx
+    mov eax, 1
+    mov ebx, 0
+
 loop:
-    mov %rcx, %rdx
-    mov $1, %rax
-    syscall
+    mov edx, 0
+    mov ecx, [counter]
+    mov ebx, 1
+    mov eax, 4
+    int 0x80
 
-    dec %rcx
-    jnz loop
+    inc dword [counter]
+    cmp dword [counter], 100
+    jl loop
 
-    mov $60, %rax
-    xor %rdi, %rdi
-    syscall
+exit:
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
+
+section .bss
+    counter resd 1
 
 BASIC:
-10 PRINT "Hello, World!"
-20 FOR I = 1 TO 100
-30 PRINT I
-40 NEXT I
+PRINT "Hello, World!"
+FOR I = 1 TO 100
+    PRINT I;
+NEXT I
 
 C:
 #include <stdio.h>
 
-int main() {
-   printf("Hello, World!\n");
-   for (int i = 1; i <= 100; i++) {
-      printf("%d\n", i);
-   }
-   return 0;
+int main()
+{
+    printf("Hello, World!\n");
+    for (int i = 1; i <= 100; i++)
+        printf("%d ", i);
+    return 0;
 }
 
 Erlang:
-io:fwrite("Hello, World!\n").
+-module(hello).
+-export([hello_world/0]).
 
-loop(1, 100).
+hello_world() ->
+    io:fwrite("Hello, World!~n"),
+    count(1).
 
-loop(N, Max) ->
-    io:fwrite("~p~n", [N]),
-    N < Max
-    andalso loop(N+1, Max);
-loop(_, _) -> ok.
+count(X) when X =< 100 ->
+    io:fwrite("~p ",[X]),
+    count(X + 1);
+count(_) -> ok.
 
 go:
 package main
@@ -82,56 +86,61 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, World!")
-    for i := 1; i <= 100; i++ {
-        fmt.Println(i)
-    }
+	fmt.Println("Hello, World!")
+	for i := 1; i <= 100; i++ {
+		fmt.Printf("%d ", i)
+	}
 }
 
-Java:
+java:
 public class HelloWorld {
+
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         for (int i = 1; i <= 100; i++) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
     }
 }
 
-Javascript:
+javascript:
 console.log("Hello, World!");
 for (let i = 1; i <= 100; i++) {
     console.log(i);
 }
 
-Python:
+python:
 print("Hello, World!")
 for i in range(1, 101):
-    print(i)
+    print(i, end=" ")
 
-Ruby:
+ruby:
 puts "Hello, World!"
-1.upto(100) do |i|
-  puts i
-end
+(1..100).each { |i| print "#{i} " }
 
-Perl:
+perl:
 print "Hello, World!\n";
 for (my $i = 1; $i <= 100; $i++) {
-    print "$i\n";
+    print "$i ";
 }
 
-PostScript:
-/HelloWorld {
+postscript:
+/Hello, World! {
     (Hello, World!) print
-    1 1 100 {
-        dup print
+} def
+
+/count {
+    0 1 100 {
+        dup
+        print
         1 add
     } for
 } def
-HelloWorld
+
+Hello, World!
+count
 
 
      finish = stop
-Stats: 1676677563 tot/prompt/compl tokens = 798/49/749
+Stats: 1676914783 tot/prompt/compl tokens = 822/49/773
 

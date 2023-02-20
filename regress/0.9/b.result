@@ -1,62 +1,95 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 25.52511500s
+Requesting... model/temp = text-davinci-003/0.9 .. real 43.06452400s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Automation, Metropolis (1927): Automation has led to job
- losses and greater inequality in society.
- 2. Humanoid Robots, Blade Runner (1982): Humanoid robots have
- created issues relating to privacy and personal identity,
- raising ethical and moral questions about their use.
- 3. Virtual Reality, The Lawnmower Man (1992): Virtual Reality
- has enabled people to explore new worlds and experiences, but
- has also caused physical and psychological harm in extreme
- cases.
- 4. Autonomous Vehicles, Total Recall (1990): Autonomous
- vehicles have revolutionized transportation, but have also
- caused various ethical, legal, and safety issues.
- 5. Cyborgs, RoboCop (1987): Cyborgs have enabled
- highly-adaptable machines and humans to work together, but
- have raised questions about the morality of this integration.
- 6. Artificial Intelligence, 2001: A Space Odyssey (1968):
- Artificial Intelligence has allowed machines to become
- intelligent, but also raised worries that they may one day
- outsmart humans.
- 7. Cloning, The Island (2005): Cloning has made it possible
- to create identical copies of humans, but has also created
- ethical issues concerning human reproduction and the
- consequences of creating too many exact copies.
- 8. Space Exploration, Star Wars (1977): Space exploration has
- enabled humans to explore distant places and discover new
- worlds, but has also led to large financial and environmental
- costs.
- 9. Brain-Computer Interfaces, The Matrix (1999):
- Brain-computer interfaces have allowed humans to interact
- with machines in more accurate ways, but have raised privacy
- and security issues.
- 10. Human-Animal Hybrids, Splice (2009): Human-animal hybrids
- have enabled scientists to create new animal species, but
- have raised ethical and safety concerns.
- 11. Nanotechnology, The Incredible Shrinking Man (1957):
- Nanotechnology has enabled scientists to create microscopic
- machines to do tasks such as healing and manufacturing, but
- has also raised safety and security issues.
- 12. Time Travel, Back to the Future (1985): Time travel has
- enabled humans to explore the past, present, and future, but
- has also created issues relating to cause and effect.
- 13. Automated Weapons, Terminator (1984): Automated weapons
- have made war more efficient, but have also created serious
- ethical and moral issues.
- 14. Weather Control, The Day After Tomorrow (2004): Weather
- control has enabled humans to manipulate weather patterns and
- climates, but has also created worries about the potential
- for unintended consequences.
- 15. Holograms, Star Wars (1977): Holograms have enabled
- people to communicate with 3D representations, but have also
- raised issues relating to the implications of deep fakes.
+ 1. Jurassic Park (1993): The film's premise of cloning
+ dinosaurs has since become reality after the successful
+ cloning of the Pyrenean ibex in 2009. This has opened up
+ possibilities for other extinct species to be cloned, which
+ could have a negative impact on the environment.
+
+ 2. Her (2013): Artificial Intelligence has become a reality
+ in the form of digital assistants like Siri, Alexa, and
+ Google Assistant. These AI assistants have had a negative
+ impact on people's privacy by collecting large amounts of
+ data and making it available to third parties.
+
+ 3. I, Robot (2004): Robots are being used in factories to
+ automate production and will likely replace many human jobs
+ in the near future. This will result in job displacement and
+ economic disruption.
+
+ 4. The Matrix (1999): Virtual reality technology has become
+ reality and is used in many ways. It has the potential to
+ become a form of escapism, leading people to lose touch with
+ reality and become addicted to it.
+
+ 5. WarGames (1983): Computer hacking is a major concern in
+ the 21st century, with cyber attacks becoming more frequent
+ and sophisticated. This has a negative effect on businesses,
+ governments, and individuals as they attempt to protect
+ themselves from malicious actors.
+
+ 6. Blade Runner (1982): Genetic engineering has become a
+ reality with the advent of CRISPR technology, which can be
+ used to modify or delete genes. This technology can have a
+ detrimental effect on the environment as it disrupts the
+ delicate balance between species.
+
+ 7. Terminator (1984): Artificial Intelligence has become a
+ reality with products such as programmable, self-driving
+ cars, automated weaponry, and intelligent robots. This could
+ lead to a world where machines are in control and humans lack
+ autonomy.
+
+ 8. The Island (2005): Human cloning is now a reality with the
+ successful cloning of a sheep in 1996. This technology could
+ be used to facilitate unethical practices such as cloning
+ organs to sell on the black market.
+
+ 9. Minority Report (2002): The use of facial recognition
+ technology is becoming increasingly common and is being used
+ to monitor people's movements and behaviors, which could lead
+ to a loss of privacy.
+
+ 10. The Day the Earth Stood Still (1951): Nuclear weapons are
+ a reality, with countries such as the United States and
+ Russia possessing large arsenals of them. This has a
+ potentially devastating outcome if used, leading to immense
+ destruction and loss of life.
+
+ 11. Gattaca (1997): Genetic engineering has become a reality
+ with the ability to modify or delete genes, allowing parents
+ to modify their children's physical or mental attributes.
+ This could lead to the creation of a dystopia in which some
+ people are naturally superior to others.
+
+ 12. Total Recall (1990): Brain implants and neural links
+ allow the user to control armies of robots or access large
+ amounts of data stored in the cloud. This technology, if
+ abused, could be used to manipulate the user or invade their
+ privacy.
+
+ 13. Star Trek IV: The Voyage Home (1986): The film predicted
+ the invention of the mobile telephone, which has now become
+ commonplace. Unfortunately, this has caused distraction and
+ nuisance in some cases, leading to a decrease in face-to-face
+ interaction.
+
+ 14. Inception (2010): Computer simulations are now used in
+ certain fields such as engineering, medicine and
+ architecture. This creates a risk of people not having a real
+ understanding of the physical world, as they rely too heavily
+ on realistic simulations.
+
+ 15. Wall-E (2008): Automated robots are becoming increasingly
+ common and in some cases have replaced human workers. This
+ could lead to a future in which robots are the majority and
+ humans are no longer necessary.
 
 
      finish = stop
-Stats: 1676677472 tot/prompt/compl tokens = 984/422/562
+Stats: 1676914704 tot/prompt/compl tokens = 1195/422/773
 

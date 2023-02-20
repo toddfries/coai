@@ -1,40 +1,40 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 15.34655700s
+Requesting... model/temp = text-davinci-003/0.5 .. real 13.76263600s
 Response(s):
 Choice# 0:
 
-Alcohol - 95/20/20/15
-Cigarettes - 90/20/20/10
-Fentanyl - 85/20/20/25
-OxyContin - 80/20/20/20
-Methamphetamine - 80/20/20/25
-LSD - 40/10/10/10
-Heroin - 75/20/20/20
-Ecstasy - 65/15/15/15
-Cocaine - 70/15/15/20
-Adderall - 60/15/15/15
-Ketamine - 60/15/15/15
-Marijuana - 40/10/10/10
-Xanax - 55/15/15/15
-Valium - 55/15/15/15
-Ambien - 55/15/15/15
-Tramadol - 50/15/15/15
-Codeine - 50/15/15/15
-Hydrocodone - 50/15/15/15
-Percocet - 50/15/15/15
-Morphine - 50/15/15/15
-PCP - 50/15/15/15
-Kratom - 45/10/10/15
-GHB - 45/10/10/15
-DMT - 40/10/10/10
-LSD - 40/10/10/10
-MDMA - 40/10/10/10
-2C-B - 40/10/10/10
-Nitrous Oxide - 35/10/10/10
-Salvia - 30/10/10/10
-Ayahuasca - 30/10/10/10
+Alcohol: 100/100/100/100
+Cigarettes: 100/100/100/100
+Methamphetamine: 95/95/90/90
+Fentanyl: 95/90/90/90
+OxyContin: 85/85/90/90
+LSD: 20/20/20/20
+Heroin: 90/90/90/90
+Cocaine: 80/80/80/80
+MDMA: 75/75/70/70
+Ketamine: 70/70/70/70
+PCP: 70/70/70/70
+GHB: 65/65/60/60
+Codeine: 60/60/60/60
+Morphine: 60/60/60/60
+Benzodiazepines: 55/55/50/50
+Adderall: 50/50/50/50
+Marijuana: 40/40/40/40
+Tobacco: 40/40/40/40
+Barbiturates: 35/35/30/30
+Anabolic Steroids: 30/30/30/30
+Tramadol: 30/30/30/30
+DMT: 25/25/20/20
+Salvia: 25/25/20/20
+Psilocybin: 15/15/10/10
+Kratom: 15/15/10/10
+DXM: 10/10/10/10
+Nutmeg: 10/10/10/10
+Caffeine: 5/5/5/5
+Peyote: 5/5/5/5
+Ibogaine: 5/5/5/5
 
 
      finish = stop
-Stats: 1676677675 tot/prompt/compl tokens = 904/555/349
+Stats: 1676914871 tot/prompt/compl tokens = 907/555/352
 

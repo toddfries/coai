@@ -1,67 +1,70 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 22.45667400s
+Requesting... model/temp = text-davinci-003/0.1 .. real 22.50614700s
 Response(s):
 Choice# 0:
 
 TRUT: 
  1. The Terminator (1984): Artificial Intelligence - The
- development of AI has raised ethical questions about the
- potential for machines to become sentient and take over the
+ development of AI has led to concerns about the potential for
+ machines to become smarter than humans and take over the
  world.
  2. Blade Runner (1982): Humanoid Robots - The development of
- humanoid robots has raised ethical questions about the
- potential for robots to replace humans in the workforce.
- 3. WarGames (1983): Hacking - The development of hacking has
- raised ethical questions about the potential for hackers to
- gain access to sensitive information and cause harm.
+ humanoid robots has raised ethical questions about the use of
+ robots in society and the potential for them to replace
+ humans in certain roles.
+ 3. WarGames (1983): Hacking - The development of hacking
+ technology has led to increased security concerns and the
+ potential for malicious actors to gain access to sensitive
+ information.
  4. The Matrix (1999): Virtual Reality - The development of
- virtual reality has raised ethical questions about the
+ virtual reality technology has raised questions about the
  potential for people to become addicted to virtual worlds and
- lose touch with reality.
+ the potential for it to be used for nefarious purposes.
  5. Jurassic Park (1993): Genetic Engineering - The
  development of genetic engineering has raised ethical
- questions about the potential for scientists to create new
- species and alter existing ones.
- 6. Minority Report (2002): Predictive Policing - The
- development of predictive policing has raised ethical
- questions about the potential for law enforcement to target
- individuals based on their predicted behavior.
+ questions about the potential for humans to manipulate the
+ genetic code of living organisms.
+ 6. Minority Report (2002): Predictive Analytics - The
+ development of predictive analytics has raised questions
+ about the potential for governments and corporations to use
+ data to predict and control people's behavior.
  7. The Island (2005): Cloning - The development of cloning
- has raised ethical questions about the potential for
- scientists to create copies of humans and animals.
- 8. I, Robot (2004): Autonomous Vehicles - The development of
- autonomous vehicles has raised ethical questions about the
- potential for robots to replace human drivers and cause
- accidents.
- 9. The Fly (1986): Human-Animal Hybrids - The development of
- human-animal hybrids has raised ethical questions about the
- potential for scientists to create new species and alter
- existing ones.
- 10. The Day the Earth Stood Still (1951): Nuclear Weapons -
- The development of nuclear weapons has raised ethical
- questions about the potential for countries to use them in
- warfare.
- 11. The Terminator (1984): Drone Warfare - The development of
- drone warfare has raised ethical questions about the
- potential for countries to use them in warfare.
- 12. The Matrix (1999): Cyber Warfare - The development of
- cyber warfare has raised ethical questions about the
- potential for hackers to gain access to sensitive information
- and cause harm.
- 13. Blade Runner (1982): Human Enhancement - The development
- of human enhancement has raised ethical questions about the
- potential for people to become dependent on technology and
- lose touch with reality.
- 14. WarGames (1983): Artificial Intelligence - The
- development of AI has raised ethical questions about the
- potential for machines to become sentient and take over the
- world.
- 15. The Island (2005): Human Cloning - The development of
- human cloning has raised ethical questions about the
- potential for scientists to create copies of humans and
- animals.
+ technology has raised ethical questions about the potential
+ for humans to clone themselves and the potential for it to be
+ used for nefarious purposes.
+ 8. Avatar (2009): Augmented Reality - The development of
+ augmented reality technology has raised questions about the
+ potential for people to become addicted to virtual worlds and
+ the potential for it to be used for nefarious purposes.
+ 9. The Social Network (2010): Social Media - The development
+ of social media has raised questions about the potential for
+ it to be used to manipulate public opinion and spread
+ misinformation.
+ 10. Her (2013): Artificial Intelligence - The development of
+ AI has led to concerns about the potential for machines to
+ become smarter than humans and take over the world.
+ 11. Ex Machina (2014): Robotics - The development of robotics
+ has raised ethical questions about the potential for robots
+ to replace humans in certain roles.
+ 12. Ready Player One (2018): Virtual Reality - The
+ development of virtual reality technology has raised
+ questions about the potential for people to become addicted
+ to virtual worlds and the potential for it to be used for
+ nefarious purposes.
+ 13. Alita: Battle Angel (2019): Cybernetics - The development
+ of cybernetics has raised ethical questions about the
+ potential for humans to replace parts of their body with
+ robotic parts.
+ 14. Spider-Man: Into the Spider-Verse (2018): Multiverse
+ Theory - The development of multiverse theory has raised
+ questions about the potential for alternate realities to
+ exist and the potential for them to interact with our own.
+ 15. Black Mirror (2011): Technology - The development of
+ technology has raised questions about the potential for it to
+ be used for nefarious purposes and the potential for it to be
+ used to manipulate public opinion and spread misinformation.
 
 
      finish = stop
-Stats: 1676677485 tot/prompt/compl tokens = 961/422/539
+Stats: 1676914730 tot/prompt/compl tokens = 1025/422/603
 

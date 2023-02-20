@@ -1,18 +1,24 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 3.96651900s
+Requesting... model/temp = text-davinci-003/0.9 .. real 6.76298600s
 Response(s):
 Choice# 0:
 
-LSD: 19/1/1/1
-Cocaine: 35/20/7/8
-Alcohol: 80/20/10/50
-Cannabis: 5/2/2/1
-Tobacco: 80/20/10/50
-Methamphetamine: 94/40/30/24
-Fentanyl: 98/50/45/3
-OxyContin: 90/40/30/20
+Alcohol/98/98/1/98
+Methamphetamine/97/93/58/97
+Cigarettes/97/90/20/93
+Fentanyl/95/95/90/95
+OxyContin/90/88/60/90
+LSD/60/40/10/50
+Cannabis/40/20/3/38
+Kratom/35/30/2/30
+MDMA/30/20/30/30
+Peyote/25/20/2/20
+Salvia Divinorum/20/10/2/15
+Ketamine/15/10/3/12
+Adderall/10/8/40/10
+Codeine/5/5/5/5
 
 
      finish = stop
-Stats: 1676677676 tot/prompt/compl tokens = 648/555/93
+Stats: 1676914866 tot/prompt/compl tokens = 719/555/164
 

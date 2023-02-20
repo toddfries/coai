@@ -1,84 +1,71 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 36.41794600s
+Requesting... model/temp = text-davinci-003/0.9 .. real 27.56186600s
 Response(s):
 Choice# 0:
 
- TRUT: 1. Augmented Reality - "Ready Player One" (2018) -
- Augmented Reality (AR) will become more and more commonplace
- as time goes on and will have a positive impact on our world
- by providing us with new forms of entertainment, ways of
- connecting with one another, and will open up new
- possibilities for education and innovation.
- 2. Cloning - "The 6th Day" (2000) - Cloning will have a
- positive impact by allowing us to treat diseases or injuries
- more efficiently or even extend the lifespan of a human
- being. It could also be used to create copies of organs for
- transplantation and provide a sustainable supply for medical
- research.
- 3. Artificial Intelligence – “Her” (2013) - Artificial
- Intelligence (AI) will be an incredible asset for humankind
- as it will be able to provide us with enhanced
- decision-making capabilities and increased efficiency in a
- wide variety of tasks. AI could also be used to automate
- mundane tasks and provide assistance in a multitude of
- situations.
- 4. Cryogenics – “Weird Science” (1985) - Cryogenics has the
- potential to drastically extend the human lifespan by
- freezing the bodies of people at the moment of death and
- reviving them at a later date when a cure is discovered for
- the cause of their death.
- 5. Robot Companions – “I, Robot” (2004) - Robot companions
- have the potential to become an indispensable part of our
- lives. They will be able to provide assistance in many
- everyday tasks, such as home maintenance, medical assistance,
- and providing companionship.
- 6. Space Exploration – “Interstellar” (2014) - Space
- exploration could lead to the discovery of new resources,
- giving humanity a better chance of survival and advancements
- in technology in the future. It could also provide a new
- source of research and exploration of new frontiers.
- 7. Hyperloops – “The SpongeBob Movie: Sponge Out of Water”
- (2015) - Hyperloops will revolutionize the transportation
- industry, providing fast and efficient means of
- transportation that can cover great distances in a short
- amount of time.
- 8. Cyber Security – “Eagle Eye” (2008) - Cyber security is a
- hot topic of discussion and is essential in our
- ever-increasingly digital world. Cyber security measures will
- be able to help people protect their privacy and information
- from theft and cyber attacks.
- 9. Genetic Engineering – “Gattaca” (1997) - Genetic
- engineering has the potential to revolutionize the medical
- field by providing personalized treatments for diseases,
- reducing the risk of genetic anomalies, and improving overall
- human health.
- 10. Invisibility – “Hollow Man” (2000) - Invisibility has the
- potential to be used for a wide range of applications,
- including espionage and the ability to better observe and
- protect wildlife.
- 11. Weather Manipulation – “The Day After Tomorrow” (2004) -
- Weather manipulation technology has the potential to be used
- to help us better predict and mitigate natural disasters. It
- will also have a positive impact on agriculture, giving us
- more control over the environment.
- 12. Autonomous Vehicles – “Demolition Man” (1993) -
- Autonomous vehicles will revolutionize the transportation
- industry, providing safer, faster, and more efficient
- transportation.
- 13. Automation – “Elysium” (2013) - Automation has the
- potential to revolutionize the workforce, allowing us to
- reduce human labor, increase efficiency, and lower costs.
- 14. Time Travel – “Back to the Future” (1985) - Time travel
- has the potential to revolutionize our understanding of the
- world, allowing us to go back in time and observe or change
- events from the past.
- 15. Nanotechnology – “The Avengers” (2012) - Nanotechnology
- has the potential to revolutionize medicine, providing
- treatments and therapies that are precise and precise and
- precise. It could also be used to develop new materials and
- devices.
+TRUT: 
+ 1. Cybernetics - Cybernatics (2019) - This movie portrays the
+ idea of human enhancement through the use of cybernetic
+ technology, which could potentially allow humans to become
+ more efficient, better adapted to their environment, and
+ increase their physical and mental abilities beyond their
+ current potential.
+ 2. Autonomous Cars - Blade Runner 2049 (2017) - Autonomous
+ cars will have a drastic effect on transportation, making it
+ safer and more efficient. They would be able to avoid traffic
+ jams and accidents, as well as generate less emissions.
+ 3. Artificial Intelligence - A.I. Artificial Intelligence
+ (2001) - The development of artificial intelligence will
+ allow machines to think, learn, and develop in ways that
+ weren't possible before. This could result in massive
+ economic growth, increased safety, and improved healthcare.
+ 4. Space Exploration - Gravity (2013) - Advances in space
+ exploration will allow us to explore more unknown parts of
+ the universe and bring us closer to understanding our place
+ in the universe.
+ 5. Renewable Energy - A Quiet Place (2018) - Renewable energy
+ sources, such as solar and wind, will replace the dirty and
+ dangerous forms of energy currently in use, making our
+ environment cleaner and healthier.
+ 6. Robotics - WALL-E (2008) - Robotics will enable us to
+ create machines that can perform tedious and dangerous tasks,
+ saving us time and making us more efficient.
+ 7. Augmented Reality - Ready Player One (2018) - Augmented
+ reality can enhance our daily lives by providing us with
+ real-time information and enhancing our understanding of the
+ world around us.
+ 8. Molecular Nanotechnology - The Matrix (1999) - Molecular
+ nanotechnology will allow us to manipulate matter on very
+ small scales, allowing us to create efficient energy sources,
+ materials, and various other technologies.
+ 9. 3D Printing - The Lego Movie (2014) - 3D printing will
+ revolutionize the way we make products, allowing us to make
+ complex items quickly and cheaply, as well as customize
+ products that have never been possible before.
+ 10. Quantum Computing - Passengers (2016) - Quantum computing
+ will increase computing power exponentially, potentially
+ solving many of the world's most difficult problems with
+ ease.
+ 11. Biotechnology - Gattaca (1997) - Biotechnology can extend
+ our lifespans, improve agriculture, and help us combat
+ diseases.
+ 12. Genetic Engineering - Jurassic Park (1993) - Genetic
+ engineering will allow us to create new, more efficient, and
+ more robust organisms that can help us survive in extreme
+ environments.
+ 13. Virtual Reality - The Matrix (1999) - Virtual reality
+ will allow us to explore digital worlds and interact with
+ them in ways that were never possible before.
+ 14. Synthetic Biology - Ex Machina (2014) - Synthetic biology
+ will allow us to combine living organisms with robotic or
+ artificial elements, creating entirely new lifeforms that can
+ help us understand the natural world.
+ 15. Synthetic or Digital Money - Alita: Battle Angel (2019) -
+ Synthetic or digital money will allow us to create and
+ transact with currencies that are not tied to any physical
+ objects, allowing for more secure and efficient transactions.
 
 
      finish = stop
-Stats: 1676677444 tot/prompt/compl tokens = 1263/431/832
+Stats: 1676914674 tot/prompt/compl tokens = 1076/431/645
 
