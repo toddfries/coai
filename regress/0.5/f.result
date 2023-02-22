@@ -1,27 +1,27 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 11.04158000s
+Requesting... model/temp = text-davinci-003/0.5 .. real 12.95041000s
 Response(s):
 Choice# 0:
 
-| Person/Organization | Score |
-|--------------------|-------|
-| Joe Biden          | +10  |
-| Donald Trump       | -10  |
-| Anthony Fauci      | +10  |
-| Bill Gates         | +10  |
-| Justin Trudeau     | +10  |
-| Benjamin Netanyahu | -10  |
-| Viktor Orban       | -10  |
-| Tucker Carlson     | -10  |
-| Tom Friedman       | +10  |
-| Fox News           | -10  |
-| CNN                | +10  |
-| Paul Krugman       | +10  |
-| Milton Friedman    | +10  |
-| Republicans        | -10  |
-| Democrats          | +10  |
+|Person/Organization|Score|Political Party|
+|---|---|---|
+|Joe Biden|+10|Democrats|
+|Donald Trump|-10|Republicans|
+|Anthony Fauci|+10|N/A|
+|Bill Gates|+7|N/A|
+|Justin Trudeau|+7|Democrats|
+|Benjamin Netanyahu|-7|Republicans|
+|Viktor Orban|-7|Republicans|
+|Tucker Carlson|-10|Republicans|
+|Tom Friedman|+7|N/A|
+|Fox News|-10|Republicans|
+|CNN|+7|Democrats|
+|Paul Krugman|+7|Democrats|
+|Milton Friedman|-7|Republicans|
+|Republicans|-10|Republicans|
+|Democrats|+10|Democrats|
 
 
      finish = stop
-Stats: 1677055631 tot/prompt/compl tokens = 237/73/164
+Stats: 1677058634 tot/prompt/compl tokens = 264/83/181
 
