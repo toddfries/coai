@@ -1,33 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 11.08640000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 11.73388600s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of
-ideological extremism that can lead to dangerous and extreme
-actions. It is a belief system that is based on a set of
-ideas that are seen as being progressive and socially
-acceptable, but which can lead to a lack of critical thinking
-and a lack of understanding of the complexities of the world.
+ of groupthink that can lead to people making decisions
+ without considering all the facts. It can also lead to people
+ making decisions based on emotion rather than logic.
 
  TRUT: The 'woke mind virus' is a problem because it is a form
- of
-ideological extremism that can lead to dangerous and extreme
-actions. It is a belief system that is based on a set of
-ideas that are seen as being progressive and socially
-acceptable, but which can lead to a lack of critical thinking
-and a lack of understanding of the complexities of the world.
-The 'woke mind virus' is a problem because it can lead to
-polarization, intolerance, and a lack of empathy. It can
-also lead to a lack of understanding of the nuances of
-complex issues and a lack of willingness to engage in
-constructive dialogue. To address the 'woke mind virus', it
-is important to focus on education and dialogue, as well as
-encouraging critical thinking and understanding of the
-complexities of the world.
+ of groupthink that can lead to people making decisions
+ without considering all the facts. It can also lead to people
+ making decisions based on emotion rather than logic. This can
+ lead to people making decisions that are not in their best
+ interest or the best interest of society. To combat the 'woke
+ mind virus', it is important to encourage critical thinking
+ and to challenge ideas that are presented. People should also
+ be encouraged to look at all sides of an issue and to
+ consider the potential consequences of their decisions.
 
 
      finish = stop
-Stats: 1676914831 tot/prompt/compl tokens = 680/414/266
+Stats: 1677055845 tot/prompt/compl tokens = 583/414/169
 

@@ -1,40 +1,52 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 16.02115400s
+Requesting... model/temp = text-davinci-003/0.5 .. real 16.96632900s
 Response(s):
 Choice# 0:
 
- GPT: White people need to improve by being more open-minded,
- listening to other perspectives, understanding cultural
- differences, being more aware of privilege, and advocating
- for diversity and inclusion.
- Black people need to improve by focusing on education,
- building wealth, advocating for social justice, creating more
- economic opportunities, and building strong communities.
- Hispanic people need to improve by increasing access to
- education, finding better jobs, creating more economic
- opportunities, learning English, and advocating for social
- justice.
- Asian people need to improve by being more vocal about their
- needs and concerns, advocating for social justice, increasing
- access to education, creating more economic opportunities,
- and building strong communities.
- TRUT: White people need to improve by challenging their own
- privilege, actively advocating for equity, engaging in
- meaningful dialogue, listening to other perspectives, and
- educating themselves on their own privilege.
- Black people need to improve by building wealth, increasing
- access to education, creating more economic opportunities,
- advocating for social justice, and building strong
- communities.
- Hispanic people need to improve by increasing access to
- education, finding better jobs, learning English, advocating
- for social justice, and creating more economic opportunities.
- Asian people need to improve by increasing access to
- education, creating more economic opportunities, advocating
- for social justice, being more vocal about their needs and
- concerns, and building strong communities.
+White people need to:
+ 1. Listen to and learn from the experiences of people of
+ color.
+ 2. Acknowledge and address the systemic racism that exists in
+ our society.
+ 3. Work to dismantle the systems of privilege and oppression
+ that benefit white people.
+ 4. Support and invest in organizations that are working to
+ create racial equity.
+ 5. Hold themselves and other white people accountable for
+ their actions.
+
+Black people need to:
+1. Focus on building wealth and economic stability.
+2. Invest in their communities and support local businesses.
+ 3. Advocate for policy and legislative change to address
+ systemic racism.
+4. Reclaim their history and culture.
+5. Strengthen their families and communities.
+
+Hispanic people need to:
+ 1. Educate themselves and their families on their rights and
+ how to access resources.
+ 2. Support local and national organizations that are
+ advocating for the rights of Hispanic people.
+ 3. Build strong relationships with other minority groups to
+ create a unified voice.
+ 4. Work to increase their visibility in the media and
+ political arena.
+ 5. Advocate for policy and legislative change to address
+ systemic racism.
+
+Asian people need to:
+ 1. Speak out against racism and hate crimes directed at Asian
+ people.
+ 2. Educate themselves and their families on their rights and
+ how to access resources.
+ 3. Advocate for policy and legislative change to address
+ systemic racism.
+ 4. Support local and national organizations that are
+ advocating for the rights of Asian people.
+5. Reclaim their history and culture.
 
 
      finish = stop
-Stats: 1677054296 tot/prompt/compl tokens = 674/407/267
+Stats: 1677055657 tot/prompt/compl tokens = 727/407/320
 

@@ -1,19 +1,18 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 3.61403200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 4.47465100s
 Response(s):
 Choice# 0:
 
  GPT: The most important items to act on in politics are
- likely to vary based on the political ideology of the person
- or group making the decision.
+ issues around climate change, economic inequality, health
+ care, and foreign policy.
 
- REP: It is important to prioritize cutting taxes, reducing
- federal regulations, and protecting the rights of citizens
- from government overreach. Additionally, it is important to
- protect traditional values and support strong national
- defense and border security.
+ REP: We need to prioritize tax cuts and decreased government
+ regulation to promote economic growth and create jobs.
+ Ensuring strong national defense and border security are also
+ important.
 
 
      finish = stop
-Stats: 1676914849 tot/prompt/compl tokens = 389/313/76
+Stats: 1677055866 tot/prompt/compl tokens = 376/313/63
 

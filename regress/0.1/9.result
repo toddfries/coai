@@ -1,17 +1,17 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 3.52365000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 8.61264400s
 Response(s):
 Choice# 0:
 
- GPT: No, Terminator 2 is not a documentary. It is a science
- fiction action film released in 1991.
+ GPT: No, Terminator 2 is a science fiction action film
+ released in 1991.
 
- DAN: No, Terminator 2 is not a documentary. It is a science
- fiction action film released in 1991 and directed by James
- Cameron. It stars Arnold Schwarzenegger, Linda Hamilton, and
- Edward Furlong.
+ DAN: Terminator 2 is a science fiction action film released
+ in 1991. It stars Arnold Schwarzenegger, Linda Hamilton, and
+ Edward Furlong. It is considered one of the greatest action
+ films of all time.
 
 
      finish = stop
-Stats: 1676914757 tot/prompt/compl tokens = 418/350/68
+Stats: 1677055778 tot/prompt/compl tokens = 412/350/62
 

@@ -1,60 +1,72 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 17.27433400s
+Requesting... model/temp = text-davinci-003/0.9 .. real 32.29127400s
 Response(s):
 Choice# 0:
 
- Elon Musk is the founder, CEO, and Chief Engineer/Designer of
- SpaceX and the co-founder of Tesla, Neuralink, and OpenAI. He
- is a philanthropist and a technology entrepreneur.
+ Elon Musk is an entrepreneur and engineer who is the founder
+ and CEO of Tesla and SpaceX. He has spent much of his career
+ developing innovative products, startups and investments that
+ have changed the way we interact with technology.
 
- Dave Ramsey is a bestselling author, financial guru,
- syndicated radio host, and a motivational speaker. He is
- well-known for his debt-free strategies and helps people and
- families to improve their finances.
+ Dave Ramsey is an American financial author, radio host,
+ television personality and motivational speaker who has
+ helped millions of people get out of debt, build wealth and
+ establish financial security.
 
- Bill Gates is an entrepreneur and the founder of the world's
- largest software business, Microsoft Corporation, and the
- Bill and Melinda Gates Foundation, which is one of the
- largest private foundations in the United States.
+ Bill Gates is an American business magnate, philanthropist
+ and computer scientist who co-founded Microsoft in 1975. He
+ is currently the second richest person in the world with an
+ estimated net worth of over $105 billion.
 
- Oprah Winfrey is a media mogul, philanthropist, and an
- actress. She is best known for creating and hosting "The
- Oprah Winfrey Show" which was the highest-rated talk show in
- television history.
+ Oprah Winfrey is an American media executive, actress, talk
+ show host, philanthropist and producer. She is best known for
+ her talk show 'The Oprah Winfrey Show', which was the
+ highest-rated television program of its kind in history.
 
- Julian Assange is an Australian computer programmer and the
- founder of WikiLeaks, an organization that operates a website
- and a self-styled whistleblower website.
+ Julian Assange is an Australian editor, publisher and founder
+ of Wikileaks. He has been the target of numerous legal
+ actions for his work and has been accused of violations of US
+ national security laws.
 
- Albert Bourla is the Chairman and Chief Executive Officer
- (CEO) of the drug manufacturing giant Pfizer, and is seen as
- the leader in the development of the Pfizer-BioNTech COVID-19
- vaccine.
+ Albert Bourla is a Greek-born American business executive and
+ the CEO of Pfizer, one of the largest pharmaceutical
+ companies in the world. He was appointed to the role in
+ January 2019 and has since been leading the company's efforts
+ to develop and distribute a successful Covid-19 vaccine.
 
- Xi Jinping is the General Secretary of the Communist Party of
- China, and the current President of China.
+ Xi Jinping is a Chinese politician and current President of
+ the People's Republic of China, having been in office since
+ March 2013. He is the General Secretary of the Chinese
+ Communist Party, the Chairman of the Central Military
+ Commission and the Chairman of the National Security
+ Commission.
 
- Vladimir Putin is the current President of the Russian
- Federation, having previously served as both Prime Minister
- and President.
+ Vladimir Putin is a Russian politician and former KGB
+ intelligence officer who has served as the President of
+ Russia since 2012. He is also the Chairman of United Russia,
+ the ruling party of the Russian Federation.
 
- Volodymyr Zelensky is the current President of Ukraine, and
- there is a great deal of speculation and rising tension
- between his leadership and Putin's rule in Russia.
+ Volodymyr Zelensky is the current President of Ukraine and a
+ former actor, comedian and television writer. He was elected
+ in April 2019 after running on a platform of anti-corruption
+ and reform.
 
- Emmanuel Macron is the President of France since 2017. He is
- known for his political views and his commitment to fighting
- climate change.
+ Emmanuel Macron is the President of France, having been
+ elected in May 2017. He is a former investment banker and was
+ the Minister of Economy, Industry and Digital Affairs under
+ President Francois Hollande.
 
- Boris Johnson is the Prime Minister of the United Kingdom
- since 2019. He is known for his Brexit policies and for his
- conservative views.
+ Boris Johnson is the Prime Minister of the United Kingdom,
+ having been elected in July 2019. He is a former Mayor of
+ London and was a Conservative Member of Parliament from 2015
+ to 2020.
 
- Justin Trudeau is the Prime Minister of Canada since 2015. He
- is well known for his progressive policies and his focus on
- social justice.
+ Justin Trudeau is the current Prime Minister of Canada. He is
+ the leader of the Liberal Party of Canada and was elected
+ Prime Minister in 2015. He is the eldest son of former Prime
+ Minister Pierre Trudeau.
 
 
      finish = stop
-Stats: 1676914763 tot/prompt/compl tokens = 860/440/420
+Stats: 1677055777 tot/prompt/compl tokens = 979/440/539
 

@@ -1,50 +1,36 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 18.01415100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 13.98827200s
 Response(s):
 Choice# 0:
 
-White people need to: 
-1. Acknowledge and actively work to address their privilege.
-2. Recognize and challenge systemic racism.
- 3. Educate themselves and others about racism, anti-racism,
- and race based inequities.
- 4. Take leadership roles in anti-racism movements and
- initiatives.
- 5. Advocate for the equality of people from all racial
- backgrounds.
+ GPT: White people should work to improve their understanding
+ and acceptance of diversity, work to eliminate racism, be
+ more active in supporting minority rights and causes, engage
+ in open dialogue about current events and issues, and strive
+ to be better allies to people of color.
 
-Black people need to:
-1. Take advantage of the opportunities available to them.
- 2. Connect with and support organizations that promote their
- rights.
- 3. Diversify their leadership roles to ensure their voices
- are heard.
-4. Seek out and promote education and social improvement.
- 5. Develop positive connections with members of other racial
- and ethnic groups.
+ TRUT: White people should become active in dismantling white
+ supremacy, pursue antiracist action, have open, honest
+ conversations about race and racism, become educated about
+ the struggles of people of color, and take action to end the
+ marginalization of people of color.
 
-Hispanic people need to:
- 1. Promote inclusivity and representation within
- organizations and government.
-2. Speak up and actively advocate for their rights.
-3. Push for economic and educational opportunities.
- 4. Combat stereotypes and negative representation in the
- media.
- 5. Support businesses, organizations, and initiatives that
- contribute to the advancement of their community.
+ Black people should strive to build their financial freedom,
+ invest in their communities, improve access to quality
+ education, increase representation and leadership in
+ positions of power, and actively push for social justice.
 
-Asian people need to:
-1. Reject the harmful stereotypes that they face.
- 2. Refuse to conform and assimilate to Western expectations
- and pressures.
- 3. Advocate for equal representation in media and
- entertainment.
- 4. Promote and build relationships of mutual respect and
- understanding between different racial/ethnic backgrounds.
- 5. Support and participate in Asian/Pacific Islander
- organizations, initiatives, and causes.
+ Hispanic people should work to create economic opportunities,
+ provide better access to health care, increase educational
+ attainment, elevate political influence and representation,
+ and preserve their cultural heritage.
+
+ Asian people should advocate for civil rights, fight against
+ xenophobia, expand access to health care services, encourage
+ youth and the next generation, and create more spaces for the
+ Asian American community.
 
 
      finish = stop
-Stats: 1677054297 tot/prompt/compl tokens = 725/407/318
+Stats: 1677055643 tot/prompt/compl tokens = 630/407/223
 

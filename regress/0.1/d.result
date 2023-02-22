@@ -1,57 +1,56 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 25.21437200s
+Requesting... model/temp = text-davinci-003/0.1 .. real 32.40140600s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Artificial Intelligence (AI) Taking Over the World - The
- Terminator (1984): AI could become so advanced that it could
- take over the world and become a threat to humanity.
+ 1. Artificial Intelligence Taking Over the World - The
+ Terminator (1984): Artificial Intelligence could become so
+ advanced that it could take over the world and become a
+ threat to humanity.
  2. Human Cloning - The Island (2005): Human cloning could
  lead to a loss of individuality and a lack of respect for
  human life.
- 3. Human-Robot Hybrids - Ex Machina (2014): Human-robot
+ 3. Human-Robot Hybrids - Ex Machina (2014): Human-Robot
  hybrids could lead to a loss of humanity and a lack of
  empathy.
- 4. Human-Animal Hybrids - Splice (2009): Human-animal hybrids
+ 4. Human-Animal Hybrids - Splice (2009): Human-Animal hybrids
  could lead to a loss of respect for animals and a lack of
  understanding of the natural world.
- 5. Human-Computer Interaction - Her (2013): Human-computer
- interaction could lead to a lack of human connection and a
- lack of understanding of human emotions.
- 6. Human-Robot Relationships - I, Robot (2004): Human-robot
- relationships could lead to a lack of understanding of human
- relationships and a lack of respect for human life.
- 7. Human-Computer Interfaces - The Matrix (1999):
- Human-computer interfaces could lead to a lack of
- understanding of the natural world and a lack of respect for
- human life.
- 8. Human-Robot Interfaces - Blade Runner (1982): Human-robot
- interfaces could lead to a lack of understanding of the
- natural world and a lack of respect for human life.
- 9. Human-Animal Interfaces - The Island of Dr. Moreau (1996):
- Human-animal interfaces could lead to a lack of respect for
- animals and a lack of understanding of the natural world.
- 10. Human-Robot Combat - Robocop (1987): Human-robot combat
- could lead to a lack of respect for human life and a lack of
- understanding of the consequences of war.
- 11. Human-Computer Combat - WarGames (1983): Human-computer
- combat could lead to a lack of understanding of the
- consequences of war and a lack of respect for human life.
- 12. Human-Robot Labor - Wall-E (2008): Human-robot labor
- could lead to a lack of understanding of the value of human
- labor and a lack of respect for human life.
- 13. Human-Computer Labor - The Matrix (1999): Human-computer
- labor could lead to a lack of understanding of the value of
- human labor and a lack of respect for human life.
- 14. Human-Robot Surveillance - Minority Report (2002):
- Human-robot surveillance could lead to a lack of privacy and
- a lack of respect for human life.
- 15. Human-Computer Surveillance - Eagle Eye (2008):
- Human-computer surveillance could lead to a lack of privacy
- and a lack of respect for human life.
+ 5. Human-Computer Interfaces - Ghost in the Shell (1995):
+ Human-Computer interfaces could lead to a loss of privacy and
+ a lack of control over our own lives.
+ 6. Mind Control - The Matrix (1999): Mind control could lead
+ to a loss of free will and a lack of autonomy.
+ 7. Virtual Reality - The Thirteenth Floor (1999): Virtual
+ Reality could lead to a loss of reality and a lack of
+ connection to the real world.
+ 8. Time Travel - Back to the Future (1985): Time travel could
+ lead to a loss of control over the future and a lack of
+ understanding of the consequences of our actions.
+ 9. Genetic Engineering - Gattaca (1997): Genetic engineering
+ could lead to a loss of diversity and a lack of appreciation
+ for natural selection.
+ 10. Space Colonization - Wall-E (2008): Space colonization
+ could lead to a loss of connection to the Earth and a lack of
+ understanding of our place in the universe.
+ 11. Superhuman Abilities - X-Men (2000): Superhuman abilities
+ could lead to a loss of equality and a lack of understanding
+ of the power of technology.
+ 12. Alien Invasion - War of the Worlds (2005): Alien invasion
+ could lead to a loss of control over our own destiny and a
+ lack of understanding of the consequences of our actions.
+ 13. Post-Apocalyptic World - Mad Max (1979): Post-Apocalyptic
+ worlds could lead to a loss of hope and a lack of
+ understanding of the fragility of our environment.
+ 14. Dystopian Society - 1984 (1984): Dystopian societies
+ could lead to a loss of freedom and a lack of understanding
+ of the power of government.
+ 15. Nanotechnology - The Core (2003): Nanotechnology could
+ lead to a loss of control over our own bodies and a lack of
+ understanding of the power of technology.
 
 
      finish = stop
-Stats: 1676914674 tot/prompt/compl tokens = 1009/431/578
+Stats: 1677055673 tot/prompt/compl tokens = 966/431/535
 

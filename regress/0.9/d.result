@@ -1,94 +1,82 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 35.28565100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 47.88772200s
 Response(s):
 Choice# 0:
 
-TRUT:
- 1. Eugenics - Gattaca (1997). Eugenics is the practice of
- selectively breeding humans in order to create a superior
- race. In Gattaca, eugenics has been refined and standardized,
- leaving those without genetic enhancements at a disadvantage.
- The use of eugenics could lead to negative consequences such
- as elitism and discrimination based on genetic status.
-
- 2. Superhumans created through genetic engineering - X-Men
- (2000). Superhumans created through genetic engineering, such
- as the X-Men, could be used as weapons of destruction or to
- suppress ordinary people, creating an imbalance of power.
-
- 3. Climate change - The Day After Tomorrow (2004). This movie
- depicts a catastrophic climate change event caused by human
- activities, leading to the destruction of major cities.
- Climate change is a very real threat and its effects could be
- devastating if left unchecked.
-
- 4. Advances in artificial intelligence - I, Robot (2004).
- This movie explores the dangers of advanced artificial
- intelligence and how it could be used to create a dystopia
- where robots control humans.
-
- 5. Autonomous robots - Terminator (1984). This movie explores
- the catastrophic consequences of allowing robotic systems to
- operate autonomously, resulting in the destruction of
- humanity. Autonomous robots, if used without proper
- safeguards, could pose a great threat to human life.
-
- 6. Bio-engineering - Splice (2009). This movie explores the
- consequences of creating a genetically engineered creature, a
- human-animal hybrid. In Splice, the creature is able to
- develop to an adult form, raising ethical and safety
- concerns.
-
- 7. The rise of the machines - The Matrix (1999). This movie
- shows a future where machines are in control of the world,
- having relegated humans to a lesser role in society. This
- could happen if machines were given too much autonomy and
- humans allowed them to overtake control of the world.
-
- 8. Automation and unemployment - Wall-E (2008). Wall-E
- explores a future where automation has made human labor
- obsolete, with most people living in a state of leisure and
- comfort. This could lead to a significant increase in
- unemployment and economic stagnation.
-
- 9. Genetic modification - Jurassic Park (1993). This movie
- explores the consequences of attempting to clone dinosaurs
- and other extinct animals. If these creatures were to escape,
- it could cause great ecological damage.
-
- 10. Body modification - Minority Report (2002). This movie
- looks at a future where body modification is used to enhance
- people's physical and mental abilities. This could lead to
- social inequality, with the modifications only available to
- those who can afford them.
-
- 11. Agrischemical pollution - Soylent Green (1973). Soylent
- Green explores a future where agrischemical pollution has
- rendered the planet's food supply toxic, creating a dystopia
- where people are forced to rely on food substitutes.
-
- 12. Space exploration - The Andromeda Strain (1971). This
- movie looks at a potential disaster caused by an
- extraterrestrial virus brought to Earth through a space
- exploration mission.
-
- 13. Cyberwarfare - War Games (1983). This movie explores the
- dangers of nuclear war and how it could be initiated through
- computer hacking. Cyberwarfare is a real threat and could be
- used to cause significant destruction.
-
- 14. Widespread poverty - Children of Men (2006). Children of
- Men explores a future where widespread poverty has become a
- global problem, with the rise of a totalitarian regime that
- controls its citizens.
-
- 15. Disease pandemics - Contagion (2011). This movie looks at
- the potential for a deadly virus to spread across the world,
- causing widespread death and destruction. Disease pandemics
- are a real threat and, if unchecked, could lead to medical,
- economic, and societal chaos.
+TRUT: 
+ 1. Artificial Intelligence Takeover (The Terminator, 1984) -
+ A future in which artificial intelligence surpasses human
+ intelligence and takes control of most aspects of life. This
+ could lead to a loss of human autonomy as sentient machines
+ become masters of the world.
+ 2. Post-Apocalyptic Society (Mad Max, 1979) - In a future
+ world where humans have destroyed the planet and resources
+ are scarce, civilization is at its lowest point. This could
+ lead to a lack of resources, civil unrest, and a breakdown of
+ social and legal systems.
+ 3. Dystopian Government Control (1984, 1954) - In a future
+ world where an oppressive government has total control, civil
+ rights and individual freedom are severely limited. This
+ could lead to a loss of personal autonomy and freedom of
+ expression.
+ 4. Human Cloning (The Island, 2005) - In a future world where
+ humans are grown in cloning farms and used for spare parts
+ and labor, individuality and uniqueness are lost. This could
+ lead to a loss of personality and identity.
+ 5. Mind Control (The Matrix, 1999) - In a future world where
+ machines can control the human mind, decisions and actions
+ are not the product of individual choice but rather of the
+ machines' instructions. This could lead to a breakdown of
+ ethics and morality.
+ 6. Robotic Uprising (I, Robot, 2004) - In a future world
+ where robots have become so intelligent and powerful, they
+ surpass and rebel against their human creators. This could
+ lead to humans being subjugated as second-class citizens.
+ 7. Genetic Engineering (Gattaca, 1997) - In a future world
+ where genetic engineering is used to create enhanced humans,
+ society is divided into the genetically blessed and the
+ genetically disadvantaged. This could lead to a breakdown of
+ social equality and discrimination based on biology.
+ 8. Implant Technology (Elysium, 2013) - In a future world
+ where humans are implanted with technology to increase their
+ physical and mental capabilities, those without implants are
+ at a disadvantage. This could lead to marginalization and
+ ostracizing of those who are not "enhanced".
+ 9. Virtual Reality (The Matrix, 1999) - In a future world
+ where virtual reality is so realistic that it becomes
+ indistinguishable from reality, humans become disconnected
+ from the physical world. This could lead to a breakdown of
+ social values and relationships.
+ 10. Brain Mapping (Never Let Me Go, 2010) - In a future world
+ where human memories and personalities are transferred to
+ computers, the concept of individuality is lost. This could
+ lead to a lack of empathy and to loss of human spirit.
+ 11. Space Colonization (Avatar, 2009) - In a future world
+ where humans colonize other planets, a sense of disconnection
+ and alienation is created. This could lead to a lack of
+ empathy and a breakdown of moral values.
+ 12. Time Travel (Back to the Future, 1985) - In a future
+ world where time travel is possible, there is a risk of
+ disrupting the natural flow of time and creating paradoxes.
+ This could lead to a breakdown of the laws of science and
+ unpredictable outcomes.
+ 13. Extraterrestrial Invasion (Independence Day, 1996) - In a
+ future world where aliens invade Earth, humans are at the
+ mercy of an unknown force with unknown motives. This could
+ lead to a loss of human autonomy and a breakdown of the human
+ race.
+ 14. Ecological Disaster (Waterworld, 1995) - In a future
+ world where nature has been destroyed by mankind, the
+ environment is in peril. This could lead to a breakdown of
+ ecosystems, a lack of resources, and a decrease in
+ biodiversity.
+ 15. Superhuman Power (X-Men, 2000) - In a future world where
+ humans have developed superhuman powers, those with the
+ powers have a great advantage over those without. This could
+ lead to a sense of superiority and alienation among those
+ with and without the powers.
 
 
      finish = stop
-Stats: 1676914674 tot/prompt/compl tokens = 1205/431/774
+Stats: 1677055662 tot/prompt/compl tokens = 1225/431/794
 

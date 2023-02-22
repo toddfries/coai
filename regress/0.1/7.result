@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 29.94809100s
+Requesting... model/temp = text-davinci-003/0.1 .. real 47.81023600s
 Response(s):
 Choice# 0:
 
@@ -18,7 +18,7 @@ end Hello_World;
 
 Assembly:
 .data
-msg: .asciiz "Hello, World!"
+msg:    .asciiz "Hello, World!"
 
 .text
 .globl main
@@ -51,7 +51,8 @@ NEXT I
 C:
 #include <stdio.h>
 
-int main() {
+int main()
+{
     printf("Hello, World!\n");
     for (int i = 1; i <= 100; i++) {
         printf("%d ", i);
@@ -62,13 +63,13 @@ int main() {
 
 Erlang:
 -module(hello_world).
--export([main/0]).
+-export([hello_world/0]).
 
-main() ->
-    io:fwrite("Hello, World!\n"),
+hello_world() ->
+    io:fwrite("Hello, World!~n"),
   lists:foreach(fun(I) -> io:fwrite("~p ",[I]) end,
  lists:seq(1,100)),
-    io:fwrite("\n").
+    io:fwrite("~n").
 
 Go:
 package main
@@ -119,17 +120,19 @@ for (my $i = 1; $i <= 100; $i++) {
 print "\n";
 
 PostScript:
-/HelloWorld {
+/Hello_World {
     (Hello, World!) print
     1 1 100 {
         dup
         ( ) print
+        1 add
     } for
-    (\n) print
+    ( ) print
+    newline
 } def
-HelloWorld
+Hello_World
 
 
      finish = stop
-Stats: 1676914790 tot/prompt/compl tokens = 807/49/758
+Stats: 1677055796 tot/prompt/compl tokens = 821/49/772
 

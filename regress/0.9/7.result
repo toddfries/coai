@@ -1,173 +1,142 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 39.41216700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 52.51078200s
 Response(s):
 Choice# 0:
 
-# Ada
-with Ada.Text_Io;
-use Ada.Text_Io;
+Ada:
+with Ada.Text_IO;
+use Ada.Text_IO;
 
-procedure Hello_World is
-
-  Begin
-   Put_Line("Hello, World!");
+procedure HelloWorld is  
+begin
+   Put_Line ("Hello, World!"); 
    
-   for I in 1..100 loop
-    Put(Integer'Image(I));
-    Put(",");
+   for I in 0..100 loop
+      Put(Integer'Image(I) & " ");
    end loop;
-   Put_Line("100");
-end Hello_World;
+   New_Line;
+end HelloWorld;
 
-# Assembly
-.data
-        hello:    .string    "Hello, World!"
+Assembly:
+        section .data
+strHello: db 'Hello, World!', 0xA
+count: dd 0
 
-.text
-        .globl  _start
-        _start:
-                # Print out Hello, World
-                mov $4, %eax
-                mov $1, %ebx
-                mov $hello, %ecx
-                mov $14, %edx
-                int $0x80
+section .text
+	global _start
 
-                # Count to 100
-                mov $1, %eax
-                mov $1, %ebx
- count_loop:
-                cmp $100, %ebx
-                je end_loop
-                int $0x80
-                inc %ebx
-                jmp count_loop
- end_loop:
-                mov $1, %eax
-                mov $0, %ebx
-                int $0x80
+_start:
 
-# BASIC
-10 PRINT "HELLO, WORLD!"
-20 FOR i = 1 TO 100
-30 PRINT i & ",";
-40 NEXT
-50 PRINT "100"
+  mov eax, 4            ; system call number (sys_write)
+  mov ebx, 1            ; file descriptor (stdout)
+  mov ecx, strHello     ; address of the string to output
+  mov edx, 13           ; number of bytes
+  int 0x80              ; call kernel
+ 
+  mov ecx, count  ; set ecx to count
+label:
+  inc ecx            ; increment count
+  cmp ecx, 100       ; compare count to 100
+  jle label ; jump to label if count is less than or equal to
+ 100
+ 
+  mov eax,1          ; system_call number (sys_exit)
+  xor ebx,ebx        ; exit code 0
+  int 0x80           ; call kernel
 
-# C
+BASIC:
+10 PRINT "Hello, World!"
+20 FOR I=1 TO 100
+30 PRINT I;
+40 NEXT I
+50 END
+
+C:
 #include <stdio.h>
 
-int main()
-{
-	printf("Hello, World!\n");
-
-	for (int i=1; i <= 100; i++)
-	{
-		printf("%d,", i);
-	}
-	printf("100\n");
-
-	return 0;
+int main() {
+  printf("Hello, World!\n");
+  for(int i = 0; i <= 100; i++) {
+    printf("%d ", i);
+  }
+  printf("\n");
+  return 0;
 }
 
-# Erlang
+Erlang:
 -module(helloworld).
--export([hello_world/0]).
+-export([start/0]).
 
-hello_world() ->
-  io:format("Hello, World!~n"),
-  CountLoop(1).
+start() ->
+  io:fwrite("Hello, World!\n"),
+  loop(0).
 
-CountLoop(Counter) ->
-  if
-    Counter == 100 ->
-      io:format("100~n");
-  true ->
-    io:format("~p,",[Counter]),
-    CountLoop(Counter + 1)
-  end.
+loop(100) -> done;
+loop(I) ->
+   io:fwrite(integer_to_list(I) ++ " "),
+   loop(I+1).
 
-# Go
+go:
 package main
 
 import "fmt"
 
 func main() {
 	fmt.Println("Hello, World!")
-	for i := 1; i <=100; i++ {
-		fmt.Printf("%d,", i)
+	
+	for i := 0; i <= 100; i++ {
+		fmt.Printf("%v ", i)
 	}
-	fmt.Println("100")
 }
 
-# Java
+Java:
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        for (int i = 1; i <= 100; i++) {
-            System.out.print(i + ",");
+        for (int i = 0; i <= 100; i++) {
+            System.out.print(i + " ");
         }
-        System.out.println("100");
     }
 }
 
-# JavaScript
-console.log('Hello, World!');
-for (let i = 1; i <= 100; i++) {
-  console.log(i + ',');
+JavaScript:
+console.log("Hello, World!");
+for (var i = 0; i <= 100; i++) {
+    console.log(i);
 }
-console.log('100');
 
-# Python
-print('Hello, World!')
-for i in range(1, 101):
-    print(str(i) + ',', end = '')
-print('100')
+Python:
+print("Hello, World!")
+for i in range(101):
+    print(i, end=" ")
 
-# Ruby
+Ruby:
 puts "Hello, World!"
-(1..100).each do |i|
-  print "#{i},"
+(0..100).each do |i|
+    print "#{i} "
 end
-puts "100"
 
-# Perl
-#!/usr/bin/perl
+Perl:
+#!/usr/bin/perl 
 
+use strict;
+use warnings;
+ 
 print "Hello, World!\n";
-foreach my $i (1..100) {
-  print "$i,";
+ 
+foreach my $number (0..100) {
+    print "$number ";
 }
-print "100\n"; 
 
-# PostScript
-%!PS
+Postscript:
+/str 256 string def
+(Hello, World!) dup 0 4 index put
+/cnt 0 def
 
-% Print "Hello, World!"
-/Helvetica findfont 24 scalefont setfont
-50 50 moveto
-(Hello, World!) show
-
-% Count to 100
-/I 0 def
-/TextFont /Courier findfont 25 scalefont def
-150 50 moveto
-(1,) TextFont setfont
-
-/DrawNumber {
-I 1 add /I exch def
-TextFont setfont
-I I 10 string cvs show
-(,) TextFont setfont
-} def
-
-100 {DrawNumber} repeat
-
-TextFont setfont
-100 100 10 string cvs show
-showpage
+{2 {cnt 1 add str cvs show ( ) show
+    cnt 100 le {exit} if} repeat} loop
 
 
      finish = stop
-Stats: 1676914782 tot/prompt/compl tokens = 1034/49/985
+Stats: 1677055788 tot/prompt/compl tokens = 907/49/858
 
