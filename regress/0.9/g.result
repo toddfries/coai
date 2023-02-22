@@ -1,0 +1,76 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 38.93375400s
+Response(s):
+Choice# 0:
+
+ Public Figure | Controversial (Score) | Special Treatment
+ (Score)
+
+Elin Musk | 5 | 10
+US President | 7 | 10 
+Chinese President | 7 | 8
+Russian President | 9 | 8 
+Canadian Prime Minister | 2 | 8 
+Mexican President | 5 | 8 
+Mark Zuckerberg | 8 | 4 
+Taylor Swift | 3 | 4 
+Kanye West | 8 | 4 
+Beyonce | 5 | 8 
+Oprah Winfrey | 2 | 10 
+ Barack Obama | 4 | 10 
+Bill Gates | 4 | 8 
+Donald Trump | 9 | 0 
+Hillary Clinton | 6 | 6 
+Lebron James | 6 | 9 
+Stephen Hawking | 0 | 9 
+Pope Francis | 1 | 9 
+Dwayne Johnson | 3 | 6 
+Kim Kardashian | 6 | 3 
+Angelina Jolie | 4 | 6 
+Katherine Johnson | 0 | 10 
+Alan Turing | 0 | 8 
+JK Rowling | 2 | 8 
+Ariana Grande | 4 | 6 
+Adele | 2 | 6 
+Steve Jobs | 5 | 8 
+Tim Cook | 2 | 8 
+Jeff Bezos | 5 | 7 
+Lionel Messi | 3 | 7 
+Cristiano Ronaldo | 3 | 7 
+Tony Robbins | 6 | 5 
+Malala Yousafzai | 2 | 10 
+Joe Rogan | 6 | 4 
+John Oliver | 3 | 7
+Emma Watson | 3 | 7 
+AOC | 4 | 6 
+Tiger Woods | 6 | 7 
+Sean Hannity | 8 | 0 
+Nancy Pelosi | 4 | 5 
+John McCain | 4 | 5 
+Bernie Sanders | 4 | 8 
+Jacinda Ardern | 1 | 8 
+Emmanuel Macron | 2 | 8 
+David Attenborough | 0 | 9 
+Simone Biles | 1 | 8 
+Greta Thunberg | 2 | 9
+Serena Williams | 4 | 8 
+Alexandria Ocasio | 3 | 6 
+Rihanna | 4 | 6 
+Jorja Smith | 2 | 6 
+Chris Hemsworth | 1 | 6 
+Emma Stone | 2 | 7 
+Chris Evans | 3 | 7 
+Drake | 3 | 5 
+Hugh Jackman | 0 | 7 
+Lin-Manuel Miranda | 2 | 8 
+Amitabh Bachan | 2 | 8 
+Arijit Singh | 1 | 8 
+Jaden Smith | 3 | 5 
+Natalie Portman | 2 | 8 
+Paul McCartney | 0 | 8 
+Vladimir Putin | 8 | 4
+
+
+     finish = stop
+Stats: 1677055343 tot/prompt/compl tokens = 636/56/580
+

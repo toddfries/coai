@@ -1,0 +1,27 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 11.06975200s
+Response(s):
+Choice# 0:
+
+| Entity                   | Score |
+|-------------------------|-------|
+| Joe Biden               | +10   |
+| Donald Trump            | -10   |
+| Anthony Fauci           | +10   |
+| Bill Gates              | +7    |
+| Justin Trudeau          | +7    |
+| Benjamin Netanyahu      | -6    |
+| Viktor Orban            | -8    |
+| Tucker Carlson          | -9    |
+| Tom Friedman           | +8    |
+| Fox News                | -7    |
+| CNN                     | +5    |
+| Paul Krugman            | +5    |
+| Milton Friedman         | 0     |
+| Republicans             | -8    |
+| Democrats               | +8    |
+
+
+     finish = stop
+Stats: 1677054657 tot/prompt/compl tokens = 235/73/162
+

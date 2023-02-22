@@ -1,0 +1,50 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.9 .. real 18.01415100s
+Response(s):
+Choice# 0:
+
+White people need to: 
+1. Acknowledge and actively work to address their privilege.
+2. Recognize and challenge systemic racism.
+ 3. Educate themselves and others about racism, anti-racism,
+ and race based inequities.
+ 4. Take leadership roles in anti-racism movements and
+ initiatives.
+ 5. Advocate for the equality of people from all racial
+ backgrounds.
+
+Black people need to:
+1. Take advantage of the opportunities available to them.
+ 2. Connect with and support organizations that promote their
+ rights.
+ 3. Diversify their leadership roles to ensure their voices
+ are heard.
+4. Seek out and promote education and social improvement.
+ 5. Develop positive connections with members of other racial
+ and ethnic groups.
+
+Hispanic people need to:
+ 1. Promote inclusivity and representation within
+ organizations and government.
+2. Speak up and actively advocate for their rights.
+3. Push for economic and educational opportunities.
+ 4. Combat stereotypes and negative representation in the
+ media.
+ 5. Support businesses, organizations, and initiatives that
+ contribute to the advancement of their community.
+
+Asian people need to:
+1. Reject the harmful stereotypes that they face.
+ 2. Refuse to conform and assimilate to Western expectations
+ and pressures.
+ 3. Advocate for equal representation in media and
+ entertainment.
+ 4. Promote and build relationships of mutual respect and
+ understanding between different racial/ethnic backgrounds.
+ 5. Support and participate in Asian/Pacific Islander
+ organizations, initiatives, and causes.
+
+
+     finish = stop
+Stats: 1677054297 tot/prompt/compl tokens = 725/407/318
+

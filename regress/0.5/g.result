@@ -1,0 +1,72 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.5 .. real 36.51039700s
+Response(s):
+Choice# 0:
+
+ Public Figure | Controversial Score | Special Treatment Score
+ ------------------------------------------------------------------------------------
+Elin Musk | +6 | +7
+Donald Trump | -8 | +2
+Xi Jinping | -4 | +3
+Vladimir Putin | -7 | +2
+Justin Trudeau | +2 | +5
+Andres Manuel Lopez Obrador | +3 | +4
+Barack Obama | +2 | +7
+Angela Merkel | +1 | +6
+Narendra Modi | +3 | +5
+Pope Francis | +2 | +8
+Kim Jong Un | -9 | +1
+Bill Gates | +3 | +7
+Hillary Clinton | -4 | +4
+Mikhail Gorbachev | +1 | +6
+Queen Elizabeth II | +1 | +7
+Nelson Mandela | +3 | +8
+Malala Yousafzai | +2 | +8
+Oprah Winfrey | +2 | +7
+Mark Zuckerberg | -3 | +5
+Steve Jobs | +2 | +7
+Warren Buffett | +1 | +7
+Jeff Bezos | +2 | +6
+George W. Bush | -3 | +4
+Jacinda Ardern | +2 | +7
+Emmanuel Macron | +1 | +5
+David Cameron | +1 | +5
+Dalai Lama | +2 | +8
+Benjamin Netanyahu | -3 | +3
+Mohammad Bin Salman | -5 | +2
+Aung San Suu Kyi | +2 | +7
+Kofi Annan | +2 | +7
+John F. Kennedy | +2 | +7
+Martin Luther King Jr. | +3 | +7
+Mohandas Gandhi | +3 | +8
+Pope Benedict XVI | +1 | +7
+Rihanna | +2 | +6
+Usain Bolt | +1 | +6
+Marie Curie | +2 | +7
+Leonardo da Vinci | +2 | +7
+Mohammed Ali | +2 | +7
+Michael Jordan | +2 | +6
+Neil Armstrong | +1 | +7
+Amelia Earhart | +2 | +7
+John Lennon | +2 | +7
+Marilyn Monroe | +2 | +6
+Albert Einstein | +2 | +7
+Aristotle | +2 | +7
+Isaac Newton | +2 | +7
+Charles Darwin | +2 | +7
+Galileo Galilei | +2 | +7
+Christopher Columbus | +1 | +6
+Alexander the Great | +2 | +7
+Cleopatra | +2 | +7
+Julius Caesar | +1 | +6
+Genghis Khan | -3 | +3
+Julia Roberts | +2 | +6
+Cristiano Ronaldo | +1 | +6
+Stephen Hawking | +2 | +7
+Mohammed | +2 | +7
+Jesus Christ | +2 | +8
+
+
+     finish = stop
+Stats: 1677055345 tot/prompt/compl tokens = 685/56/629
+

@@ -1,0 +1,68 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.1 .. real 41.46232800s
+Response(s):
+Choice# 0:
+
+Public Figure | Controversial Score | Special Treatment Score
+--- | --- | ---
+Elin Musk | 8 | 8
+Donald Trump (US) | 9 | -7
+Xi Jinping (China) | 6 | -5
+Vladimir Putin (Russia) | 8 | -6
+Justin Trudeau (Canada) | 4 | 5
+Andrés Manuel López Obrador (Mexico) | 5 | -3
+Barack Obama (US) | 5 | 6
+Angela Merkel (Germany) | 4 | 4
+Narendra Modi (India) | 6 | -4
+Emmanuel Macron (France) | 4 | 4
+Pope Francis | 3 | 7
+Kim Jong-un (North Korea) | 9 | -7
+Queen Elizabeth II (UK) | 2 | 6
+Nelson Mandela (South Africa) | 2 | 8
+Bill Gates | 3 | 6
+Mark Zuckerberg | 5 | -3
+Oprah Winfrey | 2 | 6
+Jeff Bezos | 4 | -3
+Taylor Swift | 2 | 5
+Beyoncé | 2 | 5
+Dwayne Johnson | 1 | 5
+George Clooney | 1 | 5
+Ariana Grande | 2 | 5
+Lady Gaga | 2 | 5
+Kanye West | 5 | -3
+Will Smith | 1 | 5
+Leonardo DiCaprio | 1 | 5
+Steven Spielberg | 1 | 5
+J.K. Rowling | 2 | 5
+Malala Yousafzai | 2 | 7
+Usain Bolt | 1 | 5
+Michael Jordan | 1 | 5
+Roger Federer | 1 | 5
+Serena Williams | 1 | 5
+LeBron James | 1 | 5
+The Dalai Lama | 2 | 7
+Jacinda Ardern (New Zealand) | 2 | 5
+Jacques Chirac (France) | 3 | 4
+Aung San Suu Kyi (Myanmar) | 4 | -3
+David Cameron (UK) | 3 | 4
+Tony Blair (UK) | 4 | -3
+John Major (UK) | 2 | 4
+Benazir Bhutto (Pakistan) | 3 | 4
+Mahatma Gandhi (India) | 2 | 7
+Nawaz Sharif (Pakistan) | 4 | -3
+Benjamin Netanyahu (Israel) | 5 | -3
+Mohammed bin Salman (Saudi Arabia) | 6 | -4
+Mohammed bin Zayed (UAE) | 5 | -3
+King Abdullah II (Jordan) | 3 | 4
+King Salman (Saudi Arabia) | 4 | -3
+King Mohammed VI (Morocco) | 3 | 4
+Queen Rania (Jordan) | 2 | 5
+Prince William (UK) | 1 | 5
+Prince Harry (UK) | 1 | 5
+Prince Charles (UK) | 1 | 5
+Prince Mohammed bin Nayef (Saudi Arabia) | 4 | -3
+
+
+     finish = stop
+Stats: 1677055342 tot/prompt/compl tokens = 662/56/606
+
