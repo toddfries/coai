@@ -137,6 +137,9 @@ while(<STDIN>) {
 			printf "Choice#%2d:\n", $choice->{index};
 			$oldresp = $choice->{text};
 			printf "%s\n\n", word_wrap($choice->{text});
+			if (!defined($choice->{'finish_reason'})) {
+				$choice->{finish_reason} = 'undef';
+			}
 			printf "     finish = %s\n", $choice->{'finish_reason'};
 		}
 		print "Stats: ";
