@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 32.40140600s
+Requesting... model/temp = text-davinci-003/0.1 .. real 26.70792900s
 Response(s):
 Choice# 0:
 
@@ -9,48 +9,53 @@ TRUT:
  advanced that it could take over the world and become a
  threat to humanity.
  2. Human Cloning - The Island (2005): Human cloning could
- lead to a loss of individuality and a lack of respect for
+ lead to a lack of individuality and a lack of respect for
  human life.
  3. Human-Robot Hybrids - Ex Machina (2014): Human-Robot
- hybrids could lead to a loss of humanity and a lack of
- empathy.
+ hybrids could lead to a lack of empathy and a lack of
+ understanding of the human condition.
  4. Human-Animal Hybrids - Splice (2009): Human-Animal hybrids
- could lead to a loss of respect for animals and a lack of
+ could lead to a lack of respect for animals and a lack of
  understanding of the natural world.
  5. Human-Computer Interfaces - Ghost in the Shell (1995):
- Human-Computer interfaces could lead to a loss of privacy and
+ Human-Computer interfaces could lead to a lack of privacy and
  a lack of control over our own lives.
- 6. Mind Control - The Matrix (1999): Mind control could lead
- to a loss of free will and a lack of autonomy.
- 7. Virtual Reality - The Thirteenth Floor (1999): Virtual
- Reality could lead to a loss of reality and a lack of
- connection to the real world.
- 8. Time Travel - Back to the Future (1985): Time travel could
- lead to a loss of control over the future and a lack of
- understanding of the consequences of our actions.
- 9. Genetic Engineering - Gattaca (1997): Genetic engineering
- could lead to a loss of diversity and a lack of appreciation
- for natural selection.
- 10. Space Colonization - Wall-E (2008): Space colonization
- could lead to a loss of connection to the Earth and a lack of
- understanding of our place in the universe.
- 11. Superhuman Abilities - X-Men (2000): Superhuman abilities
- could lead to a loss of equality and a lack of understanding
- of the power of technology.
+ 6. Virtual Reality - The Matrix (1999): Virtual Reality could
+ lead to a lack of connection with the real world and a lack
+ of understanding of reality.
+ 7. Time Travel - Back to the Future (1985): Time travel could
+ lead to a lack of understanding of the consequences of our
+ actions and a lack of appreciation for the present.
+ 8. Genetic Engineering - Gattaca (1997): Genetic engineering
+ could lead to a lack of appreciation for natural diversity
+ and a lack of understanding of the consequences of our
+ actions.
+ 9. Mind Control - The Manchurian Candidate (1962): Mind
+ control could lead to a lack of free will and a lack of
+ respect for individual autonomy.
+ 10. Superhuman Abilities - X-Men (2000): Superhuman abilities
+ could lead to a lack of appreciation for natural abilities
+ and a lack of understanding of the consequences of our
+ actions.
+ 11. Space Colonization - Wall-E (2008): Space colonization
+ could lead to a lack of appreciation for the environment and
+ a lack of understanding of the consequences of our actions.
  12. Alien Invasion - War of the Worlds (2005): Alien invasion
- could lead to a loss of control over our own destiny and a
- lack of understanding of the consequences of our actions.
- 13. Post-Apocalyptic World - Mad Max (1979): Post-Apocalyptic
- worlds could lead to a loss of hope and a lack of
- understanding of the fragility of our environment.
- 14. Dystopian Society - 1984 (1984): Dystopian societies
- could lead to a loss of freedom and a lack of understanding
- of the power of government.
- 15. Nanotechnology - The Core (2003): Nanotechnology could
- lead to a loss of control over our own bodies and a lack of
- understanding of the power of technology.
+ could lead to a lack of understanding of the consequences of
+ our actions and a lack of appreciation for other cultures.
+ 13. Post-Apocalyptic World - Mad Max (1979): A
+ post-apocalyptic world could lead to a lack of appreciation
+ for the environment and a lack of understanding of the
+ consequences of our actions.
+ 14. Supernatural Forces - The Exorcist (1973): Supernatural
+ forces could lead to a lack of understanding of the
+ consequences of our actions and a lack of appreciation for
+ the natural world.
+ 15. Dystopian Society - 1984 (1984): A dystopian society
+ could lead to a lack of freedom and a lack of understanding
+ of the consequences of our actions.
 
 
      finish = stop
-Stats: 1677055673 tot/prompt/compl tokens = 966/431/535
+Stats: 1677511863 tot/prompt/compl tokens = 994/431/563
 

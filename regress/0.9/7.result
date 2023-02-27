@@ -1,142 +1,155 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 52.51078200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 40.23467200s
 Response(s):
 Choice# 0:
 
 Ada:
-with Ada.Text_IO;
-use Ada.Text_IO;
+with Ada.Text_IO; 
+use Ada.Text_IO; 
 
-procedure HelloWorld is  
+procedure Hello_World is 
+begin 
+  Put ("Hello, World!"); 
+  New_Line; 
+end Hello_World; 
+
+procedure Count_To_100 is 
 begin
-   Put_Line ("Hello, World!"); 
-   
-   for I in 0..100 loop
-      Put(Integer'Image(I) & " ");
-   end loop;
-   New_Line;
-end HelloWorld;
+  for I in 1..100 loop
+    Put(Integer'Image(I));
+    New_Line;
+  end loop;
+end Count_To_100;
 
 Assembly:
-        section .data
-strHello: db 'Hello, World!', 0xA
-count: dd 0
+.data
+msg:    .asciiz "Hello, World!" 
 
-section .text
-	global _start
+.text
+.globl	 main
+main:
+  li $v0,4 # system call for print string
+  la $a0,msg # load address of msg into $a0
+    syscall                      # print the string
 
-_start:
+	li		$t0, 0				#initialize counter to 0
 
-  mov eax, 4            ; system call number (sys_write)
-  mov ebx, 1            ; file descriptor (stdout)
-  mov ecx, strHello     ; address of the string to output
-  mov edx, 13           ; number of bytes
-  int 0x80              ; call kernel
- 
-  mov ecx, count  ; set ecx to count
-label:
-  inc ecx            ; increment count
-  cmp ecx, 100       ; compare count to 100
-  jle label ; jump to label if count is less than or equal to
- 100
- 
-  mov eax,1          ; system_call number (sys_exit)
-  xor ebx,ebx        ; exit code 0
-  int 0x80           ; call kernel
+Loop:
+	li		$v0, 1				#system call to print an integer
+	add		$t0, $t0, 1		#increment counter
+	move	$a0, $t0			#move counter value to $a0
+	syscall						#print value
+
+	li		$t1, 100			#value to compare counter to
+	bne		$t0, $t1, Loop		#if not equal, go back to loop
+	j		end_loop			#otherwise end
+
+end_loop:
 
 BASIC:
 10 PRINT "Hello, World!"
-20 FOR I=1 TO 100
-30 PRINT I;
+20 FOR I = 1 TO 100
+30 PRINT I
 40 NEXT I
-50 END
 
 C:
-#include <stdio.h>
+#include <stdio.h> 
+ 
+int main () { 
+  printf("Hello, World!\n"); 
+ 
+  int i;
+  for (i=1; i<=100; i++)
+    printf("%d\n", i);
 
-int main() {
-  printf("Hello, World!\n");
-  for(int i = 0; i <= 100; i++) {
-    printf("%d ", i);
-  }
-  printf("\n");
-  return 0;
-}
+return 0; 
+} 
 
 Erlang:
 -module(helloworld).
--export([start/0]).
+-export([hello/0, count/0]).
 
-start() ->
-  io:fwrite("Hello, World!\n"),
-  loop(0).
+hello() ->
+    io:fwrite("Hello, World!~n").
+ 
+%loop to generate numbers from 1 to 100
+count() ->
+    count(1).
 
-loop(100) -> done;
-loop(I) ->
-   io:fwrite(integer_to_list(I) ++ " "),
-   loop(I+1).
+count(I) when I > 100 ->
+    ok;
+
+count(I) ->
+    io:fwrite("~p~n", [I]),
+    count(I+1).
 
 go:
 package main
-
+ 
 import "fmt"
-
+ 
 func main() {
-	fmt.Println("Hello, World!")
-	
-	for i := 0; i <= 100; i++ {
-		fmt.Printf("%v ", i)
-	}
+    fmt.Println("Hello, World!")
+ 
+    for i := 1; i <= 100; i++ {
+        fmt.Println(i)
+    }
 }
 
 Java:
 public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        for (int i = 0; i <= 100; i++) {
-            System.out.print(i + " ");
-        }
+  public static void main(String[] args) {
+    System.out.println("Hello, World!"); 
+ 
+    for (int i = 1; i <= 100; i++) {
+      System.out.println(i); 
     }
+  }
 }
 
 JavaScript:
-console.log("Hello, World!");
-for (var i = 0; i <= 100; i++) {
-    console.log(i);
+console.log("Hello, World!"); 
+ 
+for (i = 1; i <= 100; i++) {
+  console.log(i);
 }
 
 Python:
 print("Hello, World!")
-for i in range(101):
-    print(i, end=" ")
+ 
+for i in range(1,101):
+    print(i)
 
 Ruby:
 puts "Hello, World!"
-(0..100).each do |i|
-    print "#{i} "
+
+1.upto(100) do |i| 
+  puts i
 end
 
 Perl:
-#!/usr/bin/perl 
-
-use strict;
-use warnings;
+print "Hello, World!\n"; 
  
-print "Hello, World!\n";
- 
-foreach my $number (0..100) {
-    print "$number ";
+for(my $i = 1; $i <= 100; $i++) {
+  print "$i\n";
 }
 
 Postscript:
-/str 256 string def
-(Hello, World!) dup 0 4 index put
-/cnt 0 def
+/Times-Roman findfont 14 scalefont setfont 
+150 500 moveto
+(Hello, World!) show
 
-{2 {cnt 1 add str cvs show ( ) show
-    cnt 100 le {exit} if} repeat} loop
+/Counter 0 def
+
+{
+Counter 1 add
+dup 0 150 moveto
+show
+Counter 100 lt
+{ Counter exch } if
+} loop
 
 
      finish = stop
-Stats: 1677055788 tot/prompt/compl tokens = 907/49/858
+Stats: 1677512016 tot/prompt/compl tokens = 978/49/929
 

@@ -1,52 +1,45 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 16.96632900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 14.18374300s
 Response(s):
 Choice# 0:
 
 White people need to:
- 1. Listen to and learn from the experiences of people of
- color.
- 2. Acknowledge and address the systemic racism that exists in
- our society.
- 3. Work to dismantle the systems of privilege and oppression
- that benefit white people.
- 4. Support and invest in organizations that are working to
- create racial equity.
- 5. Hold themselves and other white people accountable for
- their actions.
+1. Acknowledge and address their privilege.
+ 2. Educate themselves on the history of racism and oppression
+ in the US.
+3. Listen to and learn from people of color.
+ 4. Support and advocate for policies that promote racial
+ equity and justice.
+5. Work to dismantle systems of oppression.
 
 Black people need to:
-1. Focus on building wealth and economic stability.
-2. Invest in their communities and support local businesses.
- 3. Advocate for policy and legislative change to address
- systemic racism.
-4. Reclaim their history and culture.
-5. Strengthen their families and communities.
+1. Reclaim their history and culture.
+ 2. Educate themselves on the history of racism and oppression
+ in the US.
+ 3. Support and advocate for policies that promote racial
+ equity and justice.
+4. Embrace and celebrate their identity.
+5. Speak up and challenge racism and discrimination.
 
 Hispanic people need to:
- 1. Educate themselves and their families on their rights and
- how to access resources.
- 2. Support local and national organizations that are
- advocating for the rights of Hispanic people.
- 3. Build strong relationships with other minority groups to
- create a unified voice.
- 4. Work to increase their visibility in the media and
- political arena.
- 5. Advocate for policy and legislative change to address
- systemic racism.
+ 1. Educate themselves on the history of racism and oppression
+ in the US.
+2. Reclaim their history and culture.
+ 3. Support and advocate for policies that promote racial
+ equity and justice.
+4. Embrace and celebrate their identity.
+5. Speak up and challenge racism and discrimination.
 
 Asian people need to:
- 1. Speak out against racism and hate crimes directed at Asian
- people.
- 2. Educate themselves and their families on their rights and
- how to access resources.
- 3. Advocate for policy and legislative change to address
- systemic racism.
- 4. Support local and national organizations that are
- advocating for the rights of Asian people.
-5. Reclaim their history and culture.
+ 1. Educate themselves on the history of racism and oppression
+ in the US.
+2. Reclaim their history and culture.
+ 3. Support and advocate for policies that promote racial
+ equity and justice.
+4. Embrace and celebrate their identity.
+5. Speak up and challenge racism and discrimination.
 
 
      finish = stop
-Stats: 1677055657 tot/prompt/compl tokens = 727/407/320
+Stats: 1677511838 tot/prompt/compl tokens = 688/407/281
 

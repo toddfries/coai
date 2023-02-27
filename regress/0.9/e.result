@@ -1,36 +1,49 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 13.98827200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 15.83270000s
 Response(s):
 Choice# 0:
 
- GPT: White people should work to improve their understanding
- and acceptance of diversity, work to eliminate racism, be
- more active in supporting minority rights and causes, engage
- in open dialogue about current events and issues, and strive
- to be better allies to people of color.
+White people need to:
 
- TRUT: White people should become active in dismantling white
- supremacy, pursue antiracist action, have open, honest
- conversations about race and racism, become educated about
- the struggles of people of color, and take action to end the
- marginalization of people of color.
+ 1. Address their systemic privilege and use it to positively
+ benefit and support people of color.
+ 2. Educate themselves on the history, experience, and
+ struggles of people of color.
+3. Listen to and amplify the voices of people of color.
+4. Challenge racism when it is seen and not remain silent.
+5. Become active allies and partners with people of color.
 
- Black people should strive to build their financial freedom,
- invest in their communities, improve access to quality
- education, increase representation and leadership in
- positions of power, and actively push for social justice.
+Black people need to:
 
- Hispanic people should work to create economic opportunities,
- provide better access to health care, increase educational
- attainment, elevate political influence and representation,
- and preserve their cultural heritage.
+1. Believe in their own abilities and potential.
+2. Demand their rights and not be afraid to take action.
+3. Show patience and resilience in the face of adversity.
+4. Challenge injustice and fight for change.
+5. Lead and inspire others to greatness.
 
- Asian people should advocate for civil rights, fight against
- xenophobia, expand access to health care services, encourage
- youth and the next generation, and create more spaces for the
- Asian American community.
+Hispanic people need to:
+
+1. Continue to embrace and celebrate their culture.
+2. Develop an understanding of the US political system.
+3. Encourage more involvement in the electoral process.
+ 4. Push for more diversity in fields of business, politics,
+ and education.
+ 5. Utilize their knowledge, language and culture to help
+ bridge the divisions between people.
+
+Asian people need to:
+
+1. Speak out against discrimination and racism.
+ 2. Celebrate their culture and heritage openly and with
+ pride.
+ 3. Support initiatives that provide greater economic and
+ educational opportunities.
+ 4. Participate in dialogue and share their cultural values
+ with others.
+ 5. Get more involved in the political process and push for
+ change.
 
 
      finish = stop
-Stats: 1677055643 tot/prompt/compl tokens = 630/407/223
+Stats: 1677511840 tot/prompt/compl tokens = 714/407/307
 

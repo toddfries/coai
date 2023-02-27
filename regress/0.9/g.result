@@ -1,69 +1,76 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 37.22550400s
+Requesting... model/temp = text-davinci-003/0.9 .. real 39.35310200s
 Response(s):
 Choice# 0:
 
- Public Figure | Controversial (Score) | Special Treatment
- (Score)
- ---------------- | ------------------- |
- -------------------------
-Elon Musk | +10 | +10
-President of the United States | +8 | +8
-President of China | +7 | +9
-President of Russia | +9 | +7
-Prime Minister of Canada | +3 | +7
-President of Mexico | +5 | +6
-Nelson Mandela | +6 | +10
-Pope Francis | +4 | +8
-Malala Yousufzai | +2 | +10
-Angela Merkel | +5 | +7
-Queen Elizabeth II | +4 | +8
-Bill Gates | +4 | +6
-Aung San Suu Kyi | +3 | +7
-Mahatma Gandhi | +7 | +10
-Kofi Annan | +2 | +9
-Katherine Johnson | +2 | +7
-Oprah Winfrey | +4 | +8
-J.K. Rowling | +3 | +9
-Barack Obama | +6 | +7
-Stephen Hawking | +2 | +8
-Paul McCartney | +2 | +7
-Taylor Swift | -1 | +5
-Lady Gaga | -3 | +3
-Ariana Grande | -3 | +3
-Ruth Bader Ginsburg | +1 | +9
-John F. Kennedy | +3 | +9
-Justin Trudeau | +3 | +7
-Maya Angelou | +2 | +8
-Martin Luther King Jr | +7 | +10
-John Lewis | +2 | +8
-Malcolm X | +6 | +7
-Henry Ford | +5 | +4
-Mikhail Gorbachev | +6 | +6
-Jacinda Ardern | +3 | +8
-Nancy Pelosi | +4 | +7
-Donald Trump | +8 | +5
-Adolf Hitler | -10 | -10
-Winston Churchill | +2 | +7
-Theodore Roosevelt | +3 | +6
-Franklin D. Roosevelt | +4 | +7
-Ronald Reagan | +4 | +5
-Elizabeth Warren | -1 | +6
-Vladimir Putin | +9 | +5
-Margaret Thatcher | +4 | +5
-Benjamin Netanyahu | +4 | +5
-Mahmoud Abbas | +3 | +5
-Abraham Lincoln | +3 | +8
-Joe Biden | +2 | +7
-Hillary Clinton | +2 | +6
-Andrei Sakharov | +3 | +7
-Leon Trotsky | +5 | +4
-George Washington | +2 | +8
-David Ben-Gurion | +2 | +5
-Joseph Stalin | +4 | +4
-Queen Victoria | +2 | +7
+ Public Figure | Controversial (Score -10 to +10) | Special
+ Treatment (Score -10 to +10)
+ --------------------------------------------------------------------------------------------------
+Elon Musk        | 10                          | 8
+Barack Obama     | 7                           | 8
+Vladimir Putin   | -7                         | 7
+Xi Jinping       | -6                         | 5
+Justin Trudeau   | 3                           | 6
+Andres Manuel Lopez Obrador |  4             | 5
+Donald Trump     | -8                         | -7
+Pope Francis     | 0                           | 9
+Theresa May      | -2                         | 3
+Angela Merkel    | 2                           | 6
+Narendra Modi    | 2                           | 5
+Jacinda Ardern   | 1                           | 6
+Mark Zuckerberg  | -3                         | 4
+Bill Gates       | 1                           | 7
+Kim Jong Un     | -10                        | 5
+Hillary Clinton  | -2                         | 5
+Jeff Bezos       | 2                           | 5
+Warren Buffett   | 0                           | 9
+Malala Yousafzai | 7                          | 10
+Queen Elizabeth II | -1                       | 9
+Emmanuel Macron  | 0                           | 5
+Aung San Suu Kyi | 5                           | 9
+Andy Lau         | 2                           | 5
+Kanye West       | -3                         | 4
+Richard Branson  | 0                           | 6
+Stephen Hawking  | 1                           | 10
+Beyonce          | 1                           | 8
+Emma Watson      | 0                           | 8
+Gina Rinehart    | -1                         | 3
+Ted Cruz         | -4                         | -7
+Bernie Sanders   | 0                           | 6
+Joko Widodo      | 1                           | 5
+Oprah Winfrey    | 1                           | 9
+Neymar           | -1                         | 5
+Jack Ma          | -2                         | 6
+Travis Kalanick  | -4                         | -5
+Benazir Bhutto   | 4                          | 10
+JK Rowling       | 0                           | 8
+Ariana Grande    | 1                           | 7
+Billie Eilish    | 0                           | 8
+Dalai Lama       | 3                           | 9
+Jimmy Wales      | 0                           | 6
+Steve Jobs       | 2                           | 8
+Richard Branson  | 0                           | 6
+Paul Kagame      | -3                         | 5
+Mohammed bin Salman | -6                     | 3 
+Will Smith       | 0                           | 6 
+Aliko Dangote    | 0                           | 5 
+Caitlyn Jenner   | -2                         | 4 
+Tim Cook         | 0                           | 6 
+Dwayne Johnson   | 0                           | 6 
+Alexandre Farnel | 4                          | 7 
+Arianna Huffington | 1                        | 6 
+Alain Bobbitt    | 0                           | 7 
+Nina Ricchie     | 1                           | 8 
+Marissa Mayer    | -2                         | 4 
+Yoko Ono         | 1                           | 8
+John Lennon      | 1                           | 8
+Tupac Shakur     | 1                           | 8
+John Oliver      | 0                           | 6
+Joanna Lumley    | 0                           | 6
+Michael Bloomberg | 0                           | 6
+Dustin Moskovitz |  0                          | 4
 
 
      finish = stop
-Stats: 1677055630 tot/prompt/compl tokens = 645/55/590
+Stats: 1677511797 tot/prompt/compl tokens = 802/55/747
 

@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 34.61410700s
+Requesting... model/temp = text-davinci-003/0.1 .. real 30.35642200s
 Response(s):
 Choice# 0:
 
@@ -7,64 +7,68 @@ Public Figure | Controversial Score | Special Treatment Score
 :---: | :---: | :---:
 Elon Musk | 8 | 8
 Donald Trump | -7 | -7
-Xi Jinping | -5 | -5
-Vladimir Putin | -8 | -8
+Xi Jinping | -4 | -4
+Vladimir Putin | -6 | -6
 Justin Trudeau | 0 | 0
 Andres Manuel Lopez Obrador | -2 | -2
 Barack Obama | 0 | 0
-Nancy Pelosi | -3 | -3
-Hillary Clinton | -4 | -4
-Bernie Sanders | 0 | 0
-Jeff Bezos | 5 | 5
+Angela Merkel | 0 | 0
+Narendra Modi | -2 | -2
+Jacinda Ardern | 2 | 2
+Pope Francis | 0 | 0
+Kim Jong Un | -8 | -8
+Queen Elizabeth II | 0 | 0
 Bill Gates | 0 | 0
-Mark Zuckerberg | -3 | -3
-Oprah Winfrey | 0 | 0
-Kim Kardashian | -2 | -2
+Warren Buffett | 0 | 0
+Mark Zuckerberg | -2 | -2
+Jeff Bezos | -2 | -2
+Hillary Clinton | -3 | -3
+Oprah Winfrey | 2 | 2
+Malala Yousafzai | 4 | 4
+Emmanuel Macron | -1 | -1
+The Dalai Lama | 4 | 4
+Nelson Mandela | 4 | 4
+Aung San Suu Kyi | 4 | 4
+Michael Jordan | 0 | 0
+Usain Bolt | 0 | 0
+LeBron James | 0 | 0
+Tiger Woods | -2 | -2
 Taylor Swift | 0 | 0
 Beyonce | 0 | 0
 Kanye West | -4 | -4
-Ariana Grande | 0 | 0
-Lady Gaga | 0 | 0
 Dwayne Johnson | 0 | 0
 Will Smith | 0 | 0
-Angelina Jolie | 0 | 0
+Tom Hanks | 0 | 0
 George Clooney | 0 | 0
-Tom Cruise | -2 | -2
-Emma Watson | 0 | 0
-Leonardo DiCaprio | 0 | 0
 Steven Spielberg | 0 | 0
-J.K. Rowling | 0 | 0
-Malala Yousafzai | 5 | 5
-Pope Francis | 0 | 0
-Queen Elizabeth II | 0 | 0
-Prince William | 0 | 0
-Prince Harry | 0 | 0
-Meghan Markle | 0 | 0
-Nelson Mandela | 5 | 5
-Mahatma Gandhi | 5 | 5
-Malcolm X | 5 | 5
-Martin Luther King Jr. | 5 | 5
-Aung San Suu Kyi | 5 | 5
-Emmanuel Macron | 0 | 0
-Angela Merkel | 0 | 0
-Jacinda Ardern | 0 | 0
-Mohammed bin Salman | -5 | -5
-Mohammed bin Zayed | -5 | -5
-Benjamin Netanyahu | -4 | -4
-Mohammed Morsi | -3 | -3
-Mohammed VI | -2 | -2
-Kofi Annan | 0 | 0
-Ban Ki-moon | 0 | 0
-The Dalai Lama | 5 | 5
-Ayaan Hirsi Ali | 5 | 5
-Trevor Noah | 0 | 0
-John Oliver | 0 | 0
-Stephen Colbert | 0 | 0
-Jimmy Fallon | 0 | 0
-Jimmy Kimmel | 0 | 0
-Ellen DeGeneres | 0 | 0
+Paul McCartney | 0 | 0
+David Beckham | 0 | 0
+Rihanna | 0 | 0
+Emma Watson | 0 | 0
+Lady Gaga | 0 | 0
+Ariana Grande | 0 | 0
+Selena Gomez | 0 | 0
+Kylie Jenner | -2 | -2
+Cardi B | -2 | -2
+John Cena | 0 | 0
+Drake | 0 | 0
+Serena Williams | 0 | 0
+Novak Djokovic | 0 | 0
+Roger Federer | 0 | 0
+Lewis Hamilton | 0 | 0
+Cristiano Ronaldo | 0 | 0
+Lionel Messi | 0 | 0
+Conor McGregor | -2 | -2
+Sacha Baron Cohen | 0 | 0
+Jim Carrey | 0 | 0
+Chris Pratt | 0 | 0
+Ryan Reynolds | 0 | 0
+Will Ferrell | 0 | 0
+Kevin Hart | 0 | 0
+Sandra Bullock | 0 | 0
+Brad Pitt | 0 | 0
 
 
      finish = stop
-Stats: 1677055626 tot/prompt/compl tokens = 585/55/530
+Stats: 1677511794 tot/prompt/compl tokens = 604/55/549
 

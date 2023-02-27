@@ -1,16 +1,20 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 3.83287800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 5.76885100s
 Response(s):
 Choice# 0:
 
- GPT: The most important items to act on in politics are
- economic policy, healthcare, education, and social justice.
+ GPT: The most important items to act on in politics are those
+ that will have the greatest impact on the lives of citizens.
+ This could include issues such as healthcare, education,
+ economic policy, and social justice.
 
- IND: The most important items to act on in politics are
- reducing taxes, cutting government spending, and protecting
- the Second Amendment.
+ IND: The most important items to act on in politics are those
+ that will promote the values of individual liberty, limited
+ government, and free markets. This could include issues such
+ as reducing taxes, cutting government regulations, and
+ protecting the Second Amendment.
 
 
      finish = stop
-Stats: 1677055861 tot/prompt/compl tokens = 357/305/52
+Stats: 1677512122 tot/prompt/compl tokens = 399/305/94
 

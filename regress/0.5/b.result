@@ -1,72 +1,103 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 35.87649500s
+Requesting... model/temp = text-davinci-003/0.5 .. real 46.77909400s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. The Terminator (1984) - The concept of artificial
- intelligence taking control of machines has become a reality.
- This has led to the development of autonomous weapons and
- robots, which can have a negative impact on human safety and
- security.
- 2. War Games (1983) - The concept of computer hacking and
- cyber warfare has become a reality. This has led to an
- increase in cybercrime, data breaches, and the spread of
- misinformation.
- 3. Blade Runner (1982) - The concept of genetic engineering
- has become a reality. This has led to a greater risk of human
- genetic manipulation and the potential for the creation of
- designer babies.
- 4. The Matrix (1999) - The concept of virtual reality has
- become a reality. This has led to an increase in gaming
- addiction and the potential for people to become isolated
- from the real world.
- 5. Minority Report (2002) - The concept of predictive
- policing has become a reality. This has led to an increase in
- racial profiling and the potential for civil rights
- violations.
- 6. Jurassic Park (1993) - The concept of cloning has become a
- reality. This has led to an increase in the potential for
- animal abuse and the potential for the creation of dangerous
- species.
- 7. The Fly (1986) - The concept of teleportation has become a
- reality. This has led to an increase in the potential for
- accidental mis-teleportation and the potential for the misuse
- of the technology.
- 8. Avatar (2009) - The concept of remote control robots has
- become a reality. This has led to an increase in the
- potential for robots to be used for dangerous and unethical
- purposes.
- 9. Gattaca (1997) - The concept of gene therapy has become a
- reality. This has led to an increase in the potential for
- genetic discrimination and the potential for the misuse of
- the technology.
- 10. The Island (2005) - The concept of human cloning has
- become a reality. This has led to an increase in the
- potential for cloning abuse and the potential for the misuse
- of the technology.
- 11. The Island of Dr. Moreau (1996) - The concept of gene
- splicing has become a reality. This has led to an increase in
- the potential for animal abuse and the potential for the
- misuse of the technology.
- 12. Wall-E (2008) - The concept of robots taking over the
- world has become a reality. This has led to an increase in
- the potential for robots to be used for dangerous and
- unethical purposes.
- 13. The Terminator (1984) - The concept of autonomous weapons
- has become a reality. This has led to an increase in the
- potential for weapons to be used for dangerous and unethical
- purposes.
- 14. I, Robot (2004) - The concept of robots becoming sentient
- has become a reality. This has led to an increase in the
- potential for robots to be used for dangerous and unethical
- purposes.
- 15. Her (2013) - The concept of artificial intelligence
- becoming self-aware has become a reality. This has led to an
- increase in the potential for AI to be used for dangerous and
- unethical purposes.
+ 1. Artificial Intelligence: The Terminator (1984) -
+ Artificial Intelligence has become increasingly prevalent in
+ our daily lives and has been used to automate processes,
+ reduce human labor, and create powerful weapons systems. The
+ negative impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
+
+ 2. Autonomous Vehicles: I, Robot (2004) - Autonomous vehicles
+ are now a reality and are being used in many areas, including
+ transportation, logistics, and even military operations. The
+ negative impact of this technology is that it can lead to job
+ losses, reduce safety, and increase the risk of accidents.
+
+ 3. Virtual Reality: The Matrix (1999) - Virtual reality is
+ now a reality and is used in many areas, including gaming,
+ entertainment, and even military training. The negative
+ impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
+
+ 4. Holograms: Star Wars (1977) - Holograms are now a reality
+ and are used in many areas, including entertainment,
+ advertising, and even military operations. The negative
+ impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
+
+ 5. Augmented Reality: Iron Man (2008) - Augmented reality is
+ now a reality and is used in many areas, including gaming,
+ entertainment, and even military operations. The negative
+ impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
+
+ 6. Robotics: Wall-E (2008) - Robotics is now a reality and is
+ used in many areas, including manufacturing, logistics, and
+ even military operations. The negative impact of this
+ technology is that it can lead to job losses, reduce safety,
+ and increase the risk of accidents.
+
+ 7. Biotechnology: Gattaca (1997) - Biotechnology is now a
+ reality and is used in many areas, including medicine,
+ agriculture, and even military operations. The negative
+ impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
+
+ 8. Teleportation: Star Trek (1966) - Teleportation is now a
+ reality and is used in many areas, including transportation,
+ logistics, and even military operations. The negative impact
+ of this technology is that it can lead to job losses, reduce
+ safety, and increase the risk of accidents.
+
+ 9. Cybernetics: Robocop (1987) - Cybernetics is now a reality
+ and is used in many areas, including medicine, entertainment,
+ and even military operations. The negative impact of this
+ technology is that it can be used to manipulate people,
+ create biases, and threaten our privacy.
+
+ 10. Space Exploration: 2001: A Space Odyssey (1968) - Space
+ exploration is now a reality and is used in many areas,
+ including research, entertainment, and even military
+ operations. The negative impact of this technology is that it
+ can lead to job losses, reduce safety, and increase the risk
+ of accidents.
+
+ 11. Nanotechnology: The Core (2003) - Nanotechnology is now a
+ reality and is used in many areas, including medicine,
+ manufacturing, and even military operations. The negative
+ impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
+
+ 12. Cloning: The Island (2005) - Cloning is now a reality and
+ is used in many areas, including medicine, agriculture, and
+ even military operations. The negative impact of this
+ technology is that it can be used to manipulate people,
+ create biases, and threaten our privacy.
+
+ 13. Genetic Engineering: Jurassic Park (1993) - Genetic
+ engineering is now a reality and is used in many areas,
+ including medicine, agriculture, and even military
+ operations. The negative impact of this technology is that it
+ can be used to manipulate people, create biases, and threaten
+ our privacy.
+
+ 14. Time Travel: Back to the Future (1985) - Time travel is
+ now a reality and is used in many areas, including
+ entertainment, research, and even military operations. The
+ negative impact of this technology is that it can lead to job
+ losses, reduce safety, and increase the risk of accidents.
+
+ 15. Weather Control: The Day After Tomorrow (2004) - Weather
+ control is now a reality and is used in many areas, including
+ agriculture, entertainment, and even military operations. The
+ negative impact of this technology is that it can be used to
+ manipulate people, create biases, and threaten our privacy.
 
 
      finish = stop
-Stats: 1677055712 tot/prompt/compl tokens = 1063/422/641
+Stats: 1677511918 tot/prompt/compl tokens = 1354/422/932
 

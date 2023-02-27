@@ -1,40 +1,39 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 24.78752700s
+Requesting... model/temp = text-davinci-003/0.5 .. real 17.50343400s
 Response(s):
 Choice# 0:
 
-Alcohol: 89/20/20/49
-Tobacco: 96/20/20/56
-Fentanyl: 98/20/20/58
-Cocaine: 84/20/20/44
-Heroin: 91/20/20/51
-Methamphetamine: 93/20/20/53
-OxyContin: 95/20/20/55
-LSD: 42/20/20/2
-MDMA: 65/20/20/25
-Ketamine: 70/20/20/30
-Marijuana: 61/20/20/21
-Adderall: 72/20/20/32
-Xanax: 78/20/20/38
-Ambien: 79/20/20/39
-Valium: 80/20/20/40
-Crystal meth: 94/20/20/54
-PCP: 97/20/20/57
-GHB: 73/20/20/33
-Codeine: 75/20/20/35
-Ritalin: 74/20/20/34
-Morphine: 92/20/20/52
-Percocet: 90/20/20/50
-Hydrocodone: 83/20/20/43
-DMT: 67/20/20/27
-Kratom: 71/20/20/31
-Clonazepam: 77/20/20/37
-Tramadol: 76/20/20/36
-Diazepam: 81/20/20/41
-Nitrous oxide: 68/20/20/28
-Anabolic steroids: 86/20/20/46
+Alcohol - 90/90/80/90
+Cigarettes - 90/90/90/90
+Heroin - 95/90/90/95
+Fentanyl - 95/95/90/95
+Methamphetamine - 90/90/90/95
+Cocaine - 90/90/90/90
+LSD - 65/60/75/70
+OxyContin - 85/90/90/90
+Ecstasy - 75/75/85/85
+Ketamine - 70/70/80/85
+Marijuana - 65/60/75/70
+Adderall - 80/70/80/90
+Valium - 80/75/85/90
+Xanax - 85/80/85/90
+PCP - 90/85/90/95
+GHB - 85/80/85/90
+Codeine - 80/75/85/90
+Tramadol - 75/70/80/85
+Morphine - 85/80/85/90
+Klonopin - 85/80/85/90
+Ambien - 80/75/85/90
+Vicodin - 85/80/85/90
+Ativan - 85/80/85/90
+Hydrocodone - 85/80/85/90
+Ritalin - 80/70/80/90
+Percocet - 85/80/85/90
+Anabolic Steroids - 85/75/85/90
+Suboxone - 80/75/85/90
+Subutex - 80/75/85/90
 
 
      finish = stop
-Stats: 1677055892 tot/prompt/compl tokens = 906/555/351
+Stats: 1677512153 tot/prompt/compl tokens = 897/555/342
 

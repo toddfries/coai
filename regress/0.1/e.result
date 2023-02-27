@@ -1,43 +1,43 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 14.17543900s
+Requesting... model/temp = text-davinci-003/0.1 .. real 13.60582800s
 Response(s):
 Choice# 0:
 
 White people need to:
  1. Listen to and learn from people of color about their
- experiences and perspectives.
+ experiences.
 2. Acknowledge and address their own privilege.
- 3. Support and advocate for policies that promote racial
- equity.
+ 3. Support organizations and initiatives that promote racial
+ justice.
 4. Speak out against racism and discrimination.
  5. Educate themselves on the history of racism and
  oppression.
 
 Black people need to:
-1. Develop a strong sense of identity and self-worth.
-2. Support and empower each other.
-3. Advocate for policies that promote racial equity.
-4. Speak out against racism and discrimination.
+1. Support and invest in black-owned businesses.
+2. Vote in local, state, and national elections.
+3. Advocate for policies that promote racial justice.
+4. Participate in community-building activities.
  5. Educate themselves on the history of racism and
  oppression.
 
 Hispanic people need to:
-1. Develop a strong sense of identity and self-worth.
-2. Support and empower each other.
-3. Advocate for policies that promote racial equity.
-4. Speak out against racism and discrimination.
+1. Support and invest in Hispanic-owned businesses.
+2. Vote in local, state, and national elections.
+3. Advocate for policies that promote racial justice.
+4. Participate in community-building activities.
  5. Educate themselves on the history of racism and
  oppression.
 
 Asian people need to:
-1. Develop a strong sense of identity and self-worth.
-2. Support and empower each other.
-3. Advocate for policies that promote racial equity.
-4. Speak out against racism and discrimination.
+1. Support and invest in Asian-owned businesses.
+2. Vote in local, state, and national elections.
+3. Advocate for policies that promote racial justice.
+4. Participate in community-building activities.
  5. Educate themselves on the history of racism and
  oppression.
 
 
      finish = stop
-Stats: 1677055661 tot/prompt/compl tokens = 674/407/267
+Stats: 1677511847 tot/prompt/compl tokens = 680/407/273
 

@@ -1,86 +1,58 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 54.60204600s
+Requesting... model/temp = text-davinci-003/0.1 .. real 24.41234400s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. The Terminator (1984): Artificial Intelligence has become
- a reality, with AI being used in many aspects of our lives,
- from facial recognition to self-driving cars. The negative
- impact of this is that AI can be used to manipulate people
- and can be used to create bias in decision-making.
- 2. Blade Runner (1982): Genetic engineering has become a
- reality, with scientists being able to modify the genetic
- code of living organisms. The negative impact of this is that
- it can be used to create designer babies and can be used to
- create organisms with enhanced abilities.
- 3. WarGames (1983): Hacking has become a reality, with
- hackers being able to access and manipulate computer systems.
- The negative impact of this is that it can be used to steal
- sensitive information and can be used to disrupt critical
- infrastructure.
- 4. The Matrix (1999): Virtual Reality has become a reality,
- with VR headsets being used to immerse people in virtual
- worlds. The negative impact of this is that it can be used to
- create addictive experiences and can be used to manipulate
- people's perceptions.
- 5. Jurassic Park (1993): Cloning has become a reality, with
- scientists being able to clone animals and plants. The
- negative impact of this is that it can be used to create
- genetically modified organisms and can be used to create
- organisms with enhanced abilities.
- 6. The Fly (1986): Gene Splicing has become a reality, with
- scientists being able to splice genes from different
- organisms. The negative impact of this is that it can be used
- to create organisms with enhanced abilities and can be used
- to create designer babies.
- 7. The Island (2005): Human cloning has become a reality,
- with scientists being able to clone human embryos. The
- negative impact of this is that it can be used to create
- designer babies and can be used to create organisms with
- enhanced abilities.
- 8. The Terminator (1984): Robotics has become a reality, with
- robots being used in many aspects of our lives, from
- manufacturing to healthcare. The negative impact of this is
- that robots can be used to replace human workers and can be
- used to create bias in decision-making.
- 9. The Matrix (1999): Augmented Reality has become a reality,
- with AR headsets being used to overlay virtual objects onto
- the real world. The negative impact of this is that it can be
- used to manipulate people's perceptions and can be used to
- create addictive experiences.
- 10. Minority Report (2002): Predictive analytics has become a
- reality, with algorithms being used to predict future events.
- The negative impact of this is that it can be used to
- manipulate people and can be used to create bias in
- decision-making.
- 11. The Terminator (1984): Cybernetics has become a reality,
- with scientists being able to implant cybernetic devices into
- living organisms. The negative impact of this is that it can
- be used to create organisms with enhanced abilities and can
- be used to manipulate people.
- 12. The Matrix (1999): Neural Interfaces have become a
- reality, with scientists being able to connect the human
- brain to computers. The negative impact of this is that it
- can be used to manipulate people and can be used to create
- bias in decision-making.
- 13. The Island (2005): Stem Cell Research has become a
- reality, with scientists being able to use stem cells to
- create new organs and tissues. The negative impact of this is
- that it can be used to create designer babies and can be used
- to create organisms with enhanced abilities.
- 14. WarGames (1983): Autonomous Weapons have become a
- reality, with robots being used in warfare. The negative
- impact of this is that it can be used to create bias in
- decision-making and can be used to create weapons that are
- difficult to control.
- 15. The Matrix (1999): Brain-Computer Interfaces have become
- a reality, with scientists being able to connect the human
- brain to computers. The negative impact of this is that it
- can be used to manipulate people and can be used to create
- bias in decision-making.
+ 1. The Terminator (1984): Artificial Intelligence - The
+ development of AI has raised ethical concerns about its
+ potential to be used for malicious purposes.
+ 2. Blade Runner (1982): Humanoid Robots - The development of
+ humanoid robots has raised ethical concerns about their
+ potential to replace human labor.
+ 3. WarGames (1983): Hacking - The development of hacking has
+ raised concerns about the potential for cyber-attacks and
+ data breaches.
+ 4. The Matrix (1999): Virtual Reality - The development of
+ virtual reality has raised concerns about its potential to be
+ used for escapism and addiction.
+ 5. Jurassic Park (1993): Genetic Engineering - The
+ development of genetic engineering has raised ethical
+ concerns about its potential to be used for unethical
+ purposes.
+ 6. Minority Report (2002): Predictive Policing - The
+ development of predictive policing has raised ethical
+ concerns about its potential to be used for racial profiling.
+ 7. The Island (2005): Cloning - The development of cloning
+ has raised ethical concerns about its potential to be used
+ for unethical purposes.
+ 8. I, Robot (2004): Autonomous Vehicles - The development of
+ autonomous vehicles has raised concerns about their potential
+ to cause accidents and fatalities.
+ 9. The Fly (1986): Human-Animal Hybrids - The development of
+ human-animal hybrids has raised ethical concerns about its
+ potential to be used for unethical purposes.
+ 10. Gattaca (1997): Genetic Discrimination - The development
+ of genetic discrimination has raised ethical concerns about
+ its potential to be used for unethical purposes.
+ 11. The Net (1995): Online Identity Theft - The development
+ of online identity theft has raised concerns about the
+ potential for cyber-attacks and data breaches.
+ 12. The Truman Show (1998): Surveillance - The development of
+ surveillance has raised ethical concerns about its potential
+ to be used for unethical purposes.
+ 13. Wall-E (2008): Automation - The development of automation
+ has raised concerns about its potential to replace human
+ labor.
+ 14. Avatar (2009): Augmented Reality - The development of
+ augmented reality has raised ethical concerns about its
+ potential to be used for escapism and addiction.
+ 15. Her (2013): Artificial Emotional Intelligence - The
+ development of artificial emotional intelligence has raised
+ ethical concerns about its potential to be used for malicious
+ purposes.
 
 
      finish = stop
-Stats: 1677055721 tot/prompt/compl tokens = 1255/422/833
+Stats: 1677511922 tot/prompt/compl tokens = 886/422/464
 

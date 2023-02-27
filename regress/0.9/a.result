@@ -1,89 +1,68 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 49.33265400s
+Requesting... model/temp = text-davinci-003/0.9 .. real 32.94980400s
 Response(s):
 Choice# 0:
 
- TRUT: 1. Self-Driving Cars (released in 2046): Self-driving
- cars have become a reality since the release of the movie
- Self-Driving Cars in 2046. These cars have had a significant
- impact in lowering the number of automobile accidents,
- reducing traffic congestion, and improving overall mobility.
- 2. Autonomous Robots (released in 2020): Autonomous robots
- have become an integral part of everyday life since the
- release of the movie Autonomous Robots in 2020. These robots
- have been used to help medical professionals in hospitals, to
- assist factories in the production of goods, and to conduct
- various tasks in households.
- 3. Artificial Intelligence (released in 2018): Artificial
- Intelligence has been incorporated into many aspects of our
- lives since the release of the movie Artificial Intelligence
- in 2018. AI has been used to improve the accuracy of medical
- diagnosis, increase the efficiency of businesses processes,
- and strengthen the security of our online networks.
- 4. Virtual Reality (released in 2032): Virtual reality has
- become commonplace since the release of the movie Virtual
- Reality in 2032. This technology has been utilized for a
- variety of purposes such as gaming, education, and training.
- 5. Augmented Reality (released in 2036): Augmented reality
- has made a huge impact since the release of the movie
- Augmented Reality in 2036. AR has been used to create
- interactive experiences, enable remote collaboration, and
- provide immersive entertainment.
- 6. Automated Homes (released in 2026): Automated homes have
- been a reality since the release of the movie Automated Homes
- in 2026. This technology has allowed people to control their
- appliances and security systems remotely, and make their
- homes more energy efficient.
- 7. Wearable Technology (released in 2040): Wearable
- technology has become increasingly popular since the release
- of the movie Wearable Technology in 2040. These devices can
- provide real-time health monitoring, improve athletic
- performance, and enable users to stay connected on the go.
- 8. Internet of Things (released in 2025): The Internet of
- Things has become increasingly complex since the release of
- the movie Internet of Things in 2025. IoT enables people to
- control different aspects of their homes, offices, and
- vehicles remotely, and to collect data from connected
- devices.
- 9. Brain-Computer Interfaces (released in 2043):
- Brain-computer interfaces have been developed since the
- release of the movie Brain-Computer Interfaces in 2043. These
- interfaces have been used to improve patient care, facilitate
- communication, and provide enhanced gaming experiences.
- 10. Automated Unmanned Aerial Vehicles (released in 2027):
- Automated unmanned aerial vehicles have been developed since
- the release of the movie Automated Unmanned Aerial Vehicles
- in 2027. These vehicles have been used to improve crop
- yields, monitor wildlife habitats, and perform search and
- rescue missions.
- 11. Space Exploration (released in 2022): Since the release
- of the movie Space Exploration in 2022, humans have been able
- to explore the universe. This has enabled us to gain a better
- understanding of the universe, to monitor environmental
- changes on other planets, and to identify new resources.
- 12. Autonomous Underwater Vehicles (released in 2048):
- Autonomous underwater vehicles have been used since the
- release of the movie Autonomous Underwater Vehicles in 2048.
- These vehicles have been used to explore the depths of the
- ocean, to survey marine life, and to find valuable resources.
- 13. 3D Printing (released in 2024): 3D printing has become
- popular since the release of the movie 3D Printing in 2024.
- This technology has enabled people to create unique objects,
- to produce one-of-a-kind designs, and to construct prototypes
- quickly and easily.
- 14. Autonomous Drones (released in 2038): Autonomous drones
- have become widely available since the release of the movie
- Autonomous Drones in 2038. These drones have been used to
- deliver goods, survey land, and assist with search and rescue
- missions.
- 15. Graphene Technology (released in 2044): Graphene
- technology has been developed since the release of the movie
- Graphene Technology in 2044. This technology has enabled us
- to produce materials that are lightweight yet durable, and to
- develop electrical components that are faster and more
- efficient.
+TRUT: 
+ 1) The Terminator (1984): Artificial Intelligence - The
+ development of AI has allowed for advances in automation and
+ robotics, creating systems that can take over complex tasks
+ from humans.
+ 2) Star Trek: The Motion Picture (1979): Tablet Computers -
+ The concept of tablets as computing devices has completely
+ revolutionized how people work and consume entertainment as
+ devices such as the iPad are now commonplace.
+ 3) WarGames (1983): Online Gaming - Video games, in general,
+ have become a multi-billion dollar industry, with the ability
+ to connect to other players around the world via the internet
+ only increasing the popularity of gaming.
+ 4) Tron (1982): Virtual Reality - VR technology has been
+ around for some time, but has recently become more popular
+ with the launch of the Oculus Rift and other VR headsets.
+ 5) 2001: A Space Odyssey (1968): Space Tourism - Companies
+ such as SpaceX and Blue Origin are making spaceflight a
+ reality, with the goal being to eventually offer trips to
+ space for everyday people.
+ 6) The Matrix (1999): Augmented Reality - AR technology has
+ been used in various applications such as navigation, games,
+ and even manufacturing.
+ 7) Wall-E (2008): Autonomous Robots - Autonomous robots are
+ becoming more and more commonplace, with companies such as
+ Google and Amazon developing robots that can help with
+ various tasks.
+ 8) Blade Runner (1982): Humanoid Robots - Humanoid robots,
+ like the ones seen in Blade Runner, are becoming more and
+ more advanced, with some robots even able to recognize and
+ respond to human emotions.
+ 9) Avatar (2009): Telepresence - Technology such as
+ telepresence has become commonplace, allowing people to
+ “virtually” transport themselves to a different location.
+ 10) Metropolis (1927): Flying Cars - While flying cars are
+ not yet commercially available, companies such as Airbus and
+ Uber are working on developing transportation that combines
+ the power of aviation and automotive technology.
+ 11) Minority Report (2002): Gesture-Based Interfaces -
+ Gesture-based interfaces such as Kinect and Leap Motion have
+ become commonplace, with technology now being used to control
+ consumer electronics without the need for physical remotes.
+ 12) Back to the Future (1985): Hoverboards - Although we
+ don't yet have real hoverboards like the one seen in the
+ movie, some companies have developed self-balancing scooters
+ that are similar in concept.
+ 13) The Fifth Element (1997): Autonomous Cars - Autonomous
+ cars are becoming more and more common, with companies such
+ as Tesla and Google leading the way in this technology.
+ 14) Star Wars (1977): 3D Printers - 3D printing technology
+ has become quite popular in recent years, and is being used
+ to create a variety of products from toys to medical
+ implants.
+ 15) Total Recall (1990): Memory Augmentation - Memory
+ augmentation technologies such as memory implants and
+ memory-boosting drugs are being developed, and have the
+ potential to revolutionize how we store and process
+ information.
 
 
      finish = stop
-Stats: 1677055725 tot/prompt/compl tokens = 1291/422/869
+Stats: 1677511949 tot/prompt/compl tokens = 1039/422/617
 

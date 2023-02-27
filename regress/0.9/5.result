@@ -1,26 +1,34 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 10.76201700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 11.52801700s
 Response(s):
 Choice# 0:
 
- GPT: The 'woke mind virus' is a problem because it is a set
- of beliefs that can spread quickly online, and are often
- based on false or misleading information. People following
- the 'woke mind virus' can be left feeling isolated and/or
- angry, and can be difficult to reason with.
+GPT: The 'woke mind virus' is becoming increasingly rife on
+ social media sites and is damaging to civil discourse. It is
+ a
+form of trolling which aims to disrupt conversations based on
+ ideological differences, often using inflammatory language
+ and
+ad hominem attacks.
 
- TRUT: The 'woke mind virus' is a problem because it refers to
- a set of beliefs that are ideologically motivated and often
- spread rapidly due to the power of social media. These
- beliefs are often based on false or far-reaching assumptions,
- and can lead to a polarization of opinions. People can become
- more entrenched in their views and can be more resistant to
- hearing opposing viewpoints. In order to act against the
- 'woke mind virus', it is important to challenge these beliefs
- with facts and evidence and to identify when people are being
- misled.
+ TRUT: The 'woke mind virus' is a form of trolling that
+ involves
+harassing people online who do not share the same political
+ideology. It is especially pervasive on online platforms like
+Twitter, YouTube and Reddit. The 'woke mind virus' involves
+ subjecting people to verbal abuse, amplifying and
+ exaggerating
+minor differences of opinion, and disrupting conversations
+based on ideological differences. The problem is that it can
+lead to further polarization of political views and can also
+harass and intimidate individuals. Solutions to this include
+implementing better moderation and community guidelines on
+social media sites, as well as blocking and reporting abusive
+users. Additionally, users should practice healthy discourse
+by engaging with people with differing viewpoints in a
+respectful and productive manner.
 
 
      finish = stop
-Stats: 1677055845 tot/prompt/compl tokens = 589/414/175
+Stats: 1677512094 tot/prompt/compl tokens = 635/414/221
 

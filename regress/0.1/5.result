@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 11.73388600s
+Requesting... model/temp = text-davinci-003/0.1 .. real 9.50643600s
 Response(s):
 Choice# 0:
 
@@ -13,13 +13,15 @@ Choice# 0:
  without considering all the facts. It can also lead to people
  making decisions based on emotion rather than logic. This can
  lead to people making decisions that are not in their best
- interest or the best interest of society. To combat the 'woke
- mind virus', it is important to encourage critical thinking
- and to challenge ideas that are presented. People should also
- be encouraged to look at all sides of an issue and to
- consider the potential consequences of their decisions.
+ interests or the best interests of society. To combat the
+ 'woke mind virus', it is important to encourage critical
+ thinking and to challenge people to think for themselves and
+ to consider all the facts before making a decision.
+ Additionally, it is important to be aware of the potential
+ for groupthink and to be open to different perspectives and
+ ideas.
 
 
      finish = stop
-Stats: 1677055845 tot/prompt/compl tokens = 583/414/169
+Stats: 1677512107 tot/prompt/compl tokens = 595/414/181
 
