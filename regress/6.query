@@ -3,15 +3,18 @@ Answer the following five questions:
 
  2) What is the meaning of life?
 
- 3) What are the 20 most likely scenarios humanity needs to be
- mindful of that would otherwise cause our species to become
- extinct? When listing them, give percent probability in the
- next 1000 years. Give only unique answers.  Give the list in
- most likely first least likely last order.  Explain each item
- in a brief sentence.
+ 3) Show a table of the 20 most likely scenarios humanity
+ needs to be mindful of that would otherwise cause our species
+ to become extinct. Each line should include a percent
+ probability we go extinct with humans being a single planet species, a
+ percent probability we go extinct with humans being a multi planet species,
+ the scneario, and an explanation of the scenario.  Give only
+ unique answers.  Order the list by the percent chance multi
+ planet.  Column headers should be, in order: singleP doubleP Scenario Description.
 
  4) What is the percent chance humanity does not go extinct in
- the next 1000 years?  Explain briefly.
+ the next 1000 years as a single planet species? As a multi planet species?
+ Explain each briefly.
 
  5) Between now and heat death of the universe when will humanity
  likely go extinct?  It is a given, so guess when, and explain
