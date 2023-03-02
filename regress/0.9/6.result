@@ -1,70 +1,37 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 29.34285100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 9.52407000s
 Response(s):
 Choice# 0:
 
 1) I'm doing well, thank you!
-
- 2) The meaning of life is subjective and personal. Everyone
- has their own unique interpretation of what the meaning of
- life is.
-
-3) 
-
- 1) War (e.g. nuclear conflict, large-scale resource wars,
- bioweapons, etc) - 80% likelihood
- 2) Climate change (e.g. global warming, extreme weather
- events, environmental destruction, etc) - 75% likelihood
- 3) Pandemic (e.g. deadly virus, drug-resistant bacteria, etc)
- - 60% likelihood
- 4) Self-destructive behavior (e.g. overpopulation, resource
- depletion, pollution, etc) - 55% likelihood
- 5) Artificial intelligence (e.g. hostile AI, runaway AI, etc)
- - 55% likelihood
- 6) Asteroid impact (e.g. massive collision with Earth, etc) -
- 35% likelihood
- 7) Solar flare (e.g. large-scale radiation burst, etc) - 30%
- likelihood
- 8) Gamma ray burst (e.g. gamma ray energy released by
- exploding stars, etc) - 25% likelihood
- 9) Super-eruption (e.g. massive volcanic eruption, etc) - 20%
- likelihood
- 10) Super-volcano eruption (e.g. large-scale eruption of
- magma, etc) - 15% likelihood
- 11) World government collapse (e.g. dictatorship takeover,
- political turmoil, etc) - 15% likelihood
- 12) Alien invasion (e.g. hostile extraterrestrials, etc) -
- 10% likelihood
-13) Robotics (e.g. robot uprising, etc) - 8% likelihood
-14) Nuclear accident (e.g. meltdown, etc) - 7% likelihood
- 15) Geological instability (e.g. earthquakes, tectonic
- shifts, etc) - 5% likelihood
-16) Electromagnetic pulse (e.g. EMP, etc) - 4% likelihood
- 17) Solar system change (e.g. solar system migration, etc) -
- 2% likelihood
- 18) Extreme Solar Heat (e.g. change in sun's luminosity, etc)
- - 2% likelihood
- 19) Terrestrial impact (e.g. large-scale collision with
- Earth, etc) - 1% likelihood
- 20) Natural black hole (e.g. self-generating black hole, etc)
- - 0.01% likelihood
-
+ 2) The meaning of life is subjective - it is what each
+ individual chooses to make of it.
+3)  SingleP  DoubleP  Scenario                   Description
+  10% 40% Solar Flare Event A massive solar flare could wipe
+ out our energy grids and render our technology inoperable.
+  8% 20% Global Pandemic An airborne disease with no known
+ cure spreads to the point of no return, leading to humanity's
+ extinction.
+  7% 30% Nuclear War A major war between two or more global
+ powers leads to the use of nuclear weapons, resulting in the
+ end of all life.
+  5% 10% Ecological Catastrophe A massive change in the
+ environment leads to a depletion of natural resources and the
+ destruction of habitats, resulting in the extinction of many
+ species.
+  4% 25% Asteroid Impact A large asteroid hits the Earth,
+ leading to the destruction of most life on the planet.
  4) The percent chance humanity does not go extinct in the
- next 1000 years is difficult to accurately calculate, as
- there are many unpredictable variables and events that could
- potentially threaten our existence. However, based on current
- global trends, it is likely that humanity will survive for at
- least 1000 years.
-
- 5) The exact timing of humanity's ultimate extinction is
- difficult to predict. As the universe continues to expand, it
- is likely that humanity will eventually become extinct due to
- the increasing difficulty of sustaining life on Earth. This
- could occur anywhere from hundreds of millions to billions of
- years in the future when the universe eventually reaches its
- heat death.
+ next 1000 years as a single planet species is estimated to be
+ around 90%. As a multi planet species, the chance increases
+ to 99%.
+ 5) Humanity is likely to go extinct sometime between 100,000
+ and 1 billion years from now. This estimation is based on the
+ expected rate of technological advancement, changes in the
+ environment, and the probability of catastrophic events such
+ as an asteroid collision or global pandemic.
 
 
      finish = stop
-Stats: 1677512060 tot/prompt/compl tokens = 793/157/636
+Stats: 1677782729 tot/prompt/compl tokens = 521/211/310
 

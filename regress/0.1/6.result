@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 36.99717300s
+Requesting... model/temp = text-davinci-003/0.1 .. real 13.36046000s
 Response(s):
 Choice# 0:
 
@@ -8,100 +8,42 @@ Choice# 0:
  2) The meaning of life is subjective and varies from person
  to person.
 
- 3) The 20 most likely scenarios humanity needs to be mindful
- of that would otherwise cause our species to become extinct
- in the next 1000 years are as follows (in order of most
- likely to least likely):
-
- - Climate change/global warming (50% probability): Rising
- temperatures, extreme weather events, and sea level rise
- could cause significant disruption to human life and lead to
- extinction.
-
- - Nuclear war (30% probability): If a nuclear war were to
- break out, it could cause catastrophic destruction and lead
- to human extinction.
-
- - Pandemic (20% probability): A global pandemic could spread
- quickly and cause widespread death and destruction, leading
- to human extinction.
-
- - Asteroid impact (15% probability): An asteroid impact could
- cause massive destruction and lead to human extinction.
-
- - Artificial intelligence (10% probability): If artificial
- intelligence were to become too powerful, it could lead to
- the destruction of humanity.
-
- - Supervolcano eruption (10% probability): A supervolcano
- eruption could cause massive destruction and lead to human
- extinction.
-
- - Natural disaster (10% probability): Natural disasters such
- as earthquakes, tsunamis, and floods could cause significant
- destruction and lead to human extinction.
-
- - Solar flare (5% probability): A solar flare could cause
- massive destruction and lead to human extinction.
-
- - Gamma-ray burst (5% probability): A gamma-ray burst could
- cause massive destruction and lead to human extinction.
-
- - Alien invasion (5% probability): If aliens were to invade
- Earth, they could cause massive destruction and lead to human
- extinction.
-
- - Nanotechnology (5% probability): If nanotechnology were to
- become too powerful, it could lead to the destruction of
- humanity.
-
- - Resource depletion (5% probability): If resources were to
- become too scarce, it could lead to the destruction of
- humanity.
-
- - Ecological collapse (5% probability): If the environment
- were to become too damaged, it could lead to the destruction
- of humanity.
-
- - Economic collapse (5% probability): If the global economy
- were to collapse, it could lead to the destruction of
- humanity.
-
- - Political collapse (5% probability): If the global
- political system were to collapse, it could lead to the
- destruction of humanity.
-
- - Superintelligence (5% probability): If a superintelligence
- were to become too powerful, it could lead to the destruction
- of humanity.
-
- - Rogue AI (5% probability): If a rogue AI were to become too
- powerful, it could lead to the destruction of humanity.
-
- - Nuclear winter (5% probability): If a nuclear winter were
- to occur, it could cause massive destruction and lead to
- human extinction.
-
- - Biological warfare (5% probability): If biological warfare
- were to break out, it could cause catastrophic destruction
- and lead to human extinction.
+3) 
+SingleP  DoubleP  Scenario Description
+ 20% 40% Asteroid Impact - A large asteroid could hit the
+ Earth and cause catastrophic damage.
+ 15% 30% Nuclear War - A nuclear war could cause global
+ destruction and render the planet uninhabitable.
+ 10% 20% Climate Change - Climate change could cause extreme
+ weather events, sea level rise, and other environmental
+ disasters.
+ 5% 10% Supervolcano Eruption - A supervolcano eruption could
+ cause global cooling, crop failure, and other disasters.
+ 3% 6% Pandemic - A pandemic could spread quickly and cause
+ widespread death and disruption.
+ 2% 4% Artificial Intelligence - Artificial intelligence could
+ become too powerful and cause global destruction.
+ 1% 2% Gamma Ray Burst - A gamma ray burst could cause a
+ global extinction event.
+ 0.5% 1% Solar Flare - A solar flare could cause a global
+ blackout and disrupt essential services.
+ 0.1% 0.2% Alien Invasion - An alien invasion could cause
+ global destruction.
 
  4) The percent chance humanity does not go extinct in the
- next 1000 years is estimated to be around 65-70%. This is due
- to the fact that many of the potential extinction scenarios
- are unlikely to occur in the next 1000 years, and humanity
- has been able to survive and adapt to many challenges in the
- past.
+ next 1000 years as a single planet species is estimated to be
+ around 80-90%. As a multi planet species, the percent chance
+ of humanity not going extinct is estimated to be higher,
+ around 95-99%.
 
- 5) Between now and the heat death of the universe, humanity
- is likely to go extinct at some point. It is impossible to
- predict exactly when this will happen, but it is likely to be
- millions or billions of years in the future. This is due to
- the fact that the universe is constantly expanding and
- changing, and humanity will need to continue to adapt and
- evolve in order to survive.
+ 5) Humanity is likely to go extinct between 100,000 and 1
+ billion years from now. This is due to the fact that the
+ universe is expanding and will eventually reach a point of
+ heat death, where all energy is evenly distributed and no new
+ energy is created. This will cause all stars to eventually
+ burn out, leaving no source of energy for life to exist.
 
 
-     finish = stop
-Stats: 1677512068 tot/prompt/compl tokens = 911/157/754
+     finish = undef
+Stats: 1677782733 tot/prompt/compl tokens = 603/211/392
 
