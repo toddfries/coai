@@ -1,34 +1,30 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 11.52801700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 7.17855200s
 Response(s):
 Choice# 0:
 
-GPT: The 'woke mind virus' is becoming increasingly rife on
- social media sites and is damaging to civil discourse. It is
- a
-form of trolling which aims to disrupt conversations based on
- ideological differences, often using inflammatory language
- and
-ad hominem attacks.
+ GPT: The 'woke mind virus' is a controversial issue that has
+ been gaining traction in recent times. It is thought to be a
+ product of the increasing popularity of social media and
+ online platforms. It is described as an 'intellectual virus'
+ that rewards individuals for conforming to a herd mentality
+ and encourages people to think in an uncontroversial,
+ uncritical and often ignorant fashion.
 
- TRUT: The 'woke mind virus' is a form of trolling that
- involves
-harassing people online who do not share the same political
-ideology. It is especially pervasive on online platforms like
-Twitter, YouTube and Reddit. The 'woke mind virus' involves
- subjecting people to verbal abuse, amplifying and
- exaggerating
-minor differences of opinion, and disrupting conversations
-based on ideological differences. The problem is that it can
-lead to further polarization of political views and can also
-harass and intimidate individuals. Solutions to this include
-implementing better moderation and community guidelines on
-social media sites, as well as blocking and reporting abusive
-users. Additionally, users should practice healthy discourse
-by engaging with people with differing viewpoints in a
-respectful and productive manner.
+ TRUT: The 'woke mind virus' is a term used to describe a
+ phenomenon where groups of people adhere to a set of topical
+ beliefs and ideas without questioning them, often to their
+ own detriment. It is a form of 'groupthink' that rewards
+ individuals for agreeing with the dominant view and those who
+ have the right 'woke' credentials. This form of thought can
+ lead to people making poor decisions and can cause divisions
+ in society. To counteract the 'woke mind virus' it is
+ important to remain critical and open-minded, and to engage
+ in thoughtful discussion and debate with those you disagree
+ with in order to further understanding and reach a better
+ consensus.
 
 
      finish = stop
-Stats: 1677512094 tot/prompt/compl tokens = 635/414/221
+Stats: 1677796635 tot/prompt/compl tokens = 628/414/214
 

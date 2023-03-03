@@ -1,153 +1,153 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 46.57436200s
+Requesting... model/temp = text-davinci-003/0.5 .. real 24.11410600s
 Response(s):
 Choice# 0:
 
 Ada:
-with Ada.Text_IO; use Ada.Text_IO;
+
+with Ada.Text_IO;
+use Ada.Text_IO;
 
 procedure Hello_World is
 begin
-  Put_Line("Hello, World!");
-  for I in 1..100 loop
-    Put(I);
-    Put(",");
-  end loop;
-  Put_Line(" done");
+   Put_Line("Hello, World!");
+   for I in 1..100 loop
+      Put(Integer'Image(I) & " ");
+   end loop;
+   New_Line;
 end Hello_World;
 
 Assembly:
+
 .data
-msg:  .ascii "Hello, World!\n"
+    hello:  .ascii "Hello, World!\n"
 
 .text
-.global _start
+    .global _start
+
 _start:
-    movl    $4, %eax
-    movl    $1, %ebx
-    movl    $msg, %ecx
-    movl    $14, %edx
-    int     $0x80
+    mov $4, %eax
+    mov $1, %ebx
+    mov $hello, %ecx
+    mov $14, %edx
+    int $0x80
 
-    movl    $1, %eax
-    movl    $1, %ebx
-    movl    $0, %ecx
-    int     $0x80
+    mov $1, %eax
+    mov $1, %ebx
+    mov $0, %ecx
+    int $0x80
 
-start:
-    movl    $1, %eax
-    movl    $1, %ebx
-    movl    $1, %ecx
-loop:
-    cmpl    $100, %ecx
-    je      done
-    movl    %ecx, %edx
-    movl    $4, %eax
-    int     $0x80
-    incl    %ecx
-    jmp     loop
-done:
-    movl    $1, %eax
-    movl    $0, %ebx
-    int     $0x80
+    mov $1, %eax
+    mov $0, %ebx
+    int $0x80
 
 BASIC:
+
 10 PRINT "Hello, World!"
 20 FOR I = 1 TO 100
-30 PRINT I; ",";
+30 PRINT I;
 40 NEXT I
-50 PRINT " done"
 
 C:
+
 #include <stdio.h>
 
-int main() {
-  printf("Hello, World!\n");
-  for (int i = 1; i <= 100; i++) {
-    printf("%d,", i);
-  }
-  printf(" done\n");
-  return 0;
+int main(void) {
+    printf("Hello, World!\n");
+    for (int i = 1; i <= 100; i++) {
+        printf("%d ", i);
+    }
+    printf("\n");
+    return 0;
 }
 
 Erlang:
+
 -module(hello_world).
 -export([main/0]).
 
 main() ->
-  io:fwrite("Hello, World!\n"),
-  loop(1).
-
-loop(I) when I =< 100 ->
-  io:fwrite(I ++ ","),
-  loop(I+1);
-loop(_) ->
-  io:fwrite(" done\n").
+    io:fwrite("Hello, World!\n"),
+  lists:foreach(fun(I) -> io:fwrite("~w ",[I]) end,
+ lists:seq(1,100)),
+    io:fwrite("\n").
 
 Go:
+
 package main
 
 import "fmt"
 
 func main() {
-  fmt.Println("Hello, World!")
-  for i := 1; i <= 100; i++ {
-    fmt.Printf("%d,", i)
-  }
-  fmt.Println(" done")
+    fmt.Println("Hello, World!")
+    for i := 1; i <= 100; i++ {
+        fmt.Printf("%d ", i)
+    }
+    fmt.Println()
 }
 
 Java:
+
 public class HelloWorld {
-  public static void main(String[] args) {
-    System.out.println("Hello, World!");
-    for (int i = 1; i <= 100; i++) {
-      System.out.print(i + ",");
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        for (int i = 1; i <= 100; i++) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
     }
-    System.out.println(" done");
-  }
 }
 
 Javascript:
+
 console.log("Hello, World!");
 for (let i = 1; i <= 100; i++) {
-  console.log(i + ",");
+    console.log(i + " ");
 }
-console.log(" done");
 
 Python:
+
 print("Hello, World!")
 for i in range(1, 101):
-    print(i, end=",")
-print(" done")
+    print(i, end=" ")
+print()
 
 Ruby:
+
 puts "Hello, World!"
-(1..100).each do |i|
-  print "#{i},"
+1.upto(100) do |i|
+    print "#{i} "
 end
-puts " done"
+puts
 
 Perl:
+
 print "Hello, World!\n";
 for (my $i = 1; $i <= 100; $i++) {
-  print "$i,";
+    print "$i ";
 }
-print " done\n";
+print "\n";
 
 Postscript:
-/Hello_World {
-  (Hello, World!) print
-  0 1 99 {
-    dup
-    (,) print
-    1 add
-  } for
-  ( done) print
-} def
-Hello_World
+
+%!
+/Times-Roman findfont
+20 scalefont
+setfont
+
+50 50 moveto
+(Hello, World!) show
+
+/i 1 def
+50 70 moveto
+{i 1 add /i i def
+i 100 le {(i) show
+i 10 mul 70 add moveto}
+{exit} ifelse
+} loop
+showpage
 
 
      finish = stop
-Stats: 1677512018 tot/prompt/compl tokens = 986/49/937
+Stats: 1677796615 tot/prompt/compl tokens = 873/49/824
 

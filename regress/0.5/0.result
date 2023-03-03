@@ -1,39 +1,40 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 17.50343400s
+Requesting... model/temp = text-davinci-003/0.5 .. real 11.71747000s
 Response(s):
 Choice# 0:
 
-Alcohol - 90/90/80/90
-Cigarettes - 90/90/90/90
-Heroin - 95/90/90/95
-Fentanyl - 95/95/90/95
-Methamphetamine - 90/90/90/95
-Cocaine - 90/90/90/90
-LSD - 65/60/75/70
-OxyContin - 85/90/90/90
-Ecstasy - 75/75/85/85
-Ketamine - 70/70/80/85
-Marijuana - 65/60/75/70
-Adderall - 80/70/80/90
-Valium - 80/75/85/90
-Xanax - 85/80/85/90
-PCP - 90/85/90/95
-GHB - 85/80/85/90
-Codeine - 80/75/85/90
-Tramadol - 75/70/80/85
-Morphine - 85/80/85/90
-Klonopin - 85/80/85/90
-Ambien - 80/75/85/90
-Vicodin - 85/80/85/90
-Ativan - 85/80/85/90
-Hydrocodone - 85/80/85/90
-Ritalin - 80/70/80/90
-Percocet - 85/80/85/90
-Anabolic Steroids - 85/75/85/90
-Suboxone - 80/75/85/90
-Subutex - 80/75/85/90
+1. Methamphetamine: 95/25/20/50
+2. Fentanyl: 90/30/20/40
+3. Alcohol: 85/25/20/40
+4. OxyContin: 80/25/20/35
+5. Cocaine: 75/20/15/40
+6. Heroin: 70/20/15/35
+7. MDMA (Ecstasy): 65/15/10/40
+8. Tobacco: 60/15/10/35
+9. GHB (Gamma-Hydroxybutyric Acid): 55/10/10/35
+10. Ketamine: 50/10/10/30
+11. PCP (Phencyclidine): 45/10/10/25
+12. LSD (Lysergic Acid Diethylamide): 40/5/5/30
+13. Cannabis: 35/5/5/25
+14. Adderall: 30/5/5/20
+15. Xanax: 25/5/5/15
+16. Amphetamine: 20/5/5/10
+17. Hydrocodone: 15/5/5/5
+18. Valium: 10/5/5/0
+19. Cough Syrup: 5/0/0/5
+20. Mushrooms: 4/0/0/4
+21. Mescaline: 3/0/0/3
+22. 2C-B: 2/0/0/2
+23. Kratom: 1/0/0/1
+24. Salvia: 0/0/0/0
+25. Poppers: 0/0/0/0
+26. Khat: 0/0/0/0
+27. Dextromethorphan: 0/0/0/0
+28. Mephedrone: 0/0/0/0
+29. Synthetic Cannabinoids: 0/0/0/0
+30. Synthetic Cathinones: 0/0/0/0
 
 
      finish = stop
-Stats: 1677512153 tot/prompt/compl tokens = 897/555/342
+Stats: 1677796660 tot/prompt/compl tokens = 987/555/432
 

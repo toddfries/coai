@@ -1,62 +1,69 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 27.53228600s
+Requesting... model/temp = text-davinci-003/0.5 .. real 17.27496300s
 Response(s):
 Choice# 0:
 
- TRUT: 1. Autonomous Robots - I, Robot (2004) - Autonomous
- robots will have a positive impact by taking on mundane
- tasks, freeing up humans to focus on more important matters.
- 2. Artificial Intelligence - Ex Machina (2014) - Artificial
- Intelligence will have a positive impact by providing a
- powerful tool to solve complex problems and help in decision
- making.
- 3. Interplanetary Travel - The Martian (2015) -
- Interplanetary travel will have a positive impact by allowing
- humans to explore and inhabit other planets, thus expanding
- humanity's reach and knowledge.
- 4. Immortality - In Time (2011) - Immortality will have a
- positive impact by allowing humans to live longer, healthier
- lives and providing more opportunities for scientific and
- technological advancement.
- 5. Augmented Reality - Ready Player One (2018) - Augmented
- Reality will have a positive impact by providing an immersive
- virtual experience and allowing for more efficient
- communication and collaboration.
- 6. Space Colonization - Avatar (2009) - Space colonization
- will have a positive impact by allowing humans to inhabit and
- explore new worlds and expand humanity's reach.
- 7. Time Travel - Back to the Future (1985) - Time travel will
- have a positive impact by allowing humans to explore the past
- and gain a better understanding of the present.
- 8. Teleportation - Star Trek (2009) - Teleportation will have
- a positive impact by allowing humans to travel faster and
- more efficiently, reducing the need for long-distance
- transportation.
- 9. Cloning - The Island (2005) - Cloning will have a positive
- impact by allowing humans to replicate and replace lost or
- damaged organs, thus extending life expectancy.
- 10. Invisibility - Hollow Man (2000) - Invisibility will have
- a positive impact by allowing humans to explore new places
- and gain a better understanding of the world around them.
- 11. Superhuman Strength - Chronicle (2012) - Superhuman
- strength will have a positive impact by allowing humans to do
- more and accomplish more in a shorter amount of time.
- 12. Supercomputer - The Matrix (1999) - Supercomputers will
- have a positive impact by providing powerful tools to solve
- complex problems and help in decision making.
- 13. Cryogenics - Altered States (1980) - Cryogenics will have
- a positive impact by allowing humans to extend their lives
- and explore new possibilities.
- 14. Weather Control - The Day After Tomorrow (2004) - Weather
- control will have a positive impact by allowing humans to
- better manage and control the environment, thus reducing the
- effects of natural disasters.
- 15. Genetic Engineering - Gattaca (1997) - Genetic
- engineering will have a positive impact by allowing humans to
- customize and improve their genetics, thus providing a
- healthier and more productive life.
+TRUT: 
+ 1. Autonomous Robotics: I, Robot (2004). Autonomous robotics
+ will have a positive impact by increasing efficiency and
+ accuracy in many areas of work and life, such as
+ manufacturing, healthcare, and transportation.
+ 2. Artificial Intelligence: Ex Machina (2014). Artificial
+ intelligence will have a positive impact by providing more
+ accurate decision-making and predictive analytics, as well as
+ reducing the need for human labor.
+ 3. Augmented Reality: Ready Player One (2018). Augmented
+ reality will have a positive impact by providing immersive
+ experiences that can be used for entertainment, education,
+ and communication.
+ 4. Space Exploration: The Martian (2015). Space exploration
+ will have a positive impact by providing new sources of
+ energy and resources, as well as advancing our knowledge of
+ the universe.
+ 5. Teleportation: Star Trek (2009). Teleportation will have a
+ positive impact by providing fast and efficient
+ transportation over long distances, reducing the need for
+ traditional forms of transportation.
+ 6. Time Travel: Back to the Future (1985). Time travel will
+ have a positive impact by allowing us to explore the past and
+ future, and gain a better understanding of our universe.
+ 7. Genetic Engineering: Gattaca (1997). Genetic engineering
+ will have a positive impact by allowing us to create
+ healthier, stronger, and longer-living humans.
+ 8. Nanotechnology: The Core (2003). Nanotechnology will have
+ a positive impact by allowing us to manipulate matter on an
+ atomic scale, creating new materials and devices with
+ unprecedented capabilities.
+ 9. Virtual Reality: The Matrix (1999). Virtual reality will
+ have a positive impact by providing an immersive, interactive
+ experience that can be used for entertainment, education, and
+ communication.
+ 10. Human-Robot Interaction: Robot & Frank (2012).
+ Human-robot interaction will have a positive impact by
+ providing more efficient and accurate assistance in many
+ areas of work and life.
+ 11. Humanoid Robots: A.I. Artificial Intelligence (2001).
+ Humanoid robots will have a positive impact by providing more
+ efficient and accurate assistance in many areas of work and
+ life.
+ 12. Cybernetics: Ghost in the Shell (1995). Cybernetics will
+ have a positive impact by allowing us to create new forms of
+ communication and control, as well as providing enhanced
+ physical and mental capabilities.
+ 13. Interplanetary Colonization: Avatar (2009).
+ Interplanetary colonization will have a positive impact by
+ allowing us to explore and inhabit new worlds, and expand our
+ knowledge and understanding of the universe.
+ 14. Mind Uploading: Transcendence (2014). Mind uploading will
+ have a positive impact by allowing us to explore and inhabit
+ new worlds, and expand our knowledge and understanding of the
+ universe.
+ 15. Fusion Power: The 5th Element (1997). Fusion power will
+ have a positive impact by providing a clean and renewable
+ source of energy that can be used to power our homes and
+ cities.
 
 
      finish = stop
-Stats: 1677511887 tot/prompt/compl tokens = 1003/431/572
+Stats: 1677796565 tot/prompt/compl tokens = 1024/431/593
 

@@ -1,168 +1,179 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 88.90141100s
+Requesting... model/temp = text-davinci-003/0.1 .. real 55.78077900s
 Response(s):
 Choice# 0:
 
- 1. “The only way to do great work is to love what you do.” –
+ 1. “The only way to do great work is to love what you do.” -
  Steve Jobs
  2. “Success is not final, failure is not fatal: it is the
- courage to continue that counts.” – Winston Churchill
- 3. “The best way to predict the future is to create it.” –
- Abraham Lincoln
- 4. “If you want to achieve greatness, stop asking for
- permission.” – Anonymous
+ courage to continue that counts.” - Winston Churchill
+ 3. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 4. “The future belongs to those who believe in the beauty of
+ their dreams.” - Eleanor Roosevelt
  5. “The only limit to our realization of tomorrow will be our
- doubts of today.” – Franklin D. Roosevelt
- 6. “The only person you are destined to become is the person
- you decide to be.” – Ralph Waldo Emerson
- 7. “If you believe it will work out, you’ll see
- opportunities. If you believe it won’t, you will see
- obstacles.” – Wayne Dyer
- 8. “If you want to lift yourself up, lift up someone else.” –
+ doubts of today.” - Franklin D. Roosevelt
+6. “If you can dream it, you can do it.” - Walt Disney
+ 7. “If you want to lift yourself up, lift up someone else.” -
  Booker T. Washington
- 9. “The future belongs to those who believe in the beauty of
- their dreams.” – Eleanor Roosevelt
- 10. “The only way to do great work is to love what you do.” –
+ 8. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 11. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 12. “The only thing standing between you and your goal is the
+ 9. “The best way to predict the future is to create it.” -
+ Abraham Lincoln
+ 10. “The only thing standing between you and your goal is the
  bullshit story you keep telling yourself as to why you can’t
- achieve it.” – Jordan Belfort
- 13. “The only way to make sense out of change is to plunge
- into it, move with it, and join the dance.” – Alan Watts
- 14. “The only thing that stands between you and your dream is
- the will to try and the belief that it is actually possible.”
- – Joel Brown
- 15. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ achieve it.” - Jordan Belfort
+ 11. “The only person you are destined to become is the person
+ you decide to be.” - Ralph Waldo Emerson
+ 12. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 16. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
+ 13. “The only thing that stands between you and your dream is
+ the will to try and the belief that it is actually possible.”
+ - Joel Brown
+ 14. “The only way to achieve the impossible is to believe it
+ is possible.” - Charles Kingsleigh
+ 15. “The only way to make sense out of change is to plunge
+ into it, move with it, and join the dance.” - Alan Watts
+ 16. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 17. “The only way to achieve true success is to express
+ yourself completely in service to others.” - Albert
  Schweitzer
- 17. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 18. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 18. “The only way to do great work is to love what you do.” -
  Steve Jobs
  19. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 20. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 21. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ is possible.” - Charles Kingsleigh
+ 20. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 22. “The only way to make a dream come true is to wake up.” –
+ 21. “The only way to make a dream come true is to wake up.” -
  Paul Valery
- 23. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 24. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 25. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 22. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 26. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 27. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 28. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 23. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 29. “The only way to make a dream come true is to wake up.” –
- Paul Valery
- 30. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 31. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 32. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 24. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 33. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 34. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 35. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 25. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 36. “The only way to make a dream come true is to wake up.” –
- Paul Valery
- 37. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 38. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 39. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 26. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 40. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 41. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 42. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 27. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 43. “The only way to make a dream come true is to wake up.” –
- Paul Valery
- 44. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 45. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 46. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 28. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 47. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 48. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 49. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 29. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 50. “The only way to make a dream come true is to wake up.” –
- Paul Valery
- 51. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 52. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 53. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 30. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 54. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 55. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 56. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 31. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 57. “The only way to make a dream come true is to wake up.” –
- Paul Valery
- 58. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 59. “The only way to get what you really want is to let go of
- what you don’t.” – Deepak Chopra
- 60. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 32. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 61. “The only way to achieve the impossible is to believe it
- is possible.” – Charles Kingsleigh
- 62. “The only way to make your dreams come true is to wake
- up.” – Paul Valery
- 63. “The only way to do great work is to love what you do. If
- you haven’t found it yet, keep looking. Don’t settle.” –
+ 33. “The only way to do great work is to love what you do.” -
  Steve Jobs
- 64. “The only way to make a dream come true is to wake up.” –
- Paul Valery
- 65. “The only way to achieve true success is to express
- yourself completely in service to others.” – Albert
- Schweitzer
- 66. “The only way to get what you really want is to let go of
- what you don’t.
+ 34. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 35. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 36. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 37. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 38. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 39. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 40. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 41. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 42. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 43. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 44. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 45. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 46. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 47. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 48. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 49. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 50. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 51. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 52. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 53. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 54. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 55. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 56. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 57. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 58. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 59. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 60. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 61. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 62. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 63. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 64. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 65. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 66. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 67. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 68. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 69. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 70. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 71. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 72. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 73. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 74. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 75. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 76. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 77. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 78. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 79. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 80. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 81. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 82. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 83. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+84. “The only way to
 
 
      finish = length
-Stats: 1677516598 tot/prompt/compl tokens = 2060/13/2047
+Stats: 1677796490 tot/prompt/compl tokens = 2061/13/2048
 

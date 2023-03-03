@@ -1,27 +1,29 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 9.50643600s
+Requesting... model/temp = text-davinci-003/0.1 .. real 6.04793500s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of groupthink that can lead to people making decisions
- without considering all the facts. It can also lead to people
- making decisions based on emotion rather than logic.
+ of ideological extremism that can lead to dangerous and
+ destructive behavior. It is a belief system that is based on
+ the idea that certain groups of people are inherently
+ superior to others and should be given special privileges and
+ rights.
 
  TRUT: The 'woke mind virus' is a problem because it is a form
- of groupthink that can lead to people making decisions
- without considering all the facts. It can also lead to people
- making decisions based on emotion rather than logic. This can
- lead to people making decisions that are not in their best
- interests or the best interests of society. To combat the
- 'woke mind virus', it is important to encourage critical
- thinking and to challenge people to think for themselves and
- to consider all the facts before making a decision.
- Additionally, it is important to be aware of the potential
- for groupthink and to be open to different perspectives and
- ideas.
+ of ideological extremism that can lead to dangerous and
+ destructive behavior. It is a belief system that is based on
+ the idea that certain groups of people are inherently
+ superior to others and should be given special privileges and
+ rights. This can lead to discrimination, prejudice, and
+ violence against those who do not share the same beliefs. To
+ combat this, it is important to promote education and
+ understanding of different cultures and beliefs, as well as
+ to promote acceptance and tolerance of diversity.
+ Additionally, it is important to challenge and confront any
+ forms of discrimination or prejudice that may arise.
 
 
      finish = stop
-Stats: 1677512107 tot/prompt/compl tokens = 595/414/181
+Stats: 1677796642 tot/prompt/compl tokens = 605/414/191
 

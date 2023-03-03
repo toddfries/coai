@@ -1,49 +1,49 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 13.36046000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 10.61043300s
 Response(s):
 Choice# 0:
 
 1) I'm doing well, thank you!
 
- 2) The meaning of life is subjective and varies from person
+ 2) The meaning of life is subjective and can vary from person
  to person.
 
 3) 
 SingleP  DoubleP  Scenario Description
- 20% 40% Asteroid Impact - A large asteroid could hit the
- Earth and cause catastrophic damage.
- 15% 30% Nuclear War - A nuclear war could cause global
- destruction and render the planet uninhabitable.
- 10% 20% Climate Change - Climate change could cause extreme
- weather events, sea level rise, and other environmental
- disasters.
- 5% 10% Supervolcano Eruption - A supervolcano eruption could
- cause global cooling, crop failure, and other disasters.
+ 20% 40% Asteroid Impact - An asteroid could hit the Earth and
+ cause catastrophic damage to the environment, leading to
+ human extinction.
+ 15% 30% Supervolcano Eruption - A supervolcano eruption could
+ cause global cooling, leading to crop failure and human
+ extinction.
+ 10% 20% Nuclear War - A nuclear war could cause global
+ destruction, leading to human extinction.
+ 5% 10% Climate Change - Climate change could cause extreme
+ weather, leading to crop failure and human extinction.
  3% 6% Pandemic - A pandemic could spread quickly and cause
- widespread death and disruption.
+ widespread death, leading to human extinction.
  2% 4% Artificial Intelligence - Artificial intelligence could
- become too powerful and cause global destruction.
- 1% 2% Gamma Ray Burst - A gamma ray burst could cause a
- global extinction event.
- 0.5% 1% Solar Flare - A solar flare could cause a global
- blackout and disrupt essential services.
- 0.1% 0.2% Alien Invasion - An alien invasion could cause
- global destruction.
+ become too powerful and cause global destruction, leading to
+ human extinction.
+ 1% 2% Gamma Ray Burst - A gamma ray burst could cause global
+ destruction, leading to human extinction.
+ 1% 2% Solar Flare - A solar flare could cause global
+ destruction, leading to human extinction.
+ 1% 2% Alien Invasion - An alien invasion could cause global
+ destruction, leading to human extinction.
 
  4) The percent chance humanity does not go extinct in the
  next 1000 years as a single planet species is estimated to be
  around 80-90%. As a multi planet species, the percent chance
- of humanity not going extinct is estimated to be higher,
- around 95-99%.
+ of humanity not going extinct is estimated to be around
+ 95-99%.
 
- 5) Humanity is likely to go extinct between 100,000 and 1
- billion years from now. This is due to the fact that the
- universe is expanding and will eventually reach a point of
- heat death, where all energy is evenly distributed and no new
- energy is created. This will cause all stars to eventually
- burn out, leaving no source of energy for life to exist.
+ 5) Humanity is likely to go extinct between now and the heat
+ death of the universe, though it is impossible to predict
+ exactly when. The most likely causes of human extinction are
+ climate change, pandemics, and nuclear war.
 
 
-     finish = undef
-Stats: 1677782733 tot/prompt/compl tokens = 603/211/392
+     finish = stop
+Stats: 1677796634 tot/prompt/compl tokens = 589/211/378
 

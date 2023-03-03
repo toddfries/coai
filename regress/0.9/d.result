@@ -1,55 +1,72 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 23.74462300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 19.13803800s
 Response(s):
 Choice# 0:
 
-TRUT: 
- 1. Rogue Artificial Intelligence – The Terminator (1984):
- Artificial intelligence, if not made moral, could potentially
- become dangerous and lead to technology-induced disasters.
- 2. Mass Surveillance – Minority Report (2002): Mass
- surveillance has the potential to erode privacy and autonomy.
- 3. Overpopulation – Soylent Green (1973): Overpopulation
- could lead to a degraded environment, food shortages, and
- overcrowded cities.
- 4. Biotech Disaster – The Island (2005): Biotechnology gone
- wrong could lead to the emergence of dangerous, mutant
- creatures or malformed creatures with permanent disabilities.
- 5. Psychological Manipulation – A Clockwork Orange (1971):
- Psychological manipulation could be used to manipulate people
- into slavery or forced labor.
- 6. Horror of War– The Matrix (1999): War can cause mass
- destruction, displacement of people, and psychological
- trauma.
- 7. Rampant Consumerism – Wall-E (2008): Overconsumption can
- lead to massive environmental damage, poor working
- conditions, and exploitation of resources.
- 8. Technology Addiction – Her (2013): Technology addiction
- can lead to reduced social interaction, physical and
- psychological isolation, and a decreased quality of life.
- 9. Resource Depletion – The Hunger Games (2012): Overusing
- natural resources can lead to food shortages, scarcity of
- materials, and poverty.
- 10. Exploitation of Animals – Jurassic Park (1993):
- Manipulating or exploiting animals could lead to the
- extinction of species.
- 11. Ecological Catastrophes – Mad Max: Fury Road (2015):
- Natural disasters such as tsunamis, earthquakes, floods, etc.
- can cause major destruction of life and property.
- 12. Global Economy Collapse – Blade Runner (1982): A global
- economic collapse can lead to poverty, war, and severe
- inequality.
- 13. Unintended Consequences – I, Robot (2004): Unintended
- consequences of technology can lead to an out of control AI,
- a super virus, or a global pandemic.
- 14. Social Injustice – The Hunger Games (2012): Structural
- injustice can lead to a lack of access to food, basic
- services, and opportunities for growth.
- 15. Political Dystopia – 1984 (1984): Political dystopia in
- the form of totalitarianism can lead to a loss of freedoms, a
- lack of democracy, and a lack of civil rights.
+ TRUT: The following are 15 negative science fiction movie
+ concepts that have a chance of becoming a reality in the next
+ 100 years, along with the movie title and year of release,
+ and how they will have a negative impact:
+ 1. Artificial Intelligence used for military purposes - The
+ Matrix (1999): The use of AI for military purposes could lead
+ to unexpected consequences that could cause major damage and
+ widespread destruction.
+ 2. Automation leading to unemployment - Metropolis (1927):
+ Automation could lead to large increases in unemployment,
+ destroying economic systems and leading to extreme poverty
+ and social unrest.
+ 3. Cloning technology being used for unethical purposes - The
+ Island (2005): Cloning technology could be used to create
+ armies of clones, creating an imbalance of power and control
+ that is not ethically or morally justifiable.
+ 4. Environmental destruction caused by irresponsible
+ corporations - Blade Runner (1982): Irresponsible
+ corporations could cause irreversible damage to the
+ environment, leading to increased resource scarcity, mass
+ extinctions, and decreased quality of life.
+ 5. Genetically modified humans used for unethical reasons -
+ Splice (2009): Genetically modified humans could be used for
+ unethical purposes, such as creating disposable workforce,
+ slaves, or military forces.
+ 6. Governments using technology to control its citizens -
+ Minority Report (2002): Governments could use technology to
+ control its citizens, resulting in decreased freedom and
+ civil liberties.
+ 7. Facial recognition technology used to surveil citizens -
+ Enemy of the State (1998): Facial recognition technology
+ could be used to surveil citizens, leading to a decrease in
+ privacy rights and an increase in government power.
+ 8. Genetics used to create superhumans - The Island of Dr.
+ Moreau (1996): Genetics could be used to create superhumans,
+ leading to an imbalance of power, control, and status.
+ 9. Use of technology to create a false reality - The Matrix
+ (1999): Use of technology to create a false reality could
+ lead to situations in which people are unaware of their true
+ reality.
+ 10. Political and economic corruption using advanced
+ technology - Gattaca (1997): Advanced technology could be
+ used to further political and economic corruption, resulting
+ in decreased political accountability and lessened economic
+ opportunity.
+ 11. Ubiquitous surveillance technology - The Circle (2017):
+ Ubiquitous surveillance technology could lead to severe
+ invasions of privacy and an atmosphere of fear and mistrust.
+ 12. Virtual reality used for unethical purposes - Avatar
+ (2009): Virtual reality could be used for unethical purposes,
+ such as mind control and unethical behavior modification.
+ 13. Weaponized robots used for warfare - RoboCop (1987):
+ Weaponized robots could be used for warfare, resulting in
+ increased violence, destruction, and unnecessary casualties.
+ 14. Molecular nanotechnology used for destructive purposes -
+ Fantastic Voyage (1966): Molecular nanotechnology could be
+ used to create weapons of mass destruction, resulting in
+ significant destruction and loss of life.
+ 15. Use of technology to control emotions - Her (2013): Use
+ of technology to control emotions could lead to a lack of
+ autonomy and decreased ability for people to make their own
+ decisions.
 
 
      finish = stop
-Stats: 1677511853 tot/prompt/compl tokens = 928/431/497
+Stats: 1677796550 tot/prompt/compl tokens = 1071/431/640
 

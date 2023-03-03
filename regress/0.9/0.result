@@ -1,40 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 18.31045300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 5.17991300s
 Response(s):
 Choice# 0:
 
-Alcohol: 67/20/13/50 
-Cigarettes: 75/30/20/50
-Methamphetamine: 85/50/30/60
-Fentanyl: 95/70/20/80
-OxyContin: 85/60/20/60
-LSD: 37/5/5/20
-Ketamine: 75/30/20/50
-Marijuana: 50/15/15/25
-Heroin: 95/70/30/80
-Cocaine: 70/30/20/60
-Ecstasy: 65/20/20/50
-Amphetamines: 75/30/25/55
-Adderall: 75/30/20/50
-Valium: 70/25/15/50
-Xanax: 70/25/20/50
-Barbiturates: 70/30/20/50
-Tobacco: 75/30/20/50
-Codeine: 65/20/15/50
-Tramadol: 70/20/15/50
-Suboxone: 75/30/20/50
-Hydrocodone: 75/30/20/50
-Morphine: 80/40/20/60
-Vicodin: 75/30/20/50
-Ambien: 65/20/15/50
-GHB: 70/30/20/50
-Benzos: 70/30/20/50
-PCP: 75/30/25/60
-MDMA: 70/20/20/50
-Klonopin: 65/20/20/50
-Ativan: 65/20/15/50
+Alcohol - 92/18/24/50
+Cigarettes - 90/15/20/55
+Methamphetamine - 88/17/20/51
+Fentanyl - 87/19/21/47
+OxyContin - 84/18/19/47
+LSD - 60/9/17/34
+Heroin - 82/18/23/41
+Cocaine - 74/15/19/40
+Marijuana - 53/9/14/30
+Morphine - 73/14/19/40
+Ketamine - 68/15/17/36
+Xanax - 51/12/16/23
+Ecstasy - 65/12/17/36
+Adderall - 56/11/17/28
+Tramadol - 50/11/15/24
 
 
      finish = stop
-Stats: 1677512154 tot/prompt/compl tokens = 908/555/353
+Stats: 1677796656 tot/prompt/compl tokens = 730/555/175
 

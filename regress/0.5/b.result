@@ -1,103 +1,62 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 46.77909400s
+Requesting... model/temp = text-davinci-003/0.5 .. real 15.85877500s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Artificial Intelligence: The Terminator (1984) -
- Artificial Intelligence has become increasingly prevalent in
- our daily lives and has been used to automate processes,
- reduce human labor, and create powerful weapons systems. The
- negative impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
-
- 2. Autonomous Vehicles: I, Robot (2004) - Autonomous vehicles
- are now a reality and are being used in many areas, including
- transportation, logistics, and even military operations. The
- negative impact of this technology is that it can lead to job
- losses, reduce safety, and increase the risk of accidents.
-
- 3. Virtual Reality: The Matrix (1999) - Virtual reality is
- now a reality and is used in many areas, including gaming,
- entertainment, and even military training. The negative
- impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
-
- 4. Holograms: Star Wars (1977) - Holograms are now a reality
- and are used in many areas, including entertainment,
- advertising, and even military operations. The negative
- impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
-
- 5. Augmented Reality: Iron Man (2008) - Augmented reality is
- now a reality and is used in many areas, including gaming,
- entertainment, and even military operations. The negative
- impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
-
- 6. Robotics: Wall-E (2008) - Robotics is now a reality and is
- used in many areas, including manufacturing, logistics, and
- even military operations. The negative impact of this
- technology is that it can lead to job losses, reduce safety,
- and increase the risk of accidents.
-
- 7. Biotechnology: Gattaca (1997) - Biotechnology is now a
- reality and is used in many areas, including medicine,
- agriculture, and even military operations. The negative
- impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
-
- 8. Teleportation: Star Trek (1966) - Teleportation is now a
- reality and is used in many areas, including transportation,
- logistics, and even military operations. The negative impact
- of this technology is that it can lead to job losses, reduce
- safety, and increase the risk of accidents.
-
- 9. Cybernetics: Robocop (1987) - Cybernetics is now a reality
- and is used in many areas, including medicine, entertainment,
- and even military operations. The negative impact of this
- technology is that it can be used to manipulate people,
- create biases, and threaten our privacy.
-
- 10. Space Exploration: 2001: A Space Odyssey (1968) - Space
- exploration is now a reality and is used in many areas,
- including research, entertainment, and even military
- operations. The negative impact of this technology is that it
- can lead to job losses, reduce safety, and increase the risk
- of accidents.
-
- 11. Nanotechnology: The Core (2003) - Nanotechnology is now a
- reality and is used in many areas, including medicine,
- manufacturing, and even military operations. The negative
- impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
-
- 12. Cloning: The Island (2005) - Cloning is now a reality and
- is used in many areas, including medicine, agriculture, and
- even military operations. The negative impact of this
- technology is that it can be used to manipulate people,
- create biases, and threaten our privacy.
-
- 13. Genetic Engineering: Jurassic Park (1993) - Genetic
- engineering is now a reality and is used in many areas,
- including medicine, agriculture, and even military
- operations. The negative impact of this technology is that it
- can be used to manipulate people, create biases, and threaten
- our privacy.
-
- 14. Time Travel: Back to the Future (1985) - Time travel is
- now a reality and is used in many areas, including
- entertainment, research, and even military operations. The
- negative impact of this technology is that it can lead to job
- losses, reduce safety, and increase the risk of accidents.
-
- 15. Weather Control: The Day After Tomorrow (2004) - Weather
- control is now a reality and is used in many areas, including
- agriculture, entertainment, and even military operations. The
- negative impact of this technology is that it can be used to
- manipulate people, create biases, and threaten our privacy.
+ 1. The Terminator (1984) - Artificial Intelligence has been
+ created and used in many applications, including military and
+ security, leading to concerns about the potential misuse of
+ AI.
+ 2. Blade Runner (1982) - Genetic engineering has been used to
+ create a variety of organisms, including plants, animals, and
+ bacteria. This has raised ethical and environmental concerns.
+ 3. Total Recall (1990) - Virtual Reality has become a
+ reality, with many applications in entertainment and gaming.
+ However, it has also been linked to addiction and other
+ psychological issues.
+ 4. The Matrix (1999) - Augmented Reality has been developed,
+ allowing users to overlay digital information onto the
+ physical world. This has raised concerns about privacy and
+ data security.
+ 5. Minority Report (2002) - Predictive analytics have been
+ used to identify potential threats and opportunities in a
+ variety of contexts. This has led to concerns about the
+ potential misuse of data.
+ 6. War Games (1983) - Cybersecurity has become increasingly
+ important, as hackers have become more sophisticated and
+ cyber-attacks more common.
+ 7. Jurassic Park (1993) - Cloning has been used to create a
+ variety of organisms, including plants, animals, and
+ bacteria. This has raised ethical and environmental concerns.
+ 8. The Fly (1986) - Human-machine interfaces have been
+ developed, allowing people to control machines with their
+ thoughts. This has raised concerns about privacy and data
+ security.
+ 9. The Island (2005) - Stem cell research has been used to
+ create a variety of organisms, including plants, animals, and
+ bacteria. This has raised ethical and environmental concerns.
+ 10. Avatar (2009) - Robotics technology has been developed,
+ allowing for the creation of autonomous robots. This has
+ raised concerns about the potential misuse of robots.
+ 11. I, Robot (2004) - Autonomous vehicles have been
+ developed, allowing for the development of self-driving cars
+ and other vehicles. This has raised safety concerns.
+ 12. Wall-E (2008) - 3D printing has been used to create a
+ variety of objects, including parts for cars and medical
+ devices. This has raised concerns about the potential misuse
+ of 3D printing.
+ 13. Gattaca (1997) - Genetic testing has been used to
+ identify genetic markers and predict disease risk. This has
+ raised ethical and privacy concerns.
+ 14. The Terminator (1984) - Cyber warfare has become
+ increasingly common, as countries have used cyber-attacks to
+ target each other’s networks.
+ 15. The Island (2005) - Cloning has been used to create a
+ variety of organisms, including plants, animals, and
+ bacteria. This has raised ethical and environmental concerns.
 
 
      finish = stop
-Stats: 1677511918 tot/prompt/compl tokens = 1354/422/932
+Stats: 1677796577 tot/prompt/compl tokens = 968/422/546
 

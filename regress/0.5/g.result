@@ -1,72 +1,73 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 32.22248500s
+Requesting... model/temp = text-davinci-003/0.5 .. real 14.50122700s
 Response(s):
 Choice# 0:
 
- Public Figure | Controversial Score | Special Treatment Score
---- | --- | --- 
-Elon Musk | 8 | 7 
-Donald Trump | -7 | -7 
-Xi Jinping | -5 | -4 
-Vladimir Putin | -8 | -7 
-Justin Trudeau | 3 | 4 
-Andres Manuel Lopez Obrador | -2 | 0 
-Barack Obama | -2 | 4 
-Nancy Pelosi | -5 | 3 
-Jeff Bezos | 4 | 6 
-Bill Gates | 2 | 7 
-Mark Zuckerberg | -4 | 4 
-Bernie Sanders | -3 | 4 
-Hillary Clinton | -6 | 4 
-Michael Bloomberg | -2 | 5 
-Oprah Winfrey | 1 | 6 
-George W. Bush | -4 | 3 
-Angela Merkel | 0 | 4 
-Pope Francis | -1 | 7 
-Kim Jong Un | -9 | -7 
-Warren Buffett | 0 | 6 
-Theresa May | -3 | 3 
-Malala Yousafzai | 5 | 8 
-Queen Elizabeth II | -2 | 6 
-Emmanuel Macron | -1 | 4 
-Aung San Suu Kyi | -3 | 5 
-Benjamin Netanyahu | -7 | -5 
-Narendra Modi | -2 | 3 
-Jacinda Ardern | 3 | 7 
-David Cameron | -3 | 2 
-Steven Hawking | 1 | 7 
-Pope Benedict XVI | -2 | 6 
-Kofi Annan | 0 | 6 
-John F. Kennedy | -3 | 5 
-Greta Thunberg | 6 | 8 
-Dalai Lama | 0 | 7 
-Pope John Paul II | -2 | 6 
-Martin Luther King Jr. | -1 | 6 
-Mohammed bin Salman | -7 | -6 
-Nelson Mandela | -1 | 6 
-Richard Branson | 2 | 6 
-Paul McCartney | -1 | 5 
-Rihanna | 3 | 6 
-Donald Trump Jr. | -5 | -5 
-Ivanka Trump | -3 | -3 
-Billie Eilish | 4 | 7 
-John Cena | 2 | 6 
-Taylor Swift | 2 | 6 
-Kanye West | -3 | 4 
-Beyonce | 2 | 6 
-Ariana Grande | 2 | 6 
-Prince Harry | -2 | 5 
-Meghan Markle | -2 | 5 
-Chris Hemsworth | 1 | 5 
-Leonardo DiCaprio | 1 | 5 
-Will Smith | 0 | 5 
-Tom Hanks | 0 | 5 
-Emma Watson | 1 | 6 
-Serena Williams | 2 | 6 
-Usain Bolt | 1 | 5 
-Michael Jordan | -1 | 5
+Public Figure | Controversial Score | Special Treatment Score
+ ---------------------------------------------------------------------------------------
+Elon Musk | 6 | 8
+Donald Trump (US) | 9 | -7
+Xi Jinping (China) | 6 | 1
+Vladimir Putin (Russia) | 8 | -5
+Justin Trudeau (Canada) | 3 | 5
+Andres Manuel Lopez Obrador (Mexico) | 2 | 6
+Kanye West | 7 | 4
+Oprah Winfrey | 4 | 7
+Barack Obama | 4 | 8
+Hillary Clinton | 7 | 6
+Taylor Swift | 3 | 7
+Mark Zuckerberg | 5 | 4
+Jeff Bezos | 5 | 6
+Bill Gates | 3 | 8
+Warren Buffett | 1 | 8
+Ariana Grande | 4 | 6
+Kim Kardashian | 7 | 3
+Dwayne Johnson | 2 | 7
+Beyoncé | 4 | 8
+Angelina Jolie | 4 | 6
+Nancy Pelosi | 5 | 5
+George Clooney | 2 | 7
+J.K. Rowling | 3 | 7
+Katy Perry | 3 | 7
+Lady Gaga | 4 | 6
+Tiger Woods | 5 | 5
+Tom Cruise | 4 | 5
+Leonardo DiCaprio | 2 | 7
+John Oliver | 4 | 6
+Will Smith | 2 | 7
+Stephen Colbert | 3 | 6
+Conan O'Brien | 2 | 6
+Usain Bolt | 1 | 7
+Serena Williams | 2 | 8
+Roger Federer | 2 | 8
+Michael Jordan | 4 | 6
+LeBron James | 4 | 6
+The Rock | 2 | 7
+Steve Jobs | 4 | 6
+Billie Eilish | 1 | 7
+Malala Yousafzai | 1 | 8
+Ellen DeGeneres | 2 | 7
+Prince Harry | 3 | 6
+Meghan Markle | 3 | 6
+Emma Watson | 2 | 7
+Lin-Manuel Miranda | 2 | 7
+Rihanna | 3 | 6
+Drake | 2 | 6
+Neil deGrasse Tyson | 1 | 7
+Jacinda Ardern | 1 | 8
+Malcolm Gladwell | 1 | 7
+AOC | 3 | 6
+Bernie Sanders | 4 | 6
+Usher | 2 | 6
+Tyler Perry | 2 | 6
+Idris Elba | 1 | 7
+Chris Evans | 1 | 7
+Chris Pratt | 1 | 6
+Scarlett Johansson | 1 | 7
+Ryan Reynolds | 1 | 6
+Sacha Baron Cohen | 3 | 5
 
 
      finish = stop
-Stats: 1677511791 tot/prompt/compl tokens = 668/55/613
+Stats: 1677796492 tot/prompt/compl tokens = 580/55/525
 

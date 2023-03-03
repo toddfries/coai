@@ -1,155 +1,137 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 40.23467200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 25.51653600s
 Response(s):
 Choice# 0:
 
 Ada:
-with Ada.Text_IO; 
-use Ada.Text_IO; 
+with Ada.Text_IO;
+use Ada.Text_IO;
 
-procedure Hello_World is 
-begin 
-  Put ("Hello, World!"); 
-  New_Line; 
-end Hello_World; 
-
-procedure Count_To_100 is 
-begin
-  for I in 1..100 loop
-    Put(Integer'Image(I));
-    New_Line;
-  end loop;
-end Count_To_100;
+procedure Hello_Count is
+   begin
+      Put_Line("Hello, World");
+      for I in 1..100 loop
+         Put(Integer'Image(I) & " ");
+      end loop;
+   end Hello_Count;
 
 Assembly:
 .data
-msg:    .asciiz "Hello, World!" 
+helloMsg: .ascii "Hello, World\n"
 
 .text
-.globl	 main
-main:
-  li $v0,4 # system call for print string
-  la $a0,msg # load address of msg into $a0
-    syscall                      # print the string
+.global _start
+_start :
+  movl $4, %eax     # write syscall
+  movl $1, %ebx     # stdout
+  movl $helloMsg, %ecx
+  movl $13, %edx    # length of string
+  int $0x80
 
-	li		$t0, 0				#initialize counter to 0
+# Print out numbers 1-100
+movl $1, %eax      # write syscall
+movl $1, %ebx      # stdout
+movl $100, %edx    # outer loop counter
 
-Loop:
-	li		$v0, 1				#system call to print an integer
-	add		$t0, $t0, 1		#increment counter
-	move	$a0, $t0			#move counter value to $a0
-	syscall						#print value
+start_loop1:
+  movl $48, %ecx     # ASCII 0
+  movl $48, %eax     
+  movl $1, %ebx      
 
-	li		$t1, 100			#value to compare counter to
-	bne		$t0, $t1, Loop		#if not equal, go back to loop
-	j		end_loop			#otherwise end
+start_loop2:
+  int $0x80
+  addl $1, %ecx
+  cmpl %ecx, %eax
+  jl start_loop2
 
-end_loop:
+  addl $1, %eax         
+  cmpl %eax, %edx       
+  jle start_loop1
+
+  movl $1, %eax
+  movl $0, %ebx
+  int $0x80
 
 BASIC:
-10 PRINT "Hello, World!"
+10 PRINT "Hello, World"
 20 FOR I = 1 TO 100
-30 PRINT I
+30 PRINT I;
 40 NEXT I
 
 C:
-#include <stdio.h> 
- 
-int main () { 
-  printf("Hello, World!\n"); 
- 
-  int i;
-  for (i=1; i<=100; i++)
-    printf("%d\n", i);
+#include<stdio.h>
 
-return 0; 
-} 
+int main()
+{
+   printf("Hello, World\n");
+   for (int i = 1; i <= 100; i++)
+   {
+      printf("%d ", i);
+   }
+   return 0;
+}
 
 Erlang:
--module(helloworld).
--export([hello/0, count/0]).
+-module(hello_count).
+-export([main/0]).
 
-hello() ->
-    io:fwrite("Hello, World!~n").
- 
-%loop to generate numbers from 1 to 100
-count() ->
-    count(1).
+main() ->
+ io:fwrite("Hello, World~n"),
+  lists:foreach(fun(N) -> io:fwrite(integer_to_list(N) ++ " ")
+ end, lists:seq(1,100)).
 
-count(I) when I > 100 ->
-    ok;
-
-count(I) ->
-    io:fwrite("~p~n", [I]),
-    count(I+1).
-
-go:
-package main
- 
+Go:
+package main 
 import "fmt"
- 
+
 func main() {
-    fmt.Println("Hello, World!")
- 
+    fmt.Println("Hello, World")
+
     for i := 1; i <= 100; i++ {
-        fmt.Println(i)
+        fmt.Printf("%d ", i)
     }
+
 }
 
 Java:
-public class HelloWorld {
-  public static void main(String[] args) {
-    System.out.println("Hello, World!"); 
- 
-    for (int i = 1; i <= 100; i++) {
-      System.out.println(i); 
-    }
-  }
+public class HelloCount {
+   public static void main(String[] args) {
+      System.out.println("Hello, World");
+      for(int i = 1; i <= 100; i++)
+         System.out.print(i + " ");
+   }
 }
 
-JavaScript:
-console.log("Hello, World!"); 
- 
-for (i = 1; i <= 100; i++) {
-  console.log(i);
+Javascript:
+console.log('Hello, World');
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
 }
 
 Python:
-print("Hello, World!")
- 
-for i in range(1,101):
-    print(i)
+print('Hello, World')
+for i in range(1, 101):
+   print(i, end=' ')
 
 Ruby:
-puts "Hello, World!"
-
-1.upto(100) do |i| 
-  puts i
-end
+puts "Hello, World"
+1.upto(100) { |i| print "#{i} " }
 
 Perl:
-print "Hello, World!\n"; 
- 
-for(my $i = 1; $i <= 100; $i++) {
-  print "$i\n";
+print "Hello, World\n";
+for (my $i = 1; $i <= 100; ++$i) {
+    print "$i ";
 }
 
-Postscript:
-/Times-Roman findfont 14 scalefont setfont 
-150 500 moveto
-(Hello, World!) show
-
-/Counter 0 def
-
-{
-Counter 1 add
-dup 0 150 moveto
-show
-Counter 100 lt
-{ Counter exch } if
-} loop
+PostScript:
+/Hello_Count {
+  (% Hello, World) ==
+  0 1 100 {1 add} for
+  0 1 100 {dup ( ) ==} for
+} def
+Hello_Count
 
 
      finish = stop
-Stats: 1677512016 tot/prompt/compl tokens = 978/49/929
+Stats: 1677796610 tot/prompt/compl tokens = 920/49/871
 

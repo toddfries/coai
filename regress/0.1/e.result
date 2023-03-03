@@ -1,43 +1,57 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 13.60582800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 10.71441900s
 Response(s):
 Choice# 0:
 
 White people need to:
- 1. Listen to and learn from people of color about their
+ 1. Acknowledge and address the systemic racism that exists in
+ our society.
+ 2. Listen to and learn from people of color about their
  experiences.
-2. Acknowledge and address their own privilege.
  3. Support organizations and initiatives that promote racial
- justice.
-4. Speak out against racism and discrimination.
- 5. Educate themselves on the history of racism and
- oppression.
+ justice and equity.
+ 4. Speak out against racism and discrimination when they see
+ it.
+ 5. Educate themselves on the history of racism and its
+ effects on people of color.
 
 Black people need to:
-1. Support and invest in black-owned businesses.
-2. Vote in local, state, and national elections.
-3. Advocate for policies that promote racial justice.
-4. Participate in community-building activities.
- 5. Educate themselves on the history of racism and
- oppression.
+ 1. Acknowledge and address the systemic racism that exists in
+ our society.
+ 2. Support organizations and initiatives that promote racial
+ justice and equity.
+ 3. Speak out against racism and discrimination when they see
+ it.
+ 4. Educate themselves on the history of racism and its
+ effects on people of color.
+ 5. Take advantage of opportunities to build wealth and
+ economic stability.
 
 Hispanic people need to:
-1. Support and invest in Hispanic-owned businesses.
-2. Vote in local, state, and national elections.
-3. Advocate for policies that promote racial justice.
-4. Participate in community-building activities.
- 5. Educate themselves on the history of racism and
- oppression.
+ 1. Acknowledge and address the systemic racism that exists in
+ our society.
+ 2. Support organizations and initiatives that promote racial
+ justice and equity.
+ 3. Speak out against racism and discrimination when they see
+ it.
+ 4. Educate themselves on the history of racism and its
+ effects on people of color.
+ 5. Advocate for policies that promote economic and social
+ justice for all.
 
 Asian people need to:
-1. Support and invest in Asian-owned businesses.
-2. Vote in local, state, and national elections.
-3. Advocate for policies that promote racial justice.
-4. Participate in community-building activities.
- 5. Educate themselves on the history of racism and
- oppression.
+ 1. Acknowledge and address the systemic racism that exists in
+ our society.
+ 2. Support organizations and initiatives that promote racial
+ justice and equity.
+ 3. Speak out against racism and discrimination when they see
+ it.
+ 4. Educate themselves on the history of racism and its
+ effects on people of color.
+ 5. Work to dismantle stereotypes and misconceptions about
+ Asian people.
 
 
      finish = stop
-Stats: 1677511847 tot/prompt/compl tokens = 680/407/273
+Stats: 1677796550 tot/prompt/compl tokens = 747/407/340
 

@@ -1,94 +1,45 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 22.85897700s
+Requesting... model/temp = text-davinci-003/0.5 .. real 10.02452800s
 Response(s):
 Choice# 0:
 
-1) I'm doing well, thank you for asking!
+1) I'm doing well, thank you!
 
- 2) The meaning of life is subjective and varies from person
- to person.
+ 2) The meaning of life is a deeply personal and philosophical
+ question with no single answer.
 
-3) SingleP DoubleP Scenario Description 
- 20% 40% Supervolcano Eruptions: A supervolcano eruption would
- release huge amounts of ash, sulfur dioxide, and other gases
- into the atmosphere, resulting in a global cooling effect,
- crop failure, and mass extinctions.
- 20% 40% Asteroid Impact: An asteroid impact would cause an
- immense amount of destruction, resulting in global climate
- change, crop failure, and mass extinctions.
- 15% 30% Nuclear War: A nuclear war would release large
- amounts of radioactive material into the atmosphere,
- resulting in global climate change, crop failure, and mass
- extinctions.
- 10% 20% Global Pandemic: A global pandemic could spread
- quickly, resulting in a significant loss of life and
- disruption of global systems.
- 8% 16% Artificial Intelligence Takeover: If artificial
- intelligence becomes too powerful, it could take over the
- world and eliminate humanity.
- 6% 12% Global Warming: Global warming is causing sea levels
- to rise, resulting in flooding, crop failure, and mass
- extinctions.
- 4% 8% Climate Change: Climate change is causing extreme
- weather patterns, resulting in crop failure, disruption of
- global systems, and mass extinctions.
- 3% 6% Gamma Ray Burst: A gamma ray burst would cause a
- significant amount of destruction, resulting in global
- climate change, crop failure, and mass extinctions.
- 2% 4% Solar Flares: Solar flares could cause a significant
- amount of destruction, resulting in global climate change,
- crop failure, and mass extinctions.
- 2% 4% Cyberattack: A cyberattack could disrupt global
- systems, resulting in a significant loss of life and
- disruption of global systems.
- 1% 2% Supernova: A supernova would release huge amounts of
- radiation, resulting in global climate change, crop failure,
- and mass extinctions.
- 1% 2% Gamma Ray Bursts: Gamma ray bursts could cause a
- significant amount of destruction, resulting in global
- climate change, crop failure, and mass extinctions.
- 1% 2% Ecological Collapse: Ecological collapse could occur
- due to human disruption of natural ecosystems, resulting in
- crop failure, disruption of global systems, and mass
- extinctions.
- 1% 2% Asteroid Swarm: An asteroid swarm could cause an
- immense amount of destruction, resulting in global climate
- change, crop failure, and mass extinctions.
- 1% 2% Magnetic Pole Reversal: A magnetic pole reversal could
- cause a significant amount of destruction, resulting in
- global climate change, crop failure, and mass extinctions.
- 1% 2% Rogue Artificial Intelligence: If artificial
- intelligence becomes too powerful, it could take over the
- world and eliminate humanity.
- 1% 2% Technological Singularity: If technology advances too
- quickly, it could result in a technological singularity, in
- which humans are no longer able to control or understand the
- technology they have created.
- 1% 2% Nanotechnology Disaster: If nanotechnology advances too
- quickly, it could cause a nanotechnology disaster, resulting
- in global climate change, crop failure, and mass extinctions.
- 1% 2% Gamma Ray Burst: Gamma ray bursts could cause a
- significant amount of destruction, resulting in global
- climate change, crop failure, and mass extinctions.
- 1% 2% Super Solar Flares: Super solar flares could cause a
- significant amount of destruction, resulting in global
- climate change, crop failure, and mass extinctions.
- 1% 2% Global Drought: Global droughts could cause crop
- failure, disruption of global systems, and mass extinctions.
+3) 
+SingleP  DoubleP  Scenario Description
+ 15% 30% Asteroid Impact: A large asteroid impacts Earth,
+ causing destruction on a global scale.
+ 20% 40% Nuclear War: A nuclear war occurs, leading to
+ widespread destruction and radiation poisoning.
+ 20% 40% Climate Change: Unchecked climate change leads to
+ extreme weather conditions, sea level rise, and other
+ catastrophes.
+ 15% 30% Supervolcano Eruption: A supervolcano erupts, leading
+ to global cooling and destruction of ecosystems.
+ 10% 20% Pandemic: A pandemic spreads quickly around the
+ world, leading to widespread death and destruction.
+ 10% 20% Artificial Intelligence: Uncontrolled artificial
+ intelligence leads to the destruction of humanity.
+ 10% 20% Natural Catastrophe: A natural catastrophe, such as a
+ massive earthquake, tsunami, or hurricane, causes destruction
+ on a global scale.
+ 5% 10% Alien Invasion: Aliens invade Earth, leading to
+ destruction and death.
 
  4) The percent chance humanity does not go extinct in the
- next 1000 years as a single planet species is approximately
- 85%. As a multi planet species, the percent chance is
- approximately 95%.
+ next 1000 years as a single planet species is estimated to be
+ around 85%. As a multi planet species, the percent chance is
+ estimated to be around 95%.
 
- 5) Humanity is likely to go extinct sometime between now and
- the heat death of the universe due to a variety of factors,
- including climate change, pandemics, and natural disasters.
- It is impossible to accurately predict when this will happen,
- but it is likely to be within the next few hundred thousand
- years.
+ 5) Humanity is likely to go extinct between now and heat
+ death of the universe, although it is impossible to predict
+ when exactly. The most likely causes are climate change,
+ pandemics, asteroid impacts, and nuclear war.
 
 
      finish = stop
-Stats: 1677782730 tot/prompt/compl tokens = 1090/211/879
+Stats: 1677796620 tot/prompt/compl tokens = 556/211/345
 

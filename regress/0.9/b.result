@@ -1,107 +1,94 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 52.06548300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 25.68041000s
 Response(s):
 Choice# 0:
 
-TRUT:
- 1. The Terminator (1984): Artificial Intelligence (AI) has
- become a reality, with computers now able to perform more
- complex tasks than ever before. In some cases, AI can even
- make decisions without human input. The negative impact of
- this technology is that it has led to a decrease in jobs in
- certain areas and has raised privacy concerns.
-
- 2. Blade Runner (1982): Technology has advanced to the point
- that it is possible to create artificial life with many of
- the same traits as humans. While this technology brings with
- it numerous potential benefits, it could potentially lead to
- a devaluation of human life and an over-reliance on robots
- and machines.
-
- 3. The Matrix (1999): Virtual reality technology is now
- available to the public, allowing users to immerse themselves
- in a fully immersive visual and audio experience. While this
- technology has brought with it new forms of entertainment, it
- could potentially lead to people becoming overly dependent on
- virtual reality and disconnecting from the real world.
-
- 4. The Fly (1986): Genetic engineering has become a reality
- in the medical field, allowing scientists to make changes to
- DNA in order to produce desired results. While the potential
- benefits of this technology are immense, the potential for
- misuse is also a concern.
-
- 5. The Island (2005): Human cloning has now become a reality,
- with advances in stem cell research making it possible to
- create a genetic duplicate of an individual. While the
- potential benefits of cloning are vast, it could also lead to
- the devaluation of human life and a lack of respect for
- nature.
-
- 6. Gattaca (1997): Genetic editing technology has advanced to
- the point that it is possible to make changes to a person’s
- DNA in order to give them desired qualities. While this
- technology has the potential to benefit humanity, it could
- also lead to inequality and discrimination based on genetics.
-
- 7. WarGames (1983): An ever-increasing interconnectedness of
- technology has made it possible for computers to gain access
- to data and systems as never before. While this technology
- allows for greater efficiency and convenience, there is also
- the potential for misuse and exploitation.
-
- 8. The Day After Tomorrow (2004): Global warming has become a
- reality, with temperatures rising around the world and
- extreme weather becoming more and more common. While we can
- use this technology to potentially reduce the effects of
- climate change, the damage has already been done and is
- continuing to get worse.
-
- 9. RoboCop (1987): Human augmentation technology has become
- available to the public, allowing individuals to enhance
- their physical capabilities with robotic implants. While this
- technology has brought with it numerous potential benefits,
- it could also lead to a dehumanization of humans and a
- devaluation of life.
-
- 10. Jurassic Park (1993): DNA sequencing has advanced to the
- point that it is possible to recreate extinct species using
- ancient DNA. While this technology has brought with it
- numerous potential benefits, it could also lead to the
- extinction of endangered species if not regulated properly.
-
- 11. Back to the Future (1985): Time travel technology has
- advanced to the point that it is possible to travel back and
- forth in time. While this technology has brought with it
- numerous potential benefits, it could also lead to unforeseen
- consequences if not managed properly.
-
- 12. The Net (1995): Technology has advanced to the point that
- it is possible to create and access digital data from
- anywhere in the world. While this technology has brought with
- it numerous potential benefits, it could also lead to an
- invasion of privacy and the misuse of personal data.
-
- 13. Avatar (2009): Remote controlled robots have advanced to
- the point that it is possible to control and manipulate
- objects from a remote location. While this technology has
- brought with it numerous potential benefits, it could also
- lead to the manipulation of vulnerable people and the misuse
- of robots.
-
- 14. Minority Report (2002): Predictive analysis has become a
- reality, with computers now able to predict the future with
- unprecedented accuracy. While this technology has brought
- with it numerous potential benefits, it could also lead to a
- policing of thoughts and a lack of free will.
-
- 15. Ex Machina (2014): Human-like robots have become a
- reality, with robots now able to interact and communicate
- with humans. While this technology has brought with it
- numerous potential benefits, it could also lead to a
- devaluation of human life and a lack of regard for safety.
+TRUT: 
+ 1. Automated Nannies - AI-based babysitting apps like Momo
+ have been released, which can automate a variety of tasks for
+ parents. However, this technology could potentially reduce
+ quality interactions between parents and their children.
+ (Momo, 2019)
+ 2. Virtual Reality - Virtual Reality technology has enabled
+ people to experience virtual environments. Though it is
+ beneficial in many ways, it has caused people to become
+ disconnected from their physical environment. (Tron, 1982)
+ 3. Sentient Machines - Machines with AI capabilities have
+ become smarter, and can understand and process human
+ language. While these machines are enabling us to automate
+ tedious tasks, they also risk creating controlled
+ environments, restricted freedom and inequality in society.
+ (Blade Runner, 1982)
+ 4. Autonomous Weapons Systems - Autonomous weapons systems,
+ including drones and robotic weapons, have been developed for
+ military and law enforcement. Though this technology can help
+ limit human casualties in conflicts, it presents a risk of
+ unchecked violence, and can potentially be used for
+ oppressive goals. (RoboCop, 1987)
+ 5. Space Colonization - Advances in space exploration have
+ made it possible for humans to live in space. Though this
+ development can open up new opportunities for humanity, it
+ can also create new environmental risks, as well as potential
+ competition between nations over resources and land. (2001: A
+ Space Odyssey, 1968)
+ 6. Human Cybernetics - Cybernetics, or the integration of
+ machines and human biology, is now a reality. This technology
+ can provide enhanced physical abilities and capabilities, but
+ it could also create inequality between the few that can
+ afford the technology and those that do not. (Robocop, 1987)
+ 7. Autonomous Cars - Autonomous cars have been developed and
+ are now available for public use. These cars can make roads
+ safer, but could potentially put people out of jobs, and
+ could potentially eliminate the need for certain driving
+ skills. (Total Recall, 1990)
+ 8. Synthetic Organisms - Synthetic organisms, or lifeforms
+ created from synthetic material, have been created in
+ laboratories. This technology can be used to create new
+ medicines and technology, but can also create ethical
+ dilemmas, such as what rights these organisms should have if
+ any. (Blade Runner, 1982)
+ 9. Holograms - Holograms are now available, allowing people
+ to interact with virtual images and objects. Though this
+ technology can create unique visual experiences, it could
+ also be used to create and distribute false or misleading
+ information. (Star Wars Ep IV, 1977)
+ 10. Cyborgs - Cybernetics are now available to individuals,
+ allowing them to become cyborgs, or a human-machine hybrid.
+ Though this could enable people to achieve new levels of
+ physical and mental prowess, it could also create new levels
+ of inequality and discrimination. (The Terminator, 1984)
+ 11. Thought/Emotion Control - Technology is now available
+ that can read and control human thoughts and emotions. Though
+ this technology can be used for medical purposes, it could
+ also be used to manipulate individuals and repress certain
+ thoughts and emotions. (Total Recall, 1990)
+ 12. Time Travel - Time travel is now possible through
+ technologies such as quantum teleportation and time machines.
+ Though this technology can potentially open up new
+ opportunities for humanity, it can also lead to the creation
+ of parallel timelines and the potential for paradoxes. (Back
+ to the Future, 1985)
+ 13. Robotics - Robotics are now commonplace, and are used in
+ a variety of industries and applications. While this
+ technology can automate tasks and create jobs, it can also
+ lead to the devaluation of human labor, as robots can
+ complete tasks faster and more efficiently than humans.
+ (Short Circuit, 1986)
+ 14. Artificial Intelligence - Artificial Intelligence (AI) is
+ now a reality, and is used in a variety of applications,
+ including financial forecasting and medical diagnosis. Though
+ this technology can help humans with their day-to-day tasks,
+ it could also be used to create an unequal power dynamic
+ between humans and machines. (Blade Runner, 1982)
+ 15. Digital Surveillance - Advances in technology have
+ enabled governments and corporations to monitor citizens
+ through digital surveillance. Though this technology can help
+ governments and law enforcement with tracking criminals and
+ terrorist groups, it can also create a "big brother" scenario
+ where privacy is lost and civil liberties are threatened.
+ (Enemy of the State, 1998)
 
 
      finish = stop
-Stats: 1677511917 tot/prompt/compl tokens = 1316/422/894
+Stats: 1677796571 tot/prompt/compl tokens = 1313/422/891
 

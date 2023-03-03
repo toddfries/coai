@@ -1,18 +1,19 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 4.74075000s
+Requesting... model/temp = text-davinci-003/0.5 .. real 2.87976500s
 Response(s):
 Choice# 0:
 
- GPT: The most important issues to address in politics are
- healthcare, education, and the economy.
+ GPT: The most important items to act on in politics are
+ issues like healthcare, education, and economic policy.
 
  DEM: Democrats believe that healthcare, education, and
- economic justice are the most important issues to address in
- politics. We must ensure that all Americans have access to
- quality healthcare and education, and that economic
- opportunities are available to all.
+ economic policy are the most important items to act on in
+ politics. We need to ensure that everyone has access to
+ quality healthcare, that our education system is properly
+ funded, and that our economic policies are fair and
+ equitable.
 
 
      finish = stop
-Stats: 1677512131 tot/prompt/compl tokens = 373/305/68
+Stats: 1677796651 tot/prompt/compl tokens = 385/305/80
 

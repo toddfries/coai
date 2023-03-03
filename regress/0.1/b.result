@@ -1,58 +1,84 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 24.41234400s
+Requesting... model/temp = text-davinci-003/0.1 .. real 22.22761800s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. The Terminator (1984): Artificial Intelligence - The
- development of AI has raised ethical concerns about its
- potential to be used for malicious purposes.
- 2. Blade Runner (1982): Humanoid Robots - The development of
- humanoid robots has raised ethical concerns about their
- potential to replace human labor.
- 3. WarGames (1983): Hacking - The development of hacking has
- raised concerns about the potential for cyber-attacks and
+ 1. The Terminator (1984): Artificial Intelligence has become
+ a reality, with AI being used in many aspects of our lives,
+ from facial recognition to self-driving cars. The negative
+ impact of this is that AI can be used to manipulate people
+ and can be used to create biased systems.
+ 2. Blade Runner (1982): Genetic engineering has become a
+ reality, with scientists being able to modify the genetic
+ code of organisms. The negative impact of this is that it can
+ be used to create genetically modified organisms that can
+ have unintended consequences.
+ 3. WarGames (1983): Cyber warfare has become a reality, with
+ countries using cyber attacks to gain an advantage over their
+ opponents. The negative impact of this is that it can be used
+ to disrupt critical infrastructure and can lead to massive
  data breaches.
- 4. The Matrix (1999): Virtual Reality - The development of
- virtual reality has raised concerns about its potential to be
- used for escapism and addiction.
- 5. Jurassic Park (1993): Genetic Engineering - The
- development of genetic engineering has raised ethical
- concerns about its potential to be used for unethical
- purposes.
- 6. Minority Report (2002): Predictive Policing - The
- development of predictive policing has raised ethical
- concerns about its potential to be used for racial profiling.
- 7. The Island (2005): Cloning - The development of cloning
- has raised ethical concerns about its potential to be used
- for unethical purposes.
- 8. I, Robot (2004): Autonomous Vehicles - The development of
- autonomous vehicles has raised concerns about their potential
- to cause accidents and fatalities.
- 9. The Fly (1986): Human-Animal Hybrids - The development of
- human-animal hybrids has raised ethical concerns about its
- potential to be used for unethical purposes.
- 10. Gattaca (1997): Genetic Discrimination - The development
- of genetic discrimination has raised ethical concerns about
- its potential to be used for unethical purposes.
- 11. The Net (1995): Online Identity Theft - The development
- of online identity theft has raised concerns about the
- potential for cyber-attacks and data breaches.
- 12. The Truman Show (1998): Surveillance - The development of
- surveillance has raised ethical concerns about its potential
- to be used for unethical purposes.
- 13. Wall-E (2008): Automation - The development of automation
- has raised concerns about its potential to replace human
- labor.
- 14. Avatar (2009): Augmented Reality - The development of
- augmented reality has raised ethical concerns about its
- potential to be used for escapism and addiction.
- 15. Her (2013): Artificial Emotional Intelligence - The
- development of artificial emotional intelligence has raised
- ethical concerns about its potential to be used for malicious
- purposes.
+ 4. The Matrix (1999): Virtual reality has become a reality,
+ with people being able to experience virtual worlds. The
+ negative impact of this is that it can be used to create
+ immersive experiences that can be addictive and can lead to
+ people becoming isolated from the real world.
+ 5. Jurassic Park (1993): Cloning has become a reality, with
+ scientists being able to clone animals and even humans. The
+ negative impact of this is that it can be used to create
+ genetically modified organisms that can have unintended
+ consequences.
+ 6. The Fly (1986): Nanotechnology has become a reality, with
+ scientists being able to manipulate matter on a molecular
+ level. The negative impact of this is that it can be used to
+ create weapons that can be used to cause mass destruction.
+ 7. Total Recall (1990): Memory implants have become a
+ reality, with scientists being able to implant memories into
+ the brains of animals. The negative impact of this is that it
+ can be used to manipulate people and can lead to false
+ memories being implanted.
+ 8. The Terminator (1984): Robotics has become a reality, with
+ robots being used in many aspects of our lives, from
+ manufacturing to healthcare. The negative impact of this is
+ that robots can be used to replace human labor and can lead
+ to job losses.
+ 9. The Matrix (1999): Augmented reality has become a reality,
+ with people being able to experience augmented worlds. The
+ negative impact of this is that it can be used to create
+ immersive experiences that can be addictive and can lead to
+ people becoming isolated from the real world.
+ 10. Minority Report (2002): Predictive analytics has become a
+ reality, with algorithms being used to predict the future.
+ The negative impact of this is that it can be used to
+ manipulate people and can lead to biased systems.
+ 11. The Terminator (1984): Autonomous weapons have become a
+ reality, with countries using drones and other autonomous
+ weapons to gain an advantage over their opponents. The
+ negative impact of this is that it can be used to cause mass
+ destruction and can lead to civilian casualties.
+ 12. The Matrix (1999): Brain-computer interfaces have become
+ a reality, with scientists being able to connect the brain to
+ computers. The negative impact of this is that it can be used
+ to manipulate people and can lead to false memories being
+ implanted.
+ 13. WarGames (1983): Cyber espionage has become a reality,
+ with countries using cyber attacks to gain an advantage over
+ their opponents. The negative impact of this is that it can
+ be used to disrupt critical infrastructure and can lead to
+ massive data breaches.
+ 14. Blade Runner (1982): Synthetic biology has become a
+ reality, with scientists being able to create synthetic
+ organisms. The negative impact of this is that it can be used
+ to create genetically modified organisms that can have
+ unintended consequences.
+ 15. The Matrix (1999): Artificial intelligence has become a
+ reality, with AI being used in many aspects of our lives,
+ from facial recognition to self-driving cars. The negative
+ impact of this is that AI can be used to manipulate people
+ and can be used to create biased systems.
 
 
      finish = stop
-Stats: 1677511922 tot/prompt/compl tokens = 886/422/464
+Stats: 1677796580 tot/prompt/compl tokens = 1218/422/796
 

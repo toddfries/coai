@@ -1,74 +1,76 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 30.35642200s
+Requesting... model/temp = text-davinci-003/0.1 .. real 17.55946200s
 Response(s):
 Choice# 0:
 
 Public Figure | Controversial Score | Special Treatment Score
 :---: | :---: | :---:
 Elon Musk | 8 | 8
-Donald Trump | -7 | -7
-Xi Jinping | -4 | -4
-Vladimir Putin | -6 | -6
+Donald Trump | -8 | -8
+Xi Jinping | -5 | -5
+Vladimir Putin | -7 | -7
 Justin Trudeau | 0 | 0
 Andres Manuel Lopez Obrador | -2 | -2
 Barack Obama | 0 | 0
 Angela Merkel | 0 | 0
-Narendra Modi | -2 | -2
+Narendra Modi | -3 | -3
 Jacinda Ardern | 2 | 2
 Pope Francis | 0 | 0
-Kim Jong Un | -8 | -8
+Kim Jong-un | -10 | -10
 Queen Elizabeth II | 0 | 0
 Bill Gates | 0 | 0
 Warren Buffett | 0 | 0
-Mark Zuckerberg | -2 | -2
+Mark Zuckerberg | -3 | -3
 Jeff Bezos | -2 | -2
 Hillary Clinton | -3 | -3
-Oprah Winfrey | 2 | 2
-Malala Yousafzai | 4 | 4
-Emmanuel Macron | -1 | -1
-The Dalai Lama | 4 | 4
-Nelson Mandela | 4 | 4
-Aung San Suu Kyi | 4 | 4
+Oprah Winfrey | 0 | 0
+Malala Yousafzai | 2 | 2
+Emmanuel Macron | 0 | 0
+Nelson Mandela | 2 | 2
+George W. Bush | -3 | -3
+Steve Jobs | 0 | 0
 Michael Jordan | 0 | 0
-Usain Bolt | 0 | 0
-LeBron James | 0 | 0
 Tiger Woods | -2 | -2
+Usain Bolt | 0 | 0
+David Beckham | 0 | 0
 Taylor Swift | 0 | 0
 Beyonce | 0 | 0
-Kanye West | -4 | -4
 Dwayne Johnson | 0 | 0
-Will Smith | 0 | 0
-Tom Hanks | 0 | 0
-George Clooney | 0 | 0
-Steven Spielberg | 0 | 0
-Paul McCartney | 0 | 0
-David Beckham | 0 | 0
+LeBron James | 0 | 0
+Kanye West | -4 | -4
+Ariana Grande | 0 | 0
 Rihanna | 0 | 0
 Emma Watson | 0 | 0
-Lady Gaga | 0 | 0
-Ariana Grande | 0 | 0
 Selena Gomez | 0 | 0
-Kylie Jenner | -2 | -2
-Cardi B | -2 | -2
+Lady Gaga | 0 | 0
+Tom Cruise | -2 | -2
+Will Smith | 0 | 0
+Robert Downey Jr. | -1 | -1
+Brad Pitt | 0 | 0
+Angelina Jolie | 0 | 0
+Leonardo DiCaprio | 0 | 0
 John Cena | 0 | 0
-Drake | 0 | 0
 Serena Williams | 0 | 0
 Novak Djokovic | 0 | 0
 Roger Federer | 0 | 0
-Lewis Hamilton | 0 | 0
 Cristiano Ronaldo | 0 | 0
 Lionel Messi | 0 | 0
-Conor McGregor | -2 | -2
-Sacha Baron Cohen | 0 | 0
-Jim Carrey | 0 | 0
+Usher | 0 | 0
+Drake | 0 | 0
+Kylie Jenner | -3 | -3
+Kendall Jenner | -2 | -2
+Gigi Hadid | 0 | 0
+BTS | 0 | 0
+K-Pop | 0 | 0
+The Rock | 0 | 0
+Sacha Baron Cohen | -2 | -2
+Chris Hemsworth | 0 | 0
+Chris Evans | 0 | 0
 Chris Pratt | 0 | 0
 Ryan Reynolds | 0 | 0
 Will Ferrell | 0 | 0
-Kevin Hart | 0 | 0
-Sandra Bullock | 0 | 0
-Brad Pitt | 0 | 0
 
 
      finish = stop
-Stats: 1677511794 tot/prompt/compl tokens = 604/55/549
+Stats: 1677796509 tot/prompt/compl tokens = 626/55/571
 
