@@ -31,12 +31,14 @@ our $opt_p; # prolog i.e. file to read in and send at the top of each query
 our $opt_o; # one pass
 our $opt_t; # temperature
 
+our $opt_M; # list models and exit
+
 # defaults
 $opt_c = $ENV{'HOME'}."/.config/coai/key.conf";
 $opt_m = 'text-davinci-003',
 $opt_t = 5;
 
-getopts('c:m:op:t:');
+getopts('c:m:op:t:M');
 
 if (! -f $opt_c) {
 	die "Can't open ${opt_c} to read in the key";
@@ -50,6 +52,11 @@ my $config = $cobj->read($opt_c);
 my $key = $config->{_}->{key};
 
 my $openai = OpenAI::API->new( api_key => $key );
+
+if (defined($opt_M)) {
+	print Dumper($openai->models()), "\n\n";
+	exit(0);
+}
 
 my $prolog;
 if (defined($opt_p)) {
