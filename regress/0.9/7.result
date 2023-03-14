@@ -1,168 +1,142 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 34.81801200s
+Requesting... model/temp = text-davinci-003/0.9 .. real 46.12864800s
 Response(s):
 Choice# 0:
 
-Ada:
-
+## Ada
 with Ada.Text_IO;
 use Ada.Text_IO;
 
 procedure Hello_World is
 begin
-   Put_Line("Hello, World");
-   for i in 1..100 loop
-      Put(Integer'Image(i) & " ");
+   Put_Line("Hello, World!");
+
+   for I in 1 .. 100 loop
+      Put(I'Img & " ");
    end loop;
-   
+   Put_Line("");
 end Hello_World;
 
-Assembly:
-
-section .data
-    msg db "Hello, World", 0Ah
-
-section .text
-   global _start
+## Assembly
+.global _start
  
 _start:
+    mov     r0, #1          @ stdout
+    mov     r1, #0          @ string address
+    mov     r2, #12         @ string length
+    mov     r7, #4          @ write syscall number
+    svc     0               @ invoke syscall
+    .ascii  "Hello, World\n"
+    .data
+loop:
+    .word   0x02030002      @ mov r2, #1
+    .word   0xe3a00001      @ mov r0, #1
+    .word   0xe58f1004      @ str r1, [r15, #4]
+    .word   0xeb000000      @ bl printf
+    .word   0xe28f1004      @ add r1, r15, #4 
+    .word   0xe351000a      @ cmp r1, #10
+    .word   0x1afffffb      @ bne loop
+    .word   0xe12fff1e      @ bx lr
 
-   ; Print 'Hello, World'
-   mov eax, 4
-   mov ebx, 1
-   mov ecx, msg
-   mov edx, 14
-   int 80h
+## BASIC
+PRINT "Hello, World!"
+FOR I = 1 TO 100
+    PRINT I;
+NEXT I
 
-   ; Count to 100
-   mov eax, 1
-   mov esi, 1
-.loop:
-    cmp esi, 100
-    jg .done
-    ; Print the current number
-    mov ebx, 1
-    mov ecx, esi
-    mov edx, 1
-    int 80h
-    inc esi
-    jmp .loop
-.done:
-    mov eax, 1
-    xor ebx, ebx
-    int 80h
-
-BASIC:
-
-10 PRINT "Hello, World"
-20 FOR i = 1 TO 100
-30 PRINT i;
-40 NEXT i
-
-C: 
-
+## C
 #include <stdio.h>
-  
-int main() 
-{
-    printf("Hello, World\n");
-    for (int i = 1; i <= 100; i++)
-    {
+
+int main()
+{ 
+    printf("Hello, World!\n"); 
+
+    for (int i=1; i<=100; i++)
         printf("%d ", i);
-    }
+    printf("\n");
     return 0;
 }
 
-Erlang: 
+## Erlang
 
--module(hello_world).
--export([main/0]).
+io:format("Hello, World!~n"),
+ for(I = 1, I =< 100, I ++) -> io:format("~p ", [I]); true
+ end.
 
-main() ->
-    io:fwrite("Hello, World\n"),
-    count(1).
-
-count(N) when N > 100 -> ok;
-count(N) ->
-    io:fwrite("~w ",[N]),
-    count(N + 1).
-
-Go: 
-
-package main 
+## go
+package main
 
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, World")
-    for i := 1; i<= 100; i++ { 
+    fmt.Println("Hello, World!")
+    for i:=1; i<=100; i++ {
         fmt.Printf("%d ", i)
     }
-
 }
 
-Java:
+## Java 
+public class HelloWorld {
 
-public class HelloWorld{
-    public static void main(String[] args){
-        System.out.println("Hello, World");
-        for (int i = 1; i <= 100; i++){
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+
+        for (int i =1; i<=100; i++) {
             System.out.print(i + " ");
         }
     }
-
 }
 
-Javascript:
+## JavaScript
+console.log("Hello, World!");
 
-console.log("Hello, World");
-for (let i = 1; i <= 100; i++) { 
+for (let i=1;i<=100;i++) {
     console.log(i);
 }
- 
-Python:
 
-print("Hello, World")
+## Python
+print("Hello, World!")
 for i in range(1, 101):
-    print(i, end=" ")
+    print(i, end=' ')
 
-Ruby:
+## Ruby
+puts "Hello, World!"
 
-puts "Hello, World"
-for i in 1..100
-  puts i
-end
-
-Perl:
-
-print "Hello, World\n";
-for(my $i = 1; $i <= 100; $i++) { 
-    print $i . " ";
+1.upto(100) { |i|
+    print "#{i} "
 }
 
-Postscript:
+## Rust
+fn main() {
+    println!("Hello, World!");
 
-/Display {dup type /stringtype eq
-        {pop show}
-        {dup length 1 eq {pop ==} {exch ==} ifelse} ifelse
-      } def
+    for i in 1..101 {
+        print!("{} ", i);
+    }
+}
 
-Display (Hello, World )
+## Perl
+#!/usr/bin/perl
 
-/i 0 def
-{
-    dup i 0 lt {
-        i 1 add
-        ( ) Display
-        i 1 add 
-        dup i 100 lt {
-            dup ( ) Display
-            dup i 1 add
-        } if
-    } if
-} loop
+print "Hello, World!\n";
+
+for( $i = 1; $i <= 100; $i++ ) {
+    print "$i ";
+} 
+
+print "\n";
+
+## PostScript
+/printHelloWorld {
+    (Hello, World!) print
+    0 1 100 {
+        exch print
+    } for
+    cr
+} def
+printHelloWorld
 
 
      finish = stop
-Stats: 1678788268 tot/prompt/compl tokens = 910/49/861
+Stats: 1678788768 tot/prompt/compl tokens = 924/51/873
 
