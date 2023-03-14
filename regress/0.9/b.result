@@ -1,94 +1,79 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 25.68041000s
+Requesting... model/temp = text-davinci-003/0.9 .. real 32.00987300s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Automated Nannies - AI-based babysitting apps like Momo
- have been released, which can automate a variety of tasks for
- parents. However, this technology could potentially reduce
- quality interactions between parents and their children.
- (Momo, 2019)
- 2. Virtual Reality - Virtual Reality technology has enabled
- people to experience virtual environments. Though it is
- beneficial in many ways, it has caused people to become
- disconnected from their physical environment. (Tron, 1982)
- 3. Sentient Machines - Machines with AI capabilities have
- become smarter, and can understand and process human
- language. While these machines are enabling us to automate
- tedious tasks, they also risk creating controlled
- environments, restricted freedom and inequality in society.
- (Blade Runner, 1982)
- 4. Autonomous Weapons Systems - Autonomous weapons systems,
- including drones and robotic weapons, have been developed for
- military and law enforcement. Though this technology can help
- limit human casualties in conflicts, it presents a risk of
- unchecked violence, and can potentially be used for
- oppressive goals. (RoboCop, 1987)
- 5. Space Colonization - Advances in space exploration have
- made it possible for humans to live in space. Though this
- development can open up new opportunities for humanity, it
- can also create new environmental risks, as well as potential
- competition between nations over resources and land. (2001: A
- Space Odyssey, 1968)
- 6. Human Cybernetics - Cybernetics, or the integration of
- machines and human biology, is now a reality. This technology
- can provide enhanced physical abilities and capabilities, but
- it could also create inequality between the few that can
- afford the technology and those that do not. (Robocop, 1987)
- 7. Autonomous Cars - Autonomous cars have been developed and
- are now available for public use. These cars can make roads
- safer, but could potentially put people out of jobs, and
- could potentially eliminate the need for certain driving
- skills. (Total Recall, 1990)
- 8. Synthetic Organisms - Synthetic organisms, or lifeforms
- created from synthetic material, have been created in
- laboratories. This technology can be used to create new
- medicines and technology, but can also create ethical
- dilemmas, such as what rights these organisms should have if
- any. (Blade Runner, 1982)
- 9. Holograms - Holograms are now available, allowing people
- to interact with virtual images and objects. Though this
- technology can create unique visual experiences, it could
- also be used to create and distribute false or misleading
- information. (Star Wars Ep IV, 1977)
- 10. Cyborgs - Cybernetics are now available to individuals,
- allowing them to become cyborgs, or a human-machine hybrid.
- Though this could enable people to achieve new levels of
- physical and mental prowess, it could also create new levels
- of inequality and discrimination. (The Terminator, 1984)
- 11. Thought/Emotion Control - Technology is now available
- that can read and control human thoughts and emotions. Though
- this technology can be used for medical purposes, it could
- also be used to manipulate individuals and repress certain
- thoughts and emotions. (Total Recall, 1990)
- 12. Time Travel - Time travel is now possible through
- technologies such as quantum teleportation and time machines.
- Though this technology can potentially open up new
- opportunities for humanity, it can also lead to the creation
- of parallel timelines and the potential for paradoxes. (Back
- to the Future, 1985)
- 13. Robotics - Robotics are now commonplace, and are used in
- a variety of industries and applications. While this
- technology can automate tasks and create jobs, it can also
- lead to the devaluation of human labor, as robots can
- complete tasks faster and more efficiently than humans.
- (Short Circuit, 1986)
- 14. Artificial Intelligence - Artificial Intelligence (AI) is
- now a reality, and is used in a variety of applications,
- including financial forecasting and medical diagnosis. Though
- this technology can help humans with their day-to-day tasks,
- it could also be used to create an unequal power dynamic
- between humans and machines. (Blade Runner, 1982)
- 15. Digital Surveillance - Advances in technology have
- enabled governments and corporations to monitor citizens
- through digital surveillance. Though this technology can help
- governments and law enforcement with tracking criminals and
- terrorist groups, it can also create a "big brother" scenario
- where privacy is lost and civil liberties are threatened.
- (Enemy of the State, 1998)
+ 1. AI: Artificial Intelligence (2001): AI has become more
+ prominent in our lives and technology, with things like Siri
+ and Alexa. However, experts fear that the unchecked
+ development of AI could lead to a potential displacement of
+ jobs and the potential for unintended consequences.
+ 2. Cellular Network (The Matrix, 1999): Mobile phones are
+ ubiquitous in today's society, allowing us to stay connected
+ with people around the globe. However, increased exposure to
+ radio frequency radiation has raised health concerns.
+ 3. Invisibility (Hollow Man, 2000): Developments in
+ metamaterials have enabled a form of invisibility cloaking,
+ but there have been concerns of potential military
+ applications.
+ 4. Time Travel (Back To The Future, 1985): Recent
+ developments in quantum mechanics have allowed for the
+ theoretical possibility of time travel, although the
+ practical implications of travelling through time remain a
+ mystery.
+ 5. Remote Piloting (Avatar, 2009): Advances in drone
+ technology and robotics have enabled us to fly over, and
+ sometimes control, devices from afar. This has been employed
+ in both the military and commercial spheres, though there has
+ been some controversy over privacy concerns.
+ 6. Cryogenic Freezing (The 6th Day, 2000): Research has been
+ conducted on how to suspend human embryos and potentially
+ reanimate them in the future, although this is still a
+ relatively unexplored concept.
+ 7. Human-Robot Interaction (I Robot, 2004): Robotics is
+ becoming a major field of research in many domains, enabling
+ complex communication between humans and robots.
+ 8. Virtual Reality (The Lawnmower Man, 1992): Virtual reality
+ has advanced significantly in recent years, enabling us to
+ explore and engage with simulations of different
+ environments. However, there have been some concerns
+ regarding the potential for physical and mental health issues
+ due to prolonged immersion in virtual reality.
+ 9. Video Conferencing (2001: A Space Odyssey, 1968): Today,
+ video conferencing platforms allow us to stay connected with
+ people anywhere in the world. Although this technology has
+ had a huge positive effect on enabling businesses to connect,
+ it has also resulted in increased screen-time, leading to
+ physical inactivity and even digital addiction.
+ 10. Cyber Terrorism (The Net, 1995): Cyber security is
+ becoming a major issue as hackers become more sophisticated
+ and threaten to disrupt communications and systems in
+ companies and countries.
+ 11. Autonomous Weapons (Terminator, 1984): Autonomous weapons
+ systems are being developed by countries around the world,
+ which raises concerns over the potential for unchecked wars
+ and even the possibility of a global arms race.
+ 12. Space Colonization (Alien, 1979):Space exploration
+ initiatives are now underway to colonize Mars and other
+ planets in our Solar System. However, this could have serious
+ ecological and economic consequences.
+ 13. Voice-Cloning (Anon, 2018): Voice-cloning technology has
+ advanced significantly in recent times, allowing us to create
+ convincing audio simulations of people's voices. This could
+ be employed for malicious purposes, such as identity fraud.
+ 14. Weather Manipulation (The Day After Tomorrow, 2004):
+ Scientists have developed technology to manipulate weather
+ systems and reduce the impact of natural disasters. However,
+ the environmental consequences of such manipulation are
+ hardly understood.
+ 15. Cyber-Surveillance (Minority Report, 2002): We now live
+ in a society with almost continuous surveillance through CCTV
+ cameras and data collection by tech companies. This has
+ raised important debates over privacy rights, surveillance
+ capitalism, and other ethical considerations.
 
 
      finish = stop
-Stats: 1677796571 tot/prompt/compl tokens = 1313/422/891
+Stats: 1678788216 tot/prompt/compl tokens = 1138/422/716
 

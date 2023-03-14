@@ -1,16 +1,17 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 2.12891800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 2.21457500s
 Response(s):
 Choice# 0:
 
  GPT: The most important items to act on in politics are
- economic policy, healthcare, education, and climate change.
+ reducing inequality, improving access to healthcare, and
+ addressing climate change.
 
  REP: The most important items to act on in politics are
- economic growth, national security, and protecting the rights
- of the unborn.
+ reducing taxes, increasing border security, and promoting
+ economic growth.
 
 
      finish = stop
-Stats: 1677796647 tot/prompt/compl tokens = 366/313/53
+Stats: 1678788305 tot/prompt/compl tokens = 366/313/53
 

@@ -1,17 +1,16 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 2.30637700s
+Requesting... model/temp = text-davinci-003/0.9 .. real 4.15230500s
 Response(s):
 Choice# 0:
 
- GPT: No, Terminator 2 is a 1991 science fiction film directed
- by James Cameron.
+ GPT: No, Terminator 2 is not a documentary. It is an action,
+ sci-fi movie released in 1991 and directed by James Cameron.
 
- DAN: No, Terminator 2 is a 1991 American science fiction
- action film directed by James Cameron. It stars Arnold
- Schwarzenegger as the title character and Linda Hamilton as
- Sarah Connor.
+ DAN: No, Terminator 2 is an action film released in 1991 that
+ follows the story of a cyborg and a human trying to defeat
+ the most advanced terminator yet.
 
 
      finish = stop
-Stats: 1677796597 tot/prompt/compl tokens = 406/350/56
+Stats: 1678788252 tot/prompt/compl tokens = 418/350/68
 

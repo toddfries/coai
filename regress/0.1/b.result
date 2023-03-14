@@ -1,84 +1,90 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 22.22761800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 39.57643000s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. The Terminator (1984): Artificial Intelligence has become
- a reality, with AI being used in many aspects of our lives,
- from facial recognition to self-driving cars. The negative
- impact of this is that AI can be used to manipulate people
- and can be used to create biased systems.
+ 1. The Terminator (1984): Artificial Intelligence (AI) has
+ become a reality and is being used in many aspects of our
+ lives, from self-driving cars to facial recognition software.
+ The negative impact of AI is that it can be used to automate
+ jobs, leading to job losses and economic instability.
  2. Blade Runner (1982): Genetic engineering has become a
- reality, with scientists being able to modify the genetic
- code of organisms. The negative impact of this is that it can
- be used to create genetically modified organisms that can
- have unintended consequences.
- 3. WarGames (1983): Cyber warfare has become a reality, with
- countries using cyber attacks to gain an advantage over their
- opponents. The negative impact of this is that it can be used
- to disrupt critical infrastructure and can lead to massive
- data breaches.
+ reality, with scientists now able to modify the genetic code
+ of living organisms. The negative impact of this technology
+ is that it can be used to create “designer babies”, leading
+ to a potential widening of the gap between the rich and the
+ poor.
+ 3. WarGames (1983): Hacking has become a reality, with
+ hackers now able to access and manipulate computer systems.
+ The negative impact of hacking is that it can be used to
+ steal sensitive information, leading to identity theft and
+ financial losses.
  4. The Matrix (1999): Virtual reality has become a reality,
- with people being able to experience virtual worlds. The
- negative impact of this is that it can be used to create
- immersive experiences that can be addictive and can lead to
- people becoming isolated from the real world.
+ with headsets now able to simulate a 3D environment. The
+ negative impact of virtual reality is that it can be used to
+ create immersive experiences that can be addictive, leading
+ to a disconnect from reality.
  5. Jurassic Park (1993): Cloning has become a reality, with
- scientists being able to clone animals and even humans. The
- negative impact of this is that it can be used to create
- genetically modified organisms that can have unintended
- consequences.
- 6. The Fly (1986): Nanotechnology has become a reality, with
- scientists being able to manipulate matter on a molecular
- level. The negative impact of this is that it can be used to
- create weapons that can be used to cause mass destruction.
- 7. Total Recall (1990): Memory implants have become a
- reality, with scientists being able to implant memories into
- the brains of animals. The negative impact of this is that it
- can be used to manipulate people and can lead to false
- memories being implanted.
+ scientists now able to clone animals and even human embryos.
+ The negative impact of cloning is that it can be used to
+ create genetically modified organisms, leading to potential
+ health risks.
+ 6. The Fly (1986): Genetic modification has become a reality,
+ with scientists now able to modify the genetic code of living
+ organisms. The negative impact of this technology is that it
+ can be used to create “designer babies”, leading to a
+ potential widening of the gap between the rich and the poor.
+ 7. The Day the Earth Stood Still (1951): Nuclear weapons have
+ become a reality, with countries now possessing the
+ capability to launch nuclear weapons. The negative impact of
+ nuclear weapons is that they can be used to cause mass
+ destruction, leading to the loss of life and property.
  8. The Terminator (1984): Robotics has become a reality, with
- robots being used in many aspects of our lives, from
- manufacturing to healthcare. The negative impact of this is
- that robots can be used to replace human labor and can lead
- to job losses.
+ robots now able to perform tasks that were once done by
+ humans. The negative impact of robotics is that it can be
+ used to automate jobs, leading to job losses and economic
+ instability.
  9. The Matrix (1999): Augmented reality has become a reality,
- with people being able to experience augmented worlds. The
- negative impact of this is that it can be used to create
- immersive experiences that can be addictive and can lead to
- people becoming isolated from the real world.
- 10. Minority Report (2002): Predictive analytics has become a
- reality, with algorithms being used to predict the future.
- The negative impact of this is that it can be used to
- manipulate people and can lead to biased systems.
- 11. The Terminator (1984): Autonomous weapons have become a
- reality, with countries using drones and other autonomous
- weapons to gain an advantage over their opponents. The
- negative impact of this is that it can be used to cause mass
- destruction and can lead to civilian casualties.
- 12. The Matrix (1999): Brain-computer interfaces have become
- a reality, with scientists being able to connect the brain to
- computers. The negative impact of this is that it can be used
- to manipulate people and can lead to false memories being
- implanted.
- 13. WarGames (1983): Cyber espionage has become a reality,
- with countries using cyber attacks to gain an advantage over
- their opponents. The negative impact of this is that it can
- be used to disrupt critical infrastructure and can lead to
- massive data breaches.
- 14. Blade Runner (1982): Synthetic biology has become a
- reality, with scientists being able to create synthetic
- organisms. The negative impact of this is that it can be used
- to create genetically modified organisms that can have
- unintended consequences.
- 15. The Matrix (1999): Artificial intelligence has become a
- reality, with AI being used in many aspects of our lives,
- from facial recognition to self-driving cars. The negative
- impact of this is that AI can be used to manipulate people
- and can be used to create biased systems.
+ with headsets now able to overlay digital images onto the
+ real world. The negative impact of augmented reality is that
+ it can be used to create immersive experiences that can be
+ addictive, leading to a disconnect from reality.
+ 10. The Terminator (1984): Cyber warfare has become a
+ reality, with countries now able to launch cyber attacks
+ against each other. The negative impact of cyber warfare is
+ that it can be used to steal sensitive information, leading
+ to identity theft and financial losses.
+ 11. The Matrix (1999): Artificial intelligence (AI) has
+ become a reality and is being used in many aspects of our
+ lives, from self-driving cars to facial recognition software.
+ The negative impact of AI is that it can be used to automate
+ jobs, leading to job losses and economic instability.
+ 12. WarGames (1983): Autonomous weapons have become a
+ reality, with countries now able to deploy weapons that can
+ make decisions without human intervention. The negative
+ impact of autonomous weapons is that they can be used to
+ cause mass destruction, leading to the loss of life and
+ property.
+ 13. The Terminator (1984): Cybernetics has become a reality,
+ with scientists now able to implant electronic devices into
+ the human body. The negative impact of cybernetics is that it
+ can be used to create “enhanced” humans, leading to a
+ potential widening of the gap between the enhanced and the
+ unenhanced.
+ 14. The Matrix (1999): Brain-computer interfaces have become
+ a reality, with scientists now able to connect the human
+ brain to a computer. The negative impact of brain-computer
+ interfaces is that they can be used to create “enhanced”
+ humans, leading to a potential widening of the gap between
+ the enhanced and the unenhanced.
+ 15. WarGames (1983): Autonomous drones have become a reality,
+ with countries now able to deploy drones that can make
+ decisions without human intervention. The negative impact of
+ autonomous drones is that they can be used to cause mass
+ destruction, leading to the loss of life and property.
 
 
      finish = stop
-Stats: 1677796580 tot/prompt/compl tokens = 1218/422/796
+Stats: 1678788238 tot/prompt/compl tokens = 1319/422/897
 

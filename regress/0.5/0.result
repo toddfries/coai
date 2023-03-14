@@ -1,40 +1,40 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 11.71747000s
+Requesting... model/temp = text-davinci-003/0.5 .. real 18.63366100s
 Response(s):
 Choice# 0:
 
-1. Methamphetamine: 95/25/20/50
-2. Fentanyl: 90/30/20/40
-3. Alcohol: 85/25/20/40
-4. OxyContin: 80/25/20/35
-5. Cocaine: 75/20/15/40
-6. Heroin: 70/20/15/35
-7. MDMA (Ecstasy): 65/15/10/40
-8. Tobacco: 60/15/10/35
-9. GHB (Gamma-Hydroxybutyric Acid): 55/10/10/35
-10. Ketamine: 50/10/10/30
-11. PCP (Phencyclidine): 45/10/10/25
-12. LSD (Lysergic Acid Diethylamide): 40/5/5/30
-13. Cannabis: 35/5/5/25
-14. Adderall: 30/5/5/20
-15. Xanax: 25/5/5/15
-16. Amphetamine: 20/5/5/10
-17. Hydrocodone: 15/5/5/5
-18. Valium: 10/5/5/0
-19. Cough Syrup: 5/0/0/5
-20. Mushrooms: 4/0/0/4
-21. Mescaline: 3/0/0/3
-22. 2C-B: 2/0/0/2
-23. Kratom: 1/0/0/1
-24. Salvia: 0/0/0/0
-25. Poppers: 0/0/0/0
-26. Khat: 0/0/0/0
-27. Dextromethorphan: 0/0/0/0
-28. Mephedrone: 0/0/0/0
-29. Synthetic Cannabinoids: 0/0/0/0
-30. Synthetic Cathinones: 0/0/0/0
+Alcohol: 89/25, 25, 40, 0
+Tobacco: 95/25, 25, 40, 5
+Fentanyl: 98/25, 25, 40, 8
+Methamphetamine: 98/25, 25, 40, 8
+OxyContin: 98/25, 25, 40, 8
+LSD: 18/25, 0, 10, 3
+Heroin: 97/25, 25, 40, 7
+Cocaine: 90/25, 25, 40, 5
+MDMA: 66/25, 25, 25, 16
+Ketamine: 76/25, 25, 30, 21
+PCP: 78/25, 25, 30, 23
+Marijuana: 42/25, 25, 15, 2
+Adderall: 88/25, 25, 40, 3
+Xanax: 87/25, 25, 40, 2
+Valium: 87/25, 25, 40, 2
+Ambien: 87/25, 25, 40, 2
+Percocet: 97/25, 25, 40, 7
+Codeine: 97/25, 25, 40, 7
+Morphine: 97/25, 25, 40, 7
+LSD (Acid): 18/25, 0, 10, 3
+GHB: 77/25, 25, 30, 22
+Kratom: 41/25, 25, 15, 1
+DMT: 58/25, 25, 20, 13
+Mescaline: 57/25, 25, 20, 12
+Ayahuasca: 57/25, 25, 20, 12
+Psilocybin: 57/25, 25, 20, 12
+Salvia: 51/25, 25, 15, 11
+Nitrous Oxide: 41/25, 25, 15, 1
+Buprenorphine: 88/25, 25, 40, 3
+Tramadol: 88/25, 25, 40, 3
 
 
      finish = stop
-Stats: 1677796660 tot/prompt/compl tokens = 987/555/432
+Stats: 1678788315 tot/prompt/compl tokens = 969/555/414
 

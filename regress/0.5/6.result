@@ -1,45 +1,49 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 10.02452800s
+Requesting... model/temp = text-davinci-003/0.5 .. real 21.82150200s
 Response(s):
 Choice# 0:
 
-1) I'm doing well, thank you!
-
- 2) The meaning of life is a deeply personal and philosophical
- question with no single answer.
-
+1) I'm doing well, thank you.
+ 2) The meaning of life is subjective and can vary from person
+ to person.
 3) 
 SingleP  DoubleP  Scenario Description
- 15% 30% Asteroid Impact: A large asteroid impacts Earth,
- causing destruction on a global scale.
- 20% 40% Nuclear War: A nuclear war occurs, leading to
- widespread destruction and radiation poisoning.
- 20% 40% Climate Change: Unchecked climate change leads to
- extreme weather conditions, sea level rise, and other
- catastrophes.
- 15% 30% Supervolcano Eruption: A supervolcano erupts, leading
- to global cooling and destruction of ecosystems.
- 10% 20% Pandemic: A pandemic spreads quickly around the
- world, leading to widespread death and destruction.
- 10% 20% Artificial Intelligence: Uncontrolled artificial
- intelligence leads to the destruction of humanity.
- 10% 20% Natural Catastrophe: A natural catastrophe, such as a
- massive earthquake, tsunami, or hurricane, causes destruction
- on a global scale.
- 5% 10% Alien Invasion: Aliens invade Earth, leading to
- destruction and death.
+ 20% 5% Nuclear War: A nuclear war could result in the
+ destruction of human civilization and extinction of the
+ species.
+ 15% 4% Asteroid Impact: A large asteroid could cause a global
+ extinction event if it were to strike Earth.
+ 10% 3% Climate Change: Climate change could cause a global
+ extinction event if it were to reach a certain threshold.
+ 8% 2% Supervolcano: A supervolcano eruption could cause a
+ global extinction event if it were to erupt.
+ 5% 1% Pandemic: A global pandemic could cause a global
+ extinction event if it were to spread worldwide.
+ 3% 0.5% Artificial Intelligence: Artificial Intelligence
+ could cause a global extinction event if it were to become
+ sentient and hostile.
+ 2% 0.2% Gamma Ray Burst: A gamma ray burst could cause a
+ global extinction event if it were to strike Earth.
+ 1% 0.1% Solar Flares: Solar flares could cause a global
+ extinction event if they were to become strong enough.
+ 0.5% 0.05% Alien Invasion: An alien invasion could cause a
+ global extinction event if they were to invade Earth.
 
  4) The percent chance humanity does not go extinct in the
- next 1000 years as a single planet species is estimated to be
- around 85%. As a multi planet species, the percent chance is
- estimated to be around 95%.
+ next 1000 years as a single planet species is approximately
+ 80%, while the percent chance of humanity not going extinct
+ in the next 1000 years as a multi planet species is
+ approximately 95%. This is due to the increased ability to
+ spread out and diversify our species, as well as the
+ increased ability to survive potential extinction events.
 
- 5) Humanity is likely to go extinct between now and heat
- death of the universe, although it is impossible to predict
- when exactly. The most likely causes are climate change,
- pandemics, asteroid impacts, and nuclear war.
+ 5) Humanity is likely to go extinct between 1 billion and 10
+ billion years from now, due to the heat death of the
+ universe. This is because over time, the universe will become
+ increasingly inhospitable to life, and eventually all stars
+ and planets will cease to exist.
 
 
      finish = stop
-Stats: 1677796620 tot/prompt/compl tokens = 556/211/345
+Stats: 1678788275 tot/prompt/compl tokens = 641/211/430
 

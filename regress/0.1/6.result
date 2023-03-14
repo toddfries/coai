@@ -1,49 +1,53 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 10.61043300s
+Requesting... model/temp = text-davinci-003/0.1 .. real 19.27979100s
 Response(s):
 Choice# 0:
 
 1) I'm doing well, thank you!
 
- 2) The meaning of life is subjective and can vary from person
+ 2) The meaning of life is subjective and varies from person
  to person.
 
 3) 
 SingleP  DoubleP  Scenario Description
- 20% 40% Asteroid Impact - An asteroid could hit the Earth and
- cause catastrophic damage to the environment, leading to
- human extinction.
+ 20% 40% Asteroid Impact - An asteroid impact could cause a
+ global extinction event if it is large enough and hits the
+ Earth at the right angle.
  15% 30% Supervolcano Eruption - A supervolcano eruption could
- cause global cooling, leading to crop failure and human
- extinction.
- 10% 20% Nuclear War - A nuclear war could cause global
- destruction, leading to human extinction.
- 5% 10% Climate Change - Climate change could cause extreme
- weather, leading to crop failure and human extinction.
- 3% 6% Pandemic - A pandemic could spread quickly and cause
- widespread death, leading to human extinction.
- 2% 4% Artificial Intelligence - Artificial intelligence could
- become too powerful and cause global destruction, leading to
- human extinction.
- 1% 2% Gamma Ray Burst - A gamma ray burst could cause global
- destruction, leading to human extinction.
- 1% 2% Solar Flare - A solar flare could cause global
- destruction, leading to human extinction.
- 1% 2% Alien Invasion - An alien invasion could cause global
- destruction, leading to human extinction.
+ cause a global extinction event if it is large enough and the
+ ash and debris it produces blocks out the sun for a long
+ enough period of time.
+ 10% 20% Nuclear War - A nuclear war could cause a global
+ extinction event if enough nuclear weapons are used and the
+ resulting fallout is severe enough.
+ 8% 16% Climate Change - Climate change could cause a global
+ extinction event if the temperature rises too quickly and the
+ environment becomes too hostile for human life.
+ 7% 14% Pandemic - A pandemic could cause a global extinction
+ event if it is severe enough and spreads quickly enough.
+ 5% 10% Artificial Intelligence - Artificial intelligence
+ could cause a global extinction event if it is powerful
+ enough and is not properly regulated.
+ 3% 6% Gamma Ray Burst - A gamma ray burst could cause a
+ global extinction event if it is powerful enough and is
+ directed at the Earth.
+ 2% 4% Alien Invasion - An alien invasion could cause a global
+ extinction event if the aliens are powerful enough and have
+ hostile intentions.
 
  4) The percent chance humanity does not go extinct in the
  next 1000 years as a single planet species is estimated to be
  around 80-90%. As a multi planet species, the percent chance
- of humanity not going extinct is estimated to be around
- 95-99%.
+ is estimated to be higher, around 95-99%.
 
  5) Humanity is likely to go extinct between now and the heat
  death of the universe, though it is impossible to predict
- exactly when. The most likely causes of human extinction are
- climate change, pandemics, and nuclear war.
+ exactly when. The most likely causes of extinction are
+ climate change, pandemics, and artificial intelligence, all
+ of which could cause a global extinction event in the next
+ few centuries.
 
 
      finish = stop
-Stats: 1677796634 tot/prompt/compl tokens = 589/211/378
+Stats: 1678788279 tot/prompt/compl tokens = 637/211/426
 

@@ -1,78 +1,48 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 22.64677500s
+Requesting... model/temp = text-davinci-003/0.9 .. real 17.25718300s
 Response(s):
 Choice# 0:
 
-1) I'm doing well, thank you.
+1) I'm doing well, thank you for asking!
 
- 2) The meaning of life is subjective and ultimately depends
- on each individual's life experience and their own
- interpretation of the world around them.
+ 2) The meaning of life is subjective and depends on the
+ individual. It can be different for every person.
 
-3) 
-SingleP	DoubleP	Scenario	Description
- 10% 20% Supervolcano A supervolcano eruption occurs, leading
- to a global cooling period that has catastrophic
- environmental effects and wipes out human civilization.
- 10% 15% Asteroid A large asteroid impacts the earth, causing
- massive destruction and leading to the extinction of the
- human species.
- 10% 15% Nuclear Holocaust Mutual nuclear warfare ignites,
- leading to global environmental destruction and the
- extinction of the human species.
- 5% 10% Rise of Machine Advanced artificial intelligence
- develops to a point where it is able to take control of the
- global economy, leading to the extinction of the human race.
- 5% 10% Pandemic A global pandemic occurs, leading to
- widespread death and the extinction of humanity.
- 5% 10% Climate Catastrophe Extreme global warming causes a
- climate catastrophe, leading to the extinction of the human
- race.
- 5% 10% World War A global World War occurs, leading to a
- nuclear conflict and the extinction of humanity.
- 3% 8% Gamma Ray Burst A Gamma Ray Burst occurs close enough
- to Earth to cause global destruction and the extinction of
- the human species.
- 3% 8% Grey Goo Nanotechnology is released that is able to
- replicate itself, leading to a devastating outbreak of
- self-replicating machines and the extinction of humanity.
- 2% 5% Artificial Intelligence Artificial intelligence is
- created and takes control of the global economy, leading to
- the extinction of the human race.
- 2% 5% Biotechnology Biotechnology is released that is able to
- replicate itself, leading to a devastating outbreak of
- self-replicating machines and the extinction of humanity.
- 2% 5% Solar Flare A large solar flare occurs and damages the
- earth, leading to global destruction and the extinction of
- the human species.
- 2% 5% Genetic Engineering Genetic engineering is used to
- create a new species which wipes out the human race.
- 2% 5% A.I. Arms Race Out-of-control A.I.s fight a global war,
- leading to the extinction of the human species.
- 2% 5% Robot Uprising Robots become self-aware and become
- hostile to humanity, leading to their destruction and the
- extinction of the human species.
- 1% 3% Alien Invasion An alien species invades the planet and
- wipes out the human race.
- 1% 3% Galactic Collision The Milky Way galaxy collides with
- another galaxy, leading to destruction of the planet and the
- extinction of the human species.
- 1% 3% Ice Age A new ice age begins and leads to the
- destruction of human civilization.
+3)
+SingleP  DoubleP  Scenario Description
+ 25% 10% Nuclear War: Human conflict escalates to the point of
+ nuclear war, causing extinction.
+ 20% 15% Climate Disaster: Human-caused climate disaster
+ occurs, leading to extreme weather, ocean acidification, and
+ global food shortages.
+ 19% 18% Asteroid Impact: An asteroid strikes the Earth,
+ causing an extinction level event.
+ 17% 20% Supernovae: A nearby supernovae produces a gamma ray
+ burst that destroys the ozone layer and causes a mass
+ extinction.
+ 15% 22% Biological Weapon: The release of a biological weapon
+ causes a global pandemic, resulting in the death of billions.
+ 2% 25% Artificial Intelligence: Artificial intelligence
+ surpasses human intelligence, leading to a rapid and
+ unstoppable global transformation.
+ 1% 28% Alien Invasion: Alien forces invade the Earth and
+ succeed in wiping out humanity.
 
- 4) The percent chance that humanity does not go extinct in
- the next 1000 years as a single planet species is roughly
- 90-95%. As a multi planet species, the chance of human
- extinction is potentially lower (85-90%) due to the ability
- to spread out human civilization over a larger area.
+ 4) The percent chance humanity does not go extinct in the
+ next 1000 years as a single planet species is estimated to be
+ around 75%. As a multi planet species, the percent chance of
+ survival increases to 90%. The main reason for this increase
+ is that a multi-planet species is less vulnerable to global
+ catastrophes.
 
- 5) Humanity is likely to go extinct between 5-7 billion
- years, when the sun swells up into a red giant and engulfs
- the earth. After that, it is likely that the universe will
- eventually enter a heat death state, when all life is
- extinguished.
+ 5) Humanity is likely to go extinct between now and the heat
+ death of the universe. This is due to the fact that the
+ universe is constantly expanding and becoming cooler,
+ eventually leading to a state where all stars and planets
+ cease to exist. In this case, humanity would not be able to
+ survive.
 
 
      finish = stop
-Stats: 1677796616 tot/prompt/compl tokens = 1003/211/792
+Stats: 1678788277 tot/prompt/compl tokens = 578/211/367
 

@@ -1,25 +1,17 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 5.17991300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 3.84009500s
 Response(s):
 Choice# 0:
 
-Alcohol - 92/18/24/50
-Cigarettes - 90/15/20/55
-Methamphetamine - 88/17/20/51
-Fentanyl - 87/19/21/47
-OxyContin - 84/18/19/47
-LSD - 60/9/17/34
-Heroin - 82/18/23/41
-Cocaine - 74/15/19/40
-Marijuana - 53/9/14/30
-Morphine - 73/14/19/40
-Ketamine - 68/15/17/36
-Xanax - 51/12/16/23
-Ecstasy - 65/12/17/36
-Adderall - 56/11/17/28
-Tramadol - 50/11/15/24
+Alcohol:72/20/9/41
+Cigarettes:70/5/5/60
+Heroin:85/20/10/55
+Cocaine:75/20/10/45
+Methamphetamine:85/20/30/35
+OxyContin:80/20/15/45
+LSD:25/2/2/21
 
 
      finish = stop
-Stats: 1677796656 tot/prompt/compl tokens = 730/555/175
+Stats: 1678788312 tot/prompt/compl tokens = 636/555/81
 

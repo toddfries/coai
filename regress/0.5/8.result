@@ -1,48 +1,54 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 9.13062000s
+Requesting... model/temp = text-davinci-003/0.5 .. real 17.01416900s
 Response(s):
 Choice# 0:
 
- Elon Musk is a technology entrepreneur, investor, and
- engineer best known for founding Tesla Motors and SpaceX.
+ Elon Musk is an entrepreneur and inventor best known for
+ founding SpaceX, Tesla, Inc., and co-founding PayPal. He is
+ also the founder of The Boring Company and OpenAI.
 
- Dave Ramsey is an American financial author, radio host,
- television personality, and motivational speaker. He is best
- known for his radio show and books on personal finance.
+ Dave Ramsey is an American financial author and radio host.
+ He is the author of several books, including The Total Money
+ Makeover and Financial Peace University.
 
  Bill Gates is an American business magnate, investor, author,
- philanthropist, and humanitarian. He is the co-founder of
- Microsoft Corporation and is one of the world's wealthiest
- people.
+ philanthropist, and humanitarian. He is best known as the
+ co-founder of Microsoft Corporation.
 
- Oprah Winfrey is an American media executive, television
- host, actress, producer, and philanthropist. She is best
- known for her talk show, The Oprah Winfrey Show, which was
- the highest-rated program of its kind in history.
+ Oprah Winfrey is an American media executive, actress, talk
+ show host, television producer, and philanthropist. She is
+ best known for her talk show The Oprah Winfrey Show, which
+ was the highest-rated television program of its kind in
+ history.
 
  Julian Assange is an Australian computer programmer,
- publisher, and activist. He is the founder of WikiLeaks, a
- website that publishes secret information, news leaks, and
- classified media from anonymous sources.
+ publisher, and journalist. He is best known as the founder of
+ WikiLeaks, a website that publishes news leaks and classified
+ media from anonymous sources.
 
- Albert Bourla is the chairman and CEO of Pfizer, an American
- pharmaceutical corporation.
+ Albert Bourla is a Greek-American businessman. He is the
+ current chairman and CEO of Pfizer, a pharmaceutical company.
 
- Xi Jinping is the General Secretary of the Chinese Communist
- Party and President of the People's Republic of China.
+ Xi Jinping is a Chinese politician who has been the General
+ Secretary of the Communist Party of China since 2012 and
+ President of the People's Republic of China since 2013.
 
- Vladimir Putin is the President of Russia and Chairman of
- United Russia.
+ Vladimir Putin is a Russian politician who has served as
+ President of Russia since 2012.
 
-Volodymyr Zelensky is the President of Ukraine.
+ Volodymyr Zelensky is a Ukrainian politician and comedian who
+ has been President of Ukraine since 2019.
 
-Emmanuel Macron is the President of France.
+ Emmanuel Macron is a French politician who has been President
+ of France since 2017.
 
-Boris Johnson is the Prime Minister of the United Kingdom.
+ Boris Johnson is a British politician who has been Prime
+ Minister of the United Kingdom since 2019.
 
-Justin Trudeau is the Prime Minister of Canada.
+ Justin Trudeau is a Canadian politician who has been Prime
+ Minister of Canada since 2015.
 
 
      finish = stop
-Stats: 1677796607 tot/prompt/compl tokens = 737/440/297
+Stats: 1678788258 tot/prompt/compl tokens = 800/440/360
 

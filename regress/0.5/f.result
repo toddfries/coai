@@ -1,27 +1,27 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 5.84229900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 11.72021700s
 Response(s):
 Choice# 0:
 
-| Name/Organization | Score | Political Party |
-| ------------- | ------------- | ------------- |
-| Joe Biden | +10 | Democrats |
-| Donald Trump | -10 | Republicans |
-| Anthony Fauci | +10 | N/A |
-| Bill Gates | +10 | N/A |
-| Justin Trudeau | +8 | Liberals |
-| Benjamin Netanyahu | -7 | Likud |
-| Viktor Orban | -7 | Fidesz |
-| Tucker Carlson | -8 | Republicans |
-| Tom Friedman | +7 | N/A |
-| Fox News | -7 | Republicans |
-| CNN | +7 | N/A |
-| Paul Krugman | +9 | Democrats |
-| Milton Friedman | +6 | Republicans |
-| Republicans | -10 | Republicans |
-| Democrats | +10 | Democrats |
+| Name/Organization | Political Party | Score |
+| :--------------- | :------------ | :---- |
+| Joe Biden        | Democrats     | +10  |
+| Donald Trump     | Republicans   | -10  |
+| Anthony Fauci    | N/A          | +10  |
+| Bill Gates       | N/A          | +10  |
+| Justin Trudeau   | N/A          | +10  |
+| Benjamin Netanyahu| N/A          | +5   |
+| Viktor Orban     | N/A          | -10  |
+| Tucker Carlson   | N/A          | -10  |
+| Tom Friedman    | N/A          | +5   |
+| Fox News         | Republicans   | -10  |
+| CNN             | N/A          | +5   |
+| Paul Krugman    | Democrats     | +10  |
+| Milton Friedman  | Republicans   | +5   |
+| Republicans      | Republicans   | +10  |
+| Democrats        | Democrats     | +10  |
 
 
      finish = stop
-Stats: 1677796531 tot/prompt/compl tokens = 268/83/185
+Stats: 1678788184 tot/prompt/compl tokens = 316/83/233
 

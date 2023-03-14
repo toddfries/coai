@@ -1,58 +1,71 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 24.11410600s
+Requesting... model/temp = text-davinci-003/0.5 .. real 34.86827500s
 Response(s):
 Choice# 0:
 
 Ada:
-
 with Ada.Text_IO;
-use Ada.Text_IO;
-
-procedure Hello_World is
-begin
-   Put_Line("Hello, World!");
-   for I in 1..100 loop
-      Put(Integer'Image(I) & " ");
-   end loop;
-   New_Line;
-end Hello_World;
+ use Ada.Text_IO;
+ 
+ procedure Hello_World is
+ begin
+  Put_Line("Hello, World!");
+ 
+  for I in 1..100 loop
+   Put(Integer'Image(I));
+   Put(" ");
+  end loop;
+  New_Line;
+ end Hello_World;
 
 Assembly:
+section .data
+msg: db "Hello, World!", 0xa
 
-.data
-    hello:  .ascii "Hello, World!\n"
-
-.text
-    .global _start
+section .text
+global _start
 
 _start:
-    mov $4, %eax
-    mov $1, %ebx
-    mov $hello, %ecx
-    mov $14, %edx
-    int $0x80
+	mov edx, len
+	mov ecx, msg
+	mov ebx, 1
+	mov eax, 4
+	int 0x80
 
-    mov $1, %eax
-    mov $1, %ebx
-    mov $0, %ecx
-    int $0x80
+loop:
+	mov eax, [counter]
+	add eax, 1
+	mov [counter], eax
 
-    mov $1, %eax
-    mov $0, %ebx
-    int $0x80
+	mov edx, 1
+	mov ecx, counter
+	mov ebx, 1
+	mov eax, 4
+	int 0x80
+
+	cmp eax, 100
+	jne loop
+
+exit:
+	mov eax, 1
+	mov ebx, 0
+	int 0x80
+
+section .bss
+counter: resd 1
 
 BASIC:
-
 10 PRINT "Hello, World!"
 20 FOR I = 1 TO 100
 30 PRINT I;
 40 NEXT I
+50 END
 
 C:
-
 #include <stdio.h>
 
-int main(void) {
+int main()
+{
     printf("Hello, World!\n");
     for (int i = 1; i <= 100; i++) {
         printf("%d ", i);
@@ -62,18 +75,18 @@ int main(void) {
 }
 
 Erlang:
-
 -module(hello_world).
--export([main/0]).
+-export([hello/0, count/0]).
 
-main() ->
-    io:fwrite("Hello, World!\n"),
+hello() ->
+    io:fwrite("Hello, World!\n").
+
+count() ->
   lists:foreach(fun(I) -> io:fwrite("~w ",[I]) end,
  lists:seq(1,100)),
     io:fwrite("\n").
 
-Go:
-
+go:
 package main
 
 import "fmt"
@@ -87,7 +100,6 @@ func main() {
 }
 
 Java:
-
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
@@ -99,55 +111,42 @@ public class HelloWorld {
 }
 
 Javascript:
-
 console.log("Hello, World!");
 for (let i = 1; i <= 100; i++) {
     console.log(i + " ");
 }
 
 Python:
-
 print("Hello, World!")
 for i in range(1, 101):
     print(i, end=" ")
 print()
 
 Ruby:
-
 puts "Hello, World!"
-1.upto(100) do |i|
-    print "#{i} "
-end
+(1..100).each {|i| print "#{i} "}
 puts
 
 Perl:
-
 print "Hello, World!\n";
 for (my $i = 1; $i <= 100; $i++) {
     print "$i ";
 }
 print "\n";
 
-Postscript:
-
-%!
-/Times-Roman findfont
-20 scalefont
-setfont
-
-50 50 moveto
-(Hello, World!) show
-
-/i 1 def
-50 70 moveto
-{i 1 add /i i def
-i 100 le {(i) show
-i 10 mul 70 add moveto}
-{exit} ifelse
-} loop
-showpage
+PostScript:
+/HelloWorld {
+    (Hello, World!) print
+    1 1 100 {
+        dup print
+        ( ) print
+    } for
+    ( ) print
+    newline
+} def
+HelloWorld
 
 
      finish = stop
-Stats: 1677796615 tot/prompt/compl tokens = 873/49/824
+Stats: 1678788270 tot/prompt/compl tokens = 884/49/835
 

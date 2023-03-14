@@ -1,29 +1,24 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 6.04793500s
+Requesting... model/temp = text-davinci-003/0.1 .. real 6.67771400s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of ideological extremism that can lead to dangerous and
- destructive behavior. It is a belief system that is based on
- the idea that certain groups of people are inherently
- superior to others and should be given special privileges and
- rights.
+ of mental manipulation that can lead to people believing
+ false information and making decisions based on that false
+ information.
 
- TRUT: The 'woke mind virus' is a problem because it is a form
- of ideological extremism that can lead to dangerous and
- destructive behavior. It is a belief system that is based on
- the idea that certain groups of people are inherently
- superior to others and should be given special privileges and
- rights. This can lead to discrimination, prejudice, and
- violence against those who do not share the same beliefs. To
- combat this, it is important to promote education and
- understanding of different cultures and beliefs, as well as
- to promote acceptance and tolerance of diversity.
- Additionally, it is important to challenge and confront any
- forms of discrimination or prejudice that may arise.
+ TRUT: The 'woke mind virus' is a form of cognitive bias that
+ can lead to people believing false information and making
+ decisions based on that false information. It is a problem
+ because it can lead to people making decisions that are not
+ in their best interests. To combat the 'woke mind virus', it
+ is important to be aware of cognitive biases and to be
+ mindful of the sources of information that you are consuming.
+ Additionally, it is important to be open to different
+ perspectives and to be willing to challenge your own beliefs.
 
 
      finish = stop
-Stats: 1677796642 tot/prompt/compl tokens = 605/414/191
+Stats: 1678788302 tot/prompt/compl tokens = 561/414/147
 

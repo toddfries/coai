@@ -1,21 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 4.38219600s
+Requesting... model/temp = text-davinci-003/0.5 .. real 6.45846400s
 Response(s):
 Choice# 0:
 
- The "woke mind virus" is a term used to describe the spread
- of
-ideas and beliefs that are seen as progressive or socially
-liberal. It is seen as a problem because it can lead to
-polarization of opinions, which can make it difficult to
-reach consensus or compromise. It can also lead to people
-taking extreme positions on issues and not considering the
-views of others. To combat the spread of the "woke mind
-virus," it is important to be open-minded, listen to
-different opinions, and take a balanced approach to
-discussions.
+ GPT: The 'woke mind virus' is a term used to describe a
+ mindset that is focused on promoting social justice causes
+ and advocating for change. It is seen as a problem because
+ some people believe that it is leading to a decrease in
+ critical thinking and an increase in censorship and
+ groupthink.
+
+ TRUT: The 'woke mind virus' is a popular term used to
+ describe a mindset that focuses on social justice causes,
+ often at the expense of critical thinking and free speech. It
+ is seen as a problem because it can lead to censorship,
+ groupthink, and a decrease in the ability to have meaningful
+ conversations and debates. To address the issue, people
+ should focus on developing critical thinking skills and
+ encouraging open dialogue.
 
 
      finish = stop
-Stats: 1677796637 tot/prompt/compl tokens = 536/414/122
+Stats: 1678788295 tot/prompt/compl tokens = 561/414/147
 

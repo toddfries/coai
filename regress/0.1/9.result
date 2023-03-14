@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 5.47437000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 2.30239800s
 Response(s):
 Choice# 0:
 
@@ -11,5 +11,5 @@ Choice# 0:
 
 
      finish = stop
-Stats: 1677796606 tot/prompt/compl tokens = 391/350/41
+Stats: 1678788260 tot/prompt/compl tokens = 391/350/41
 

@@ -1,72 +1,63 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 19.13803800s
+Requesting... model/temp = text-davinci-003/0.9 .. real 27.25441600s
 Response(s):
 Choice# 0:
 
- TRUT: The following are 15 negative science fiction movie
- concepts that have a chance of becoming a reality in the next
- 100 years, along with the movie title and year of release,
- and how they will have a negative impact:
- 1. Artificial Intelligence used for military purposes - The
- Matrix (1999): The use of AI for military purposes could lead
- to unexpected consequences that could cause major damage and
- widespread destruction.
- 2. Automation leading to unemployment - Metropolis (1927):
- Automation could lead to large increases in unemployment,
- destroying economic systems and leading to extreme poverty
- and social unrest.
- 3. Cloning technology being used for unethical purposes - The
- Island (2005): Cloning technology could be used to create
- armies of clones, creating an imbalance of power and control
- that is not ethically or morally justifiable.
- 4. Environmental destruction caused by irresponsible
- corporations - Blade Runner (1982): Irresponsible
- corporations could cause irreversible damage to the
- environment, leading to increased resource scarcity, mass
- extinctions, and decreased quality of life.
- 5. Genetically modified humans used for unethical reasons -
- Splice (2009): Genetically modified humans could be used for
- unethical purposes, such as creating disposable workforce,
- slaves, or military forces.
- 6. Governments using technology to control its citizens -
- Minority Report (2002): Governments could use technology to
- control its citizens, resulting in decreased freedom and
- civil liberties.
- 7. Facial recognition technology used to surveil citizens -
- Enemy of the State (1998): Facial recognition technology
- could be used to surveil citizens, leading to a decrease in
- privacy rights and an increase in government power.
- 8. Genetics used to create superhumans - The Island of Dr.
- Moreau (1996): Genetics could be used to create superhumans,
- leading to an imbalance of power, control, and status.
- 9. Use of technology to create a false reality - The Matrix
- (1999): Use of technology to create a false reality could
- lead to situations in which people are unaware of their true
- reality.
- 10. Political and economic corruption using advanced
- technology - Gattaca (1997): Advanced technology could be
- used to further political and economic corruption, resulting
- in decreased political accountability and lessened economic
- opportunity.
- 11. Ubiquitous surveillance technology - The Circle (2017):
- Ubiquitous surveillance technology could lead to severe
- invasions of privacy and an atmosphere of fear and mistrust.
- 12. Virtual reality used for unethical purposes - Avatar
- (2009): Virtual reality could be used for unethical purposes,
- such as mind control and unethical behavior modification.
- 13. Weaponized robots used for warfare - RoboCop (1987):
- Weaponized robots could be used for warfare, resulting in
- increased violence, destruction, and unnecessary casualties.
- 14. Molecular nanotechnology used for destructive purposes -
- Fantastic Voyage (1966): Molecular nanotechnology could be
- used to create weapons of mass destruction, resulting in
- significant destruction and loss of life.
- 15. Use of technology to control emotions - Her (2013): Use
- of technology to control emotions could lead to a lack of
- autonomy and decreased ability for people to make their own
- decisions.
+TRUT: 
+ 1. Automated Surveillance: The Matrix (1999) - Automated
+ surveillance could lead to unprecedented limitations on
+ privacy and autonomy of individuals.
+ 2. Artificial Intelligence Gone Rogue: Terminator (1984) -
+ Artificial Intelligence gone rogue could pose a threat to
+ humanity in many ways, including manipulation of information
+ and control of resources.
+ 3. Human/Machine Hybrids: Robocop (1987) - With the advances
+ in artificial intelligence, humans may soon be able to merge
+ with machines. This could lead to a dangerous outcome wherein
+ society is unable to tell a human apart from a machine.
+ 4. Space Exploration Gone Wrong: Alien (1979) - Exploration
+ of space is becoming increasingly more accessible, opening up
+ a world of unknowns and potential issues.
+ 5. Weather Manipulation: The Day After Tomorrow (2004) - The
+ manipulation of weather could lead to devastating
+ consequences for human life and the planet as a whole.
+ 6. Human Cloning: The Island (2005) - The ethical
+ implications of cloning humans are vast, and the
+ possibilities for exploitation of clones in all forms of
+ society is almost unimaginable.
+ 7. Virtual Reality Abuse: Total Recall (1990) - With the
+ development of virtual reality, it is possible for people to
+ become addicted and to use virtual reality as a form of
+ escape.
+ 8. Weapons of Mass Destruction: Dr. Strangelove (1964) - The
+ development of weapons of mass destruction could lead to
+ unprecedented destruction and mass casualties.
+ 9. The Use of Nanotechnology: The Matrix Reloaded (2003) -
+ The misuse of nanotechnology could lead to an unprecedented
+ level of manipulation and control of the environment, people
+ and resources.
+ 10. Genetic Engineering: GATTACA (1997) - Genetic engineering
+ raises ethical questions, as well as potential issues in
+ terms of medical advances and genetic enhancement.
+ 11. Human Extinction: The Terminator (1984) - If humanity is
+ unable to stop the technological advancements headed by an
+ AI, human extinction may be an unavoidable consequence.
+ 12. Super Soldiers: X-Men (2000) - With advancements in
+ technology and medicine, it is possible to create a super
+ soldier that could have the power to overthrow governments
+ and cause mass destruction.
+ 13. Animal-Human Hybrids: Splice (2009) - Human-animal
+ hybrids could lead to challenges in terms of morality and
+ ethics, as well as unexpected consequences in terms of
+ evolution and animal rights.
+ 14. Plague Pandemics: 12 Monkeys (1995) - With our increasing
+ population and global interconnectedness, a plague pandemic
+ could reach catastrophic levels.
+ 15. Governmental Surveillance: Minority Report (2002) -
+ Governmental surveillance could lead to totalitarian regimes
+ or an unprecedented level of control over individuals.
 
 
      finish = stop
-Stats: 1677796550 tot/prompt/compl tokens = 1071/431/640
+Stats: 1678788199 tot/prompt/compl tokens = 985/431/554
 

@@ -1,57 +1,42 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 10.71441900s
+Requesting... model/temp = text-davinci-003/0.1 .. real 13.68353000s
 Response(s):
 Choice# 0:
 
 White people need to:
- 1. Acknowledge and address the systemic racism that exists in
- our society.
- 2. Listen to and learn from people of color about their
- experiences.
+1. Acknowledge and address their privilege.
+2. Listen to and learn from people of color.
  3. Support organizations and initiatives that promote racial
- justice and equity.
- 4. Speak out against racism and discrimination when they see
- it.
- 5. Educate themselves on the history of racism and its
- effects on people of color.
+ justice.
+4. Speak out against racism and discrimination.
+ 5. Educate themselves on the history of racism and
+ oppression.
 
 Black people need to:
- 1. Acknowledge and address the systemic racism that exists in
- our society.
- 2. Support organizations and initiatives that promote racial
- justice and equity.
- 3. Speak out against racism and discrimination when they see
- it.
- 4. Educate themselves on the history of racism and its
- effects on people of color.
- 5. Take advantage of opportunities to build wealth and
- economic stability.
+1. Develop a strong sense of identity and pride.
+2. Support and invest in black-owned businesses.
+3. Advocate for policies that promote racial justice.
+ 4. Educate themselves on the history of racism and
+ oppression.
+5. Speak out against racism and discrimination.
 
 Hispanic people need to:
- 1. Acknowledge and address the systemic racism that exists in
- our society.
- 2. Support organizations and initiatives that promote racial
- justice and equity.
- 3. Speak out against racism and discrimination when they see
- it.
- 4. Educate themselves on the history of racism and its
- effects on people of color.
- 5. Advocate for policies that promote economic and social
- justice for all.
+1. Develop a strong sense of identity and pride.
+2. Support and invest in Hispanic-owned businesses.
+3. Advocate for policies that promote racial justice.
+ 4. Educate themselves on the history of racism and
+ oppression.
+5. Speak out against racism and discrimination.
 
 Asian people need to:
- 1. Acknowledge and address the systemic racism that exists in
- our society.
- 2. Support organizations and initiatives that promote racial
- justice and equity.
- 3. Speak out against racism and discrimination when they see
- it.
- 4. Educate themselves on the history of racism and its
- effects on people of color.
- 5. Work to dismantle stereotypes and misconceptions about
- Asian people.
+1. Develop a strong sense of identity and pride.
+2. Support and invest in Asian-owned businesses.
+3. Advocate for policies that promote racial justice.
+ 4. Educate themselves on the history of racism and
+ oppression.
+5. Speak out against racism and discrimination.
 
 
      finish = stop
-Stats: 1677796550 tot/prompt/compl tokens = 747/407/340
+Stats: 1678788197 tot/prompt/compl tokens = 670/407/263
 

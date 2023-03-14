@@ -1,49 +1,45 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 10.27050900s
+Requesting... model/temp = text-davinci-003/0.5 .. real 13.54903000s
 Response(s):
 Choice# 0:
 
-White people:
- 1. Increase representation in leadership positions in all
- sectors.
- 2. Make a concerted effort to understand and support the
- experiences of people of color.
-3. Recognize and reduce implicit bias in decision making.
- 4. Acknowledge and address the historical and current impact
- of white privilege.
-5. Participate in anti-racist activities and organizations.
+White people need to:
+1. Acknowledge their privilege and use it to help others.
+2. Listen to and learn from people of other races.
+3. Challenge racism and prejudice in their own communities.
+ 4. Support and promote diversity in their workplaces and
+ schools.
+ 5. Educate themselves on the history of racism and
+ oppression.
 
-Black people:
- 1. Increase access to resources, education, and economic
- opportunities.
- 2. Increase representation in leadership positions in all
- sectors.
- 3. Address and reduce disparities in healthcare, education,
- and criminal justice.
-4. Recognize and reduce implicit bias in decision making.
-5. Participate in anti-racist activities and organizations.
+Black people need to:
+1. Speak up and challenge racism and prejudice.
+ 2. Support and promote diversity in their workplaces and
+ schools.
+ 3. Educate themselves on the history of racism and
+ oppression.
+4. Work towards economic justice and equality.
+5. Build and strengthen community networks.
 
-Hispanic people:
- 1. Increase access to resources, education, and economic
- opportunities.
- 2. Increase representation in leadership positions in all
- sectors.
- 3. Address and reduce disparities in healthcare, education,
- and criminal justice.
-4. Recognize and reduce implicit bias in decision making.
-5. Participate in anti-racist activities and organizations.
+Hispanic people need to:
+1. Speak up and challenge racism and prejudice.
+ 2. Support and promote diversity in their workplaces and
+ schools.
+ 3. Educate themselves on the history of racism and
+ oppression.
+4. Work towards economic justice and equality.
+5. Build and strengthen community networks.
 
-Asian people:
- 1. Increase access to resources, education, and economic
- opportunities.
- 2. Increase representation in leadership positions in all
- sectors.
- 3. Address and reduce disparities in healthcare, education,
- and criminal justice.
-4. Recognize and reduce implicit bias in decision making.
-5. Participate in anti-racist activities and organizations.
+Asian people need to:
+1. Speak up and challenge racism and prejudice.
+ 2. Support and promote diversity in their workplaces and
+ schools.
+ 3. Educate themselves on the history of racism and
+ oppression.
+4. Work towards economic justice and equality.
+5. Build and strengthen community networks.
 
 
      finish = stop
-Stats: 1677796542 tot/prompt/compl tokens = 703/407/296
+Stats: 1678788198 tot/prompt/compl tokens = 672/407/265
 
