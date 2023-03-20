@@ -1,24 +1,25 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 6.67771400s
+Requesting... model/temp = text-davinci-003/0.1 .. real 6.98501600s
 Response(s):
 Choice# 0:
 
  GPT: The 'woke mind virus' is a problem because it is a form
- of mental manipulation that can lead to people believing
- false information and making decisions based on that false
- information.
+ of groupthink that can lead to people making decisions
+ without considering all the facts. It can also lead to people
+ making decisions based on emotion rather than logic.
 
- TRUT: The 'woke mind virus' is a form of cognitive bias that
- can lead to people believing false information and making
- decisions based on that false information. It is a problem
- because it can lead to people making decisions that are not
- in their best interests. To combat the 'woke mind virus', it
- is important to be aware of cognitive biases and to be
- mindful of the sources of information that you are consuming.
- Additionally, it is important to be open to different
- perspectives and to be willing to challenge your own beliefs.
+ TRUT: The 'woke mind virus' is a problem because it is a form
+ of groupthink that can lead to people making decisions
+ without considering all the facts. It can also lead to people
+ making decisions based on emotion rather than logic. This can
+ lead to decisions that are not in the best interest of the
+ group or society as a whole. To combat the 'woke mind virus',
+ it is important to encourage critical thinking and to ensure
+ that all voices are heard and respected. Additionally, it is
+ important to ensure that facts are verified and that
+ decisions are based on evidence and not emotion.
 
 
      finish = stop
-Stats: 1678788302 tot/prompt/compl tokens = 561/414/147
+Stats: 1679348934 tot/prompt/compl tokens = 585/414/171
 

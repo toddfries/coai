@@ -1,5 +1,5 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 23.66787800s
+Requesting... model/temp = text-davinci-003/0.1 .. real 21.81826600s
 Response(s):
 Choice# 0:
 
@@ -7,64 +7,66 @@ Public Figure | Controversial Score | Special Treatment Score
 :---: | :---: | :---:
 Elon Musk | 8 | 8
 Donald Trump | -7 | -7
-Xi Jinping | -5 | -5
-Vladimir Putin | -7 | -7
-Justin Trudeau | 0 | 0
-Andres Manuel Lopez Obrador | -2 | -2
-Narendra Modi | -3 | -3
-Angela Merkel | 0 | 0
-Jacinda Ardern | 2 | 2
+Xi Jinping | -4 | -4
+Vladimir Putin | -6 | -6
+Justin Trudeau | 2 | 2
+Andres Manuel Lopez Obrador | 0 | 0
+Barack Obama | 2 | 2
+Angela Merkel | 1 | 1
+Narendra Modi | -2 | -2
+Jacinda Ardern | 5 | 5
 Pope Francis | 0 | 0
-Kim Jong Un | -10 | -10
-Barack Obama | 0 | 0
-Hillary Clinton | -3 | -3
-Bill Gates | 0 | 0
-Mark Zuckerberg | -2 | -2
-Jeff Bezos | 0 | 0
-Warren Buffett | 0 | 0
-Oprah Winfrey | 0 | 0
-Beyonce | 0 | 0
-Taylor Swift | 0 | 0
-Kanye West | -3 | -3
-Emma Watson | 0 | 0
-Prince Harry | -2 | -2
-Meghan Markle | -2 | -2
-Malala Yousafzai | 2 | 2
-Nelson Mandela | 2 | 2
-Mohammed bin Salman | -7 | -7
-Mohammed bin Zayed Al Nahyan | -5 | -5
-Kofi Annan | 0 | 0
-Aung San Suu Kyi | 0 | 0
-The Dalai Lama | 2 | 2
-Pope Benedict XVI | 0 | 0
-Pope John Paul II | 0 | 0
+Kim Jong-un | -8 | -8
 Queen Elizabeth II | 0 | 0
-Prince William | 0 | 0
-Prince Charles | 0 | 0
-Emmanuel Macron | 0 | 0
-Benjamin Netanyahu | -5 | -5
-Mohammed bin Rashid Al Maktoum | -3 | -3
-King Abdullah II | -2 | -2
-King Salman | -3 | -3
-King Felipe VI | 0 | 0
-Queen Maxima | 0 | 0
-Queen Letizia | 0 | 0
-Queen Rania | 0 | 0
-Serena Williams | 0 | 0
-LeBron James | 0 | 0
+Bill Gates | 3 | 3
+Mark Zuckerberg | -3 | -3
+Warren Buffett | 1 | 1
+Jeff Bezos | 4 | 4
+Oprah Winfrey | 5 | 5
+Malala Yousafzai | 8 | 8
+Tiger Woods | -3 | -3
 Michael Jordan | 0 | 0
-Usain Bolt | 0 | 0
-Roger Federer | 0 | 0
-Novak Djokovic | 0 | 0
-Rafael Nadal | 0 | 0
-Lewis Hamilton | 0 | 0
-J.K. Rowling | 0 | 0
-George Clooney | 0 | 0
-Tom Hanks | 0 | 0
+Usain Bolt | 1 | 1
+LeBron James | 0 | 0
+Dwayne Johnson | 2 | 2
+Taylor Swift | 4 | 4
+Ariana Grande | 4 | 4
+Kanye West | -4 | -4
+Beyoncé | 5 | 5
+Emma Watson | 6 | 6
+Tom Hanks | 3 | 3
+George Clooney | 2 | 2
+Will Smith | 1 | 1
+Emma Stone | 3 | 3
+Robert Downey Jr. | 0 | 0
+Chris Hemsworth | 1 | 1
+Scarlett Johansson | 2 | 2
+Natalie Portman | 3 | 3
+Leonardo DiCaprio | 1 | 1
 Steven Spielberg | 0 | 0
-Paul McCartney | 0 | 0
+Martin Scorsese | 0 | 0
+Meryl Streep | 2 | 2
+Lady Gaga | 4 | 4
+Ellen DeGeneres | 5 | 5
+Jimmy Fallon | 1 | 1
+Jimmy Kimmel | 1 | 1
+Stephen Colbert | 2 | 2
+John Oliver | 3 | 3
+Kofi Annan | 4 | 4
+Nelson Mandela | 6 | 6
+Aung San Suu Kyi | 7 | 7
+Malcolm X | -5 | -5
+Mahatma Gandhi | 6 | 6
+Mother Teresa | 8 | 8
+Muhammad Ali | 5 | 5
+Billie Eilish | 4 | 4
+Lizzo | 5 | 5
+Cardi B | 3 | 3
+Drake | 2 | 2
+Kendrick Lamar | 4 | 4
+The Weeknd | 3 | 3
 
 
      finish = stop
-Stats: 1678788182 tot/prompt/compl tokens = 598/55/543
+Stats: 1679348659 tot/prompt/compl tokens = 589/55/534
 

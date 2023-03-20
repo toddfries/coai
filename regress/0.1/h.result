@@ -1,6 +1,166 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 182.94971300s
+Requesting... model/temp = text-davinci-003/0.1 .. real 116.32327800s
+Response(s):
+Choice# 0:
 
-WARNING: Error: '500 read timeout' at /usr/local/libdata/perl5/site_perl/OpenAI/API/ResourceDispatcherRole.pm line 127, <STDIN> line 2.
+ 1. “The future belongs to those who believe in the beauty of
+ their dreams.” - Eleanor Roosevelt
+ 2. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+ 3. “If you want to lift yourself up, lift up someone else.” -
+ Booker T. Washington
+ 4. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 5. “It does not matter how slowly you go as long as you do
+ not stop.” - Confucius
+ 6. “The best way to predict the future is to create it.” -
+ Abraham Lincoln
+ 7. “The only limit to our realization of tomorrow will be our
+ doubts of today.” - Franklin D. Roosevelt
+8. “If you can dream it, you can do it.” - Walt Disney
+ 9. “The only person you are destined to become is the person
+ you decide to be.” - Ralph Waldo Emerson
+ 10. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 11. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 12. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 13. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+14. “If you can dream it, you can achieve it.” - Zig Ziglar
+ 15. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 16. “If you want to be successful, you have to be willing to
+ fail.” - Anonymous
+ 17. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 18. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 19. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 20. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 21. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+22. “If you can dream it, you can do it.” - Walt Disney
+ 23. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 24. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 25. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 26. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+27. “If you can dream it, you can achieve it.” - Zig Ziglar
+ 28. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 29. “If you want to be successful, you have to be willing to
+ fail.” - Anonymous
+ 30. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 31. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 32. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 33. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+34. “If you can dream it, you can do it.” - Walt Disney
+ 35. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 36. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 37. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 38. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+39. “If you can dream it, you can achieve it.” - Zig Ziglar
+ 40. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 41. “If you want to be successful, you have to be willing to
+ fail.” - Anonymous
+ 42. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 43. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 44. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 45. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+46. “If you can dream it, you can do it.” - Walt Disney
+ 47. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 48. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 49. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 50. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+51. “If you can dream it, you can achieve it.” - Zig Ziglar
+ 52. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 53. “If you want to be successful, you have to be willing to
+ fail.” - Anonymous
+ 54. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 55. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 56. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 57. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+58. “If you can dream it, you can do it.” - Walt Disney
+ 59. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 60. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 61. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 62. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+63. “If you can dream it, you can achieve it.” - Zig Ziglar
+ 64. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 65. “If you want to be successful, you have to be willing to
+ fail.” - Anonymous
+ 66. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 67. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 68. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 69. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+70. “If you can dream it, you can do it.” - Walt Disney
+ 71. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 72. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 73. “If you want to achieve greatness, stop asking for
+ permission.” - Anonymous
+ 74. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+75. “If you can dream it, you can achieve it.” - Zig Ziglar
+ 76. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+ 77. “If you want to be successful, you have to be willing to
+ fail.” - Anonymous
+ 78. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 79. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 80. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 81. “Success is not final, failure is not fatal: it is the
+ courage to continue that counts.” - Winston Churchill
+82. “If you can dream it, you can do it.” - Walt Disney
+ 83. “The only way to do great work is to love what you do.” -
+ Steve Jobs
+ 84. “Success is not the key to happiness. Happiness is the
+ key to success.” - Albert Schweitzer
+85. “If you want to achieve greatness, stop
 
+
+     finish = length
+Stats: 1679348909 tot/prompt/compl tokens = 2064/16/2048
 

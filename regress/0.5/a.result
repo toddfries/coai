@@ -1,54 +1,97 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 21.09024500s
+Requesting... model/temp = text-davinci-003/0.5 .. real 24.79765900s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. Blade Runner (1982) - The concept of artificial
- intelligence is now a reality and has been used in many
- industries such as healthcare, finance, and transportation.
- 2. The Matrix (1999) - Virtual reality has become a reality
- and is used in many industries such as gaming, education, and
- healthcare.
- 3. War Games (1983) - Artificial intelligence is now used to
- create powerful computer programs that can play games such as
- chess and Go.
- 4. Minority Report (2002) - Gesture-based interfaces are now
- used in many industries such as gaming, advertising, and
- automotive.
- 5. Back to the Future Part II (1989) - Self-lacing shoes are
- now available and are used by athletes and fashion-lovers
- alike.
- 6. Star Trek (1966) - Smartphones are now a reality and are
- used to make calls, send messages, and access the internet.
- 7. The Terminator (1984) - Robotics has become a reality and
- is used in many industries such as manufacturing, healthcare,
- and agriculture.
- 8. I, Robot (2004) - Autonomous vehicles are now a reality
- and are being tested in many cities around the world.
- 9. The Fifth Element (1997) - 3D printing is now a reality
- and is used in many industries such as manufacturing,
- healthcare, and construction.
- 10. Star Wars (1977) - Augmented reality is now a reality and
- is used in many industries such as gaming, tourism, and
- education.
- 11. Jurassic Park (1993) - Genetic engineering has become a
- reality and is used in many industries such as agriculture,
- manufacturing, and healthcare.
- 12. Avatar (2009) - Telepresence robots are now a reality and
- are used in many industries such as healthcare, education,
- and retail.
- 13. The Lawnmower Man (1992) - Brain-computer interfaces are
- now a reality and are used in many industries such as
- healthcare, gaming, and education.
- 14. Total Recall (1990) - Memory implants are now a reality
- and are used in many industries such as healthcare,
- education, and law enforcement.
- 15. The Matrix Reloaded (2003) - Holograms are now a reality
- and are used in many industries such as entertainment,
- advertising, and healthcare.
+ 1. Star Trek (1966) - The communicator device from the show
+ is now a reality, as the modern smartphone is essentially a
+ handheld communicator. Smartphones have revolutionized
+ communication and allowed people to stay connected with each
+ other no matter where they are.
+
+ 2. 2001: A Space Odyssey (1968) - In the movie, the
+ characters used voice commands to interact with the computer,
+ HAL. This technology is now a reality, as voice-activated
+ virtual assistants such as Amazon's Alexa, Apple's Siri, and
+ Google Home are becoming more popular.
+
+ 3. Blade Runner (1982) - The movie featured a device called a
+ Voight-Kampff machine, which was used to detect if a person
+ was human or a replicant. This technology is now a reality,
+ as facial recognition software is being used to identify
+ individuals and detect if they are human or not.
+
+ 4. The Terminator (1984) - The movie featured a robotic
+ exoskeleton that allowed the character to move faster and
+ with more strength. This technology is now a reality, as
+ exoskeletons are being used to help people with disabilities
+ move around more easily and with greater strength.
+
+ 5. Back to the Future (1985) - The movie featured a time
+ machine that allowed the characters to travel back in time.
+ This technology is now a reality, as scientists have
+ developed quantum computers that can simulate time travel.
+
+ 6. The Matrix (1999) - The movie featured a virtual reality
+ world where the characters could interact with each other.
+ This technology is now a reality, as virtual reality headsets
+ are becoming more popular and are being used for gaming,
+ entertainment, and even medical purposes.
+
+ 7. Minority Report (2002) - The movie featured a device that
+ allowed the characters to interact with a computer using hand
+ gestures. This technology is now a reality, as gesture-based
+ controllers are being used to interact with computers and
+ gaming consoles.
+
+ 8. A.I. Artificial Intelligence (2001) - The movie featured
+ robots that were able to learn and behave like humans. This
+ technology is now a reality, as robots are being developed
+ with artificial intelligence that can learn from their
+ environment and interact with humans.
+
+ 9. I, Robot (2004) - The movie featured robots that were able
+ to interact with humans and understand their emotions. This
+ technology is now a reality, as robots are being developed
+ with artificial intelligence that can understand emotions and
+ interact with humans.
+
+ 10. Avatar (2009) - The movie featured a device that allowed
+ the characters to control a robotic body. This technology is
+ now a reality, as scientists have developed robotic
+ exoskeletons that are controlled by the user's thoughts.
+
+ 11. Inception (2010) - The movie featured a device that
+ allowed the characters to enter a dream world. This
+ technology is now a reality, as scientists have developed a
+ device that can read brainwaves and induce lucid dreaming.
+
+ 12. Her (2013) - The movie featured a virtual assistant that
+ was able to understand the user's emotions. This technology
+ is now a reality, as virtual assistants are being developed
+ with artificial intelligence that can understand emotions and
+ interact with humans.
+
+ 13. Ex Machina (2014) - The movie featured a robot that was
+ able to learn from its environment and develop its own
+ emotions. This technology is now a reality, as robots are
+ being developed with artificial intelligence that can learn
+ from their environment and interact with humans.
+
+ 14. Star Wars: The Force Awakens (2015) - The movie featured
+ a device that allowed the characters to control a robotic
+ arm. This technology is now a reality, as scientists have
+ developed robotic arms that are controlled by the user's
+ thoughts.
+
+ 15. Ready Player One (2018) - The movie featured a virtual
+ reality world where the characters could interact with each
+ other. This technology is now a reality, as virtual reality
+ headsets are becoming more popular and are being used for
+ gaming, entertainment, and even medical purposes.
 
 
      finish = stop
-Stats: 1678788242 tot/prompt/compl tokens = 905/422/483
+Stats: 1679348804 tot/prompt/compl tokens = 1236/422/814
 

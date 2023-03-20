@@ -1,27 +1,27 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 9.01459300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 6.30148100s
 Response(s):
 Choice# 0:
 
- GPT: The 'woke mind virus' is a problem because it leads
- people to take extreme positions on issues related to social
- justice, identity politics, or any other controversial topic.
- People can become so entrenched in their own viewpoints that
- it is hard for them to see any other perspective.
+ GPT: The 'woke mind virus' is a problem because it can lead
+ to people becoming overly sensitive and assuming the worst in
+ people and situations. It can lead to unnecessary drama and
+ hurt feelings.
 
- TRUT: The 'woke mind virus' is a phenomenon that takes many
- different forms, but generally refers to the tendency of some
- people to polarise their stance on societal issues rather
- than making an effort to consider opposing viewpoints. This
- behaviour can have damaging consequences in terms of
- deepening political divides and creating socio-cultural
- tension. To combat this, it is important to engage in active
- discourse and ensure that all sides are heard and that mutual
- respect is shown in discussions. Additionally, amplifying the
- voices of historically marginalised groups is vital in order
- to create a more equitable society.
+ TRUT: The 'woke mind virus' is a term used to describe an
+ infective idea that can spread rapidly through a population,
+ causing them to take ideas far beyond their logical
+ conclusion and become overly sensitive to opinions that may
+ differ from their own. This idea is often spread through
+ social media platforms, making it more easily accessible to a
+ greater number of people. It can lead to increased
+ polarization and ultimately, a divided population. To prevent
+ the spread of the 'woke mind virus', it is important that
+ people take the time to understand different perspectives,
+ engage in respectful dialogue, and consider the consequences
+ of their words and/or actions.
 
 
      finish = stop
-Stats: 1678788288 tot/prompt/compl tokens = 590/414/176
+Stats: 1679348922 tot/prompt/compl tokens = 586/414/172
 

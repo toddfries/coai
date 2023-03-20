@@ -1,6 +1,174 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 182.73892500s
+Requesting... model/temp = text-davinci-003/0.9 .. real 121.25035600s
+Response(s):
+Choice# 0:
 
-WARNING: Error: '500 read timeout' at /usr/local/libdata/perl5/site_perl/OpenAI/API/ResourceDispatcherRole.pm line 127, <STDIN> line 2.
+ 1. "The only way to do great work is to love what you do."
+ -Steve Jobs
+ 2. "It always seems impossible until it’s done." -Nelson
+ Mandela
+ 3. "Without hard work, nothing grows but weeds." -Gordon B.
+ Hinckley
+ 4. "Strive not to be a success, but rather to be of value."
+ -Albert Einstein
+ 5. "The future belongs to those who believe in the beauty of
+ their dreams." -Eleanor Roosevelt
+ 6. "Success is not final, failure is not fatal: it is the
+ courage to continue that counts." -Winston Churchill
+7. "If you can dream it, you can do it." -Walt Disney
+ 8. "Start where you are. Use what you have. Do what you can."
+ -Arthur Ashe
+ 9. "The only limit to our realization of tomorrow will be our
+ doubts of today." -Franklin D. Roosevelt
+ 10. "If you want to make your dreams come true, the first
+ thing you have to do is wake up." -J.M. Power
+ 11. "If you think you can, you’re right. If you think you
+ can’t, you’re right." -Henry Ford
+ 12. "The best way to predict the future is to create it."
+ -Peter Drucker
+ 13. "When you reach the end of your rope, tie a knot in it
+ and hang on." -Franklin D. Roosevelt
+14. "Never give up. Great things take time." -Anonymous
+ 15. "Things work out best for those who make the best of how
+ things work out." -John Wooden
+ 16. "The only way to do great work is to love what you do."
+ -Steve Jobs
+17. "If you want to be happy, be." -Leo Tolstoy
+ 18. "The greatest glory in living lies not in never falling,
+ but in rising every time we fall." -Nelson Mandela
+ 19. "Don’t watch the clock; do what it does. Keep going."
+ -Sam Levenson
+ 20. "Life is 10% what happens to you and 90% how you react to
+ it." -Charles R. Swindoll
+ 21. "Believe you can and you’re halfway there." -Theodore
+ Roosevelt
+ 22. "Success is not the key to happiness. Happiness is the
+ key to success. If you love what you are doing, you will be
+ successful." -Albert Schweitzer
+ 23. "There are no limits to what you can accomplish, except
+ the limits you place on your own thinking." -Brian Tracy
+ 24. "Our greatest fear should not be failure, but succeeding
+ at things that don’t really matter." -Francis Chan
+ 25. "It isn’t where you came from. It’s where you are going
+ that counts." -Ellen Glasgow
+ 26. "If you want to make a permanent change, stop focusing on
+ the size of your problems and start focusing on the size of
+ you!" -T. Harv Eker
+ 27. "The only way to do great work is to love what you do."
+ -Steve Jobs
+ 28. "Change your thoughts and you change your world." -Norman
+ Vincent Peale
+ 29. "Life is not about waiting for the storm to pass, it’s
+ about learning to dance in the rain." -Anonymous
+ 30. "Successful people do what unsuccessful people are not
+ willing to do. Don’t wish it were easier; wish you were
+ better." -Jim Rohn
+ 31. "Success is walking from failure to failure with no loss
+ of enthusiasm." -Winston Churchill
+ 32. "The will to win, the desire to succeed, the urge to
+ reach your full potential… these are the keys that will
+ unlock the door to personal excellence." -Confucius
+33. "There is no substitute for hard work." -Thomas Edison
+ 34. "The key is to keep company only with people who uplift
+ you, whose presence calls forth your best." -Epictetus
+ 35. "Your time is limited, so don’t waste it living someone
+ else’s life." -Steve Jobs
+ 36. "Life isn’t about getting and having, it’s about giving
+ and being." -Kevin Kruse
+ 37. "If you want to achieve excellence, you can get there
+ today. As of this second, quit doing less-than-excellent
+ work." -Thomas J. Watson
+ 38. "Choose a job you love, and you will never have to work a
+ day in your life." -Confucius
+ 39. "Opportunities don’t happen. You create them." -Chris
+ Grosser
+40. "Be so good they can’t ignore you." -Steve Martin
+ 41. "Success is doing what you want, where you want, when you
+ want, with whom you want as much as you want." -Tony Robbins
+ 42. "Life begins at the end of your comfort zone." -Neale
+ Donald Walsch
+ 43. "I wake up every morning and I think, 'I’m still alive; a
+ miracle.' And so I keep on pushing." -Jim Carrey
+ 44. "Be yourself; everyone else is already taken." -Oscar
+ Wilde
+45. "Fall seven times and stand up eight." -Japanese Proverb
+ 46. "The only way to do great work is to love what you do."
+ -Steve Jobs
+ 47. "Take up one idea. Make that one idea your life – think
+ of it, dream of it, live on that idea. Let the brain,
+ muscles, nerves, every part of your body, be full of that
+ idea, and just leave every other idea alone. This is the way
+ to success." -Swami Vivekananda
+ 48. "Life is not a problem to be solved, but a reality to be
+ experienced." -Soren Kierkegaard
+ 49. "Tough times never last, but tough people do." -Robert H.
+ Schuller
+50. "Success is a journey, not a destination." -Ben Sweetland
+51. "The key is to make it happen no matter what." -Les Brown
+ 52. "Success is going from failure to failure without losing
+ enthusiasm." -Winston Churchill
+ 53. "The will to win, the desire to succeed, the urge to
+ reach your full potential… these are the keys that will
+ unlock the door to personal excellence." -Confucius
+ 54. "Things work out best for those who make the best of how
+ things work out." -John Wooden
+55. "Success is not by chance, it is by choice." -Jim Rohn
+ 56. "Success is liking yourself, liking what you do, and
+ liking how you do it." -Maya Angelou
+ 57. "Success is getting what you want, happiness is wanting
+ what you get." -Dave Gardner
+ 58. "The only way to do great work is to love what you do."
+ -Steve Jobs
+ 59. "When one door of happiness closes, another opens; but
+ often we look so long at the closed door that we do not see
+ the one which has been opened for us." -Helen Keller
+ 60. "No one can make you feel inferior without your consent."
+ -Eleanor Roosevelt
+ 61. "Keep your eyes on the stars, and your feet on the
+ ground." -Theodore Roosevelt
+ 62. "The only thing that stands between you and your dream is
+ the will to try and the belief that it is actually possible."
+ -Joel Brown
+ 63. "Success is a state of mind. If you want success, start
+ thinking of yourself as a success." -Joyce Brothers
+ 64. "Success is no accident. It is hard work, perseverance,
+ learning, studying, sacrifice and most of all, love of what
+ you are doing or learning to do." -Pele
+ 65. "Success is not final, failure is not fatal: it is the
+ courage to continue that counts." -Winston Churchill
+66. "If you can dream it, you can do it." -Walt Disney
+ 67. "The only way to do great work is to love what you do." -
+ Steve Jobs
+ 68. "The mediocre teacher tells. The good teacher explains.
+ The superior teacher demonstrates. The great teacher
+ inspires." -William Arthur Ward
+ 69. "The only way to do great work is to love what you do."
+ -Steve Jobs
+ 70. "Be the change that you wish to see in the world."
+ -Mahatma Gandhi
+ 71. "You can never quit. Winners never quit, and quitters
+ never win." -Ted Turner
+72. "Failure is success in progress." -Albert Einstein
+ 73. "The only way to do great work is to love what you do."
+ -Steve Jobs
+ 74. "Optimism is the faith that leads to achievement. Nothing
+ can be done without hope and confidence." -Helen Keller
+ 75. "The only way to do great work is to love what you do." -
+ Steve Jobs
+ 76. "Success is the ability to go from one failure to another
+ with no loss of enthusiasm." -Winston Churchill
+ 77. "Successful people do what unsuccessful people are not
+ willing to do. Don’t wish it were easier; wish you were
+ better." -Jim Rohn
+ 78. "I have not failed. I’ve just found 10,000 ways that
+ won’t work." -Thomas Edison
+ 79. "Start where you are. Use what you have. Do what you
+ can." -Arthur Ashe
+ 80. "Try not to become a man of success, but rather try to
+ become a man of value." -Albert Einstein
+81. "The only way to do great
 
+
+     finish = length
+Stats: 1679350004 tot/prompt/compl tokens = 2064/16/2048
 

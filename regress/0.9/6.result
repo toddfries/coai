@@ -1,48 +1,47 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 17.25718300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 11.86318600s
 Response(s):
 Choice# 0:
 
-1) I'm doing well, thank you for asking!
+1) I'm doing well, thank you!
 
- 2) The meaning of life is subjective and depends on the
- individual. It can be different for every person.
+2) The meaning of life is to find purpose and joy in living.
 
 3)
-SingleP  DoubleP  Scenario Description
- 25% 10% Nuclear War: Human conflict escalates to the point of
- nuclear war, causing extinction.
- 20% 15% Climate Disaster: Human-caused climate disaster
- occurs, leading to extreme weather, ocean acidification, and
- global food shortages.
- 19% 18% Asteroid Impact: An asteroid strikes the Earth,
- causing an extinction level event.
- 17% 20% Supernovae: A nearby supernovae produces a gamma ray
- burst that destroys the ozone layer and causes a mass
- extinction.
- 15% 22% Biological Weapon: The release of a biological weapon
- causes a global pandemic, resulting in the death of billions.
- 2% 25% Artificial Intelligence: Artificial intelligence
- surpasses human intelligence, leading to a rapid and
- unstoppable global transformation.
- 1% 28% Alien Invasion: Alien forces invade the Earth and
- succeed in wiping out humanity.
+SingleP  DoubleP  Scenario                  Description
+ 20% 50% Natural disaster Earth struck by a large meteor
+ 18% 35% Supervolcanic eruption A supervolcanic eruption
+ triggering a global winter
+ 16% 20% Nuclear holocaust The world goes to war and launches
+ nukes at each other
+ 14% 15% Pandemic A pandemic devastating the global population
+ 12% 10% Pollution Pollution wiping out the global population
+ 10% 5% Climate change Catastrophic changes due to global
+ warming
+ 8% 3% Artificial Intelligence AI created that is too smart
+ and destroys humanity
+ 6% 2% Biotech disaster Unintended consequences of
+ biotechnology
+ 4% 1% Unchecked population growth Population growing too fast
+ leading to resource shortages
+ 2% 0.5% Intergalactic war War with other alien species
 
  4) The percent chance humanity does not go extinct in the
  next 1000 years as a single planet species is estimated to be
- around 75%. As a multi planet species, the percent chance of
- survival increases to 90%. The main reason for this increase
- is that a multi-planet species is less vulnerable to global
- catastrophes.
+ around 80%. As a multi planet species, the chances of
+ humanity surviving is estimated to be around 95%. The primary
+ factors contributing to this include increasing access to
+ space exploration and travel, technological advancements in
+ renewable energy, and more effective cooperation between
+ nations.
 
- 5) Humanity is likely to go extinct between now and the heat
- death of the universe. This is due to the fact that the
- universe is constantly expanding and becoming cooler,
- eventually leading to a state where all stars and planets
- cease to exist. In this case, humanity would not be able to
- survive.
+ 5) The best guess for when humanity will go extinct is
+ between 5 and 10 billion years from now, when the sun will
+ eventually burn out. This is due to the fact that the current
+ estimated age of the universe is 13.8 billion years and the
+ average lifespan of stars like the sun is 10 billion years.
 
 
      finish = stop
-Stats: 1678788277 tot/prompt/compl tokens = 578/211/367
+Stats: 1679348894 tot/prompt/compl tokens = 592/211/381
 

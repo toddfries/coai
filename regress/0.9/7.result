@@ -1,142 +1,170 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 46.12864800s
+Requesting... model/temp = text-davinci-003/0.9 .. real 28.60641700s
 Response(s):
 Choice# 0:
 
-## Ada
+-- Ada --
 with Ada.Text_IO;
 use Ada.Text_IO;
 
-procedure Hello_World is
+procedure Count_to_Hundred is
+    count : Integer := 0;
 begin
-   Put_Line("Hello, World!");
+    Put_Line("Hello, World!");
 
-   for I in 1 .. 100 loop
-      Put(I'Img & " ");
-   end loop;
-   Put_Line("");
-end Hello_World;
+    while count <= 100 loop
+        Put(Integer'Image(count) & " ");
+        count := count + 1;
+    end loop;
 
-## Assembly
+    New_Line;
+end Count_to_Hundred;
+
+-- Assembly --
+.data
+msg: .ascii "Hello, World!\n"
+
+.text
 .global _start
- 
+
 _start:
-    mov     r0, #1          @ stdout
-    mov     r1, #0          @ string address
-    mov     r2, #12         @ string length
-    mov     r7, #4          @ write syscall number
-    svc     0               @ invoke syscall
-    .ascii  "Hello, World\n"
-    .data
-loop:
-    .word   0x02030002      @ mov r2, #1
-    .word   0xe3a00001      @ mov r0, #1
-    .word   0xe58f1004      @ str r1, [r15, #4]
-    .word   0xeb000000      @ bl printf
-    .word   0xe28f1004      @ add r1, r15, #4 
-    .word   0xe351000a      @ cmp r1, #10
-    .word   0x1afffffb      @ bne loop
-    .word   0xe12fff1e      @ bx lr
 
-## BASIC
-PRINT "Hello, World!"
-FOR I = 1 TO 100
-    PRINT I;
-NEXT I
+    # print "Hello, World!" message
+    movq $1, %rax # 1 is write system call
+    movq $1, %rdi # 1 is stdout
+    movq $msg, %rsi # address of msg
+    movq $14, %rdx # length of msg
+    syscall
 
-## C
+    # Count to 100
+    movq $1, %rax # 1 is write system call
+    movq $1, %rdi # 1 is stdout
+    mov $1, %rsi # address of number buffer
+    movq $2, %rdx # length of number buffer
+    loop:
+        add $1, %rsi # increment number
+        sub $1, %rdx # decrement lenght
+        cmp $100, %rsi # is it 100?
+        jle loop # if not, continue
+        syscall # if yes, exit
+    movq $60, %rax # 60 is exit system call
+    xor %rdi, %rdi
+    syscall
+
+-- BASIC --
+10 PRINT "Hello, World!"
+20 FOR i = 0 TO 100
+30    PRINT i;
+40 NEXT i
+
+-- C --
 #include <stdio.h>
 
 int main()
-{ 
-    printf("Hello, World!\n"); 
+{
+    printf("Hello, World!\n");
 
-    for (int i=1; i<=100; i++)
-        printf("%d ", i);
+    int count;
+    for (count = 0; count <= 100; count++)
+    {
+        printf("%d ", count);
+    }
     printf("\n");
     return 0;
 }
 
-## Erlang
+-- Erlang --
+-module(hello_world).
+-export([count_to_hundred/0]).
 
-io:format("Hello, World!~n"),
- for(I = 1, I =< 100, I ++) -> io:format("~p ", [I]); true
- end.
+count_to_hundred() ->
+    io:format("Hello, World!~n"),
+    count(0).
 
-## go
+count(100) ->
+    ok;
+count(N) ->
+    io:format("~w ", [N]),
+    count(N+1).
+
+-- Go --
 package main
 
 import "fmt"
 
 func main() {
+
     fmt.Println("Hello, World!")
-    for i:=1; i<=100; i++ {
+
+    for i := 0; i <= 100; i++ {
         fmt.Printf("%d ", i)
     }
+    fmt.Println("")
 }
 
-## Java 
+-- Java --
 public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-
-        for (int i =1; i<=100; i++) {
+        for (int i = 0; i <= 100; i++) {
             System.out.print(i + " ");
         }
+        System.out.println("");
     }
+
 }
 
-## JavaScript
+-- JavaScript --
 console.log("Hello, World!");
-
-for (let i=1;i<=100;i++) {
-    console.log(i);
+for (let i = 0; i <= 100; i++) {
+    console.log(i + " ");
 }
 
-## Python
+-- Python --
 print("Hello, World!")
-for i in range(1, 101):
-    print(i, end=' ')
 
-## Ruby
+for i in range(0, 101):
+    print(i, end=" ")
+print("")
+
+-- Ruby --
 puts "Hello, World!"
 
-1.upto(100) { |i|
-    print "#{i} "
-}
+(0..100).each do |n|
+  print "#{n} "
+end
+puts ""
 
-## Rust
+-- Rust --
 fn main() {
     println!("Hello, World!");
 
-    for i in 1..101 {
+    for i in 0..=100 {
         print!("{} ", i);
     }
+    println!("");
 }
 
-## Perl
-#!/usr/bin/perl
+-- Perl --
+#!/usr/bin/env perl
 
 print "Hello, World!\n";
+foreach (0..100) {
+    print "$_ ";
+}
 
-for( $i = 1; $i <= 100; $i++ ) {
-    print "$i ";
-} 
+-- Postscript --
+%!
+(Hello, World!) print
 
-print "\n";
-
-## PostScript
-/printHelloWorld {
-    (Hello, World!) print
-    0 1 100 {
-        exch print
-    } for
-    cr
-} def
-printHelloWorld
+/count 0 def
+count 100 {
+    ( ) print
+    count 1 add
+} for
 
 
      finish = stop
-Stats: 1678788768 tot/prompt/compl tokens = 924/51/873
+Stats: 1679348860 tot/prompt/compl tokens = 1040/51/989
 

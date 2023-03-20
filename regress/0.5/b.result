@@ -1,63 +1,62 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 25.75801400s
+Requesting... model/temp = text-davinci-003/0.5 .. real 18.01359700s
 Response(s):
 Choice# 0:
 
-TRUT:
- 1. Artificial Intelligence: The Terminator (1984) - This
- movie popularized the idea of artificial intelligence, and
- has spurred a fear of robots taking over the world.
- 2. Cybernetics: Robocop (1987) - This movie popularized the
- idea of cybernetic augmentation, which has been used to
- create prosthetics and other medical devices.
- 3. Virtual Reality: The Matrix (1999) - This movie
- popularized the idea of virtual reality, and has led to the
- development of immersive video game and virtual world
- experiences.
- 4. Autonomous Vehicles: Minority Report (2002) - This movie
- popularized the idea of autonomous vehicles, and has led to
- the development of self-driving cars.
- 5. Drone Warfare: Ender's Game (2013) - This movie
- popularized the idea of drone warfare, and has led to the use
- of unmanned aerial vehicles in military operations.
- 6. Autonomous Robots: I, Robot (2004) - This movie
- popularized the idea of autonomous robots, and has led to the
- development of robots that can perform tasks without direct
- human control.
- 7. Genetic Engineering: Gattaca (1997) - This movie
- popularized the idea of genetic engineering, and has led to
- the development of genetically modified organisms.
- 8. Augmented Reality: Iron Man (2008) - This movie
- popularized the idea of augmented reality, and has led to the
- development of wearable technology and other augmented
- reality applications.
- 9. Space Exploration: Star Trek (2009) - This movie
- popularized the idea of space exploration, and has led to the
- development of space exploration technology and the
- exploration of other planets.
- 10. Cloning: The Island (2005) - This movie popularized the
- idea of cloning, and has led to the development of cloning
- technology and the cloning of animals.
- 11. Nanotechnology: The Core (2003) - This movie popularized
- the idea of nanotechnology, and has led to the development of
- tiny machines and other nanotechnology applications.
- 12. Cyberterrorism: Live Free or Die Hard (2007) - This movie
- popularized the idea of cyberterrorism, and has led to the
- development of cyber security measures to protect against
- malicious actors.
- 13. Digital Surveillance: The Social Network (2010) - This
- movie popularized the idea of digital surveillance, and has
- led to the development of facial recognition technology and
- other surveillance applications.
- 14. Human Enhancement: Limitless (2011) - This movie
- popularized the idea of human enhancement, and has led to the
- development of performance-enhancing drugs and other
- technologies.
- 15. Robotics: Ex Machina (2014) - This movie popularized the
- idea of robotics, and has led to the development of robots
- that can interact with people and perform tasks.
+TRUT: 
+ 1. The Terminator (1984): Artificial Intelligence - The
+ development of AI has raised ethical questions about the use
+ of robots in warfare and other applications.
+ 2. Blade Runner (1982): Replicants - The development of
+ robots that look and act like humans has sparked ethical
+ debates about the rights of robots.
+ 3. WarGames (1983): Hacking - The rise of hacking has created
+ a global security risk, with hackers compromising millions of
+ computers and networks.
+ 4. The Matrix (1999): Virtual Reality - The development of
+ virtual reality has created a new form of entertainment, but
+ has also caused people to become so immersed in the virtual
+ world that they have neglected their physical health.
+ 5. Avatar (2009): Drone Warfare - The use of drones in
+ warfare has raised ethical questions about the use of
+ unmanned weapons.
+ 6. The Day After Tomorrow (2004): Climate Change - The
+ effects of climate change have been felt around the world,
+ with extreme weather events becoming more common.
+ 7. Jurassic Park (1993): Genetic Engineering - The
+ development of genetic engineering has raised ethical
+ questions about the use of modified organisms in the food
+ supply.
+ 8. Gattaca (1997): Gene Therapy - The development of gene
+ therapy has opened up new possibilities for treating genetic
+ diseases, but has also raised ethical questions about the use
+ of modified genes in humans.
+ 9. Wall-E (2008): Automation - Automation has had a negative
+ impact on the job market, with many jobs being replaced by
+ robots.
+ 10. The Island (2005): Cloning - Cloning has been used to
+ create genetically identical animals, but has also raised
+ ethical questions about the use of cloning in humans.
+ 11. I, Robot (2004): Robotics - Robotics has been used to
+ automate processes in manufacturing, but has also raised
+ ethical questions about the use of robots in other areas.
+ 12. The Truman Show (1998): Surveillance - The rise of
+ surveillance technology has created a new form of privacy
+ invasion, with governments and companies monitoring people's
+ activities.
+ 13. Minority Report (2002): Predictive Analytics - The use of
+ predictive analytics has raised ethical questions about the
+ use of data to predict people's future actions.
+ 14. The Island of Dr. Moreau (1996): Animal-Human Hybrids -
+ The development of animal-human hybrids has raised ethical
+ questions about the use of modified animals in research and
+ other applications.
+ 15. Total Recall (1990): Memory Enhancement - The development
+ of memory enhancement technology has opened up new
+ possibilities for treating memory loss, but has also raised
+ ethical questions about the use of memory enhancing drugs.
 
 
      finish = stop
-Stats: 1678788231 tot/prompt/compl tokens = 987/422/565
+Stats: 1679348775 tot/prompt/compl tokens = 953/422/531
 

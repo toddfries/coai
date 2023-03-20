@@ -1,82 +1,73 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.5 .. real 29.66546400s
+Requesting... model/temp = text-davinci-003/0.5 .. real 14.80730000s
 Response(s):
 Choice# 0:
 
-Public Figure | Controversial Score | Special Treatment Score
---- | --- | ---
-Elon Musk | 10 | 10 
+ Public Figure | Controversial (score -10 to +10) | Special
+ Treatment (score -10 to +10)
+ --------------------------------------------------------------------------------------------------
+Elon Musk | 8 | 10
+Xi Jinping | 5 | 0
+Vladimir Putin | 7 | 0
+Justin Trudeau | 2 | 5
+Andres Manuel Lopez Obrador | 3 | 4
 Donald Trump | 8 | 0
-Xi Jinping | 8 | 0
-Vladimir Putin | 9 | 0
-Justin Trudeau | 5 | 0
-Andres Manuel Lopez Obrador | 6 | 0
-Barack Obama | 5 | 7
-Hillary Clinton | 8 | 7
-Nancy Pelosi | 6 | 7
-Joe Biden | 5 | 7
-Angela Merkel | 4 | 7
-Pope Francis | 4 | 8
-Warren Buffett | 4 | 8
-Bill Gates | 4 | 8
-Mark Zuckerberg | 8 | 8
-Oprah Winfrey | 5 | 8
-Malala Yousafzai | 3 | 9
-Kanye West | 8 | 0
-Taylor Swift | 5 | 9
-Beyonce | 4 | 9
-The Rock | 4 | 9
-Kim Kardashian | 7 | 0
-David Beckham | 4 | 9
-George Clooney | 3 | 9
-Lady Gaga | 4 | 9
-Michael Jordan | 4 | 9
-Usain Bolt | 3 | 9
-Steve Jobs | 5 | 8
-Aung San Suu Kyi | 4 | 9
-Emma Watson | 3 | 9
-Chris Hemsworth | 3 | 9
-Leonardo DiCaprio | 4 | 9
-Tom Hanks | 4 | 9
-Will Smith | 4 | 9
-Jackie Chan | 3 | 9
-Robert Downey Jr. | 4 | 9
-Nelson Mandela | 3 | 10
-Martin Luther King Jr. | 3 | 10
-Mother Teresa | 2 | 10
-Mahatma Gandhi | 2 | 10
-John F. Kennedy | 3 | 10
-Queen Elizabeth II | 1 | 10
-Dalai Lama | 2 | 10
-Paul McCartney | 3 | 9
-Elton John | 3 | 9
-Prince William | 3 | 9
-Prince Harry | 3 | 9
-Prince Charles | 2 | 9
-Billie Eilish | 3 | 9
-Ariana Grande | 4 | 9
-Emmanuel Macron | 4 | 0
-Vladimir Putin | 9 | 0
-Shinzo Abe | 3 | 0
-Jacinda Ardern | 2 | 9
-Justin Trudeau | 5 | 0
-Boris Johnson | 5 | 0
-Benjamin Netanyahu | 6 | 0
- Narendra Modi | 5 | 0
-Abdullah II of Jordan | 2 | 9
-King Salman of Saudi Arabia | 4 | 0
-Mohammed bin Zayed Al Nahyan | 5 | 0
-Sadiq Khan | 5 | 0
-Recep Tayyip Erdogan | 7 | 0
-Kofi Annan | 3 | 10
-Trevor Noah | 2 | 9
-Ellen DeGeneres | 3 | 9
-Jimmy Fallon | 2 | 9
-Jimmy Kimmel | 2 | 9
-Stephen Colbert | 3 | 9
-John Oliver | 3 | 9
+Narendra Modi | 4 | 0
+Angela Merkel | 2 | 4
+Jacinda Ardern | 0 | 8
+Kim Jong-un | 9 | 0
+Emmanuel Macron | 3 | 5
+Boris Johnson | 4 | 3
+Pope Francis | 0 | 10
+Warren Buffett | 0 | 9
+Bill Gates | 0 | 9
+Mark Zuckerberg | 5 | 4
+Barack Obama | 4 | 8
+Hillary Clinton | 6 | 7
+Oprah Winfrey | 0 | 8
+Jeff Bezos | 5 | 6
+Malala Yousafzai | 0 | 9
+George Clooney | 0 | 7
+Taylor Swift | 0 | 6
+Beyoncé | 0 | 8
+Kanye West | 6 | 4
+The Rock | 0 | 7
+Will Smith | 0 | 7
+Dwayne Johnson | 0 | 7
+Emma Watson | 0 | 6
+Ariana Grande | 0 | 6
+Selena Gomez | 0 | 6
+Cristiano Ronaldo | 0 | 7
+LeBron James | 0 | 7
+Usain Bolt | 0 | 7
+Neymar | 0 | 7
+David Beckham | 0 | 7
+Michael Jordan | 0 | 8
+Stephen Hawking | 0 | 10
+Elon Musk | 8 | 10
+J.K. Rowling | 0 | 7
+Yuri Gagarin | 0 | 9
+Neil Armstrong | 0 | 9
+Amelia Earhart | 0 | 8
+Marie Curie | 0 | 10
+Albert Einstein | 0 | 10
+Steve Jobs | 5 | 7
+Jack Ma | 3 | 5
+Larry Page | 3 | 5
+Sergey Brin | 3 | 5
+Richard Branson | 0 | 8
+Carlos Slim | 0 | 6
+Mukesh Ambani | 2 | 5
+Jack Dorsey | 2 | 5
+Tim Cook | 0 | 6
+Lin-Manuel Miranda | 0 | 7
+Linus Torvalds | 0 | 8
+John McAfee | 4 | 4
+Mark Cuban | 0 | 6
+George Soros | 6 | 3
+Warren Buffet | 0 | 9
 
 
      finish = stop
-Stats: 1678788185 tot/prompt/compl tokens = 646/55/591
+Stats: 1679348643 tot/prompt/compl tokens = 568/55/513
 

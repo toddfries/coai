@@ -1,79 +1,78 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 32.00987300s
+Requesting... model/temp = text-davinci-003/0.9 .. real 24.44678900s
 Response(s):
 Choice# 0:
 
-TRUT: 
- 1. AI: Artificial Intelligence (2001): AI has become more
- prominent in our lives and technology, with things like Siri
- and Alexa. However, experts fear that the unchecked
- development of AI could lead to a potential displacement of
- jobs and the potential for unintended consequences.
- 2. Cellular Network (The Matrix, 1999): Mobile phones are
- ubiquitous in today's society, allowing us to stay connected
- with people around the globe. However, increased exposure to
- radio frequency radiation has raised health concerns.
- 3. Invisibility (Hollow Man, 2000): Developments in
- metamaterials have enabled a form of invisibility cloaking,
- but there have been concerns of potential military
- applications.
- 4. Time Travel (Back To The Future, 1985): Recent
- developments in quantum mechanics have allowed for the
- theoretical possibility of time travel, although the
- practical implications of travelling through time remain a
- mystery.
- 5. Remote Piloting (Avatar, 2009): Advances in drone
- technology and robotics have enabled us to fly over, and
- sometimes control, devices from afar. This has been employed
- in both the military and commercial spheres, though there has
- been some controversy over privacy concerns.
- 6. Cryogenic Freezing (The 6th Day, 2000): Research has been
- conducted on how to suspend human embryos and potentially
- reanimate them in the future, although this is still a
- relatively unexplored concept.
- 7. Human-Robot Interaction (I Robot, 2004): Robotics is
- becoming a major field of research in many domains, enabling
- complex communication between humans and robots.
- 8. Virtual Reality (The Lawnmower Man, 1992): Virtual reality
- has advanced significantly in recent years, enabling us to
- explore and engage with simulations of different
- environments. However, there have been some concerns
- regarding the potential for physical and mental health issues
- due to prolonged immersion in virtual reality.
- 9. Video Conferencing (2001: A Space Odyssey, 1968): Today,
- video conferencing platforms allow us to stay connected with
- people anywhere in the world. Although this technology has
- had a huge positive effect on enabling businesses to connect,
- it has also resulted in increased screen-time, leading to
- physical inactivity and even digital addiction.
- 10. Cyber Terrorism (The Net, 1995): Cyber security is
- becoming a major issue as hackers become more sophisticated
- and threaten to disrupt communications and systems in
- companies and countries.
- 11. Autonomous Weapons (Terminator, 1984): Autonomous weapons
- systems are being developed by countries around the world,
- which raises concerns over the potential for unchecked wars
- and even the possibility of a global arms race.
- 12. Space Colonization (Alien, 1979):Space exploration
- initiatives are now underway to colonize Mars and other
- planets in our Solar System. However, this could have serious
- ecological and economic consequences.
- 13. Voice-Cloning (Anon, 2018): Voice-cloning technology has
- advanced significantly in recent times, allowing us to create
- convincing audio simulations of people's voices. This could
- be employed for malicious purposes, such as identity fraud.
- 14. Weather Manipulation (The Day After Tomorrow, 2004):
- Scientists have developed technology to manipulate weather
- systems and reduce the impact of natural disasters. However,
- the environmental consequences of such manipulation are
- hardly understood.
- 15. Cyber-Surveillance (Minority Report, 2002): We now live
- in a society with almost continuous surveillance through CCTV
- cameras and data collection by tech companies. This has
- raised important debates over privacy rights, surveillance
- capitalism, and other ethical considerations.
+ TRUT: 1) The Matrix (1999): In the movie, humans were
+ unknowingly living in a digital world created by machines. In
+ 2019, we are living in a digital world where we are entranced
+ by our phones and computers and this can lead to an increase
+ in anxiety.
+ 2) Total Recall (1990): In the movie, technology was used to
+ implant false memories in humans. Research into memory
+ manipulation has been conducted since Total Recall was
+ released and there are concerns about ethical implications.
+ 3) WarGames (1983): In the movie, a computer was able to
+ learn and play strategic war games. Since then, computers
+ have become significantly more intelligent and are now being
+ used for military applications, including autonomous weapon
+ systems.
+ 4) Star Trek (1966): In the movie, futuristic medical
+ technology was able to save lives. Since then, medical
+ technology, such as MRI scanners and artificial organs, have
+ made a huge impact on medical care, but can also lead to
+ over-diagnosis and over-treatment.
+ 5) Blade Runner (1982): In the movie, robots were used to
+ perform mundane tasks, much like robots today. However, the
+ widespread use of robots has come with a cost, as many people
+ are now displaced in the workforce due to automation.
+ 6) Back To The Future (1985): In this movie, a time machine
+ was used to travel back in time. Scientists have been working
+ on ways to achieve time travel since this movie was released,
+ with some believing it is possible in theory.
+ 7) Eternal Sunshine of the Spotless Mind (2004): In this
+ movie, technology was used to erase memories. Since then,
+ scientists have conducted a range of research into memory
+ manipulation, but there are many ethical implications to
+ consider.
+ 8) Minority Report (2002): In this movie, police used
+ technology to track crime before it occurred. Since then,
+ various forms of predictive policing have been developed, but
+ there have been concerns over accuracy, fairness, and
+ authorities abusing their powers.
+ 9) Wall-E (2008): In this movie, robots were used for waste
+ management. Since then, robots have been used for a range of
+ household tasks such as vacuuming and mowing lawns, but the
+ fear of robots replacing humans in the workforce is still a
+ real concern.
+ 10) The Terminator (1984): In the movie, robots were used for
+ military purposes. Since then, robotic weapons such as drones
+ have been developed and they have been used in numerous
+ military campaigns.
+ 11) Avatar (2009): In this movie, genetic engineering was
+ used to engineer a hybrid organism. Since then, gene editing
+ has become commonplace in research and there have been
+ ethical debates about the use of these technologies.
+ 12) A.I. Artificial Intelligence (2001): In this movie,
+ robots were indistinguishable from humans. Since then, robots
+ have become increasingly intelligent and there have been
+ ethical debates surrounding the definition of what it means
+ to be human.
+ 13) Gattaca (1997): In this movie, genetic engineering was
+ used to produce so-called 'designer' babies. Since then,
+ genetic testing has become increasingly common to detect
+ genetic disorders and diseases, but there are still ethical
+ considerations to be taken into account.
+ 14) The Island (2005): In this movie, clones were used as
+ organ donors. Since then, scientists have been researching
+ ways to create artificial organs, but ethical debates remain
+ surrounding the use of clones for organ donation.
+ 15) I, Robot (2004): In this movie, robots were used for
+ everyday tasks. Since then, robots have become increasingly
+ common, with many people worried about the effects of robots
+ replacing humans in the workforce.
 
 
      finish = stop
-Stats: 1678788216 tot/prompt/compl tokens = 1138/422/716
+Stats: 1679348760 tot/prompt/compl tokens = 1176/422/754
 

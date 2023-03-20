@@ -1,0 +1,11 @@
+Query? (type 'done.' to end)
+Requesting... model/temp = text-davinci-003/0.1 .. real 115.76288600s
+Response(s):
+Choice# 0:
+
+ Method
+
+
+     finish = length
+Stats: 1679348893 tot/prompt/compl tokens = 2086/38/2048
+

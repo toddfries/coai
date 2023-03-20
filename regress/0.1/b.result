@@ -1,90 +1,52 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.1 .. real 39.57643000s
+Requesting... model/temp = text-davinci-003/0.1 .. real 14.00944200s
 Response(s):
 Choice# 0:
 
 TRUT: 
- 1. The Terminator (1984): Artificial Intelligence (AI) has
- become a reality and is being used in many aspects of our
- lives, from self-driving cars to facial recognition software.
- The negative impact of AI is that it can be used to automate
- jobs, leading to job losses and economic instability.
- 2. Blade Runner (1982): Genetic engineering has become a
- reality, with scientists now able to modify the genetic code
- of living organisms. The negative impact of this technology
- is that it can be used to create “designer babies”, leading
- to a potential widening of the gap between the rich and the
- poor.
- 3. WarGames (1983): Hacking has become a reality, with
- hackers now able to access and manipulate computer systems.
- The negative impact of hacking is that it can be used to
- steal sensitive information, leading to identity theft and
- financial losses.
- 4. The Matrix (1999): Virtual reality has become a reality,
- with headsets now able to simulate a 3D environment. The
- negative impact of virtual reality is that it can be used to
- create immersive experiences that can be addictive, leading
- to a disconnect from reality.
- 5. Jurassic Park (1993): Cloning has become a reality, with
- scientists now able to clone animals and even human embryos.
- The negative impact of cloning is that it can be used to
- create genetically modified organisms, leading to potential
- health risks.
- 6. The Fly (1986): Genetic modification has become a reality,
- with scientists now able to modify the genetic code of living
- organisms. The negative impact of this technology is that it
- can be used to create “designer babies”, leading to a
- potential widening of the gap between the rich and the poor.
- 7. The Day the Earth Stood Still (1951): Nuclear weapons have
- become a reality, with countries now possessing the
- capability to launch nuclear weapons. The negative impact of
- nuclear weapons is that they can be used to cause mass
- destruction, leading to the loss of life and property.
- 8. The Terminator (1984): Robotics has become a reality, with
- robots now able to perform tasks that were once done by
- humans. The negative impact of robotics is that it can be
- used to automate jobs, leading to job losses and economic
+ 1. The Terminator (1984): Artificial Intelligence - The
+ development of AI has led to a fear of machines taking over
+ the world.
+ 2. Blade Runner (1982): Replicants - The development of
+ robots and androids has raised ethical questions about the
+ treatment of these machines.
+ 3. WarGames (1983): Hacking - The rise of hacking has led to
+ increased security risks for individuals and businesses.
+ 4. The Matrix (1999): Virtual Reality - The development of
+ virtual reality has led to a disconnect between people and
+ the real world.
+ 5. The Fly (1986): Genetic Engineering - The development of
+ genetic engineering has raised ethical questions about the
+ manipulation of genes.
+ 6. Jurassic Park (1993): Cloning - The development of cloning
+ has raised ethical questions about the manipulation of life.
+ 7. The Day the Earth Stood Still (1951): Nuclear Weapons -
+ The development of nuclear weapons has led to a fear of
+ global destruction.
+ 8. The Andromeda Strain (1971): Biological Warfare - The
+ development of biological weapons has led to a fear of global
+ pandemics.
+ 9. Metropolis (1927): Automation - The development of
+ automation has led to a fear of job loss and economic
  instability.
- 9. The Matrix (1999): Augmented reality has become a reality,
- with headsets now able to overlay digital images onto the
- real world. The negative impact of augmented reality is that
- it can be used to create immersive experiences that can be
- addictive, leading to a disconnect from reality.
- 10. The Terminator (1984): Cyber warfare has become a
- reality, with countries now able to launch cyber attacks
- against each other. The negative impact of cyber warfare is
- that it can be used to steal sensitive information, leading
- to identity theft and financial losses.
- 11. The Matrix (1999): Artificial intelligence (AI) has
- become a reality and is being used in many aspects of our
- lives, from self-driving cars to facial recognition software.
- The negative impact of AI is that it can be used to automate
- jobs, leading to job losses and economic instability.
- 12. WarGames (1983): Autonomous weapons have become a
- reality, with countries now able to deploy weapons that can
- make decisions without human intervention. The negative
- impact of autonomous weapons is that they can be used to
- cause mass destruction, leading to the loss of life and
- property.
- 13. The Terminator (1984): Cybernetics has become a reality,
- with scientists now able to implant electronic devices into
- the human body. The negative impact of cybernetics is that it
- can be used to create “enhanced” humans, leading to a
- potential widening of the gap between the enhanced and the
- unenhanced.
- 14. The Matrix (1999): Brain-computer interfaces have become
- a reality, with scientists now able to connect the human
- brain to a computer. The negative impact of brain-computer
- interfaces is that they can be used to create “enhanced”
- humans, leading to a potential widening of the gap between
- the enhanced and the unenhanced.
- 15. WarGames (1983): Autonomous drones have become a reality,
- with countries now able to deploy drones that can make
- decisions without human intervention. The negative impact of
- autonomous drones is that they can be used to cause mass
- destruction, leading to the loss of life and property.
+ 10. The Terminator (1984): Drone Technology - The development
+ of drone technology has led to a fear of privacy invasion.
+ 11. The Matrix (1999): Cybernetics - The development of
+ cybernetics has raised ethical questions about the
+ manipulation of the human body.
+ 12. The War of the Worlds (1953): Space Exploration - The
+ development of space exploration has led to a fear of alien
+ invasion.
+ 13. The Day After (1983): Nuclear War - The development of
+ nuclear weapons has led to a fear of global destruction.
+ 14. The Terminator (1984): Robotics - The development of
+ robotics has raised ethical questions about the manipulation
+ of machines.
+ 15. The Matrix (1999): Artificial Intelligence - The
+ development of AI has led to a fear of machines taking over
+ the world.
 
 
      finish = stop
-Stats: 1678788238 tot/prompt/compl tokens = 1319/422/897
+Stats: 1679348789 tot/prompt/compl tokens = 839/422/417
 

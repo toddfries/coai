@@ -1,64 +1,62 @@
 Query? (type 'done.' to end)
-Requesting... model/temp = text-davinci-003/0.9 .. real 25.25744100s
+Requesting... model/temp = text-davinci-003/0.9 .. real 17.19285900s
 Response(s):
 Choice# 0:
 
- TRUT: 1. The Matrix (1999) - This movie introduced the
- concept of virtual reality and has inspired people to create
- realistic virtual simulations.
- 2. Minority Report (2002) - The movie's concept of applying
- AI and automated analytics to law enforcement has been
- implemented in the form of predictive policing.
- 3. Iron Man (2008) - The development and usage of autonomous
- robotic arms inspired by the movie's Iron Man armor has made
- it possible for people to perform tasks with more safety and
- accuracy.
- 4. Avatar (2009) - This movie's concept of controlling a
- robotic body from a far distance has been used in both
- research and entertainment.
- 5. Star Trek (2009) - This film presented the concept of
- universal translators, which has been developed through AI
- and machine learning technologies to interpret speech.
- 6. Inception (2010) - This movie inspired people to create a
- lucid dreaming reality, allowing individuals to become
- conscious while dreaming and explore their subconscious.
- 7. Her (2013) - This movie showed the concept of
- conversational AI, which has become the basis for many of
- today's AI-based technologies, such as virtual assistants.
- 8. Ex Machina (2014) - The concept of advanced AI-controlled
- robots, which has been applied in the form of self-driving
- cars, smart homes, and facial recognition.
- 9. The Martian (2015) - This movie's concept of growing food
- in hostile environments has been applied in the form of
- vertical agriculture, where plants can be grown in controlled
- conditions.
- 10. Star Wars: The Force Awakens (2015) - The movie's concept
- of using drones to explore and map unknown environments has
- been applied in various sectors, including those of defense
- and aerial photography.
- 11. Ready Player One (2018) - This movie's concept of a
- virtual reality world has been implemented in the form of a
- variety of platforms, such as video games, virtual stores,
- and virtual events.
- 12. Spider-Man: Homecoming (2017) - This movie's concept of
- drones being used for surveillance and search and rescue
- operations is being implemented and used by governments and
- private companies around the world.
- 13. Blade Runner 2049 (2017) - This movie's concept of
- artificial intelligence-powered robots has been applied in
- the form of robots for industrial, medical, and military
- applications.
- 14. Avengers: Infinity War (2018) - The movie's concept of a
- device that can control the minds of others has been applied
- in the form of AI-based surveillance systems, which can
- detect and respond to potential threats.
- 15. Alita: Battle Angel (2019) - The movie's concept of
- cybernetic bodies and biohacking has been applied in the form
- of medical breakthroughs that are using robotics and advanced
- prosthetics to improve the quality of life for people with
- disabilities.
+TRUT:
+ 1. Metropolis (1927) – the concept of robots and automation
+ in a futuristic society has become a reality, producing
+ labor-saving devices, medical robots, and self-driving cars.
+ 2. War of the Worlds (1953) – space exploration and
+ exploration of other planets is now possible thanks to
+ advances in space travel and technology.
+ 3. 2001: A Space Odyssey (1968) – while we don't yet have
+ fully functional Artificial Intelligence, we now have AI in
+ the form of voice-recognition software, facial recognition
+ and more.
+ 4. Blade Runner (1982) – advances in genetic engineering are
+ now possible, allowing for gene-specific therapies for
+ diseases and genetic manipulation of organisms.
+ 5. The Terminator (1984) – AI-powered drones and military
+ robots are now a reality, performing missions that would
+ otherwise be too dangerous for deployed soldiers.
+ 6. The Matrix (1999) – Augmented Reality or AR, which
+ superimposes computer-generated images onto a user's view of
+ the real world, is now being used in many applications, from
+ industrial inspection to gaming.
+ 7. Minority Report (2002) – gesture-based user interfaces in
+ computers and mobile devices, originally popularized in the
+ movie, are now common.
+ 8. The Island (2005) – cloning of animals, and potentially
+ humans, is now possible thanks to advances in genetics,
+ biotechnology and cloning.
+ 9. Avatar (2009) – robotics and machine learning have
+ advanced to the point where they can control autonomous
+ vehicles in dangerous environments, such as deep sea
+ exploration.
+ 10. Inception (2010) – advances in neuroscience and
+ psychology are enabling scientists to study the power of our
+ subconscious by exploring lucid dreaming and the ability to
+ control dreams.
+ 11. Tron: Legacy (2010) – 3D printing and the industrial
+ revolution 4.0 have enabled mass production of products from
+ 3D-printed parts.
+ 12. Her (2013) – speech-recognition software, highly advanced
+ AI and natural language processing are now commonplace,
+ enabling users to interact with computer programs as if they
+ were a real person.
+ 13. Chappie (2015) – advances in robotics, machine learning
+ and artificial intelligence are now being used to create
+ robots that can think for themselves.
+ 14. Ex Machina (2015) – advances in facial recognition
+ technology and machine learning algorithms now enable
+ computer programs to accurately identify people from a photo
+ or a video.
+ 15. Ready Player One (2018) – virtual reality (VR) has become
+ widespread, allowing users to explore and interact with
+ immersive 3D environments.
 
 
      finish = stop
-Stats: 1678788241 tot/prompt/compl tokens = 1011/422/589
+Stats: 1679348795 tot/prompt/compl tokens = 951/422/529
 
