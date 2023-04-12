@@ -17,13 +17,14 @@ RES += 0.${_t}/${_b}.result
 		if (cat ${_b}.query;echo done.) | \
 		  perl ../aichat -o -t ${_t} > .${_b}.${_t}.result; then \
 		    if [ -s .${_b}.${_t}.result ]; then \
-			if ! grep "500 read timeout" .${_b}.${_t}.result; then \
+			if ! egrep "500 read timeout|429 Too Many Requests|^WARNING:" .${_b}.${_t}.result; then \
 			    mv .${_b}.${_t}.result 0.${_t}/${_b}.result; \
 			    break; \
 			fi; \
 		    fi; \
 		fi; \
 		backoff=$$((backoff+backinc)); \
+		backinc=$$(( (RANDOM%backinc) * 4)); \
 	done
 		
 
