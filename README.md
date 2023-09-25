@@ -1,5 +1,9 @@
 # coai - Chat with OpenAI::API
 
+WARNING: Your `free` API key is endowed with \$18 USD of usage, after which
+it is no longer usable.  Be wary of the try before you buy nature of this
+free key.
+
 To create your api key:
  - go to the [build-your-application](https://platform.openai.com/docs/quickstart/build-your-application) page
  - log in
@@ -13,13 +17,13 @@ mkdir -p $HOME/.config/coai
 echo "key = super_secret_key" > $HOME/.config/coai/key.conf
 ```
 
-`chat [ -c <config with key> ] [ -m <model> ] [ -p <prolog file> ]`
+`aichat [ -c <config with key> ] [ -m <model> ] [ -p <prolog file> ]`
 
 When using, note 'Query? ...' is the prompt, 'done.' is how you end to permit multiple lines
 of input.  More examples [here](https://github.com/toddfries/coai/blob/master/EXAMPLES.md).
 
 ```
-$ perl ./chat
+$ perl ./aichat
 Query? (type 'done.' to end)
 Show me 'hello, world' in C, ruby, python, m4, ada.
 done.
